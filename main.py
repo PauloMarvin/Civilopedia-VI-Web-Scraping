@@ -1,16 +1,23 @@
-# This is a sample Python script.
+from core.crawler import WebCrawler
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+def main():
+    start_url = "https://www.civilopedia.net"
+    print(f"Starting the crawl from: {start_url}\n")
 
+    all_discovered_links = WebCrawler.crawl_links_using_bfs(start_url)
+    print(f"\nTotal links discovered: {len(all_discovered_links)}")
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    print(f"\nStarting to download HTML content for {len(all_discovered_links)} links...")
+    html_contents, failed_links = WebCrawler.fetch_and_store_html(all_discovered_links)
 
+    WebCrawler.save_dict_to_json_file(
+        data=html_contents, file_path="data/civilopedia_all_links_html.json"
+    )
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+    if failed_links:
+        print(f"\nFailed to fetch {len(failed_links)} links. Check the logs for more details.")
+    else:
+        print("\nAll links were successfully fetched.")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    main()
