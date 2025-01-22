@@ -4,6 +4,7 @@ from collections import deque
 from typing import Set, Tuple, Dict, Optional
 import json
 
+
 class WebCrawler:
     @staticmethod
     def fetch_content_with_retries(url: str, max_retries: int = 3) -> str:
@@ -16,7 +17,9 @@ class WebCrawler:
             except requests.RequestException as error:
                 print(f"Attempt {attempt} failed for {url}: {error}")
                 if attempt == max_retries:
-                    raise RuntimeError(f"Failed to fetch {url} after {max_retries} attempts.")
+                    raise RuntimeError(
+                        f"Failed to fetch {url} after {max_retries} attempts."
+                    )
             except Exception as error:
                 print(f"Unexpected error while fetching {url}: {error}")
                 break
@@ -24,20 +27,22 @@ class WebCrawler:
     @staticmethod
     def extract_links_from_html(html: str, base_url: str) -> Set[str]:
         """Extract all links from the provided HTML content."""
-        soup = BeautifulSoup(html, 'html.parser')
-        anchor_tags = soup.find_all('a', href=True)
+        soup = BeautifulSoup(html, "html.parser")
+        anchor_tags = soup.find_all("a", href=True)
 
         links = set()
         for tag in anchor_tags:
-            href = tag['href']
-            if href.startswith('/'):
-                links.add(base_url.rstrip('/') + href)
+            href = tag["href"]
+            if href.startswith("/"):
+                links.add(base_url.rstrip("/") + href)
             elif href.startswith(base_url):
                 links.add(href)
         return links
 
     @staticmethod
-    def crawl_links_using_bfs(start_url: str, max_depth: Optional[int] = None) -> Set[str]:
+    def crawl_links_using_bfs(
+        start_url: str, max_depth: Optional[int] = None
+    ) -> Set[str]:
         """Crawl links starting from the given URL using BFS with optional depth control."""
         visited_urls = set()
         discovered_links = set()
@@ -54,14 +59,18 @@ class WebCrawler:
 
             try:
                 page_content = WebCrawler.fetch_content_with_retries(current_url)
-                extracted_links = WebCrawler.extract_links_from_html(page_content, start_url)
+                extracted_links = WebCrawler.extract_links_from_html(
+                    page_content, start_url
+                )
 
                 for link in extracted_links:
                     if link not in discovered_links:
                         print(f"Discovered new link at depth {current_depth}: {link}")
                         discovered_links.add(link)
                     if link not in visited_urls:
-                        urls_to_visit.append((link, current_depth + 1))  # Increment depth for child links
+                        urls_to_visit.append(
+                            (link, current_depth + 1)
+                        )  # Increment depth for child links
 
             except RuntimeError as error:
                 print(f"Error fetching {current_url}: {error}")
@@ -91,7 +100,7 @@ class WebCrawler:
     def save_dict_to_json_file(data: dict, file_path: str) -> None:
         """Save a dictionary to a JSON file."""
         try:
-            with open(file_path, 'w', encoding='utf-8') as file:
+            with open(file_path, "w", encoding="utf-8") as file:
                 json.dump(data, file, ensure_ascii=False, indent=4)
             print(f"Data successfully saved to JSON file: {file_path}")
         except (OSError, IOError) as error:
@@ -101,7 +110,7 @@ class WebCrawler:
     def load_dict_from_json_file(file_path: str) -> Optional[dict]:
         """Load a dictionary from a JSON file."""
         try:
-            with open(file_path, 'r', encoding='utf-8') as file:
+            with open(file_path, "r", encoding="utf-8") as file:
                 return json.load(file)
         except FileNotFoundError:
             print(f"File not found: {file_path}")
