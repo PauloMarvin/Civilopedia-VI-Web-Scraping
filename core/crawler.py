@@ -37,15 +37,19 @@ class WebCrawler:
         return links
 
     @staticmethod
-    def crawl_links_using_bfs(start_url: str) -> Set[str]:
-        """Crawl links starting from the given URL using BFS."""
+    def crawl_links_using_bfs(start_url: str, max_depth: Optional[int] = None) -> Set[str]:
+        """Crawl links starting from the given URL using BFS with optional depth control."""
         visited_urls = set()
         discovered_links = set()
-        urls_to_visit = deque([start_url])
+        urls_to_visit = deque([(start_url, 0)])
 
         while urls_to_visit:
-            current_url = urls_to_visit.popleft()
+            current_url, current_depth = urls_to_visit.popleft()
+
             if current_url in visited_urls:
+                continue
+
+            if max_depth is not None and current_depth > max_depth:
                 continue
 
             try:
@@ -54,10 +58,10 @@ class WebCrawler:
 
                 for link in extracted_links:
                     if link not in discovered_links:
-                        print(f"Discovered new link: {link}")
+                        print(f"Discovered new link at depth {current_depth}: {link}")
                         discovered_links.add(link)
                     if link not in visited_urls:
-                        urls_to_visit.append(link)
+                        urls_to_visit.append((link, current_depth + 1))  # Increment depth for child links
 
             except RuntimeError as error:
                 print(f"Error fetching {current_url}: {error}")
