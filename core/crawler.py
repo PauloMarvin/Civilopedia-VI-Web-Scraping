@@ -1,154 +1,225 @@
 import os
+import re
+import logging
+import json
 import requests
 from bs4 import BeautifulSoup
 from collections import deque
+from urllib.parse import urljoin, urlparse, urlunparse
+from concurrent.futures import ThreadPoolExecutor
 from typing import Set, Tuple, Dict, Optional
-import json
+from pydantic import BaseModel, Field, PositiveInt, constr
 
 
-class WebCrawler:
-    @staticmethod
-    def fetch_html(url: str, max_retries: int = 3) -> Optional[str]:
-        for attempt in range(1, max_retries + 1):
+class CrawlerConfiguration(BaseModel):
+    output_directory: str = Field(default="data")
+    request_timeout_seconds: PositiveInt = Field(default=10)
+    max_retry_attempts: PositiveInt = Field(default=3)
+    max_concurrent_workers: PositiveInt = Field(default=5)
+    http_user_agent: constr(strip_whitespace=True) = Field(default="WebCrawler/1.0")
+    max_filename_characters: PositiveInt = Field(default=150)
+
+    class Config:
+        validate_default = True
+        extra = "forbid"
+
+
+class WebsiteCrawler:
+    def __init__(self, configuration: CrawlerConfiguration):
+        self.settings = configuration
+        self.http_session = requests.Session()
+        self.http_session.headers.update({"User-Agent": self.settings.http_user_agent})
+        self.log_handler = logging.getLogger(self.__class__.__name__)
+        self.log_handler.addHandler(logging.StreamHandler())
+        self.log_handler.setLevel(logging.INFO)
+
+    def _validate_url_domain(self, target_url: str, allowed_domain: str) -> bool:
+        parsed_url = urlparse(target_url)
+        return (
+            parsed_url.netloc == allowed_domain
+            and parsed_url.scheme in ["http", "https"]
+            and not parsed_url.path.endswith((".pdf", ".jpg", ".png"))
+        )
+
+    def _standardize_url_format(self, raw_url: str) -> str:
+        parsed_url = urlparse(raw_url)
+        return urlunparse(parsed_url._replace(fragment="", query=""))
+
+    def _generate_safe_filename(self, original_url: str) -> str:
+        sanitized_string = re.sub(r"[^a-zA-Z0-9_-]", "_", original_url)
+        truncated_name = sanitized_string[: self.settings.max_filename_characters]
+        return (
+            f"{truncated_name}.html"
+            if len(truncated_name) < self.settings.max_filename_characters
+            else f"{truncated_name[: self.settings.max_filename_characters]}.html"
+        )
+
+    def retrieve_webpage_content(self, page_url: str) -> Optional[str]:
+        for retry_count in range(1, self.settings.max_retry_attempts + 1):
             try:
-                response = requests.get(url, timeout=10)
+                response = self.http_session.get(
+                    page_url, timeout=self.settings.request_timeout_seconds
+                )
                 response.raise_for_status()
                 return response.text
-            except requests.RequestException as error:
-                print(f"Attempt {attempt} failed for {url}: {error}")
-                if attempt == max_retries:
-                    print(f"Failed to fetch {url} after {max_retries} attempts.")
-            except Exception as error:
-                print(f"Unexpected error while fetching {url}: {error}")
+            except requests.HTTPError as http_error:
+                self.log_handler.error(
+                    f"Attempt {retry_count} failed for {page_url}: HTTP {http_error.response.status_code}"
+                )
+            except requests.RequestException as request_error:
+                self.log_handler.error(
+                    f"Attempt {retry_count} failed for {page_url}: {str(request_error)}"
+                )
+            except Exception as unexpected_error:
+                self.log_handler.error(
+                    f"Unexpected error fetching {page_url}: {str(unexpected_error)}"
+                )
                 break
         return None
 
-    @staticmethod
-    def sanitize_filename(url: str) -> str:
-        return (
-            url.replace("://", "_")
-            .replace("/", "_")
-            .replace("?", "_")
-            .replace("&", "_")
-        )
+    def _write_content_to_file(
+        self, file_content: str, subdirectory: str, output_filename: str
+    ) -> str:
+        full_output_path = os.path.join(self.settings.output_directory, subdirectory)
+        os.makedirs(full_output_path, exist_ok=True)
+        complete_file_path = os.path.join(full_output_path, output_filename)
 
-    @staticmethod
-    def save_html_to_file(url: str, html_content: str, output_dir: str) -> None:
+        with open(complete_file_path, "w", encoding="utf-8") as file_object:
+            file_object.write(file_content)
+        return complete_file_path
+
+    def save_formatted_html(self, source_url: str, html_data: str) -> str:
         try:
-            os.makedirs(output_dir, exist_ok=True)
-            file_name = WebCrawler.sanitize_filename(url) + ".html"
-            file_path = os.path.join(output_dir, file_name)
+            parsed_html = BeautifulSoup(html_data, "html.parser")
+            formatted_html = parsed_html.prettify()
+            output_filename = self._generate_safe_filename(source_url)
+            return self._write_content_to_file(
+                formatted_html, "html_pages", output_filename
+            )
+        except Exception as save_error:
+            self.log_handler.error(
+                f"Error saving HTML for {source_url}: {str(save_error)}"
+            )
+            raise
 
-            soup = BeautifulSoup(html_content, "html.parser")
-            formatted_html = soup.prettify()
+    def extract_and_save_text_content(self, source_url: str, html_data: str) -> str:
+        try:
+            parsed_html = BeautifulSoup(html_data, "html.parser")
+            text_content = parsed_html.get_text(separator="\n", strip=True)
+            output_filename = self._generate_safe_filename(source_url).replace(
+                ".html", ".txt"
+            )
+            return self._write_content_to_file(
+                text_content, "text_content", output_filename
+            )
+        except Exception as extraction_error:
+            self.log_handler.error(
+                f"Error extracting text from {source_url}: {str(extraction_error)}"
+            )
+            raise
 
-            with open(file_path, "w", encoding="utf-8") as file:
-                file.write(formatted_html)
-            print(f"Formatted HTML saved to {file_path}")
-        except (OSError, IOError) as error:
-            print(f"Error saving formatted HTML file for {url}: {error}")
+    def process_single_url(self, target_url: str) -> Tuple[str, Optional[str]]:
+        html_content = self.retrieve_webpage_content(target_url)
+        if not html_content:
+            return (target_url, None)
 
-    @staticmethod
-    def fetch_and_store_html_in_dict(urls: Set[str]) -> Tuple[Dict[str, str], Set[str]]:
-        url_to_html_map = {}
+        try:
+            self.save_formatted_html(target_url, html_content)
+            self.extract_and_save_text_content(target_url, html_content)
+            return (target_url, html_content)
+        except Exception:
+            return (target_url, None)
+
+    def fetch_and_persist_html_content(
+        self, url_collection: Set[str]
+    ) -> Tuple[Dict[str, str], Set[str]]:
+        successful_crawls = {}
         failed_urls = set()
 
-        for url in urls:
-            html_content = WebCrawler.fetch_html(url)
-            if html_content:
-                url_to_html_map[url] = html_content
-                print(f"HTML fetched and stored for: {url}")
-            else:
-                failed_urls.add(url)
+        with ThreadPoolExecutor(
+            max_workers=self.settings.max_concurrent_workers
+        ) as executor:
+            processing_tasks = [
+                executor.submit(self.process_single_url, url) for url in url_collection
+            ]
 
-        return url_to_html_map, failed_urls
+            for task in processing_tasks:
+                url, html_result = task.result()
+                if html_result:
+                    successful_crawls[url] = html_result
+                    self.log_handler.info(f"Successfully processed: {url}")
+                else:
+                    failed_urls.add(url)
 
-    @staticmethod
-    def extract_links_from_html(html: str, base_url: str) -> Set[str]:
-        soup = BeautifulSoup(html, "html.parser")
-        anchor_tags = soup.find_all("a", href=True)
+        return successful_crawls, failed_urls
 
-        links = set()
-        for tag in anchor_tags:
-            href = tag["href"]
-            if href.startswith("/"):
-                links.add(base_url.rstrip("/") + href)
-            elif href.startswith(base_url):
-                links.add(href)
-        return links
+    def discover_links_in_content(
+        self, html_content: str, base_page_url: str
+    ) -> Set[str]:
+        parsed_html = BeautifulSoup(html_content, "html.parser")
+        root_domain = urlparse(base_page_url).netloc
+        found_links = set()
 
-    @staticmethod
-    def crawl_links_using_bfs(
-        start_url: str, max_depth: Optional[int] = None
+        for link_element in parsed_html.find_all("a", href=True):
+            absolute_link = self._standardize_url_format(
+                urljoin(base_page_url, link_element["href"])
+            )
+            if self._validate_url_domain(absolute_link, root_domain):
+                found_links.add(absolute_link)
+
+        return found_links
+
+    def crawl_using_breadth_first_search(
+        self, starting_url: str, max_crawl_depth: Optional[int] = None
     ) -> Set[str]:
         visited_urls = set()
-        discovered_links = set()
-        urls_to_visit = deque([(start_url, 0)])
+        crawl_queue = deque([(self._standardize_url_format(starting_url), 0)])
+        discovered_urls = set()
 
-        while urls_to_visit:
-            current_url, current_depth = urls_to_visit.popleft()
+        while crawl_queue:
+            current_url, current_depth = crawl_queue.popleft()
 
-            if current_url in visited_urls:
+            if current_url in visited_urls or (
+                max_crawl_depth is not None and current_depth > max_crawl_depth
+            ):
                 continue
 
-            if max_depth is not None and current_depth > max_depth:
+            self.log_handler.info(
+                f"Crawling: {current_url} (Current depth: {current_depth})"
+            )
+            page_content = self.retrieve_webpage_content(current_url)
+
+            if not page_content:
                 continue
-
-            html_content = WebCrawler.fetch_html(current_url)
-            if html_content:
-                extracted_links = WebCrawler.extract_links_from_html(
-                    html_content, start_url
-                )
-
-                for link in extracted_links:
-                    if link not in discovered_links:
-                        print(f"Discovered new link at depth {current_depth}: {link}")
-                        discovered_links.add(link)
-                    if link not in visited_urls:
-                        urls_to_visit.append(
-                            (link, current_depth + 1)
-                        )
 
             visited_urls.add(current_url)
+            extracted_links = self.discover_links_in_content(page_content, current_url)
 
-        return discovered_links
+            for link in extracted_links:
+                if link not in discovered_urls:
+                    discovered_urls.add(link)
+                    self.log_handler.debug(f"New URL discovered: {link}")
 
-    @staticmethod
-    def save_dict_to_json_file(data: dict, file_path: str) -> None:
+                if link not in visited_urls and (
+                    max_crawl_depth is None or current_depth < max_crawl_depth
+                ):
+                    crawl_queue.append((link, current_depth + 1))
+
+        return discovered_urls
+
+    def save_url_content_map(
+        self, content_data: dict, output_filename: str = "crawled_content.json"
+    ) -> str:
+        output_directory = os.path.join(
+            self.settings.output_directory, "content_mappings"
+        )
+        os.makedirs(output_directory, exist_ok=True)
+        full_file_path = os.path.join(output_directory, output_filename)
+
         try:
-            with open(file_path, "w", encoding="utf-8") as file:
-                json.dump(data, file, ensure_ascii=False, indent=4)
-            print(f"Data successfully saved to JSON file: {file_path}")
-        except (OSError, IOError) as error:
-            print(f"Error saving JSON file {file_path}: {error}")
-
-    @staticmethod
-    def load_dict_from_json_file(file_path: str) -> Optional[dict]:
-        try:
-            with open(file_path, "r", encoding="utf-8") as file:
-                return json.load(file)
-        except FileNotFoundError:
-            print(f"File not found: {file_path}")
-        except json.JSONDecodeError as error:
-            print(f"Error decoding JSON file {file_path}: {error}")
-        except (OSError, IOError) as error:
-            print(f"Error reading JSON file {file_path}: {error}")
-        return None
-
-    @staticmethod
-    def save_texts_from_htmls(html_dict: Dict[str, str], output_dir: str) -> None:
-        try:
-            os.makedirs(output_dir, exist_ok=True)
-
-            for url, html_content in html_dict.items():
-                file_name = WebCrawler.sanitize_filename(url) + ".txt"
-                file_path = os.path.join(output_dir, file_name)
-
-                soup = BeautifulSoup(html_content, "html.parser")
-                text = soup.get_text(separator="\n", strip=True)
-
-                with open(file_path, "w", encoding="utf-8") as file:
-                    file.write(text)
-                print(f"Text extracted and saved to {file_path}")
-        except (OSError, IOError) as error:
-            print(f"Error saving text files: {error}")
+            with open(full_file_path, "w", encoding="utf-8") as output_file:
+                json.dump(content_data, output_file, ensure_ascii=False, indent=4)
+            return full_file_path
+        except Exception as save_error:
+            self.log_handler.error(f"Failed to save JSON data: {str(save_error)}")
+            raise
