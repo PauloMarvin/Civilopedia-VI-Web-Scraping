@@ -6,7 +6,6 @@ import requests
 from bs4 import BeautifulSoup
 from collections import deque
 from urllib.parse import urljoin, urlparse, urlunparse
-from concurrent.futures import ThreadPoolExecutor
 from typing import Set, Tuple, Dict, Optional, List
 from pydantic import BaseModel, Field, PositiveInt, constr
 
@@ -156,7 +155,6 @@ class WebsiteCrawler:
                 failed_urls.add(url)
 
         return successful_crawls, failed_urls
-
 
     def discover_links_in_content(
         self, html_content: str, base_page_url: str

@@ -31,7 +31,7 @@ def execute_crawler_process():
         max_concurrent_workers=8,
         http_user_agent="AcademicResearchBot/1.0 (+https://university.edu)",
         max_filename_characters=200,
-        classes_to_remove=["side-bar_container__QgPE0","App_pageGroupList___8Qnj"],
+        classes_to_remove=["side-bar_container__QgPE0", "App_pageGroupList___8Qnj"],
     )
 
     web_crawler = WebsiteCrawler(configuration=crawler_settings)
