@@ -1,0 +1,52 @@
+Education - Technologies - Civilopedia - Civilization VI
+Education
+Historical Context
+Humans learn things, and civilization results. Obviously education has been around as long as mankind has. Through most of history, it was an informal affair, parents teaching their children the skills they needed to know to survive and be productive (household chores and hunting expeditions and dodging barbarians and so forth). As a tribe expanded and grew more prosperous, village elders and priests might educate the children while the healthy adults gathered food, built stuff and made war. Eventually a wealthy society might have formal classes for the more important children.
+As the thinkers of a nation-state extended its knowledge beyond the merely practical, into realms where learning by imitation wasn’t possible, schools were established. By the time of the Middle Kingdom, the priesthood in Egypt had established schools to teach reading and writing, mathematics, history, the sciences, medicine, astrology and, of course, religion. In Greece, private academies arose to teach the privileged, such as that established by Plato in Athens, the first institution of “higher” education in Europe. Further east, China’s Confucius began a program of establishing schools to teach his philosophies, as well as some basic skills such as reading and mathematics and music.
+Mostly, the dominant religion took on the task of education. In the cultures of Mesoamerica, teaching was in the hands of the priests, the “educated” class who served as advisors and judges as well as educators; their self-serving coursework in divination and writing and astrology and arithmetic was aimed at creating yet more priests. With the fall of Rome, the Catholic Church became the sole purveyor of “approved learning” across Western Europe. Elsewhere, Islamic schools produced the finest scholars of the age, being somewhat more tolerant of differing views of the world.
+Soon enough other civilizations too realized the importance of education. The Renaissance saw an explosion of schools and universities, both private and state-sponsored in a new age of discovery and enlightenment. Then came the thought that everyone deserved an education, and now one can get a degree even in basket-weaving or psychology.
+The purpose of education is to replace an empty mind with an open one.”
+– Malcolm Forbes
+“It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+- Aristotle
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Mathematics
+Apprenticeship
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Earn a Great Scientist.
+Progression
+Leads to Technologies
+Mass Production
+Banking
+Astronomy
+Historical Context
+Humans learn things, and civilization results. Obviously education has been around as long as mankind has. Through most of history, it was an informal affair, parents teaching their children the skills they needed to know to survive and be productive (household chores and hunting expeditions and dodging barbarians and so forth). As a tribe expanded and grew more prosperous, village elders and priests might educate the children while the healthy adults gathered food, built stuff and made war. Eventually a wealthy society might have formal classes for the more important children.
+As the thinkers of a nation-state extended its knowledge beyond the merely practical, into realms where learning by imitation wasn’t possible, schools were established. By the time of the Middle Kingdom, the priesthood in Egypt had established schools to teach reading and writing, mathematics, history, the sciences, medicine, astrology and, of course, religion. In Greece, private academies arose to teach the privileged, such as that established by Plato in Athens, the first institution of “higher” education in Europe. Further east, China’s Confucius began a program of establishing schools to teach his philosophies, as well as some basic skills such as reading and mathematics and music.
+Mostly, the dominant religion took on the task of education. In the cultures of Mesoamerica, teaching was in the hands of the priests, the “educated” class who served as advisors and judges as well as educators; their self-serving coursework in divination and writing and astrology and arithmetic was aimed at creating yet more priests. With the fall of Rome, the Catholic Church became the sole purveyor of “approved learning” across Western Europe. Elsewhere, Islamic schools produced the finest scholars of the age, being somewhat more tolerant of differing views of the world.
+Soon enough other civilizations too realized the importance of education. The Renaissance saw an explosion of schools and universities, both private and state-sponsored in a new age of discovery and enlightenment. Then came the thought that everyone deserved an education, and now one can get a degree even in basket-weaving or psychology.
+The purpose of education is to replace an empty mind with an open one.”
+– Malcolm Forbes
+“It is the mark of an educated mind to be able to entertain a thought without accepting it.”
+- Aristotle
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Mathematics
+Apprenticeship
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Earn a Great Scientist.
+Progression
+Leads to Technologies
+Mass Production
+Banking
+Astronomy

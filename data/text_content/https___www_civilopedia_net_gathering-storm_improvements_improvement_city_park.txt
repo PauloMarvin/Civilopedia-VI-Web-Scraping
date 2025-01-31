@@ -1,0 +1,60 @@
+City Park - Improvements and Routes - Civilopedia - Civilization VI
+City Park
+Description
+A
+Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Yields 2 Appeal and 1
+Culture. +1
+Amenity if adjacent to water. +3
+Culture if in a city with a Surveyor Governor with the  Parks and Recreation promotion. Cannot be adjacent to another City Park.
+Historical Context
+Urban environments offer a number of advantages for human activity, but the urban environment also can prove to be stressful for residents over time. To this end, publicly-established and maintained spaces offer an opportunity to bring more natural elements into the city. Romantic sensibilities about nature and progressive attitudes towards public recreational spaces in the 19th and 20th Centuries informed both the creation of some of the most famous parks (such as Central Park in New York) and the opening of previously-restricted parks (like Regent's Park in London or the Casa de Campo in Madrid).
+The City Park will be viewed fondly by the citizens of the city, because it provides many things: An oasis of nature, a space for civic gathering and engagement, and sometimes as a venue for the performing arts. Here, beneath the trees, people can take a moment to be people, and not merely the role they play in their daily business.
+Traits
++1
+Culture
+Appeal to Adjacent Tiles: 2
+Requirements
+Civic
+Games and Recreation
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+A
+Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Yields 2 Appeal and 1
+Culture. +1
+Amenity if adjacent to water. +3
+Culture if in a city with a Surveyor Governor with the  Parks and Recreation promotion. Cannot be adjacent to another City Park.
+Historical Context
+Urban environments offer a number of advantages for human activity, but the urban environment also can prove to be stressful for residents over time. To this end, publicly-established and maintained spaces offer an opportunity to bring more natural elements into the city. Romantic sensibilities about nature and progressive attitudes towards public recreational spaces in the 19th and 20th Centuries informed both the creation of some of the most famous parks (such as Central Park in New York) and the opening of previously-restricted parks (like Regent's Park in London or the Casa de Campo in Madrid).
+The City Park will be viewed fondly by the citizens of the city, because it provides many things: An oasis of nature, a space for civic gathering and engagement, and sometimes as a venue for the performing arts. Here, beneath the trees, people can take a moment to be people, and not merely the role they play in their daily business.
+Traits
++1
+Culture
+Appeal to Adjacent Tiles: 2
+Requirements
+Civic
+Games and Recreation
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

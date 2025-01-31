@@ -1,0 +1,8 @@
+Lijia (Faith) - Wonders and Projects - Civilopedia - Civilization VI
+Lijia (Faith)
+Description
+Project which provides
+Faith every turn equal to 50% of this city's production.
+Description
+Project which provides
+Faith every turn equal to 50% of this city's production.

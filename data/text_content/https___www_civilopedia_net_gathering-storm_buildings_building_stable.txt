@@ -1,0 +1,68 @@
+Stable - Buildings - Civilopedia - Civilization VI
+Stable
+Description
++25% combat experience for all cavalry and siege class units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Barracks.
+Historical Context
+What the barracks were for cavalry soldiers, stables were for their mounts. Indeed, the horses and mules of the military were generally better off than those peasants that took care of them. In most places, the stables also encompassed the barracks of the cavalry unit, from the Imperial Roman turma to Britain’s Household Cavalry. In addition to the stalls, mangers, feed storage rooms, grooms’ quarters (unless they slept with the horses), the military stables also provided large enclosures for training and drill, and of course there were the veterinarian’s quarters. In time, in some places such as England, the term “stable” even came to refer to the headquarters of a cavalry regiment. Besides the military stables of the land, there were often royal stables and mews, where the monarch’s personal mounts and carriages were kept; these usually had some form of mounted royal guard stationed within. Today, most cavalry stables have been replaced with the less glamorous “motor pools.”
+Traits
+Replaced By
+Ordu
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Horseback Riding
+Mutually Exclusive With
+Barracks
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
++25% combat experience for all cavalry and siege class units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Barracks.
+Historical Context
+What the barracks were for cavalry soldiers, stables were for their mounts. Indeed, the horses and mules of the military were generally better off than those peasants that took care of them. In most places, the stables also encompassed the barracks of the cavalry unit, from the Imperial Roman turma to Britain’s Household Cavalry. In addition to the stalls, mangers, feed storage rooms, grooms’ quarters (unless they slept with the horses), the military stables also provided large enclosures for training and drill, and of course there were the veterinarian’s quarters. In time, in some places such as England, the term “stable” even came to refer to the headquarters of a cavalry regiment. Besides the military stables of the land, there were often royal stables and mews, where the monarch’s personal mounts and carriages were kept; these usually had some form of mounted royal guard stationed within. Today, most cavalry stables have been replaced with the less glamorous “motor pools.”
+Traits
+Replaced By
+Ordu
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Horseback Riding
+Mutually Exclusive With
+Barracks
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

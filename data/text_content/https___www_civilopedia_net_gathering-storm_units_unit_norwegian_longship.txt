@@ -1,0 +1,58 @@
+Viking Longship - Units - Civilopedia - Civilization VI
+Viking Longship
+Description
+Norwegian unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4
+Movement while in coastal waters.
+Historical Context
+'A furore Normannorum libera nos, Domine.' The famous prayer, usually uttered by hapless folk upon first sight of the sails of the Vikings’ longships, sums it up. From Ireland to the walls of Paris, the longships carried the fierce Norsemen to kill and plunder. But they also carried Norse explorers across the North Atlantic to Iceland, Greenland, and North America. And traders as far as Rome and Constantinople. Indeed, the longships were the apex of European naval design from the 9th through 13th centuries. Viking longships came in various types; by far the most infamous is the drekkar, a graceful, narrow, shallow-draft vessel, ornately decorated (dragons and snakes and the like), used primarily by those who went raiding. Not only were the drekkar able to sail deep waters, but their shallow draft meant these could navigate up rivers … useful in pillaging cities like Paris.
+Traits
+Unique To
+Harald Hardrada (Konge)
+Upgrades To
+Caravel
+Nau
+Promotion Class: Naval Melee
+3
+Movement Points
+35
+Melee Strength
+Requirements
+Technology
+Sailing
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Norwegian unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4
+Movement while in coastal waters.
+Historical Context
+'A furore Normannorum libera nos, Domine.' The famous prayer, usually uttered by hapless folk upon first sight of the sails of the Vikings’ longships, sums it up. From Ireland to the walls of Paris, the longships carried the fierce Norsemen to kill and plunder. But they also carried Norse explorers across the North Atlantic to Iceland, Greenland, and North America. And traders as far as Rome and Constantinople. Indeed, the longships were the apex of European naval design from the 9th through 13th centuries. Viking longships came in various types; by far the most infamous is the drekkar, a graceful, narrow, shallow-draft vessel, ornately decorated (dragons and snakes and the like), used primarily by those who went raiding. Not only were the drekkar able to sail deep waters, but their shallow draft meant these could navigate up rivers … useful in pillaging cities like Paris.
+Traits
+Unique To
+Harald Hardrada (Konge)
+Upgrades To
+Caravel
+Nau
+Promotion Class: Naval Melee
+3
+Movement Points
+35
+Melee Strength
+Requirements
+Technology
+Sailing
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

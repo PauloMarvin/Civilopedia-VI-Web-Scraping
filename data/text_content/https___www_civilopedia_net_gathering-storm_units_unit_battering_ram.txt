@@ -1,0 +1,50 @@
+Battering Ram - Units - Civilopedia - Civilization VI
+Battering Ram
+Description
+Ancient era support unit. When adjacent to a city, attacking melee and anti-cavalry units do full damage to the city’s Walls. Does not affect cities with Medieval or Renaissance Walls. Ineffective against Urban Defenses.
+Historical Context
+As the walls protecting towns got higher and thicker, so too did the gates. Eventually, it wasn’t enough to have a bunch of expendables hammering away at the gate carrying a thick pole. In its simplest form, a battering ram is a heavy log suspended from a framework that can be swung against walls and gates, eventually – theoretically – knocking them down. Over time, the ends were capped with metal, wheels were added for mobility, and coverings protected the users from boiling oil, rocks, arrows and other discomforts. So useful were battering rams that, if they couldn’t be constructed from materials nearby, ancient armies would drag them along on campaigns. Pliny the Elder even described their use in mining for breaking down hard rock (although a bunch of slaves with picks was a lot cheaper). Battering rams were used right through the Middle Ages, until the advent of gunpowder brought cannons into the art of war.
+Traits
+Upgrades To
+Siege Tower
+Made obsolete by
+Civil Engineering
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Masonry
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Ancient era support unit. When adjacent to a city, attacking melee and anti-cavalry units do full damage to the city’s Walls. Does not affect cities with Medieval or Renaissance Walls. Ineffective against Urban Defenses.
+Historical Context
+As the walls protecting towns got higher and thicker, so too did the gates. Eventually, it wasn’t enough to have a bunch of expendables hammering away at the gate carrying a thick pole. In its simplest form, a battering ram is a heavy log suspended from a framework that can be swung against walls and gates, eventually – theoretically – knocking them down. Over time, the ends were capped with metal, wheels were added for mobility, and coverings protected the users from boiling oil, rocks, arrows and other discomforts. So useful were battering rams that, if they couldn’t be constructed from materials nearby, ancient armies would drag them along on campaigns. Pliny the Elder even described their use in mining for breaking down hard rock (although a bunch of slaves with picks was a lot cheaper). Battering rams were used right through the Middle Ages, until the advent of gunpowder brought cannons into the art of war.
+Traits
+Upgrades To
+Siege Tower
+Made obsolete by
+Civil Engineering
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Masonry
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

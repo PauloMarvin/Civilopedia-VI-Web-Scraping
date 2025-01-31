@@ -1,0 +1,56 @@
+Colossus - Wonders and Projects - Civilopedia - Civilization VI
+Colossus
+Description
++1
+Trade Route capacity. Grants a Trader unit. Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+Built from the smelted-down brass and iron of abandoned arms and equipment of a failed invasion, the Colossus of Rhodes was a 98-foot depiction of the Titan Helios erected to celebrate the victory. Construction under the direction of Chares of Lindos began in 292 BC, and by 280 was completed, to the amazement of all. Although the details are a bit hazy – the ancient histories being what they are – the towering statue overlooked the Mandraki harbor entrance set upon a 49-foot high marble pedestal. But it only stood for 56 years before being toppled by an earthquake. Ptolemy III of Egypt offered to pay for its reconstruction, but the Rhodians refused because the Delphi Oracle informed them that the gods were offended by it. Though the gods may have been offended, for nearly 900 years the rusting ruins of the statue were a tourist “must-see.” In 653 AD the forces of the Muslim caliph Muawiyah I overran Rhodes, and the new owners promptly sold it for scrap to Jewish merchants, who used – it is said – 900 camels to haul the mass away. From scrap to scrap.
+“At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines.”
+– Philo of Byzantium
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Shipbuilding
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 400
+Production
+Description
++1
+Trade Route capacity. Grants a Trader unit. Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+Built from the smelted-down brass and iron of abandoned arms and equipment of a failed invasion, the Colossus of Rhodes was a 98-foot depiction of the Titan Helios erected to celebrate the victory. Construction under the direction of Chares of Lindos began in 292 BC, and by 280 was completed, to the amazement of all. Although the details are a bit hazy – the ancient histories being what they are – the towering statue overlooked the Mandraki harbor entrance set upon a 49-foot high marble pedestal. But it only stood for 56 years before being toppled by an earthquake. Ptolemy III of Egypt offered to pay for its reconstruction, but the Rhodians refused because the Delphi Oracle informed them that the gods were offended by it. Though the gods may have been offended, for nearly 900 years the rusting ruins of the statue were a tourist “must-see.” In 653 AD the forces of the Muslim caliph Muawiyah I overran Rhodes, and the new owners promptly sold it for scrap to Jewish merchants, who used – it is said – 900 camels to haul the mass away. From scrap to scrap.
+“At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines.”
+– Philo of Byzantium
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Shipbuilding
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 400
+Production

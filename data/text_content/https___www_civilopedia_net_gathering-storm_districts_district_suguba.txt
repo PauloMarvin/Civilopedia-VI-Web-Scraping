@@ -1,0 +1,112 @@
+Suguba - Districts - Civilopedia - Civilization VI
+Suguba
+Description
+A district unique to Mali specializing in finance and trade that replaces the Commercial Hub. Units, Buildings, and Districts are 20% cheaper to purchase with
+Gold and
+Faith in this City.
++2
+Gold bonus for each adjacent Holy Site. +2
+Gold bonus from a tile containing a River edge. +1
+Gold bonus for every two adjacent district tiles.
+Historical Context
+In the Mande language, Suguba means “big market,” and as the Malian empire was built on trade, one would naturally expect a bustling and vibrant market. Most of the cities of Mali have large market districts, crowded with vendors and customers. In the past, Malian gold and salt would have purchased a variety of goods from across Africa and Europe, which would have found their way into Malian markets.
+Should you visit a Malian Suguba, bring a shopping list and be prepared to negotiate your prices (bargaining is expected, and to fail to do so would be to commit a serious faux pas.) In addition to more mundane goods like food and electronics, you should keep an eye out for Mali's famous fabrics: Bazin and bogolanfini. Bazin is a lustrous, colorful fabric made by the methodical hammering of cotton cloth, much prized by fashion designers around the world. Malians are said to be discriminating connoisseurs of bazin. Bogolanfini is a mud-dyed fabric of warm browns, deep blacks, and sharp whites, first worn by hunters, but now an important cultural symbol for Mali.
+Traits
+Unique To
+Mali
+Replaces
+Commercial Hub
++1
+Great Merchant point per turn.
+Adjacency Bonus
++2
+Gold from each adjacent river tile.
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Pamukkale tile.
++2
+Gold from each adjacent Holy Site tile.
++2
+Gold from each adjacent Lavra tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++4
+Gold
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Currency
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Bank
+Gilded Vault
+Market
+Stock Exchange
+Description
+A district unique to Mali specializing in finance and trade that replaces the Commercial Hub. Units, Buildings, and Districts are 20% cheaper to purchase with
+Gold and
+Faith in this City.
++2
+Gold bonus for each adjacent Holy Site. +2
+Gold bonus from a tile containing a River edge. +1
+Gold bonus for every two adjacent district tiles.
+Historical Context
+In the Mande language, Suguba means “big market,” and as the Malian empire was built on trade, one would naturally expect a bustling and vibrant market. Most of the cities of Mali have large market districts, crowded with vendors and customers. In the past, Malian gold and salt would have purchased a variety of goods from across Africa and Europe, which would have found their way into Malian markets.
+Should you visit a Malian Suguba, bring a shopping list and be prepared to negotiate your prices (bargaining is expected, and to fail to do so would be to commit a serious faux pas.) In addition to more mundane goods like food and electronics, you should keep an eye out for Mali's famous fabrics: Bazin and bogolanfini. Bazin is a lustrous, colorful fabric made by the methodical hammering of cotton cloth, much prized by fashion designers around the world. Malians are said to be discriminating connoisseurs of bazin. Bogolanfini is a mud-dyed fabric of warm browns, deep blacks, and sharp whites, first worn by hunters, but now an important cultural symbol for Mali.
+Traits
+Unique To
+Mali
+Replaces
+Commercial Hub
++1
+Great Merchant point per turn.
+Adjacency Bonus
++2
+Gold from each adjacent river tile.
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Pamukkale tile.
++2
+Gold from each adjacent Holy Site tile.
++2
+Gold from each adjacent Lavra tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++4
+Gold
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Currency
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Bank
+Gilded Vault
+Market
+Stock Exchange

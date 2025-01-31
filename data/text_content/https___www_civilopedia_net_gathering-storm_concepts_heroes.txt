@@ -1,0 +1,94 @@
+Heroes & Legends - Concepts - Civilopedia - Civilization VI
+Heroes & Legends
+Welcome
+In game setup, players can turn on the Heroes & Legends game mode, introducing a diverse cast of extraordinary, powerful Hero units to the world.
+Discovering Heroes
+There are twelve unique Heroes available in this game mode, and each must be discovered before she or he can be claimed by your civilization. Heroes are discovered by chance as you explore the world and meet its people. Each of the following activities provides a chance to discover a new Hero:
+Encountering a Tribal Village
+Sending an
+Envoy to a City-State
+Becoming Suzerain of a City-State for the first time
+Discovering a new Continent
+Discovering a Natural Wonder
+In addition to these natural discovery opportunities, you can also complete the repeatable
+Heroic Tales
+City Project to discover a new, random Hero. This project is unlocked for any city that builds a
+Monument
+building.
+Full information on all Heroes you have discovered including their strengths, abilities, and status can be found on the Heroes & Great People screen.
+Claiming Heroes
+When you have one or more Heroes discovered, you can claim a Hero of your choice by completing their
+Hero Devotion
+City Project. These projects are unique to each Hero and unlocked when the city constructs a
+Monument
+building. Completing a Devotion Project will permanently associate the Monument with the Hero and bring them into play for your civilization.
+Heroes are globally unique. Only the first civilization to devote a Monument to the Hero will claim them, and each Monument can be devoted to only one Hero.
+To claim multiple Heroes, you can construct multiple Monuments in multiple cities and claim a different Hero in each one. However, the cost of all Hero Devotion projects increases with each claim you complete.
+Hero Units
+Heroes are powerful units with special characteristics. Each has one or more unique abilities or commands that only they can perform.
+A Hero's strength and ability power grows based on the Era in which they appear. When you recall a Hero multiple times during a game, they will come back stronger in later Eras.
+Full details on the current capabilities of any Hero you have claimed or discovered can be found on the Heroes & Great People screen.
+Hero Lifespan
+All Hero units have a special characteristic called
+Lifespan. When a Hero enters the game, they have a limited number of turns they can remain. If the Hero is not killed or destroyed before their
+Lifespan expires, they will automatically leave play the turn their
+Lifespan reaches zero. A Hero’s
+Lifespan is displayed in the HUD when the Hero is selected.
+Recalling Heroes
+After a Hero leaves the game, they can be recalled once every Era by purchasing them with
+Faith in the same city that originally claimed them. Heroes can be recalled mulitple times across the Eras, but the cost to recall a specific Hero increases each time.
+Only the original claiming player can recall a Hero, and only in the city where their Monument is located. If you lose control of a city where you had claimed a Hero, you will not be able to recall that Hero until you regain control of the city. If the city is razed, you will not be able to recall the Hero at all.
+Heroic Great Works
+This mode includes a new type of Great Work: the Heroic Relic. When a Monument is devoted to a Hero, it gains two Heroic Relic Great Work slots. After a Hero’s first appearance in the game is over (whether because they were killed or their
+Lifespan expired), they leave behind two unique
+Heroic Relics: a Heroic Epic and a Heroic Symbol. Heroic Epics are automatically placed in the Monument in the Hero's origin city. Heroic Symbols are hidden as
+Antiquity Sites and can be excavated by Archaeologists once you have unlocked that capability.
+The Heroic Epic is a chronicle of the Hero’s life and deeds. It is automatically created and placed into the Hero’s Monument building.
+The Heroic Symbol is a famous object associated with the Hero. It is placed as an
+Antiquity Site on a plot close to where the Hero was located when they left the game. When you unlock Archaeologists and can excavate the site, the Heroic Symbol can be recovered and placed in the Hero’s Monument building.
+Welcome
+In game setup, players can turn on the Heroes & Legends game mode, introducing a diverse cast of extraordinary, powerful Hero units to the world.
+Discovering Heroes
+There are twelve unique Heroes available in this game mode, and each must be discovered before she or he can be claimed by your civilization. Heroes are discovered by chance as you explore the world and meet its people. Each of the following activities provides a chance to discover a new Hero:
+Encountering a Tribal Village
+Sending an
+Envoy to a City-State
+Becoming Suzerain of a City-State for the first time
+Discovering a new Continent
+Discovering a Natural Wonder
+In addition to these natural discovery opportunities, you can also complete the repeatable
+Heroic Tales
+City Project to discover a new, random Hero. This project is unlocked for any city that builds a
+Monument
+building.
+Full information on all Heroes you have discovered including their strengths, abilities, and status can be found on the Heroes & Great People screen.
+Claiming Heroes
+When you have one or more Heroes discovered, you can claim a Hero of your choice by completing their
+Hero Devotion
+City Project. These projects are unique to each Hero and unlocked when the city constructs a
+Monument
+building. Completing a Devotion Project will permanently associate the Monument with the Hero and bring them into play for your civilization.
+Heroes are globally unique. Only the first civilization to devote a Monument to the Hero will claim them, and each Monument can be devoted to only one Hero.
+To claim multiple Heroes, you can construct multiple Monuments in multiple cities and claim a different Hero in each one. However, the cost of all Hero Devotion projects increases with each claim you complete.
+Hero Units
+Heroes are powerful units with special characteristics. Each has one or more unique abilities or commands that only they can perform.
+A Hero's strength and ability power grows based on the Era in which they appear. When you recall a Hero multiple times during a game, they will come back stronger in later Eras.
+Full details on the current capabilities of any Hero you have claimed or discovered can be found on the Heroes & Great People screen.
+Hero Lifespan
+All Hero units have a special characteristic called
+Lifespan. When a Hero enters the game, they have a limited number of turns they can remain. If the Hero is not killed or destroyed before their
+Lifespan expires, they will automatically leave play the turn their
+Lifespan reaches zero. A Hero’s
+Lifespan is displayed in the HUD when the Hero is selected.
+Recalling Heroes
+After a Hero leaves the game, they can be recalled once every Era by purchasing them with
+Faith in the same city that originally claimed them. Heroes can be recalled mulitple times across the Eras, but the cost to recall a specific Hero increases each time.
+Only the original claiming player can recall a Hero, and only in the city where their Monument is located. If you lose control of a city where you had claimed a Hero, you will not be able to recall that Hero until you regain control of the city. If the city is razed, you will not be able to recall the Hero at all.
+Heroic Great Works
+This mode includes a new type of Great Work: the Heroic Relic. When a Monument is devoted to a Hero, it gains two Heroic Relic Great Work slots. After a Hero’s first appearance in the game is over (whether because they were killed or their
+Lifespan expired), they leave behind two unique
+Heroic Relics: a Heroic Epic and a Heroic Symbol. Heroic Epics are automatically placed in the Monument in the Hero's origin city. Heroic Symbols are hidden as
+Antiquity Sites and can be excavated by Archaeologists once you have unlocked that capability.
+The Heroic Epic is a chronicle of the Hero’s life and deeds. It is automatically created and placed into the Hero’s Monument building.
+The Heroic Symbol is a famous object associated with the Hero. It is placed as an
+Antiquity Site on a plot close to where the Hero was located when they left the game. When you unlock Archaeologists and can excavate the site, the Heroic Symbol can be recovered and placed in the Hero’s Monument building.

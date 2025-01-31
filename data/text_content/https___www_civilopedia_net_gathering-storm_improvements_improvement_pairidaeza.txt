@@ -1,0 +1,88 @@
+Pairidaeza - Improvements and Routes - Civilopedia - Civilization VI
+Pairidaeza
+Description
+Unlocks the Builder ability to construct a Pairidaeza, unique to Persia.
++1
+Culture and +2
+Gold. +1 Appeal. +1
+Culture for each adjacent Holy Site and Theater Square. +1
+Gold for each adjacent Commercial Hub and City Center. Additional
+Culture and
+Tourism as you advance through the Technology and Civics Tree. Cannot be built on Snow, Tundra, Snow Hills, or Tundra Hills or adjacent to another Pairidaeza.
+Historical Context
+A pairidaeza is a specific style of garden consisting of cultivated land within an enclosure. Also known as a “paradise garden,” the pairidaeza is thought to originate in the time of the Assyrian Empire. Its rectangular construction serves to contrast the external wildness of nature with an ordered and beautiful garden. Water was often an important element of their construction—ponds, canals, or even fountains flowed freely within the walls.
+As a tool of state, they were invaluable in flaunting a kingdom’s ability to bring life to an area that would otherwise have none. The Achaemenid dynasty melded the pairidaeza with their royal hunting parks, a not so subtle way to show their command over both their empire and the natural world within it.
+Traits
+Unique To
+Persia
++1
+Culture
++2
+Gold
+Appeal to Adjacent Tiles: 1
++1
+Culture (requires Diplomatic Service)
+Adjacency Bonus
++1
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Commercial Hub tile.
++1
+Culture from each adjacent Holy Site tile.
++1
+Culture from each adjacent Theater Square tile.
+Requirements
+Civic
+Early Empire
+Grassland
+Plains
+Desert
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Pairidaeza, unique to Persia.
++1
+Culture and +2
+Gold. +1 Appeal. +1
+Culture for each adjacent Holy Site and Theater Square. +1
+Gold for each adjacent Commercial Hub and City Center. Additional
+Culture and
+Tourism as you advance through the Technology and Civics Tree. Cannot be built on Snow, Tundra, Snow Hills, or Tundra Hills or adjacent to another Pairidaeza.
+Historical Context
+A pairidaeza is a specific style of garden consisting of cultivated land within an enclosure. Also known as a “paradise garden,” the pairidaeza is thought to originate in the time of the Assyrian Empire. Its rectangular construction serves to contrast the external wildness of nature with an ordered and beautiful garden. Water was often an important element of their construction—ponds, canals, or even fountains flowed freely within the walls.
+As a tool of state, they were invaluable in flaunting a kingdom’s ability to bring life to an area that would otherwise have none. The Achaemenid dynasty melded the pairidaeza with their royal hunting parks, a not so subtle way to show their command over both their empire and the natural world within it.
+Traits
+Unique To
+Persia
++1
+Culture
++2
+Gold
+Appeal to Adjacent Tiles: 1
++1
+Culture (requires Diplomatic Service)
+Adjacency Bonus
++1
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Commercial Hub tile.
++1
+Culture from each adjacent Holy Site tile.
++1
+Culture from each adjacent Theater Square tile.
+Requirements
+Civic
+Early Empire
+Grassland
+Plains
+Desert
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Usage
+Built By
+Builder

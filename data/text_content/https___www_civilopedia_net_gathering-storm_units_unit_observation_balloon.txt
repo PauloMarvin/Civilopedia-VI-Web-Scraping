@@ -1,0 +1,48 @@
+Observation Balloon - Units - Civilopedia - Civilization VI
+Observation Balloon
+Description
+Modern era support unit. Grants +1
+Range to Siege class units within 1 hex.
+Historical Context
+Military sorts began using balloons to carry intrepid aeronauts aloft for intelligence gathering and artillery spotting during the French Revolutionary wars, a practice that reached its highpoint during WW1 and then declined in the face of advances in aircraft design. The French Aerostatic Corps was formed in 1794 to use tethered hydrogen-filled balloons for reconnaissance, providing intelligence on enemy troop deployments during battle – the first one at Fleurus in June that year. However much the observation balloon may have contributed to the decisive French victory there over the Austrians, the device was here to stay (so long as the cable wasn’t cut and it floated away). Throughout the American Civil War, the Second Boer War, and various other conflicts, the use and design didn’t change much. The “kite balloons” of WW1 gave more stability, higher altitudes and were able to fly in more extreme weather conditions; it was the apex of using balloons in war, for by 1917 those unsporting pilots in their nimble biplanes were shooting them down by the dozens. So much for floating tranquilly above the muck.
+Traits
+Upgrades To
+Drone
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Flight
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Modern era support unit. Grants +1
+Range to Siege class units within 1 hex.
+Historical Context
+Military sorts began using balloons to carry intrepid aeronauts aloft for intelligence gathering and artillery spotting during the French Revolutionary wars, a practice that reached its highpoint during WW1 and then declined in the face of advances in aircraft design. The French Aerostatic Corps was formed in 1794 to use tethered hydrogen-filled balloons for reconnaissance, providing intelligence on enemy troop deployments during battle – the first one at Fleurus in June that year. However much the observation balloon may have contributed to the decisive French victory there over the Austrians, the device was here to stay (so long as the cable wasn’t cut and it floated away). Throughout the American Civil War, the Second Boer War, and various other conflicts, the use and design didn’t change much. The “kite balloons” of WW1 gave more stability, higher altitudes and were able to fly in more extreme weather conditions; it was the apex of using balloons in war, for by 1917 those unsporting pilots in their nimble biplanes were shooting them down by the dozens. So much for floating tranquilly above the muck.
+Traits
+Upgrades To
+Drone
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Flight
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

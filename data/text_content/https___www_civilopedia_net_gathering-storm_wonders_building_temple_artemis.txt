@@ -1,0 +1,54 @@
+Temple of Artemis - Wonders and Projects - Civilopedia - Civilization VI
+Temple of Artemis
+Description
+Each Camp, Pasture, and Plantation improvement within 4 tiles of this wonder provides +1
+Amenity. Must be placed adjacent to a Camp improvement.
+Historical Context
+Little remains of this once esteemed holy site. Dedicated to Artemis, the Greek Goddess of the Hunt, the temple suffered multiple devastations and underwent numerous rebuilding. It suffered damage from floods, raids, and arson caused by a man named Herostratus (who just wanted everyone to remember his name).
+In its best days, the temple was made of marble, gilded with gold and silver, and is said to have been longer than a football field. Philo of Byzantium, a Greek engineer and writer, declared that the splendor of temple put other contemporary wonders “in the shade.”
+A final destruction at the dawn of the 5th Century, led by a Christian mob inspired by “gold-tongued” Saint John Chrysostom, ultimately spelled the end for the Temple of Artemis. In a way, the temple still lives on in present-day Turkey—its stone pillaged and incorporated into other buildings.
+“When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.'”
+– Antipater of Sidon
+Traits
+Removed if game started after
+Medieval Era
++4
+Food
++3
+Housing
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Archery
+Adjacency
+Camp
+Production Cost
+Base Cost: 180
+Production
+Description
+Each Camp, Pasture, and Plantation improvement within 4 tiles of this wonder provides +1
+Amenity. Must be placed adjacent to a Camp improvement.
+Historical Context
+Little remains of this once esteemed holy site. Dedicated to Artemis, the Greek Goddess of the Hunt, the temple suffered multiple devastations and underwent numerous rebuilding. It suffered damage from floods, raids, and arson caused by a man named Herostratus (who just wanted everyone to remember his name).
+In its best days, the temple was made of marble, gilded with gold and silver, and is said to have been longer than a football field. Philo of Byzantium, a Greek engineer and writer, declared that the splendor of temple put other contemporary wonders “in the shade.”
+A final destruction at the dawn of the 5th Century, led by a Christian mob inspired by “gold-tongued” Saint John Chrysostom, ultimately spelled the end for the Temple of Artemis. In a way, the temple still lives on in present-day Turkey—its stone pillaged and incorporated into other buildings.
+“When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.'”
+– Antipater of Sidon
+Traits
+Removed if game started after
+Medieval Era
++4
+Food
++3
+Housing
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Archery
+Adjacency
+Camp
+Production Cost
+Base Cost: 180
+Production

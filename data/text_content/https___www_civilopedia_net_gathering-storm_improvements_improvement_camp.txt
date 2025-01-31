@@ -1,0 +1,60 @@
+Camp - Improvements and Routes - Civilopedia - Civilization VI
+Camp
+Description
+Unlocks the Builder ability to construct Camps.
++2
+Gold. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+Once upon a time, a camp was vital to survival … whether it was a temporary shelter thrown up by wandering barbarians or a semi-permanent hunting camp supplying game, fish or fowl to the growing population. Until mankind learned to domesticate and pen livestock for a more dependable source of meat, hunting camps kept civilization going. In time, camps took on new roles, such as supplying furs, firewood, or trading opportunities with the nearby natives. Today, more often than not, a “camp” – temporary or permanent – is simply a recreational site where the city slickers can “get back to nature.” And now civilized folk hunt game, fish, and fowl for sport rather than survival.
+Traits
++2
+Gold
++0.5
+Housing
++1
+Production (requires Mercantilism)
++1
+Food (requires Mercantilism)
++2
+Gold (requires Synthetic Materials)
+Requirements
+Technology
+Animal Husbandry
+Deer
+Furs
+Ivory
+Truffles
+Honey
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Camps.
++2
+Gold. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+Once upon a time, a camp was vital to survival … whether it was a temporary shelter thrown up by wandering barbarians or a semi-permanent hunting camp supplying game, fish or fowl to the growing population. Until mankind learned to domesticate and pen livestock for a more dependable source of meat, hunting camps kept civilization going. In time, camps took on new roles, such as supplying furs, firewood, or trading opportunities with the nearby natives. Today, more often than not, a “camp” – temporary or permanent – is simply a recreational site where the city slickers can “get back to nature.” And now civilized folk hunt game, fish, and fowl for sport rather than survival.
+Traits
++2
+Gold
++0.5
+Housing
++1
+Production (requires Mercantilism)
++1
+Food (requires Mercantilism)
++2
+Gold (requires Synthetic Materials)
+Requirements
+Technology
+Animal Husbandry
+Deer
+Furs
+Ivory
+Truffles
+Honey
+Usage
+Built By
+Builder

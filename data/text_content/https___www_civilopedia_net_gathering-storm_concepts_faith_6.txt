@@ -1,0 +1,34 @@
+Religious Units and Pressure - Concepts - Civilopedia - Civilization VI
+Religious Units and Pressure
+Religious Units and Pressure
+There are four types of Religious units: Missionaries, Apostles, Gurus, and Inquisitors. Religious units may be purchased through your city with
+Faith and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.
+If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.
+Missionaries may be purchased with
+Faith in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.
+Apostles may be purchased with
+Faith in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.
+Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.
+Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors with
+Faith in cities that follow the religion of the Apostle that launched the Inquisition. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a user owned city. They may also engage in theological combat against other Religious units.
+Gurus serve as Religious support units, providing healing to the Religious units nearby. When it expends a healing charge, the Guru heals itself and all adjacent units of the same religion.
+Religion can also spread through
+Trade Routes. Whenever a
+Trade Route is created between two cities, there is an exchange of Religion between those two cities. The origin city has greater outgoing religious pressure, but there is still pressure that comes back from the endpoint city. This information will appear in the menu with the
+Trade Route yield when choosing where to send a Trader.
+Religious Units and Pressure
+There are four types of Religious units: Missionaries, Apostles, Gurus, and Inquisitors. Religious units may be purchased through your city with
+Faith and will adopt the majority Religion of the city in which they are built. Religious units' primary purpose is to spread their Religion to other cities. To do so, move the unit adjacent to a City Center—or inside it, if the city is yours—and use the Spread Religion action. This will convert some of the citizens of that city to Followers of your Religion.
+If more than half the citizens in the city are Followers of a particular Religion and that Religion has the majority of Followers in that city, that Religion will become predominant in that city. Cities with a dominant Religion will apply religious pressure on other cities within 10 tiles, slowly converting the citizens of those cities to that Religion.
+Missionaries may be purchased with
+Faith in any city with a Shrine and a dominant Religion, and have the ability to spread your Religion to any City Center in an adjacent hex.
+Apostles may be purchased with
+Faith in any city with a Temple and a dominant Religion, and are stronger than Missionaries. Apostles get to select a unique promotion when they are created which makes them more unique, such as having more charges or removing other religions from a city.
+Apostles have several unique actions available in addition to spreading their Religion. They can Evangelize Belief, adding additional beliefs to your Religion, or Launch Inquisition, granting the ability to purchase Inquisitors. Furthermore, Apostles may initiate theological combat against other Religious units.
+Inquisitors are special units that must be unlocked with the Launch Inquisition action on an Apostle. You only need to use this action once; once you have started an Inquisition, it never ends! You can then purchase Inquisitors with
+Faith in cities that follow the religion of the Apostle that launched the Inquisition. Inquisitors are not good at spreading a Religion, but instead remove all other Religions from a user owned city. They may also engage in theological combat against other Religious units.
+Gurus serve as Religious support units, providing healing to the Religious units nearby. When it expends a healing charge, the Guru heals itself and all adjacent units of the same religion.
+Religion can also spread through
+Trade Routes. Whenever a
+Trade Route is created between two cities, there is an exchange of Religion between those two cities. The origin city has greater outgoing religious pressure, but there is still pressure that comes back from the endpoint city. This information will appear in the menu with the
+Trade Route yield when choosing where to send a Trader.

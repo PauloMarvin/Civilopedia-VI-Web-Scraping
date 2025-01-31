@@ -1,0 +1,46 @@
+Advanced Flight - Technologies - Civilopedia - Civilization VI
+Advanced Flight
+Historical Context
+As the Second World War progressed, a new form of aircraft made its appearance, pioneered by the Germans but with the Americans and British not far behind. From the very beginning of powered flight, various forward thinkers proposed a jet propulsion system; in 1910 AD, the Romanian Henri Coandă even patented a crude one. Meanwhile, the Germans were experimenting with rockets strapped to airplanes, and in 1929 the first purpose-built rocket plane flew. As the war loomed, various inventors and engineers scrambled to create a true, and affordable, jet fighter.
+The first flight of a jet aircraft was made by the Italian Caproni Campini N.1 prototype in August 1940. The Germans had kept their own work, the Messerschmitt Me-262, under wraps. Although successfully test flown as early as 1941, mass production didn’t start until mid-1944 when several Luftwaffe jet squadrons took to the skies against the Allied bombers. The first jet fighter to see combat, its appearance was too late to affect the war significantly, but Me-262s did shoot down 542 enemy planes. And the reconstituted Czech air force kept them in service until 1951.
+Meanwhile about the same time in 1944 the British rolled out their turbojet Gloster Meteor, the only operational Allied jet aircraft of the war, to combat the scourge of the V-1 flying bombs. After the war, it was America that took the lead in advanced flight, pioneering swept-wing fighters such as the F-86 Sabre, F-4 Phantom and the Grumman F-14A Tomcat (made a Hollywood star in “Top Gun”). The U.S. Air Force brought the B-45 Tornado, the world’s first jet bomber, into service in 1948. Soon both superpowers had lots of bomb-laden jets on standby as the Cold War occasionally warmed up.
+But those who looked to make a killing in post-war airline travel were not idle either. BOAC opened the first commercial jet service – London to Johannesburg – in 1952. But a series of crashes involving the de Havilland Comet jetliner gave Boeing the time to roll out its 707, which entered service in 1958 and soon dominated the market for commercial jets. Thus was born the “jet set.”
+“Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.”
+– Ginger Rogers
+“If God had really intended men to fly, He’d make it easier to get to the airport.”
+– George Winters
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Radio
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build 2 Biplanes.
+Progression
+Leads to Technologies
+Satellites
+Historical Context
+As the Second World War progressed, a new form of aircraft made its appearance, pioneered by the Germans but with the Americans and British not far behind. From the very beginning of powered flight, various forward thinkers proposed a jet propulsion system; in 1910 AD, the Romanian Henri Coandă even patented a crude one. Meanwhile, the Germans were experimenting with rockets strapped to airplanes, and in 1929 the first purpose-built rocket plane flew. As the war loomed, various inventors and engineers scrambled to create a true, and affordable, jet fighter.
+The first flight of a jet aircraft was made by the Italian Caproni Campini N.1 prototype in August 1940. The Germans had kept their own work, the Messerschmitt Me-262, under wraps. Although successfully test flown as early as 1941, mass production didn’t start until mid-1944 when several Luftwaffe jet squadrons took to the skies against the Allied bombers. The first jet fighter to see combat, its appearance was too late to affect the war significantly, but Me-262s did shoot down 542 enemy planes. And the reconstituted Czech air force kept them in service until 1951.
+Meanwhile about the same time in 1944 the British rolled out their turbojet Gloster Meteor, the only operational Allied jet aircraft of the war, to combat the scourge of the V-1 flying bombs. After the war, it was America that took the lead in advanced flight, pioneering swept-wing fighters such as the F-86 Sabre, F-4 Phantom and the Grumman F-14A Tomcat (made a Hollywood star in “Top Gun”). The U.S. Air Force brought the B-45 Tornado, the world’s first jet bomber, into service in 1948. Soon both superpowers had lots of bomb-laden jets on standby as the Cold War occasionally warmed up.
+But those who looked to make a killing in post-war airline travel were not idle either. BOAC opened the first commercial jet service – London to Johannesburg – in 1952. But a series of crashes involving the de Havilland Comet jetliner gave Boeing the time to roll out its 707, which entered service in 1958 and soon dominated the market for commercial jets. Thus was born the “jet set.”
+“Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.”
+– Ginger Rogers
+“If God had really intended men to fly, He’d make it easier to get to the airport.”
+– George Winters
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Radio
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build 2 Biplanes.
+Progression
+Leads to Technologies
+Satellites

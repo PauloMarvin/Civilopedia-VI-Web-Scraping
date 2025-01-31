@@ -1,0 +1,140 @@
+Acropolis - Districts - Civilopedia - Civilization VI
+Acropolis
+Description
+A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1
+Envoy when completed.
++1
+Culture bonus for each adjacent district and an additional +1
+Culture bonus for adjacent City Center. +2
+Culture bonus for each adjacent wonder, Entertainment Complex, and Water Park. Can only be built on Hills.
+Historical Context
+In ancient Greece, acropolis meant, quite literally, “upper city.” And in Athens, Corinth, Argos, Thebes, and elsewhere, that’s exactly what it was – a portion of the town built upon an elevated area, often a hill with steep slopes, that was eminently defensible. Should the outer walls fall to invaders, a final stand could be made in the acropolis. In time, in many places, the old acropolis became the nucleus of a sprawling new city. During the Archaic Period in Greece, as the cities grew and the threat of barbarians lessened, these old upper districts underwent urban renewal, with temples, theaters, forums, palaces, government buildings and the like replacing the humble houses, markets, barracks and squares that once occupied the summit.
+Traits
+Unique To
+Greece
+Replaces
+Theater Square
++1
+Great Writer point per turn.
++1
+Great Artist point per turn.
++1
+Great Musician point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Culture from each adjacent wonder tile.
++1
+Culture from each adjacent district tile.
++1
+Culture from each adjacent City Center tile.
++1
+Culture from each adjacent Government Plaza tile.
++2
+Culture from each adjacent Entertainment Complex tile.
++2
+Culture from each adjacent Water Park tile.
++2
+Culture from each adjacent Pamukkale tile.
++2
+Culture from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Culture
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Culture
+Requirements
+Civic
+Drama and Poetry
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Amphitheater
+Broadcast Center
+Art Museum
+Archaeological Museum
+Description
+A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1
+Envoy when completed.
++1
+Culture bonus for each adjacent district and an additional +1
+Culture bonus for adjacent City Center. +2
+Culture bonus for each adjacent wonder, Entertainment Complex, and Water Park. Can only be built on Hills.
+Historical Context
+In ancient Greece, acropolis meant, quite literally, “upper city.” And in Athens, Corinth, Argos, Thebes, and elsewhere, that’s exactly what it was – a portion of the town built upon an elevated area, often a hill with steep slopes, that was eminently defensible. Should the outer walls fall to invaders, a final stand could be made in the acropolis. In time, in many places, the old acropolis became the nucleus of a sprawling new city. During the Archaic Period in Greece, as the cities grew and the threat of barbarians lessened, these old upper districts underwent urban renewal, with temples, theaters, forums, palaces, government buildings and the like replacing the humble houses, markets, barracks and squares that once occupied the summit.
+Traits
+Unique To
+Greece
+Replaces
+Theater Square
++1
+Great Writer point per turn.
++1
+Great Artist point per turn.
++1
+Great Musician point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Culture from each adjacent wonder tile.
++1
+Culture from each adjacent district tile.
++1
+Culture from each adjacent City Center tile.
++1
+Culture from each adjacent Government Plaza tile.
++2
+Culture from each adjacent Entertainment Complex tile.
++2
+Culture from each adjacent Water Park tile.
++2
+Culture from each adjacent Pamukkale tile.
++2
+Culture from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Culture
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Culture
+Requirements
+Civic
+Drama and Poetry
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Amphitheater
+Broadcast Center
+Art Museum
+Archaeological Museum

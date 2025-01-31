@@ -1,0 +1,40 @@
+Renaissance Walls - Buildings - Civilopedia - Civilization VI
+Renaissance Walls
+Description
+Raises the strength of your outer defenses to the highest possible level. Provides 3
+Tourism after advancing to the Conservation Civic. This city is not affected by Siege Towers or Battering Rams.
+Historical Context
+When cannon came to combat, those old, high, straight city walls didn’t stand up very well. Thanks to the unrelenting warfare in Italy during the Renaissance, military engineers there devised the “star fort” (more properly, the trace italienne) in the mid-15th Century AD. The design of a star fortress is evident from any sketch: a flat, low- and thick- and slope-walled structure composed of many triangular bastions, so positioned as to provide covering fire for each other, all surrounded by a glacis to deflect cannonballs and a ditch to deter infantry. Star forts were used by Michelangelo in his defensive designs for Florence, and later the concepts were refined by the engineer Peruzzi (for Siena) and by the author Scamozzi. Against the oft-invading French and Hapsburgs, Italian cities soon dispensed with traditional fortifications and surrounded their cities with star forts. The efficacious design spread out of Italy in the 1530s and 1540s to become the standard across Europe by the time of the great military engineer Vauban.
+Traits
+Replaced By
+Tsikhe
++100 Outer defense
+Requirements
+District
+City Center
+Technology
+Siege Tactics
+Building
+Medieval Walls
+Production Cost
+Base Cost: 300
+Production
+Description
+Raises the strength of your outer defenses to the highest possible level. Provides 3
+Tourism after advancing to the Conservation Civic. This city is not affected by Siege Towers or Battering Rams.
+Historical Context
+When cannon came to combat, those old, high, straight city walls didn’t stand up very well. Thanks to the unrelenting warfare in Italy during the Renaissance, military engineers there devised the “star fort” (more properly, the trace italienne) in the mid-15th Century AD. The design of a star fortress is evident from any sketch: a flat, low- and thick- and slope-walled structure composed of many triangular bastions, so positioned as to provide covering fire for each other, all surrounded by a glacis to deflect cannonballs and a ditch to deter infantry. Star forts were used by Michelangelo in his defensive designs for Florence, and later the concepts were refined by the engineer Peruzzi (for Siena) and by the author Scamozzi. Against the oft-invading French and Hapsburgs, Italian cities soon dispensed with traditional fortifications and surrounded their cities with star forts. The efficacious design spread out of Italy in the 1530s and 1540s to become the standard across Europe by the time of the great military engineer Vauban.
+Traits
+Replaced By
+Tsikhe
++100 Outer defense
+Requirements
+District
+City Center
+Technology
+Siege Tactics
+Building
+Medieval Walls
+Production Cost
+Base Cost: 300
+Production

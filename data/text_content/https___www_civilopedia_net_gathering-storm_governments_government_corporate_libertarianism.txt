@@ -1,0 +1,48 @@
+Corporate Libertarianism - Governments and Policies - Civilopedia - Civilization VI
+Corporate Libertarianism
+Description
+Inherent effect
+Commercial Hubs and Encampments provide cities with +10%
+Production, and accumulating resources with improvements provide +1 per turn.
+Inherent effect
+-10%
+Science.
+Historical Context
+Libertarianism is the political principle that tries to maximize individual liberty—the freedom to engage in behavior that does not harm others. In modern jurisprudence, corporations are assumed to be legal persons and endowed with rights as persons. A corporate libertarian system would be one where political participation is done primarily in terms of corporate identities, with minimal coercion from the state in interactions between “persons” in the society. Corporations might range in size from massive organizations of thousands of people to single individuals. Rational self-interest would result in maximized outcomes for the greatest number of persons—in theory, anyway.
+In this system, the government exists primarily to guarantee the enforcement of contracts between individuals. Market-based systems would govern most of the functions of society, as markets encourage more efficient transfers of goods and services. The argument for this system is that any good political solution to a problem would rise to the top by dint of being efficient, rather than by being imposed from outside sources.
+This system of government has critics, to put it mildly. Aside from concerns about the ethos underpinning capitalism in general, there are significant moral concerns about the transactionalism from a libertarian perspective, such as coercive agreements between parties of unequal power.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+3 Military  Slots
+1 Economic  Slot
+1 Diplomatic  Slot
+5 Wildcard  Slots
+Requirements
+Civic
+Venture Politics
+Description
+Inherent effect
+Commercial Hubs and Encampments provide cities with +10%
+Production, and accumulating resources with improvements provide +1 per turn.
+Inherent effect
+-10%
+Science.
+Historical Context
+Libertarianism is the political principle that tries to maximize individual liberty—the freedom to engage in behavior that does not harm others. In modern jurisprudence, corporations are assumed to be legal persons and endowed with rights as persons. A corporate libertarian system would be one where political participation is done primarily in terms of corporate identities, with minimal coercion from the state in interactions between “persons” in the society. Corporations might range in size from massive organizations of thousands of people to single individuals. Rational self-interest would result in maximized outcomes for the greatest number of persons—in theory, anyway.
+In this system, the government exists primarily to guarantee the enforcement of contracts between individuals. Market-based systems would govern most of the functions of society, as markets encourage more efficient transfers of goods and services. The argument for this system is that any good political solution to a problem would rise to the top by dint of being efficient, rather than by being imposed from outside sources.
+This system of government has critics, to put it mildly. Aside from concerns about the ethos underpinning capitalism in general, there are significant moral concerns about the transactionalism from a libertarian perspective, such as coercive agreements between parties of unequal power.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+3 Military  Slots
+1 Economic  Slot
+1 Diplomatic  Slot
+5 Wildcard  Slots
+Requirements
+Civic
+Venture Politics

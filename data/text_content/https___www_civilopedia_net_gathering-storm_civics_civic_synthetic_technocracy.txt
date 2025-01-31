@@ -1,0 +1,36 @@
+Optimization Imperative - Civics - Civilopedia - Civilization VI
+Optimization Imperative
+Historical Context
+One of the fundamental principles of the scientific method is measurement, which is an a priori condition for experimentation. This applies not only to the physical sciences, but the social sciences as well. Indeed, there are social scientists who argue that the physical/social science distinction should be dispensed with under experimental conditions. Thus, measurement of social and political states is a precursor to modelling, experimentation and—most importantly—optimization of outcomes.
+A state that seeks to optimize measurable outcomes in public goods is a philosophically consequentialist one. In this case, we assume that the state reserves the power both to study and choose the method to secure the desired public outcome, which in turn represents a strong centralizing authority. To prevent abuse of authority, the state would be required to prove, objectively, that it was choosing a course of action resulting in the greatest good for the greatest number of people. This would require a series of strong gatekeepers, and for this end a disinterested AI is usually chosen as representing one such solution.
+Consequentialist ethics can be shown to require morally appalling solutions in certain situations. Heavily centralized states have, at best, an ambiguous history with individual freedom. The Optimization Imperative seeks to avoid the worst abuses of these systems by transparency (defined in terms of measurable outcomes) and fairness (in agreeing to abide by whatever best solution it can find). Whether this can be achieved in practice remains an unanswered question.
+“We find every where men of mechanical genius, of great general acuteness, and discriminative understanding, who make no scruple in pronouncing the Automaton a pure machine, unconnected with human agency in its movements, and consequently, beyond all comparison, the most astonishing of the inventions of mankind.”
+– Edgar Allen Poe
+Unlocks
+Requirements
+Information Era
+Required Civics
+Globalization
+Social Media
+Culture Cost
+Base Cost: 3000
+Culture
+Boosts
+Research the Robotics technology.
+Historical Context
+One of the fundamental principles of the scientific method is measurement, which is an a priori condition for experimentation. This applies not only to the physical sciences, but the social sciences as well. Indeed, there are social scientists who argue that the physical/social science distinction should be dispensed with under experimental conditions. Thus, measurement of social and political states is a precursor to modelling, experimentation and—most importantly—optimization of outcomes.
+A state that seeks to optimize measurable outcomes in public goods is a philosophically consequentialist one. In this case, we assume that the state reserves the power both to study and choose the method to secure the desired public outcome, which in turn represents a strong centralizing authority. To prevent abuse of authority, the state would be required to prove, objectively, that it was choosing a course of action resulting in the greatest good for the greatest number of people. This would require a series of strong gatekeepers, and for this end a disinterested AI is usually chosen as representing one such solution.
+Consequentialist ethics can be shown to require morally appalling solutions in certain situations. Heavily centralized states have, at best, an ambiguous history with individual freedom. The Optimization Imperative seeks to avoid the worst abuses of these systems by transparency (defined in terms of measurable outcomes) and fairness (in agreeing to abide by whatever best solution it can find). Whether this can be achieved in practice remains an unanswered question.
+“We find every where men of mechanical genius, of great general acuteness, and discriminative understanding, who make no scruple in pronouncing the Automaton a pure machine, unconnected with human agency in its movements, and consequently, beyond all comparison, the most astonishing of the inventions of mankind.”
+– Edgar Allen Poe
+Unlocks
+Requirements
+Information Era
+Required Civics
+Globalization
+Social Media
+Culture Cost
+Base Cost: 3000
+Culture
+Boosts
+Research the Robotics technology.

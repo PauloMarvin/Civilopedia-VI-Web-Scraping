@@ -1,0 +1,48 @@
+Water Mill - Buildings - Civilopedia - Civilization VI
+Water Mill
+Description
+Bonus resources improved by Farms gain +1
+Food each. City must be adjacent to a River.
+Historical Context
+A water mill uses flowing water to turn a water wheel which is geared to turn other wheels for grinding, spinning, sawing or pounding all manner of useful things: grain, lumber, textiles, ore, metal, paper, and so forth. Most folk think of water mills as gristmills, those adapted to producing flour from grain … and that is certainly the earliest type found. The Greek engineer Philo of Byzantium (c. 280 to 220 BC) left an account of the workings of a water mill; the Roman Vitruvius offered the first technical description of building one, his an undershot wheel with a gearing device. So useful was the water mill that by the time of the Dark Ages, they could be found near every settlement, and (unlike a lot of knowledge that got lost) the Europeans managed to retain the essentials to construct and operate water-driven gristmills. Later on, steam power and electrical power replaced the water wheels, being more efficient and economic; today, only barbarians would use actual water mills to grind their corn and wheat.
+Traits
+Replaced By
+Palgum
++1
+Food
++1
+Production
+Requirements
+District
+City Center
+Technology
+Wheel
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold
+Description
+Bonus resources improved by Farms gain +1
+Food each. City must be adjacent to a River.
+Historical Context
+A water mill uses flowing water to turn a water wheel which is geared to turn other wheels for grinding, spinning, sawing or pounding all manner of useful things: grain, lumber, textiles, ore, metal, paper, and so forth. Most folk think of water mills as gristmills, those adapted to producing flour from grain … and that is certainly the earliest type found. The Greek engineer Philo of Byzantium (c. 280 to 220 BC) left an account of the workings of a water mill; the Roman Vitruvius offered the first technical description of building one, his an undershot wheel with a gearing device. So useful was the water mill that by the time of the Dark Ages, they could be found near every settlement, and (unlike a lot of knowledge that got lost) the Europeans managed to retain the essentials to construct and operate water-driven gristmills. Later on, steam power and electrical power replaced the water wheels, being more efficient and economic; today, only barbarians would use actual water mills to grind their corn and wheat.
+Traits
+Replaced By
+Palgum
++1
+Food
++1
+Production
+Requirements
+District
+City Center
+Technology
+Wheel
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold

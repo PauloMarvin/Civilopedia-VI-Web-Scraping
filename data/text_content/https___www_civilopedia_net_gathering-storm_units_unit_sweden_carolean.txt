@@ -1,0 +1,66 @@
+Carolean - Units - Civilopedia - Civilization VI
+Carolean
+Description
+Swedish unique Renaissance Era unit that replaces the Pike and Shot. Faster than the Pike and Shot. +3
+Combat Strength per unused
+Movement.
+Historical Context
+The Caroleans were a new class of soldiers created by the military reforms of Sweden's kings Charles XI and XII. First employed during the Great Northern War, they were distinctive in that they employed shock tactics at a time when most armies used far simpler and less energetic maneuvers in formation. Their tactical innovations they were highly effective against their numerous enemies.
+The Caroleans used a system called Gå–På—literally “go on”—which is best described as a coordinated effort by the entire battalion to close with the enemy and then hit them as hard as possible in one powerful punch. A Carolean battalion would be armed with a mix of pikes, swords, and muskets with bayonets. They would advance at a jog to within a few dozen meters of the enemy line, pause long enough to fire their muskets once or twice (Swedish muskets were somewhat heavier than those of their rivals), and then charge the enemy while he reloaded. Most armies used the pike to protect the infantry from cavalry attack. The Caroleans used them on the attack because sometimes a bayonet simply wasn't long enough.
+At the dawn of the 18th Century, these were aggressive, revolutionary tactics. In general, the idea with infantry warfare at the time was to force the other side to retreat, usually by breaking the coherency of the line. Most armies' infantry stood about 100 meters apart and blast away until either the entire battlefield was obscured with smoke, or one side broke morale and fled. The aggressive Caroleans would advance intact through the initial enemy fire, return a higher volume of counterfire, accept the second enemy volley, and then proceed straight to the bayonetting part. Most of the enemies of Sweden preferred to skip the bayonetting altogether, and would break prior to contact with the Caroleans. This is a rational response to a charge by angry, motivated, well-trained Swedes.
+Traits
+Unique To
+Sweden
+Upgrades To
+AT Crew
+Upgrade From
+Pikeman
+Promotion Class: Anti Cavalry
+3
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Metal Casting
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Swedish unique Renaissance Era unit that replaces the Pike and Shot. Faster than the Pike and Shot. +3
+Combat Strength per unused
+Movement.
+Historical Context
+The Caroleans were a new class of soldiers created by the military reforms of Sweden's kings Charles XI and XII. First employed during the Great Northern War, they were distinctive in that they employed shock tactics at a time when most armies used far simpler and less energetic maneuvers in formation. Their tactical innovations they were highly effective against their numerous enemies.
+The Caroleans used a system called Gå–På—literally “go on”—which is best described as a coordinated effort by the entire battalion to close with the enemy and then hit them as hard as possible in one powerful punch. A Carolean battalion would be armed with a mix of pikes, swords, and muskets with bayonets. They would advance at a jog to within a few dozen meters of the enemy line, pause long enough to fire their muskets once or twice (Swedish muskets were somewhat heavier than those of their rivals), and then charge the enemy while he reloaded. Most armies used the pike to protect the infantry from cavalry attack. The Caroleans used them on the attack because sometimes a bayonet simply wasn't long enough.
+At the dawn of the 18th Century, these were aggressive, revolutionary tactics. In general, the idea with infantry warfare at the time was to force the other side to retreat, usually by breaking the coherency of the line. Most armies' infantry stood about 100 meters apart and blast away until either the entire battlefield was obscured with smoke, or one side broke morale and fled. The aggressive Caroleans would advance intact through the initial enemy fire, return a higher volume of counterfire, accept the second enemy volley, and then proceed straight to the bayonetting part. Most of the enemies of Sweden preferred to skip the bayonetting altogether, and would break prior to contact with the Caroleans. This is a rational response to a charge by angry, motivated, well-trained Swedes.
+Traits
+Unique To
+Sweden
+Upgrades To
+AT Crew
+Upgrade From
+Pikeman
+Promotion Class: Anti Cavalry
+3
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Metal Casting
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

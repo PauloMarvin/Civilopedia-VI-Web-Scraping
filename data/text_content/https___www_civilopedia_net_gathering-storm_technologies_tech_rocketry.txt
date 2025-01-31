@@ -1,0 +1,54 @@
+Rocketry - Technologies - Civilopedia - Civilization VI
+Rocketry
+Description
++1
+Production from the Quarry improvement.
+Historical Context
+No one is quite sure who fired off the first rocket. Some historians state that rockets were first used in a battle in 1232 AD by the Chinese against the Mongols, with explosions being heard some 15 miles away. Others claim the first rockets were exemplified by the “ground-rat,” a type of firework, used by the Emperor Lizong on the occasion of his mother Kung Sheng’s birthday in 1264. It is certain that the first written mention of rockets was in the Huolongjing, by the Chinese artillery officer Jiao Yu in the mid-14th Century; it even describes the first multi-stage rocket, seemingly used by the Chinese navy.
+Until the Second World War, rockets remained relatively short-range, inaccurate, clumsy weapons … or were used for making pretty fireworks (not that military rockets don’t make pretty explosions). In 1792, iron-cased rockets were used by Tipu Sultan defending Mysore against the avaricious British East India Company. The British, sensing a good thing, developed the solid-fuel Congreve Rocket for use against the French, Americans and other unpleasant sorts. In 1914, Robert Goddard – inspired by the fanciful tales of H.G. Wells – patented several concepts that proved pivotal in the history of rocketry: a combustion chamber, multiple stages, and a nozzle to increase exhaust speed.
+Meanwhile, German scientists were also refining their own designs for rockets – for bombing the enemy, of course. Where the V-1 was a crude, simplistic flying bomb, the V-2 was a marvel, with turbopumps, inertial guidance systems and many other innovations still used by rocket scientists. The end of the war set off a “space race” when the two superpowers “assimilated” many of Germany’s top rocket scientists from Peenemunde, notably America’s acquisition of Wernher von Braun. Although it was the Soviet Union that launched the first satellite and the first man into orbit. But it was America that built the first nuclear-tipped ICBM.
+“Rocket science has been mythologized all out of proportion to its true difficulty.”
+– John Carmack
+“When you launch a rocket, you’re not really flying that rocket. You’re just sort of hanging on.”
+– Michael P. Anderson
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Radio
+Chemistry
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Boost through Great Scientist or Spy.
+Progression
+Leads to Technologies
+Satellites
+Guidance Systems
+Description
++1
+Production from the Quarry improvement.
+Historical Context
+No one is quite sure who fired off the first rocket. Some historians state that rockets were first used in a battle in 1232 AD by the Chinese against the Mongols, with explosions being heard some 15 miles away. Others claim the first rockets were exemplified by the “ground-rat,” a type of firework, used by the Emperor Lizong on the occasion of his mother Kung Sheng’s birthday in 1264. It is certain that the first written mention of rockets was in the Huolongjing, by the Chinese artillery officer Jiao Yu in the mid-14th Century; it even describes the first multi-stage rocket, seemingly used by the Chinese navy.
+Until the Second World War, rockets remained relatively short-range, inaccurate, clumsy weapons … or were used for making pretty fireworks (not that military rockets don’t make pretty explosions). In 1792, iron-cased rockets were used by Tipu Sultan defending Mysore against the avaricious British East India Company. The British, sensing a good thing, developed the solid-fuel Congreve Rocket for use against the French, Americans and other unpleasant sorts. In 1914, Robert Goddard – inspired by the fanciful tales of H.G. Wells – patented several concepts that proved pivotal in the history of rocketry: a combustion chamber, multiple stages, and a nozzle to increase exhaust speed.
+Meanwhile, German scientists were also refining their own designs for rockets – for bombing the enemy, of course. Where the V-1 was a crude, simplistic flying bomb, the V-2 was a marvel, with turbopumps, inertial guidance systems and many other innovations still used by rocket scientists. The end of the war set off a “space race” when the two superpowers “assimilated” many of Germany’s top rocket scientists from Peenemunde, notably America’s acquisition of Wernher von Braun. Although it was the Soviet Union that launched the first satellite and the first man into orbit. But it was America that built the first nuclear-tipped ICBM.
+“Rocket science has been mythologized all out of proportion to its true difficulty.”
+– John Carmack
+“When you launch a rocket, you’re not really flying that rocket. You’re just sort of hanging on.”
+– Michael P. Anderson
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Radio
+Chemistry
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Boost through Great Scientist or Spy.
+Progression
+Leads to Technologies
+Satellites
+Guidance Systems

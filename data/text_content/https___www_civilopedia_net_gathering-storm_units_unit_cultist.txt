@@ -1,0 +1,38 @@
+Cultist - Units - Civilopedia - Civilization VI
+Cultist
+Description
+Support unit unique to the Voidsingers. Once it dies or loses all charges, its devoted sacrifice awards the player a
+Relic of the Void. Can move into foreign lands when not at war, and use a charge to Recruit Followers in an adjacent foreign city, causing it to lose 10 Loyalty.
+Historical Context
+In weird fiction, those that catch a glimpse of ultimate truths go mad. But this madness is of a strange variety, one that does not fragment, but oddly brings together. In H.P. Lovecraft’s “Call of Cthulhu” (1928), a series of horrific dreams links artists with tribal peoples, dreamers and outlaws, all dreaming the same syllables from a dead language. Here, then, madness is not psychopathy, rather, it is a connection with something more fundamental underlying the world, and to become a cultist is to live one’s life according to these, and not society’s, principles.
+For scholars of religion, “cult” simply means a religious group focused around one object of worship. We can speak of Catholic “cults” devoted to a particular saint, or Buddhist “cults” that choose a particular teacher, without all of the negative implications that the word has here. Cults can often claim to have a body of knowledge that is particular to that group, and new discoveries often give rise to new cults: the publishing of the Dead Sea Scrolls, for instance, provoked a boom in groups claiming to have privileged access to the knowledge in these texts. The followers of Heaven’s Gate believed that they were receiving messages from a UFO hiding in the tail of a passing comet. The cult Aum Shinrikyo, that released sarin gas into the Tokyo subway, believed itself to be in possession of supreme truth about the nature of the world. In these last two examples, the result was tragedy.
+Traits
+2
+Movement Points
+3
+Charges
+Requirements
+Purchase Cost
+Base Cost: 200
+Faith
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Support unit unique to the Voidsingers. Once it dies or loses all charges, its devoted sacrifice awards the player a
+Relic of the Void. Can move into foreign lands when not at war, and use a charge to Recruit Followers in an adjacent foreign city, causing it to lose 10 Loyalty.
+Historical Context
+In weird fiction, those that catch a glimpse of ultimate truths go mad. But this madness is of a strange variety, one that does not fragment, but oddly brings together. In H.P. Lovecraft’s “Call of Cthulhu” (1928), a series of horrific dreams links artists with tribal peoples, dreamers and outlaws, all dreaming the same syllables from a dead language. Here, then, madness is not psychopathy, rather, it is a connection with something more fundamental underlying the world, and to become a cultist is to live one’s life according to these, and not society’s, principles.
+For scholars of religion, “cult” simply means a religious group focused around one object of worship. We can speak of Catholic “cults” devoted to a particular saint, or Buddhist “cults” that choose a particular teacher, without all of the negative implications that the word has here. Cults can often claim to have a body of knowledge that is particular to that group, and new discoveries often give rise to new cults: the publishing of the Dead Sea Scrolls, for instance, provoked a boom in groups claiming to have privileged access to the knowledge in these texts. The followers of Heaven’s Gate believed that they were receiving messages from a UFO hiding in the tail of a passing comet. The cult Aum Shinrikyo, that released sarin gas into the Tokyo subway, believed itself to be in possession of supreme truth about the nature of the world. In these last two examples, the result was tragedy.
+Traits
+2
+Movement Points
+3
+Charges
+Requirements
+Purchase Cost
+Base Cost: 200
+Faith
+Maintenance Cost
+Base Cost: 4
+Gold

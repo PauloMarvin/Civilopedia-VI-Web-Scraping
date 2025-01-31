@@ -1,0 +1,58 @@
+Mercantilism - Civics - Civilopedia - Civilization VI
+Mercantilism
+Description
+Camp improvements receive +1
+Production and +1
+Food.
+Lumber Mills can be built on Rainforest.
+Historical Context
+By the 1600s, the Spanish, British, Portuguese, French, Russians and sundry other European powers had empires to run, and empires were costly baubles. The way to keep the home economy healthy was to establish a system known as mercantilism; in effect, the colonies were the “cash cow” for the mother country. It was, for obvious reasons, extremely popular with absolutist monarchs and their subjects – at least those in the homeland – and the dominant economic practice from the 16th through the 18th centuries. Simply put, the Crown put limits on what finished goods the colonies could produce, whose ships they could use, with whom they could trade … and then taxed everything.
+It was inevitable that the British perfected mercantilism. It was expensive to send troops and ships to defend and dominate their colonies spread around the globe. For decades the British government’s stance was “salutary neglect,” passing laws to regulate colonial trade but not enforcing them; the colonies benefited from goods that slipped in from France, Holland, Spain and their nearby colonies in North and South America. However, strapped for cash by the Seven-Years War and other misadventures, in 1763 AD Parliament moved to enforce the many restrictions and taxes and even passed new ones – the Navigation Acts and the Sugar Act. A bad idea as it turned out, for it sparked a revolution in the Americas.
+Other European nations embraced mercantilism to varying degrees, with varying degrees of success. The Netherlands had little interest in limiting international trade and so adopted few mercantilist policies. During the Thirty Years War, however, Sweden and Denmark both passed restrictive trade laws and taxes to fund their involvement; and the Holy Roman Empire, while desirous of such an economic policy, was simply too decentralized and diverse to implement it efficiently. France adopted mercantilism as early as 1539 when a royal decree banned the import of woolen goods from Spain and Flanders and the export of bullion (another universal aspect of mercantilist economics).
+But mercantilism didn’t work very well when the Industrial Revolution came, and by 1860 England had ended the last vestiges of the mercantile era.
+“In a market economy, however, the individual has some possibility of escaping from the power of the state.”
+– Peter Berger
+“Having seen a non-market economy, I suddenly understood much better what I liked about a market economy.”
+– Esther Dyson
+Unlocks
+Requirements
+Renaissance Era
+Required Civics
+Humanism
+Culture Cost
+Base Cost: 720
+Culture
+Boosts
+Earn a Great Merchant.
+Progression
+Leads to Civics
+Colonialism
+Civil Engineering
+Description
+Camp improvements receive +1
+Production and +1
+Food.
+Lumber Mills can be built on Rainforest.
+Historical Context
+By the 1600s, the Spanish, British, Portuguese, French, Russians and sundry other European powers had empires to run, and empires were costly baubles. The way to keep the home economy healthy was to establish a system known as mercantilism; in effect, the colonies were the “cash cow” for the mother country. It was, for obvious reasons, extremely popular with absolutist monarchs and their subjects – at least those in the homeland – and the dominant economic practice from the 16th through the 18th centuries. Simply put, the Crown put limits on what finished goods the colonies could produce, whose ships they could use, with whom they could trade … and then taxed everything.
+It was inevitable that the British perfected mercantilism. It was expensive to send troops and ships to defend and dominate their colonies spread around the globe. For decades the British government’s stance was “salutary neglect,” passing laws to regulate colonial trade but not enforcing them; the colonies benefited from goods that slipped in from France, Holland, Spain and their nearby colonies in North and South America. However, strapped for cash by the Seven-Years War and other misadventures, in 1763 AD Parliament moved to enforce the many restrictions and taxes and even passed new ones – the Navigation Acts and the Sugar Act. A bad idea as it turned out, for it sparked a revolution in the Americas.
+Other European nations embraced mercantilism to varying degrees, with varying degrees of success. The Netherlands had little interest in limiting international trade and so adopted few mercantilist policies. During the Thirty Years War, however, Sweden and Denmark both passed restrictive trade laws and taxes to fund their involvement; and the Holy Roman Empire, while desirous of such an economic policy, was simply too decentralized and diverse to implement it efficiently. France adopted mercantilism as early as 1539 when a royal decree banned the import of woolen goods from Spain and Flanders and the export of bullion (another universal aspect of mercantilist economics).
+But mercantilism didn’t work very well when the Industrial Revolution came, and by 1860 England had ended the last vestiges of the mercantile era.
+“In a market economy, however, the individual has some possibility of escaping from the power of the state.”
+– Peter Berger
+“Having seen a non-market economy, I suddenly understood much better what I liked about a market economy.”
+– Esther Dyson
+Unlocks
+Requirements
+Renaissance Era
+Required Civics
+Humanism
+Culture Cost
+Base Cost: 720
+Culture
+Boosts
+Earn a Great Merchant.
+Progression
+Leads to Civics
+Colonialism
+Civil Engineering

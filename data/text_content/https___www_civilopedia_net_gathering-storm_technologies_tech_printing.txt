@@ -1,0 +1,54 @@
+Printing - Technologies - Civilopedia - Civilization VI
+Printing
+Description
+Provides one more level of diplomatic visibility on all other civilizations. All
+Tourism yields from
+Great Works of Writing are doubled.
+Historical Context
+No technology since writing so impacted civilization as did movable-type printing. Woodblock printing had been used for decades in China, India and Europe. The pecia system developed in the early 13th Century at Italian universities gave booksellers a method for producing multiple copies of a book in a relatively short time. But books remained expensive, and possessions only for the educated elite.
+By the 1400s, a faster, cheaper method of reproducing the written word had become the “Holy Grail” for European booksellers, driven by the rise in education and literacy. Even the commoners wanted to read the Bible for themselves, and their kids were learning their letters in new grammar schools springing up all over the continent. In China, moveable type – where each word could be placed in any order in a tray and then inked and pressed against paper – was made out of porcelain by Bi Sheng in 1040 AD, but proved rather fragile and expensive. Moveable wooden type wore out too quickly.
+It was left to an itinerant German goldsmith and sometime bookseller (and sometimes other professions, none of which he was very successful at) named Johannes Gutenberg to develop movable type made from metal, each small piece representing a letter or punctuation mark that could be rearranged in a tray as needed to make a page. The metal type, made from lead, was durable and easy to cast; when worn, the type could be melted and used again to make more type. The failed goldsmith also devised an oil-based ink that worked well with the metal type to give long-lasting print.  Gutenberg set up a workshop in Mainz, and by 1450 was printing common texts (likely, Latin grammars) and church indulgences; in 1452 Gutenberg commenced work on a printed version of the Bible which was completed in 1455 – the so-called Gutenberg Bible.
+The invention revolutionized the world, and gave rise to mass communication. It spread rapidly across Europe, since booksellers could now make (and sell) lots of copies. It not only standardized language and knowledge – bringing page numbers, tables of contents, indexes, the ability to cite other works and all sorts of things not possible with hand-copied books – but it taught humanity to think in linear (since that’s how folk read now) terms rather than holistically. And it sparked – or at least promoted – the Scientific Revolution and the Reformation. So, if civilization is a mess, blame it on Gutenberg.
+“The pen might not be mightier than the sword, but maybe the printing press is heavier than the siege weapon. Just a few words can change everything.”
+– Terry Pratchett
+“What gunpowder did for war the printing press has done for the mind.”
+- Wendell Phillips
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Machinery
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build 2 Universities.
+Progression
+Leads to Technologies
+Military Science
+Description
+Provides one more level of diplomatic visibility on all other civilizations. All
+Tourism yields from
+Great Works of Writing are doubled.
+Historical Context
+No technology since writing so impacted civilization as did movable-type printing. Woodblock printing had been used for decades in China, India and Europe. The pecia system developed in the early 13th Century at Italian universities gave booksellers a method for producing multiple copies of a book in a relatively short time. But books remained expensive, and possessions only for the educated elite.
+By the 1400s, a faster, cheaper method of reproducing the written word had become the “Holy Grail” for European booksellers, driven by the rise in education and literacy. Even the commoners wanted to read the Bible for themselves, and their kids were learning their letters in new grammar schools springing up all over the continent. In China, moveable type – where each word could be placed in any order in a tray and then inked and pressed against paper – was made out of porcelain by Bi Sheng in 1040 AD, but proved rather fragile and expensive. Moveable wooden type wore out too quickly.
+It was left to an itinerant German goldsmith and sometime bookseller (and sometimes other professions, none of which he was very successful at) named Johannes Gutenberg to develop movable type made from metal, each small piece representing a letter or punctuation mark that could be rearranged in a tray as needed to make a page. The metal type, made from lead, was durable and easy to cast; when worn, the type could be melted and used again to make more type. The failed goldsmith also devised an oil-based ink that worked well with the metal type to give long-lasting print.  Gutenberg set up a workshop in Mainz, and by 1450 was printing common texts (likely, Latin grammars) and church indulgences; in 1452 Gutenberg commenced work on a printed version of the Bible which was completed in 1455 – the so-called Gutenberg Bible.
+The invention revolutionized the world, and gave rise to mass communication. It spread rapidly across Europe, since booksellers could now make (and sell) lots of copies. It not only standardized language and knowledge – bringing page numbers, tables of contents, indexes, the ability to cite other works and all sorts of things not possible with hand-copied books – but it taught humanity to think in linear (since that’s how folk read now) terms rather than holistically. And it sparked – or at least promoted – the Scientific Revolution and the Reformation. So, if civilization is a mess, blame it on Gutenberg.
+“The pen might not be mightier than the sword, but maybe the printing press is heavier than the siege weapon. Just a few words can change everything.”
+– Terry Pratchett
+“What gunpowder did for war the printing press has done for the mind.”
+- Wendell Phillips
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Machinery
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build 2 Universities.
+Progression
+Leads to Technologies
+Military Science

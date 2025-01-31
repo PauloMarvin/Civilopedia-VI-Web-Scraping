@@ -1,0 +1,68 @@
+U-Boat - Units - Civilopedia - Civilization VI
+U-Boat
+Description
+German unique Modern era naval unit that replaces the Submarine. Cheaper to produce, +1 Sight, and +10
+Combat Strength when fighting on Ocean tiles. Able to reveal other stealthed units.
+Historical Context
+The 'Unterseeboot' – U-boat – struck fear, and anger, in the hearts of Germany’s enemies during two world wars. The first German-built submarine, the 26-foot long Brandtaucher (“fire-diver”), sank during its initial test dive in the harbor at Kiel. This was followed by several submersibles built in Germany, which were sold to the Greeks, Ottomans, and Russians (all had rather ignominious careers). Finally the Germans got it right; the U-19 – they finally quit giving the boats names – was launched in 1912 with two-stroke diesel engines, four torpedo tubes and two deck guns, and able to dive to 164 feet. At the opening of WW1, Germany had 28 U-boats in service; in the first ten weeks, these sank five British cruisers. So effective were the U-boats that the Treaty of Versailles forbade the construction of German submarines. But, the U-boat fleet was rebuilt, and by the end of WW2 the boats had sunk some 2779 ships (confirmed) totaling 14.1 million tons – roughly 70% of Allied losses in all theaters. In 1955 West Germany was allowed to have a navy again … and promptly started building U-boats, the latest being the non-nuclear U-35, commissioned in March 2015.
+Traits
+Unique To
+Germany
+Upgrades To
+Nuclear Submarine
+Upgrade From
+Privateer
+Promotion Class: Naval Raider
+3
+Movement Points
+65
+Melee Strength
+75
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Electricity
+Production Cost
+Base Cost: 430
+Production
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Description
+German unique Modern era naval unit that replaces the Submarine. Cheaper to produce, +1 Sight, and +10
+Combat Strength when fighting on Ocean tiles. Able to reveal other stealthed units.
+Historical Context
+The 'Unterseeboot' – U-boat – struck fear, and anger, in the hearts of Germany’s enemies during two world wars. The first German-built submarine, the 26-foot long Brandtaucher (“fire-diver”), sank during its initial test dive in the harbor at Kiel. This was followed by several submersibles built in Germany, which were sold to the Greeks, Ottomans, and Russians (all had rather ignominious careers). Finally the Germans got it right; the U-19 – they finally quit giving the boats names – was launched in 1912 with two-stroke diesel engines, four torpedo tubes and two deck guns, and able to dive to 164 feet. At the opening of WW1, Germany had 28 U-boats in service; in the first ten weeks, these sank five British cruisers. So effective were the U-boats that the Treaty of Versailles forbade the construction of German submarines. But, the U-boat fleet was rebuilt, and by the end of WW2 the boats had sunk some 2779 ships (confirmed) totaling 14.1 million tons – roughly 70% of Allied losses in all theaters. In 1955 West Germany was allowed to have a navy again … and promptly started building U-boats, the latest being the non-nuclear U-35, commissioned in March 2015.
+Traits
+Unique To
+Germany
+Upgrades To
+Nuclear Submarine
+Upgrade From
+Privateer
+Promotion Class: Naval Raider
+3
+Movement Points
+65
+Melee Strength
+75
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Electricity
+Production Cost
+Base Cost: 430
+Production
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold

@@ -1,0 +1,70 @@
+Broadway - Wonders and Projects - Civilopedia - Civilization VI
+Broadway
+Description
++20%
+Culture in this city. 1 free random Atomic era civic boost. Must be built on flat land adjacent to a Theater Square district.
+Historical Context
+Broadway is a 15-mile long thoroughfare through the heart of Manhattan and the Bronx in New York City, lined with offices, shops and apartments … but no-one thinks of those. Instead, Broadway is best known for the middle section between 42nd and 53rd Streets dubbed the “Great White Way” – the Theater District. Commencing in the mid-1800s a number of theaters opened on Broadway. In 1880 AD a stretch between Madison and Union squares was illuminated with arc lamps, making it one of the first electrically lit streets in the United States (leave it to New Yorkers to light up theaters before homes, hospitals and schools). Spurred by growing American wealth and cultural aspirations, the theaters made it a mecca of popular entertainment. By 1900 some 20 theaters had opened along this stretch, and so bright were their electric billboards that it became the Great White Way. In 1925 at its peak popularity, there were 80 theaters along Broadway, specializing in lavish productions, primarily revues and musicals.
+“There’s no business like show business.”
+– Irving Berlin, 'Annie Get Your Gun'
+Traits
+Removed if game started after
+Information Era
++3
+Great Writer points per turn.
++3
+Great Musician points per turn.
++1
+Great Work of Writing slot
++2
+Great Works of Music slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mass Media
+Adjacency
+Theater Square
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1620
+Production
+Description
++20%
+Culture in this city. 1 free random Atomic era civic boost. Must be built on flat land adjacent to a Theater Square district.
+Historical Context
+Broadway is a 15-mile long thoroughfare through the heart of Manhattan and the Bronx in New York City, lined with offices, shops and apartments … but no-one thinks of those. Instead, Broadway is best known for the middle section between 42nd and 53rd Streets dubbed the “Great White Way” – the Theater District. Commencing in the mid-1800s a number of theaters opened on Broadway. In 1880 AD a stretch between Madison and Union squares was illuminated with arc lamps, making it one of the first electrically lit streets in the United States (leave it to New Yorkers to light up theaters before homes, hospitals and schools). Spurred by growing American wealth and cultural aspirations, the theaters made it a mecca of popular entertainment. By 1900 some 20 theaters had opened along this stretch, and so bright were their electric billboards that it became the Great White Way. In 1925 at its peak popularity, there were 80 theaters along Broadway, specializing in lavish productions, primarily revues and musicals.
+“There’s no business like show business.”
+– Irving Berlin, 'Annie Get Your Gun'
+Traits
+Removed if game started after
+Information Era
++3
+Great Writer points per turn.
++3
+Great Musician points per turn.
++1
+Great Work of Writing slot
++2
+Great Works of Music slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mass Media
+Adjacency
+Theater Square
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1620
+Production

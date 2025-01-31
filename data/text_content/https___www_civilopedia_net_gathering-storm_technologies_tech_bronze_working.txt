@@ -1,0 +1,52 @@
+Bronze Working - Technologies - Civilopedia - Civilization VI
+Bronze Working
+Description
+Allows chopping of Rainforest. Reveals
+Iron.
+Historical Context
+The English word “bronze” was liberated from the French term bronze, which had been borrowed from the Italian bronzo, evolved from the Medieval Latin bronzium, adapted from either the Greek brontesion or Persian biranj. Whatever one calls it, bronze is a simple alloy of copper and usually tin, occasionally with traces of other metals for strength, luster, or ductility. Bronze “working” allowed men to create all sorts of useful things (like pans and swords) that were both durable and decorative.
+The earliest bronze artifacts – actually, arsenic bronze, alloys of metallic arsenic rather than tin – found by archaeologists in Iranian tombs date back to the fifth millennium BC. Tin-bronze was eventually found to be superior to arsenic-bronze … and the fumes of the alloying process didn’t kill the bronze worker, so that was a plus. The oldest (c. 4500 BC) tin-bronze items have been found in a Vinca site in Serbia, and other early examples include odd bits found in China and Mesopotamia.
+Deposits of copper and tin rarely occur near each other, and thus the export of tin from readily accessible surface mines became a major economic factor in some places; in Europe tin from ore deposits in Cornwall have been found as far afield as Phoenicia in the eastern Mediterranean. Besides being useful, bronze was also considered valuable, enough to give its moniker to an entire age of civilization. In Europe, extensive hordes of bronze tools have been found buried near ruins of treasuries, and in China ritual bronzes dating from 1650 BC have been found as grave goods in the tombs of royalty and nobility.
+Although bronze is harder and can hold a sharp edge longer than iron, it is also harder to find and pound into something useful. Thus, the Bronze Age gave way to the Iron Age.
+“Bronze is the mirror of the form, wine of the mind.”
+– Aeschylus
+“I’m also interested in creating a lasting legacy … because bronze will last for thousands of years.”
+- Richard MacDonald
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Mining
+Research Cost
+Base Cost: 80
+Science
+Boosts
+Kill 3 Barbarians.
+Progression
+Leads to Technologies
+Iron Working
+Description
+Allows chopping of Rainforest. Reveals
+Iron.
+Historical Context
+The English word “bronze” was liberated from the French term bronze, which had been borrowed from the Italian bronzo, evolved from the Medieval Latin bronzium, adapted from either the Greek brontesion or Persian biranj. Whatever one calls it, bronze is a simple alloy of copper and usually tin, occasionally with traces of other metals for strength, luster, or ductility. Bronze “working” allowed men to create all sorts of useful things (like pans and swords) that were both durable and decorative.
+The earliest bronze artifacts – actually, arsenic bronze, alloys of metallic arsenic rather than tin – found by archaeologists in Iranian tombs date back to the fifth millennium BC. Tin-bronze was eventually found to be superior to arsenic-bronze … and the fumes of the alloying process didn’t kill the bronze worker, so that was a plus. The oldest (c. 4500 BC) tin-bronze items have been found in a Vinca site in Serbia, and other early examples include odd bits found in China and Mesopotamia.
+Deposits of copper and tin rarely occur near each other, and thus the export of tin from readily accessible surface mines became a major economic factor in some places; in Europe tin from ore deposits in Cornwall have been found as far afield as Phoenicia in the eastern Mediterranean. Besides being useful, bronze was also considered valuable, enough to give its moniker to an entire age of civilization. In Europe, extensive hordes of bronze tools have been found buried near ruins of treasuries, and in China ritual bronzes dating from 1650 BC have been found as grave goods in the tombs of royalty and nobility.
+Although bronze is harder and can hold a sharp edge longer than iron, it is also harder to find and pound into something useful. Thus, the Bronze Age gave way to the Iron Age.
+“Bronze is the mirror of the form, wine of the mind.”
+– Aeschylus
+“I’m also interested in creating a lasting legacy … because bronze will last for thousands of years.”
+- Richard MacDonald
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Mining
+Research Cost
+Base Cost: 80
+Science
+Boosts
+Kill 3 Barbarians.
+Progression
+Leads to Technologies
+Iron Working

@@ -1,0 +1,52 @@
+Plastics - Technologies - Civilopedia - Civilization VI
+Plastics
+Description
++1
+Food to Fishing Boats.
+Historical Context
+Synthetic or semi-synthetic organic polymers derived (generally) from petrochemicals of high molecular mass that are incredibly durable, malleable, lightweight and now pervasive in modern civilization. Plastic. It comes in many forms, some tougher, some more flexible, some with a greater or lesser tolerance to heat. Plastic can be molded, pressed, or extruded into virtually any shape desired. It’s found in every facet of life today, used in everything from automobile bumpers to prosthetic limbs, from product packaging to modernist furniture, home entertainment to the latest weaponry.
+There had been some plastic-like materials developed during the Industrial Revolution; for instance, in 1855 AD Alex Parkes, spurred by the near extinction of the elephant, made a material from cellulose as a cheap replacement for ivory. But the first entirely synthetic plastic was Bakelite, invented in 1909 by inventor Leo Hendrik Baekeland. Bakelite was cheap and durable. So it was used to make radios, telephones, utensil handles, piano keys, and billiard balls. Although quite sturdy, Bakelite was also quite brittle.
+Following the First World War, radical advances in chemistry (all that production of poison gases and new explosives) led to an explosion of new forms of plastic. Polyvinyl chloride (or PVC), a rigid and durable plastic, began being manufactured commercially in the 1920s by various companies. The transparent polystyrene was commercialized in 1931 by I.G. Farben, and in 1941 – spurred by another war – Dow Chemical invented Styrofoam. (In 1960, Dart Container company, the largest maker of the now-ubiquitous Styrofoam cup, shipped their first order.)
+It was rapidly becoming a plastic world. By the 21st Century, just about every consumer product had plastic components or was wholly plastic. Indeed, the landfills around the world are filled with it, and great floating masses of plastic can be found in the oceans since it does not degrade naturally, and burning it tends to produce noxious fumes. Too, although relatively cheap to make, plastic takes a lot of petrochemicals to manufacture in quantity. So perhaps as oil becomes scarce and expensive, so too will plastic.
+“In the hierarchy of the major poetic substances, plastic figures as a disgraced material, lost between the effusiveness of rubber and the flat hardness of metal.”
+– Roland Barthes
+“Nothing on this earth lasts forever. Except maybe plastic.”
+– Patricia Dunn
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Combustion
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build an Oil Well.
+Progression
+Leads to Technologies
+Synthetic Materials
+Description
++1
+Food to Fishing Boats.
+Historical Context
+Synthetic or semi-synthetic organic polymers derived (generally) from petrochemicals of high molecular mass that are incredibly durable, malleable, lightweight and now pervasive in modern civilization. Plastic. It comes in many forms, some tougher, some more flexible, some with a greater or lesser tolerance to heat. Plastic can be molded, pressed, or extruded into virtually any shape desired. It’s found in every facet of life today, used in everything from automobile bumpers to prosthetic limbs, from product packaging to modernist furniture, home entertainment to the latest weaponry.
+There had been some plastic-like materials developed during the Industrial Revolution; for instance, in 1855 AD Alex Parkes, spurred by the near extinction of the elephant, made a material from cellulose as a cheap replacement for ivory. But the first entirely synthetic plastic was Bakelite, invented in 1909 by inventor Leo Hendrik Baekeland. Bakelite was cheap and durable. So it was used to make radios, telephones, utensil handles, piano keys, and billiard balls. Although quite sturdy, Bakelite was also quite brittle.
+Following the First World War, radical advances in chemistry (all that production of poison gases and new explosives) led to an explosion of new forms of plastic. Polyvinyl chloride (or PVC), a rigid and durable plastic, began being manufactured commercially in the 1920s by various companies. The transparent polystyrene was commercialized in 1931 by I.G. Farben, and in 1941 – spurred by another war – Dow Chemical invented Styrofoam. (In 1960, Dart Container company, the largest maker of the now-ubiquitous Styrofoam cup, shipped their first order.)
+It was rapidly becoming a plastic world. By the 21st Century, just about every consumer product had plastic components or was wholly plastic. Indeed, the landfills around the world are filled with it, and great floating masses of plastic can be found in the oceans since it does not degrade naturally, and burning it tends to produce noxious fumes. Too, although relatively cheap to make, plastic takes a lot of petrochemicals to manufacture in quantity. So perhaps as oil becomes scarce and expensive, so too will plastic.
+“In the hierarchy of the major poetic substances, plastic figures as a disgraced material, lost between the effusiveness of rubber and the flat hardness of metal.”
+– Roland Barthes
+“Nothing on this earth lasts forever. Except maybe plastic.”
+– Patricia Dunn
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Combustion
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build an Oil Well.
+Progression
+Leads to Technologies
+Synthetic Materials

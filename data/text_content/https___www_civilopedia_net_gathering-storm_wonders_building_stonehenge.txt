@@ -1,0 +1,62 @@
+Stonehenge - Wonders and Projects - Civilopedia - Civilization VI
+Stonehenge
+Description
+Grants a free
+Great Prophet.
+Great Prophets may found a Religion on Stonehenge instead of a Holy Site. Must be adjacent to
+Stone and on flat land.
+Historical Context
+A circle of fifty-ton slabs of rock, arranged in orientation to the stars and sun, Stonehenge is an observatory and temple in one. Begun in Southern England some 5000 years ago, Stonehenge was concentric circles of stones surrounded by a moat (or “henge”). After the henge was in place, about a thousand years later an inner ring of “bluestones” were set in place, followed by an outer ring of larger, upright “sarsen” stones some 500 years after that. The 80 bluestones, coming in at about four tons each, were transported from a quarry over 240 miles away; the sarsen stones were cut and transported about 20 miles to the site. However done, for whatever purpose, Stonehenge remains a “wondrous” achievement even after a few millennia.
+“Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that … and then we can party!”
+– Bill Bryson
+Traits
+Removed if game started after
+Medieval Era
++2
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Astrology
+Adjacency
+Stone
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 180
+Production
+Description
+Grants a free
+Great Prophet.
+Great Prophets may found a Religion on Stonehenge instead of a Holy Site. Must be adjacent to
+Stone and on flat land.
+Historical Context
+A circle of fifty-ton slabs of rock, arranged in orientation to the stars and sun, Stonehenge is an observatory and temple in one. Begun in Southern England some 5000 years ago, Stonehenge was concentric circles of stones surrounded by a moat (or “henge”). After the henge was in place, about a thousand years later an inner ring of “bluestones” were set in place, followed by an outer ring of larger, upright “sarsen” stones some 500 years after that. The 80 bluestones, coming in at about four tons each, were transported from a quarry over 240 miles away; the sarsen stones were cut and transported about 20 miles to the site. However done, for whatever purpose, Stonehenge remains a “wondrous” achievement even after a few millennia.
+“Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that … and then we can party!”
+– Bill Bryson
+Traits
+Removed if game started after
+Medieval Era
++2
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Astrology
+Adjacency
+Stone
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 180
+Production

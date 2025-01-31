@@ -1,0 +1,74 @@
+Janissary - Units - Civilopedia - Civilization VI
+Janissary
+Description
+Ottoman unique Renaissance Era unit that replaces the Musketman. Starts with a free promotion. Stronger and cheaper than the Musketman. To train a Janissary a city must have a population of at least 2. If a city is founded by the Ottomans and trains a Janissary it loses a population.
+Historical Context
+The elite infantry of the Ottoman Empire had a lasting cultural impact within the Ottoman Empire and on the military history of the world at large. The Janissaries embodied many aspects of the Ottoman Empire's systems of governance and warfare, and remain one of the most recognizable military forces in history. At the time they were created in the reign of Murad I, they were a revolutionary military force (the term Janissary literally means “New Soldier”) combining iron discipline, strong esprit de corps, and the latest military weapons.
+The Ottoman Sultans were entitled to extract a fifth of the value of their territory. Often this took the form of levies of labor or manpower. Christian communities in the Balkans were compelled to provide boys to the Janissaries. The boys were taken from their families and communities, converted to Islam, and then raised in the strict discipline of the Janissary corps.
+Janissaries were originally forbidden to marry (this stricture was relaxed later) or engage in trade, and swore loyalty to the Sultan himself. The Janissaries had their own distinctive marching bands—the mehter—which influenced European military marches in successive centuries. They were well-paid, and given the special attention of the Sultan, who would appear once a year among his Janissaries to draw his pay. The Janissary corps was strongly meritocratic, and a successful Janissary could retire with a pension and considerable cultural prestige. The Janissaries may have been the first infantry force to be predominately equipped with muskets. They wore uniforms at a time when the practice was still uncommon, with a distinctive high white hat with trailing flap.
+The Janissaries became one of the most politically-powerful factions within the Ottoman Empire and comparisons to the Praetorian Guard of Rome are apt. However, they resisted most of the efforts to reform their organization, bringing them into conflict with later Sultans. In 1826, the Janissary corps mutinied in response to European-style infantry reforms. Sultan Mahmud II turned cannons on their barracks and executed any Janissary who survived the bombardment. This event was termed the “Auspicious Incident.”
+The Janissaries were pivotal to the military power and successes of the Ottoman Empire, and they influenced the development of musket armies in Europe during the transition to the age of gunpowder. Their organization and history provides insight into the organization of the Ottoman world. Even their enemies respected their discipline and admired their panache.
+Traits
+Unique To
+Suleiman (Kanuni)
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Promotion Class: Melee
+2
+Movement Points
+60
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 120
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Ottoman unique Renaissance Era unit that replaces the Musketman. Starts with a free promotion. Stronger and cheaper than the Musketman. To train a Janissary a city must have a population of at least 2. If a city is founded by the Ottomans and trains a Janissary it loses a population.
+Historical Context
+The elite infantry of the Ottoman Empire had a lasting cultural impact within the Ottoman Empire and on the military history of the world at large. The Janissaries embodied many aspects of the Ottoman Empire's systems of governance and warfare, and remain one of the most recognizable military forces in history. At the time they were created in the reign of Murad I, they were a revolutionary military force (the term Janissary literally means “New Soldier”) combining iron discipline, strong esprit de corps, and the latest military weapons.
+The Ottoman Sultans were entitled to extract a fifth of the value of their territory. Often this took the form of levies of labor or manpower. Christian communities in the Balkans were compelled to provide boys to the Janissaries. The boys were taken from their families and communities, converted to Islam, and then raised in the strict discipline of the Janissary corps.
+Janissaries were originally forbidden to marry (this stricture was relaxed later) or engage in trade, and swore loyalty to the Sultan himself. The Janissaries had their own distinctive marching bands—the mehter—which influenced European military marches in successive centuries. They were well-paid, and given the special attention of the Sultan, who would appear once a year among his Janissaries to draw his pay. The Janissary corps was strongly meritocratic, and a successful Janissary could retire with a pension and considerable cultural prestige. The Janissaries may have been the first infantry force to be predominately equipped with muskets. They wore uniforms at a time when the practice was still uncommon, with a distinctive high white hat with trailing flap.
+The Janissaries became one of the most politically-powerful factions within the Ottoman Empire and comparisons to the Praetorian Guard of Rome are apt. However, they resisted most of the efforts to reform their organization, bringing them into conflict with later Sultans. In 1826, the Janissary corps mutinied in response to European-style infantry reforms. Sultan Mahmud II turned cannons on their barracks and executed any Janissary who survived the bombardment. This event was termed the “Auspicious Incident.”
+The Janissaries were pivotal to the military power and successes of the Ottoman Empire, and they influenced the development of musket armies in Europe during the transition to the age of gunpowder. Their organization and history provides insight into the organization of the Ottoman world. Even their enemies respected their discipline and admired their panache.
+Traits
+Unique To
+Suleiman (Kanuni)
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Promotion Class: Melee
+2
+Movement Points
+60
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 120
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

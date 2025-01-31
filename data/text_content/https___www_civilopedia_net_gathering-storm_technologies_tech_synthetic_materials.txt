@@ -1,0 +1,52 @@
+Synthetic Materials - Technologies - Civilopedia - Civilization VI
+Synthetic Materials
+Description
++2
+Gold to Camps.
+Historical Context
+Once chemistry took hold of civilization, scientists started searching for ways to improve upon naturally occurring animal and plant products. First up, synthetic fibers pioneered by Joseph Swan in the early 1880s; his fiber was made from tree bark, intended as a longer-lasting filament for light bulbs but somewhat better as a textile. Next the Frenchman Hilaire de Chardonnet invented artificial silk, which was displayed to great acclaim at the 1889 Paris Exhibition. Five years later, a trio of British chemists created a synthetic material they called “viscose," and in 1924 it was renamed “rayon.” Then came nylon from Wallace Carothers, who was working for the chemical company DuPont. The first polyester fiber – Dacron – was invented in England in 1941 as part of the war effort.
+It wasn’t only fibers that were being produced from synthesized polymers; chemists were inventing all sorts of artificial materials in their corporate and college labs. The ‘50s and ‘60s might be thought of as the “Synthetic Age.” Naugahyde (derisively known as “pleather”) was a composite of fabric overlaid with polyvinyl chloride developed by Byron Hunter of the U.S. Rubber Company. The first synthetic diamond was created in 1953. The year 1960 saw a team of researchers in North Carolina create the first artificial turf, which came to prominence when “AstroTurf” was installed in the Houston Astrodome in 1966. Borazon, an artificial cubic form of boron nitride created at temperatures greater than 1800 degrees, in its crystal form is one of the hardest materials known.
+And new synthetics continued to be crafted at a frantic pace. Tyvek, a flashspun high-density olefin material, is used as a wrapping through which water vapor but not liquid can pass. Teslin was developed as a waterproof synthetic printing medium, a recyclable and non-toxic material used in a variety of ways; the first now-ubiquitous Teslin-based credit cards were produced by Ron Goade in 1984. And in 1965 Stephanie Kwolek at DuPont developed Kevlar, a para-aramid synthetic first used in the early 1970s in racing tires; now Kevlar, rated five times stronger than steel, is found in everything from toys to body armor. Ours truly is a synthetic civilization.
+“There’s so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic.”
+– Lily Tomlin
+"There may be no forgiveness for polyester. On this one matter, Satan and the Lord are in agreement.”
+– Joe Hill
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Plastics
+Research Cost
+Base Cost: 1660
+Science
+Boosts
+Build 2 Aerodromes.
+Progression
+Leads to Technologies
+Composites
+Stealth Technology
+Description
++2
+Gold to Camps.
+Historical Context
+Once chemistry took hold of civilization, scientists started searching for ways to improve upon naturally occurring animal and plant products. First up, synthetic fibers pioneered by Joseph Swan in the early 1880s; his fiber was made from tree bark, intended as a longer-lasting filament for light bulbs but somewhat better as a textile. Next the Frenchman Hilaire de Chardonnet invented artificial silk, which was displayed to great acclaim at the 1889 Paris Exhibition. Five years later, a trio of British chemists created a synthetic material they called “viscose," and in 1924 it was renamed “rayon.” Then came nylon from Wallace Carothers, who was working for the chemical company DuPont. The first polyester fiber – Dacron – was invented in England in 1941 as part of the war effort.
+It wasn’t only fibers that were being produced from synthesized polymers; chemists were inventing all sorts of artificial materials in their corporate and college labs. The ‘50s and ‘60s might be thought of as the “Synthetic Age.” Naugahyde (derisively known as “pleather”) was a composite of fabric overlaid with polyvinyl chloride developed by Byron Hunter of the U.S. Rubber Company. The first synthetic diamond was created in 1953. The year 1960 saw a team of researchers in North Carolina create the first artificial turf, which came to prominence when “AstroTurf” was installed in the Houston Astrodome in 1966. Borazon, an artificial cubic form of boron nitride created at temperatures greater than 1800 degrees, in its crystal form is one of the hardest materials known.
+And new synthetics continued to be crafted at a frantic pace. Tyvek, a flashspun high-density olefin material, is used as a wrapping through which water vapor but not liquid can pass. Teslin was developed as a waterproof synthetic printing medium, a recyclable and non-toxic material used in a variety of ways; the first now-ubiquitous Teslin-based credit cards were produced by Ron Goade in 1984. And in 1965 Stephanie Kwolek at DuPont developed Kevlar, a para-aramid synthetic first used in the early 1970s in racing tires; now Kevlar, rated five times stronger than steel, is found in everything from toys to body armor. Ours truly is a synthetic civilization.
+“There’s so much plastic in this culture that vinyl leopard skin is becoming an endangered synthetic.”
+– Lily Tomlin
+"There may be no forgiveness for polyester. On this one matter, Satan and the Lord are in agreement.”
+– Joe Hill
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Plastics
+Research Cost
+Base Cost: 1660
+Science
+Boosts
+Build 2 Aerodromes.
+Progression
+Leads to Technologies
+Composites
+Stealth Technology

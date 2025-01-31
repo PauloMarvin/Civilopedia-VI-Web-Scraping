@@ -1,0 +1,48 @@
+Old God Obelisk - Buildings - Civilopedia - Civilization VI
+Old God Obelisk
+Description
+Unique to the Voidsingers, replaces the Monument. Contains 1 Great Work slot that can hold any type of Great Work. Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1
+Culture.
+Historical Context
+In the “weird fiction” of and inspired by H.P. Lovecraft and others, the gods are thankfully forgotten. Lovecraft’s Old Ones are fundamentally unconcerned with humanity and contact inevitably results in madness or death. But not everyone has forgotten – weird fiction is full of examples of hidden cults having rediscovered markers of the Old Gods and turned them into objects of worship.
+We have always recycled the religious detritus of older beliefs, especially ones that we do not understand completely. European magic of the middle ages and later often drew upon Greek or Egyptian symbols not because they actually contained some kind of esoteric knowledge, but because they seemed to hold in their very incomprehensibility the promise of some extra power. And it is not just Europeans who make appeals to the incomprehensible. The Mien people of highland Southeast Asia carry elaborate documents written in Chinese characters (which few of them can read) by a divine emperor guaranteeing them a right to live on mountaintops without harassment. Villagers in Tanzania seeking healing will prefer to go to a healer from a distant village, rather than from one who lives next door. And teenage wizards in popular fantasy books rarely call out their magical spells in English. The appeal of the unknown is that it might contain a source of power beyond our comprehension. Might as well put up an obelisk to it.
+Traits
+Replaces
+Monument
++1
+Culture
++4
+Faith
++1 Great Work slot (holds any type)
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Description
+Unique to the Voidsingers, replaces the Monument. Contains 1 Great Work slot that can hold any type of Great Work. Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1
+Culture.
+Historical Context
+In the “weird fiction” of and inspired by H.P. Lovecraft and others, the gods are thankfully forgotten. Lovecraft’s Old Ones are fundamentally unconcerned with humanity and contact inevitably results in madness or death. But not everyone has forgotten – weird fiction is full of examples of hidden cults having rediscovered markers of the Old Gods and turned them into objects of worship.
+We have always recycled the religious detritus of older beliefs, especially ones that we do not understand completely. European magic of the middle ages and later often drew upon Greek or Egyptian symbols not because they actually contained some kind of esoteric knowledge, but because they seemed to hold in their very incomprehensibility the promise of some extra power. And it is not just Europeans who make appeals to the incomprehensible. The Mien people of highland Southeast Asia carry elaborate documents written in Chinese characters (which few of them can read) by a divine emperor guaranteeing them a right to live on mountaintops without harassment. Villagers in Tanzania seeking healing will prefer to go to a healer from a distant village, rather than from one who lives next door. And teenage wizards in popular fantasy books rarely call out their magical spells in English. The appeal of the unknown is that it might contain a source of power beyond our comprehension. Might as well put up an obelisk to it.
+Traits
+Replaces
+Monument
++1
+Culture
++4
+Faith
++1 Great Work slot (holds any type)
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold

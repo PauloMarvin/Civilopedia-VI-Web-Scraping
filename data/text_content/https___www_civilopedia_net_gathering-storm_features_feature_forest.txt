@@ -1,0 +1,48 @@
+Woods - Terrains and Features - Civilopedia - Civilization VI
+Woods
+Historical Context
+The bounty of woods has been crucial in the survival of more than one tribe, providing timber, animals, and plants in such variety as to stagger the imagination. Sadly, civilization has too often chopped them down to make room for farms, roads, and suburbs … and then there are those greedy corporations, looking to grow rich from pelts, logs, and metals.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: 1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
++1
+Production
+Valid Resources
+Amber
+Antiquity Site
+Coal
+Deer
+Dyes
+Furs
+Ivory
+Silk
+Spices
+Tobacco
+Truffles
+Uranium
+Wine
+Historical Context
+The bounty of woods has been crucial in the survival of more than one tribe, providing timber, animals, and plants in such variety as to stagger the imagination. Sadly, civilization has too often chopped them down to make room for farms, roads, and suburbs … and then there are those greedy corporations, looking to grow rich from pelts, logs, and metals.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: 1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
++1
+Production
+Valid Resources
+Amber
+Antiquity Site
+Coal
+Deer
+Dyes
+Furs
+Ivory
+Silk
+Spices
+Tobacco
+Truffles
+Uranium
+Wine

@@ -1,0 +1,50 @@
+Robotics - Technologies - Civilopedia - Civilization VI
+Robotics
+Description
+Pasture improvements receive +1
+Food.
+Historical Context
+In 1942 AD, the science fiction author Isaac Asimov proposed three “laws of robotics.” In 1948 the American mathematician Norbert Wiener formulated the “principles of cybernetics” as the basis for practical robotics. And in 1961 the first programmable robot – “Unimate” – was constructed to lift and stack hot pieces of metal from a die casting machine.
+Automata – self-operating machines – have been around since described in the third-century BC Chinese text 'Liezi' attributed to the philosopher Lie Yukou. In 1495 AD, no less a genius than Leonardo da Vinci offered schematics for a mechanical knight, a proto-robot. The French artist and tinkerer Jacques de Vaucanson built a mechanical duck that was able to eat, flap its wings, and excrete afterward – the “Digesting Duck” in 1738; more significantly, he also built a completely automated loom, perhaps the first commercially viable “automaton.” So “robots” (so-named by Czech Karel Capek in his play R.U.R.) were around long before ABB Robot Group installed the world’s first microcomputer controlled industrial robot in Sweden in 1974.
+But, of course, it is humanoid robots – with a torso, head with facial features of some sort, two or more arms, bipedal locomotion – that get everyone both excited and concerned. The darlings of sci-fi writers and Hollywood studios, such robots are only starting to be realized. In 1973, Wabot-1 was built, able to walk, communicate in Japanese, and measure distance to objects with artificial eyes and ears. (Almost as entertaining as the Digesting Duck, apparently.) Soon enough, just about every year a new robot was delighting the world. In 2005, Wakamaru made its first appearance, a Japanese-built domestic robot intended to provide care and companionship for the elderly and disabled.
+Of course, robots need not be humanoid in form. In fact, the human form is an inefficient design, and so there are a plethora of possibilities, all being explored by engineers and manufacturers for various tasks – wheeled robots, spherical-orb robots, tracked robots, etc. – with all sorts of grapplers and manipulators rather than hands. The possibilities are nearly endless. Or as Terry Pratchett asked, “I wonder what makes us build inefficiently-shaped human robots instead of nice streamlined machines?”
+“Robotics has been around forever, and it’s been the next big thing forever, and it is so exciting and compelling that it’s easy to get carried away.”
+– Colin Angle
+“I’ll be back.”
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Computers
+Satellites
+Guidance Systems
+Lasers
+Research Cost
+Base Cost: 2155
+Science
+Boosts
+Have the Globalization civic.
+Description
+Pasture improvements receive +1
+Food.
+Historical Context
+In 1942 AD, the science fiction author Isaac Asimov proposed three “laws of robotics.” In 1948 the American mathematician Norbert Wiener formulated the “principles of cybernetics” as the basis for practical robotics. And in 1961 the first programmable robot – “Unimate” – was constructed to lift and stack hot pieces of metal from a die casting machine.
+Automata – self-operating machines – have been around since described in the third-century BC Chinese text 'Liezi' attributed to the philosopher Lie Yukou. In 1495 AD, no less a genius than Leonardo da Vinci offered schematics for a mechanical knight, a proto-robot. The French artist and tinkerer Jacques de Vaucanson built a mechanical duck that was able to eat, flap its wings, and excrete afterward – the “Digesting Duck” in 1738; more significantly, he also built a completely automated loom, perhaps the first commercially viable “automaton.” So “robots” (so-named by Czech Karel Capek in his play R.U.R.) were around long before ABB Robot Group installed the world’s first microcomputer controlled industrial robot in Sweden in 1974.
+But, of course, it is humanoid robots – with a torso, head with facial features of some sort, two or more arms, bipedal locomotion – that get everyone both excited and concerned. The darlings of sci-fi writers and Hollywood studios, such robots are only starting to be realized. In 1973, Wabot-1 was built, able to walk, communicate in Japanese, and measure distance to objects with artificial eyes and ears. (Almost as entertaining as the Digesting Duck, apparently.) Soon enough, just about every year a new robot was delighting the world. In 2005, Wakamaru made its first appearance, a Japanese-built domestic robot intended to provide care and companionship for the elderly and disabled.
+Of course, robots need not be humanoid in form. In fact, the human form is an inefficient design, and so there are a plethora of possibilities, all being explored by engineers and manufacturers for various tasks – wheeled robots, spherical-orb robots, tracked robots, etc. – with all sorts of grapplers and manipulators rather than hands. The possibilities are nearly endless. Or as Terry Pratchett asked, “I wonder what makes us build inefficiently-shaped human robots instead of nice streamlined machines?”
+“Robotics has been around forever, and it’s been the next big thing forever, and it is so exciting and compelling that it’s easy to get carried away.”
+– Colin Angle
+“I’ll be back.”
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Computers
+Satellites
+Guidance Systems
+Lasers
+Research Cost
+Base Cost: 2155
+Science
+Boosts
+Have the Globalization civic.

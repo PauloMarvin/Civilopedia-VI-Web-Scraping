@@ -1,0 +1,56 @@
+Aquarium - Buildings - Civilopedia - Civilization VI
+Aquarium
+Description
+Bonus
+Amenity extends to each city center within 9 tiles. This bonus applies once to a city, and multiple copies of this building within 9 tiles of a city center do not provide additional bonuses. +1
+Science to each coastal resource, Shipwreck, and Reef tile in this city.
+Historical Context
+The modern aquarium brings the pleasure of seeing the great beasts of the deep without putting one's limbs at risk. They would provide a bridge between spectacle and education.
+The Romans would get a start in the fish tank game with their early marble aquariums with a single pane of glass around 50 CE. However, the first public aquarium wouldn't appear until 1853, with the construction of the London Zoo's 'Fish House.'
+Today, Atlanta, Georgia boasts the largest aquarium in the world featuring a whopping 24 million gallon shark tank.
+Traits
++1
+Amenity from entertainment
+Requirements
+District
+Water Park
+Civic
+Natural History
+Building
+Ferris Wheel
+Production Cost
+Base Cost: 360
+Production
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Bonus
+Amenity extends to each city center within 9 tiles. This bonus applies once to a city, and multiple copies of this building within 9 tiles of a city center do not provide additional bonuses. +1
+Science to each coastal resource, Shipwreck, and Reef tile in this city.
+Historical Context
+The modern aquarium brings the pleasure of seeing the great beasts of the deep without putting one's limbs at risk. They would provide a bridge between spectacle and education.
+The Romans would get a start in the fish tank game with their early marble aquariums with a single pane of glass around 50 CE. However, the first public aquarium wouldn't appear until 1853, with the construction of the London Zoo's 'Fish House.'
+Today, Atlanta, Georgia boasts the largest aquarium in the world featuring a whopping 24 million gallon shark tank.
+Traits
++1
+Amenity from entertainment
+Requirements
+District
+Water Park
+Civic
+Natural History
+Building
+Ferris Wheel
+Production Cost
+Base Cost: 360
+Production
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

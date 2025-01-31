@@ -1,0 +1,38 @@
+Desert Floodplains - Terrains and Features - Civilopedia - Civilization VI
+Desert Floodplains
+Description
+This low-lying area adjacent to a River has flooded before, giving it more
+Food production than a usual Desert tile. If the River floods again structures built on this tile may be damaged or destroyed, but the tile is also likely to gain additional yields.
+Historical Context
+Floodplains are the land surrounding a river which are affected most by flooding, usually seasonal flooding, but this may also apply to wider lowland affected by exceptional flooding events. The inundation of this land deposits sediment from upstream, which refreshes the soil quality and makes the floodplains especially suitable for agriculture.  Many of the first urban civilizations emerged from river valleys with floodplains, such as Mesopotamia, Egypt, and the Indus.
+Districts cannot normally be built on Floodplains, unless playing as Egypt.
+Traits
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: -2
++2
+Food
+Valid Resources
+Antiquity Site
+Cotton
+Oil
+Sugar
+Wheat
+Description
+This low-lying area adjacent to a River has flooded before, giving it more
+Food production than a usual Desert tile. If the River floods again structures built on this tile may be damaged or destroyed, but the tile is also likely to gain additional yields.
+Historical Context
+Floodplains are the land surrounding a river which are affected most by flooding, usually seasonal flooding, but this may also apply to wider lowland affected by exceptional flooding events. The inundation of this land deposits sediment from upstream, which refreshes the soil quality and makes the floodplains especially suitable for agriculture.  Many of the first urban civilizations emerged from river valleys with floodplains, such as Mesopotamia, Egypt, and the Indus.
+Districts cannot normally be built on Floodplains, unless playing as Egypt.
+Traits
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: -2
++2
+Food
+Valid Resources
+Antiquity Site
+Cotton
+Oil
+Sugar
+Wheat

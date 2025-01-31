@@ -1,0 +1,68 @@
+Bombard - Units - Civilopedia - Civilization VI
+Bombard
+Description
+Renaissance era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+The oldest representation of a bombard – a muzzle-loading, smoothbore proto-mortar that was used to throw stone balls against fortifications during sieges – was found in China; the 12th Century AD Buddhist cave-sculpture depicts a demon firing one. In the Western world, English monarchs were certainly using them in the 14th Century, for Edward III had some at Crécy in 1346 and Henry V captured Harfleur using bombards in 1415. But with the largest weighing several tons and all notably inaccurate, bombards were not practical for field operations, soon enough being replaced by cannon; emplaced bombards, however, remained in use for centuries, usually protecting ports and sea passages. Among the last and largest, the Dardanelles Gun built by Munir Ali in 1464 weighted in at 16.8 tons and helped protect the straits for the Ottomans for a long, long time (being fired for the last time at a British fleet in 1807).
+Traits
+Upgrades To
+Artillery
+Upgrade From
+Trebuchet
+Domrey
+Promotion Class: Siege
+2
+Movement Points
+45
+Melee Strength
+55
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Metal Casting
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Renaissance era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+The oldest representation of a bombard – a muzzle-loading, smoothbore proto-mortar that was used to throw stone balls against fortifications during sieges – was found in China; the 12th Century AD Buddhist cave-sculpture depicts a demon firing one. In the Western world, English monarchs were certainly using them in the 14th Century, for Edward III had some at Crécy in 1346 and Henry V captured Harfleur using bombards in 1415. But with the largest weighing several tons and all notably inaccurate, bombards were not practical for field operations, soon enough being replaced by cannon; emplaced bombards, however, remained in use for centuries, usually protecting ports and sea passages. Among the last and largest, the Dardanelles Gun built by Munir Ali in 1464 weighted in at 16.8 tons and helped protect the straits for the Ottomans for a long, long time (being fired for the last time at a British fleet in 1807).
+Traits
+Upgrades To
+Artillery
+Upgrade From
+Trebuchet
+Domrey
+Promotion Class: Siege
+2
+Movement Points
+45
+Melee Strength
+55
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Metal Casting
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

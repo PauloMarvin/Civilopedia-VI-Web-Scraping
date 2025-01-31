@@ -1,0 +1,50 @@
+Advanced Ballistics - Technologies - Civilopedia - Civilization VI
+Advanced Ballistics
+Historical Context
+Once humans started shooting off rockets, the need for a new understanding of ballistics became clear. The flight of rockets, jets, missiles, spacecraft and such simply couldn’t be covered by the current knowledge of internal, transition, external and terminal ballistics that had been accumulated by engineers to that time. When Goddard and von Braun began lighting up the heavens, something more than a gyroscope was required to get the missile to impact where desired. And issues such as escape velocity and orbital reentry began to be of some importance, especially to future cosmonauts and astronauts. Meanwhile, jet aircraft capable of flying at Mach at altitudes of 10-15,000 meters (33-49,000 feet) changed the dynamics of flight into that of ballistics.
+Although Newtonian mechanics still applied, ballistics for rockets and missiles became so complex that mathematicians had to derive second-order differential equations to calculate the plot, compute the drag, and estimate the arrival on target. Even gravity had to be taken into account. Then add in launching missiles and rockets from fast-moving aircraft in aft-crossing trajectory and only computers could possibly make sense of it all.
+Those looking to fire things into orbit and beyond were forced to create a whole new field: astrodynamics, a combination of ballistics and celestial mechanics. If one wanted to land a man on the Moon (and bring him back to Earth alive), mere ballistics wasn’t good enough. Trying to get two moving objects together safely was so complex that NASA’s Apollo Guidance Computer was developed, an on-board microcomputer with which the astronauts could communicate via the DSKY keypad for near-instantaneous ballistic calculations.
+The application of ballistics has become so advanced that mere men can no longer deal with it.
+“Untutored courage is useless in the face of educated bullets.”
+– George Patton
+“Aim for the moon. If you miss, you may hit a star.”
+– W. Clement Stone
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Replaceable Parts
+Steel
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build 1 Oil Power Plant
+Progression
+Leads to Technologies
+Nuclear Fission
+Guidance Systems
+Historical Context
+Once humans started shooting off rockets, the need for a new understanding of ballistics became clear. The flight of rockets, jets, missiles, spacecraft and such simply couldn’t be covered by the current knowledge of internal, transition, external and terminal ballistics that had been accumulated by engineers to that time. When Goddard and von Braun began lighting up the heavens, something more than a gyroscope was required to get the missile to impact where desired. And issues such as escape velocity and orbital reentry began to be of some importance, especially to future cosmonauts and astronauts. Meanwhile, jet aircraft capable of flying at Mach at altitudes of 10-15,000 meters (33-49,000 feet) changed the dynamics of flight into that of ballistics.
+Although Newtonian mechanics still applied, ballistics for rockets and missiles became so complex that mathematicians had to derive second-order differential equations to calculate the plot, compute the drag, and estimate the arrival on target. Even gravity had to be taken into account. Then add in launching missiles and rockets from fast-moving aircraft in aft-crossing trajectory and only computers could possibly make sense of it all.
+Those looking to fire things into orbit and beyond were forced to create a whole new field: astrodynamics, a combination of ballistics and celestial mechanics. If one wanted to land a man on the Moon (and bring him back to Earth alive), mere ballistics wasn’t good enough. Trying to get two moving objects together safely was so complex that NASA’s Apollo Guidance Computer was developed, an on-board microcomputer with which the astronauts could communicate via the DSKY keypad for near-instantaneous ballistic calculations.
+The application of ballistics has become so advanced that mere men can no longer deal with it.
+“Untutored courage is useless in the face of educated bullets.”
+– George Patton
+“Aim for the moon. If you miss, you may hit a star.”
+– W. Clement Stone
+Unlocks
+Requirements
+Atomic Era
+Required Technologies
+Replaceable Parts
+Steel
+Research Cost
+Base Cost: 1480
+Science
+Boosts
+Build 1 Oil Power Plant
+Progression
+Leads to Technologies
+Nuclear Fission
+Guidance Systems

@@ -1,0 +1,52 @@
+Galley - Units - Civilopedia - Civilization VI
+Galley
+Description
+Ancient era melee naval combat unit. Can only operate on Coastal waters until Cartography is researched.
+Historical Context
+With a shallow draft, slender hull, minimal decking, and propelled by oars, the galley was the first boat (or ship, if grandiose) dedicated to warfare. Although most had sails on a single mast that could help, galleys were propelled primarily by human sweat. Galleys tended to stay in shallower waters near shore, not being particularly seaworthy. But these were the mainstay of the early Phoenician, Greek, Carthaginian and Roman navies in the Mediterranean … as well as barbarian pirates everywhere. Initially carrying just archers and spearmen for floating melee battles, eventually rams, catapults and even cannon were added to their armaments, making them useful even into the early Medieval Era. But in time the galley – and all its descendants, the biremes, triremes, dromons, etc. – were made obsolete by the more maneuverable (and bigger) sailing warships. And those didn’t need a bunch of sweaty and grumbling oarsmen.
+Traits
+Upgrades To
+Caravel
+Nau
+Promotion Class: Naval Melee
+3
+Movement Points
+30
+Melee Strength
+Requirements
+Technology
+Sailing
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Ancient era melee naval combat unit. Can only operate on Coastal waters until Cartography is researched.
+Historical Context
+With a shallow draft, slender hull, minimal decking, and propelled by oars, the galley was the first boat (or ship, if grandiose) dedicated to warfare. Although most had sails on a single mast that could help, galleys were propelled primarily by human sweat. Galleys tended to stay in shallower waters near shore, not being particularly seaworthy. But these were the mainstay of the early Phoenician, Greek, Carthaginian and Roman navies in the Mediterranean … as well as barbarian pirates everywhere. Initially carrying just archers and spearmen for floating melee battles, eventually rams, catapults and even cannon were added to their armaments, making them useful even into the early Medieval Era. But in time the galley – and all its descendants, the biremes, triremes, dromons, etc. – were made obsolete by the more maneuverable (and bigger) sailing warships. And those didn’t need a bunch of sweaty and grumbling oarsmen.
+Traits
+Upgrades To
+Caravel
+Nau
+Promotion Class: Naval Melee
+3
+Movement Points
+30
+Melee Strength
+Requirements
+Technology
+Sailing
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

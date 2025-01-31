@@ -1,0 +1,36 @@
+Zombie - Units - Civilopedia - Civilization VI
+Zombie
+Description
+A hostile melee unit that has a chance to appear on the map at a location where a unit has died. Its Melee Strength increases with each Zombie that has been eliminated, globally. If a Zombie destroys another unit, a new Zombie unit spawns in that tile the next turn. If a Zombie reduces a city's population, a new Zombie unit will spawn immediately next to the city. Zombies target the closest nearby unit, city, or defensible district.
+Historical Context
+Zombies have become one of the most recognizable horror tropes. But the image of ravenous, shambling corpses, and especially the idea of a global pandemic of the undead is something that has only come about in recent years. In many Caribbean folkore traditions, a zombi or jumbee is a general category for a malevolent spirit, itself deriving from West African traditions. But in Haiti the zombie became something else – a stand-in for all the horrors of slavery. For enslaved Africans in the then-French colony of Saint-Domingue, life was nearly unbearable. Death, at least, promised a release and a return back to, so the tradition went, a paradise in Africa where at last they could be free. But suicide would close this door and cause the unfortunate spirit to remain forever in the Caribbean, forever enslaved – a zombie.
+In the wake of the Haitian Revolution, the zombie entered into local folklore as the servant of a malevolent sorcerer, or, in some tellings, a priest of voudun (voodoo). The zombie, entranced or re-animated, continued to labor for their master, thus recalling a horrific return of slavery to a people that had fought hard to become and remain free. Indeed, it is in this first sense that the zombie made its first emergence into global pop culture. American films used the zombie as a symbol of exotic magic in what were often racist depictions of Caribbean or simply “other” religions. Elsewhere, zombies emerged as the fears of having one’s labor stolen away, whether by a return of outright slavery, or as a metaphor for the confusing and exploitative way that new forms of capitalism manifested in areas such as South Africa.
+But most people might be familiar with the hordes made famous by George Romero in his film, “Night of the Living Dead.” Here, Romero presents a world turned upside down, as the unburied dead return to life. Notably, Romero never uses the term “zombie,” instead calling them” ghouls” – itself a reference to an Arabic cannibal spirit. Zombies in the late 20th century became a new metaphor, appearing as the manifestations of mindless, soulless consumerism; fears over nuclear fallout; or the threat of massive societal upheaval. In the 21st century, zombies became closely associated with a fear of disease and a collapse of society. The locus of horror had changed from a fear of losing control over oneself to a fantasy of surviving after everything else seemed to have died. Here, zombies are this utterly destructive force – destruction that you can, possibly, turn to your advantage.
+Traits
+Unique To
+Barbarians
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+A hostile melee unit that has a chance to appear on the map at a location where a unit has died. Its Melee Strength increases with each Zombie that has been eliminated, globally. If a Zombie destroys another unit, a new Zombie unit spawns in that tile the next turn. If a Zombie reduces a city's population, a new Zombie unit will spawn immediately next to the city. Zombies target the closest nearby unit, city, or defensible district.
+Historical Context
+Zombies have become one of the most recognizable horror tropes. But the image of ravenous, shambling corpses, and especially the idea of a global pandemic of the undead is something that has only come about in recent years. In many Caribbean folkore traditions, a zombi or jumbee is a general category for a malevolent spirit, itself deriving from West African traditions. But in Haiti the zombie became something else – a stand-in for all the horrors of slavery. For enslaved Africans in the then-French colony of Saint-Domingue, life was nearly unbearable. Death, at least, promised a release and a return back to, so the tradition went, a paradise in Africa where at last they could be free. But suicide would close this door and cause the unfortunate spirit to remain forever in the Caribbean, forever enslaved – a zombie.
+In the wake of the Haitian Revolution, the zombie entered into local folklore as the servant of a malevolent sorcerer, or, in some tellings, a priest of voudun (voodoo). The zombie, entranced or re-animated, continued to labor for their master, thus recalling a horrific return of slavery to a people that had fought hard to become and remain free. Indeed, it is in this first sense that the zombie made its first emergence into global pop culture. American films used the zombie as a symbol of exotic magic in what were often racist depictions of Caribbean or simply “other” religions. Elsewhere, zombies emerged as the fears of having one’s labor stolen away, whether by a return of outright slavery, or as a metaphor for the confusing and exploitative way that new forms of capitalism manifested in areas such as South Africa.
+But most people might be familiar with the hordes made famous by George Romero in his film, “Night of the Living Dead.” Here, Romero presents a world turned upside down, as the unburied dead return to life. Notably, Romero never uses the term “zombie,” instead calling them” ghouls” – itself a reference to an Arabic cannibal spirit. Zombies in the late 20th century became a new metaphor, appearing as the manifestations of mindless, soulless consumerism; fears over nuclear fallout; or the threat of massive societal upheaval. In the 21st century, zombies became closely associated with a fear of disease and a collapse of society. The locus of horror had changed from a fear of losing control over oneself to a fantasy of surviving after everything else seemed to have died. Here, zombies are this utterly destructive force – destruction that you can, possibly, turn to your advantage.
+Traits
+Unique To
+Barbarians
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Maintenance Cost
+Base Cost: 1
+Gold

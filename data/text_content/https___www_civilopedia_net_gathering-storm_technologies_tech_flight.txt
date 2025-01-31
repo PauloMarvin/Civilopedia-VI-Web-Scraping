@@ -1,0 +1,58 @@
+Flight - Technologies - Civilopedia - Civilization VI
+Flight
+Description
+Receive
+Tourism on all improvements that provide
+Culture.  Amount of
+Tourism generated is equivalent to the improvement's
+Culture output.
+Historical Context
+Since the Renaissance, mankind has learned how to fly … and how to crash too. Leonardo da Vinci's visions of flight are well-known, of course, but he certainly wasn’t the first. From the earliest times there have been legends (some maybe even true) of men strapping on wings or other devices and attempting to fly, usually by jumping off something tall (most ended badly). In the Middle Ages, for instance, Armen Firman strapped wings with vulture feathers to himself and jumped off a tower in Cordoba during 852 AD. In China, man-carrying kites were the method of choice. But it wasn’t until 1783 when the Montgolfier brothers launched a manned hot-air balloon that man finally took off – and landed safely. Ballooning became all the rage across Europe.
+In 1804 Englishman George Cayley flew a fixed-wing glider model, and in 1853 he created a full-scale model which carried his (reluctant) coachman in the first manned glider flight. Fifty years later two American brothers constructed their own glider with an advanced wing shape onto which they were going to stick a gasoline engine with a “propeller.” Unable to find anyone to construct a light gasoline-powered engine to their specifications, they built their own. On December 17, the Wright flyer flew four times, at distances up to 852 feet. The years following the Wright brothers’ breakthrough saw rapid improvements in the technology of powered flight. In 1908 American Glenn Hammond Curtiss flew over one kilometer, and in 1909 Frenchman Louis Bleriot flew across the English Channel.
+World War I saw significant advances in flight technology, especially in the militarization of the air, with the creation of fighters and bombers. By the 1920s pilots were regularly flying across the continents (and crashing into them), and in 1927 Charles Lindberg completed the first nonstop solo flight across the Atlantic Ocean. Seems flying was here to stay.
+“For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.”
+– Leonardo da Vinci
+“If you can walk away from a landing, it’s a good landing. If you use the airplane the next day, it’s an outstanding landing.”
+– Chuck Yeager
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Industrialization
+Scientific Theory
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build an Industrial era or later wonder.
+Progression
+Leads to Technologies
+Radio
+Description
+Receive
+Tourism on all improvements that provide
+Culture.  Amount of
+Tourism generated is equivalent to the improvement's
+Culture output.
+Historical Context
+Since the Renaissance, mankind has learned how to fly … and how to crash too. Leonardo da Vinci's visions of flight are well-known, of course, but he certainly wasn’t the first. From the earliest times there have been legends (some maybe even true) of men strapping on wings or other devices and attempting to fly, usually by jumping off something tall (most ended badly). In the Middle Ages, for instance, Armen Firman strapped wings with vulture feathers to himself and jumped off a tower in Cordoba during 852 AD. In China, man-carrying kites were the method of choice. But it wasn’t until 1783 when the Montgolfier brothers launched a manned hot-air balloon that man finally took off – and landed safely. Ballooning became all the rage across Europe.
+In 1804 Englishman George Cayley flew a fixed-wing glider model, and in 1853 he created a full-scale model which carried his (reluctant) coachman in the first manned glider flight. Fifty years later two American brothers constructed their own glider with an advanced wing shape onto which they were going to stick a gasoline engine with a “propeller.” Unable to find anyone to construct a light gasoline-powered engine to their specifications, they built their own. On December 17, the Wright flyer flew four times, at distances up to 852 feet. The years following the Wright brothers’ breakthrough saw rapid improvements in the technology of powered flight. In 1908 American Glenn Hammond Curtiss flew over one kilometer, and in 1909 Frenchman Louis Bleriot flew across the English Channel.
+World War I saw significant advances in flight technology, especially in the militarization of the air, with the creation of fighters and bombers. By the 1920s pilots were regularly flying across the continents (and crashing into them), and in 1927 Charles Lindberg completed the first nonstop solo flight across the Atlantic Ocean. Seems flying was here to stay.
+“For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.”
+– Leonardo da Vinci
+“If you can walk away from a landing, it’s a good landing. If you use the airplane the next day, it’s an outstanding landing.”
+– Chuck Yeager
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Industrialization
+Scientific Theory
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build an Industrial era or later wonder.
+Progression
+Leads to Technologies
+Radio

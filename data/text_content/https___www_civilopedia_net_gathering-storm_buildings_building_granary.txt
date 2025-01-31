@@ -1,0 +1,38 @@
+Granary - Buildings - Civilopedia - Civilization VI
+Granary
+Historical Context
+Once farming really took off, some place was needed to put that surplus grain to keep it safe from rats, insects, and other humans. The oldest granaries yet uncovered date back to the pre-pottery Neolithic period in the Jordan Valley, c. 9500 BC. In the Indus Valley, the oldest date to 6000 BC, and the Egyptians were storing surplus grain in “silo” pits as a hedge against poor harvests by this time as well. In East Asia, the Yangshao in China were building elevated granaries along the Yellow River around 5000 BC, and eventually the Koreans (c. 1000 BC) and the Japanese (c. 800 BC) figured it out as well. In modern times, granaries – like all else – have gotten larger, automated, and more complex; the rich farmlands of the United States and Russia, especially, are dotted with huge silos and grain elevators to help feed the teeming masses of civilization.
+Traits
++1
+Food
++2
+Housing
+Requirements
+District
+City Center
+Technology
+Pottery
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Historical Context
+Once farming really took off, some place was needed to put that surplus grain to keep it safe from rats, insects, and other humans. The oldest granaries yet uncovered date back to the pre-pottery Neolithic period in the Jordan Valley, c. 9500 BC. In the Indus Valley, the oldest date to 6000 BC, and the Egyptians were storing surplus grain in “silo” pits as a hedge against poor harvests by this time as well. In East Asia, the Yangshao in China were building elevated granaries along the Yellow River around 5000 BC, and eventually the Koreans (c. 1000 BC) and the Japanese (c. 800 BC) figured it out as well. In modern times, granaries – like all else – have gotten larger, automated, and more complex; the rich farmlands of the United States and Russia, especially, are dotted with huge silos and grain elevators to help feed the teeming masses of civilization.
+Traits
++1
+Food
++2
+Housing
+Requirements
+District
+City Center
+Technology
+Pottery
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold

@@ -1,0 +1,20 @@
+Move Capital - Wonders and Projects - Civilopedia - Civilization VI
+Move Capital
+Description
+Phoenician unique project available to any city with a Cothon. When complete, the Phoenician
+Capital moves to this city.
+Traits
+Unique To
+Phoenicia
+Requirements
+District
+Cothon
+Description
+Phoenician unique project available to any city with a Cothon. When complete, the Phoenician
+Capital moves to this city.
+Traits
+Unique To
+Phoenicia
+Requirements
+District
+Cothon

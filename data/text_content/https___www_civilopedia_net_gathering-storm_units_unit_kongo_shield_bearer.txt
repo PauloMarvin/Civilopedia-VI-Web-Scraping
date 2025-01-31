@@ -1,0 +1,70 @@
+Ngao Mbeba - Units - Civilopedia - Civilization VI
+Ngao Mbeba
+Description
+Kongo unique Classical era unit that replaces the Swordsman. +10
+Combat Strength when defending against ranged attacks. Can move and see through Woods and Rainforest.
+Historical Context
+The Kingdom of Kongo’s army was a mass of archers with a smaller contingent of heavy infantry, which carried swords and shields. The colonial Portuguese referred to the latter in their accounts as adagueiros (“shield-bearers”) while in the few surviving native documents the Swahili term ngao mbeba is used. While the archers were militia conscripts in time of war, there is some evidence that the standing ngao mbeba were supported by stipends from the king. Perhaps as many as 20 thousand were garrisoned in the capital, with smaller contingents in the provinces under the command of the local authority. Under king Afonso I, a small unit of Portuguese-armed native musketmen was raised, and eventually the old shield-bearers were replaced by the deadlier youngsters.
+Traits
+Unique To
+Kongo
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 110
+Production
+Base Resource Cost: 5
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Kongo unique Classical era unit that replaces the Swordsman. +10
+Combat Strength when defending against ranged attacks. Can move and see through Woods and Rainforest.
+Historical Context
+The Kingdom of Kongo’s army was a mass of archers with a smaller contingent of heavy infantry, which carried swords and shields. The colonial Portuguese referred to the latter in their accounts as adagueiros (“shield-bearers”) while in the few surviving native documents the Swahili term ngao mbeba is used. While the archers were militia conscripts in time of war, there is some evidence that the standing ngao mbeba were supported by stipends from the king. Perhaps as many as 20 thousand were garrisoned in the capital, with smaller contingents in the provinces under the command of the local authority. Under king Afonso I, a small unit of Portuguese-armed native musketmen was raised, and eventually the old shield-bearers were replaced by the deadlier youngsters.
+Traits
+Unique To
+Kongo
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 110
+Production
+Base Resource Cost: 5
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

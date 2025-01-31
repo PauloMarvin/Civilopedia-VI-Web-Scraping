@@ -1,0 +1,68 @@
+Saka Horse Archer - Units - Civilopedia - Civilization VI
+Saka Horse Archer
+Description
+Scythian unique Classical era unit. Ranged unit with 4
+Movement with a
+Range of 1.
+Historical Context
+The term “Saka” may refer to the Persian and Sanskrit word for the Scythians, or it may refer to a specific tribe among those horse-barbarians to the north of Assyria. Most of the confusion seems to the ambiguous usage of Saka among the ancient “historians” – Herodotus, Strabo, Pliny the Elder, and that lot. Herodotus states that the Saka were horse archers, riding without saddles or stirrups, and distinguished by wearing quilted trousers, open tunics and “high caps tapering to a point and stiffly upright.” These horse archers were feared in the open, mostly for harassing a moving column or raiding the baggage trains, but not very good in a stand-up fight. As Alexander the Great had shown at the battle of Jaxartes (329 BC) the Saka had no staying power, and could be readily driven off by massed infantry in depth supported by ample numbers of foot archers, whose greater range and rate of fire gave them a distinct advantage over the mounted ones.
+Traits
+Unique To
+Scythia
+Upgrades To
+Crossbowman
+Voi Chiến
+Promotion Class: Ranged
+4
+Movement Points
+20
+Melee Strength
+25
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 100
+Production
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Scythian unique Classical era unit. Ranged unit with 4
+Movement with a
+Range of 1.
+Historical Context
+The term “Saka” may refer to the Persian and Sanskrit word for the Scythians, or it may refer to a specific tribe among those horse-barbarians to the north of Assyria. Most of the confusion seems to the ambiguous usage of Saka among the ancient “historians” – Herodotus, Strabo, Pliny the Elder, and that lot. Herodotus states that the Saka were horse archers, riding without saddles or stirrups, and distinguished by wearing quilted trousers, open tunics and “high caps tapering to a point and stiffly upright.” These horse archers were feared in the open, mostly for harassing a moving column or raiding the baggage trains, but not very good in a stand-up fight. As Alexander the Great had shown at the battle of Jaxartes (329 BC) the Saka had no staying power, and could be readily driven off by massed infantry in depth supported by ample numbers of foot archers, whose greater range and rate of fire gave them a distinct advantage over the mounted ones.
+Traits
+Unique To
+Scythia
+Upgrades To
+Crossbowman
+Voi Chiến
+Promotion Class: Ranged
+4
+Movement Points
+20
+Melee Strength
+25
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 100
+Production
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

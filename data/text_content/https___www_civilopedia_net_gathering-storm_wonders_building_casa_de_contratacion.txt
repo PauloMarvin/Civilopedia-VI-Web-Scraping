@@ -1,0 +1,58 @@
+Casa de Contratación - Wonders and Projects - Civilopedia - Civilization VI
+Casa de Contratación
+Description
+Gain 3
+Governor promotions.  All your cities not on your original
+Capital's continent with a
+Governor gain +15%
+Production, +15%
+Faith and +15%
+Gold. Must be built adjacent to a Government Plaza.
+Historical Context
+When Spain joined the late 15th Century’s exploration race, Queen Isabella I of Castile and Ferdinand II of Aragón realized they needed a firmer grasp on colonial trade and expansion. Through their Casa de Contratación, a “House of Trade” created to regulate trade and procurement, the Spanish crown controlled everything related to trade and sea travel down to the smallest details. Even their navigation and cartography school kept literal trade secrets in house.
+Seville was home to the first incarnation of the Casa de Contración, but the agency moved to Cádiz in 1717. Moving to a city near the southern tip of Spain streamlined the influx of ships, which had previously traveled up the highly trafficked Guadalquivir River. The Casa remained in Cádiz until its termination in 1790 due to the empire’s growing debts.
+“All other lands found on the western side of the boundary shall belong to the King and Queen of Castille—and their successors.”
+– Treaty of Tordesillas
+Traits
+Removed if game started after
+Modern Era
++3
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Cartography
+Adjacency
+Government Plaza
+Production Cost
+Base Cost: 920
+Production
+Description
+Gain 3
+Governor promotions.  All your cities not on your original
+Capital's continent with a
+Governor gain +15%
+Production, +15%
+Faith and +15%
+Gold. Must be built adjacent to a Government Plaza.
+Historical Context
+When Spain joined the late 15th Century’s exploration race, Queen Isabella I of Castile and Ferdinand II of Aragón realized they needed a firmer grasp on colonial trade and expansion. Through their Casa de Contratación, a “House of Trade” created to regulate trade and procurement, the Spanish crown controlled everything related to trade and sea travel down to the smallest details. Even their navigation and cartography school kept literal trade secrets in house.
+Seville was home to the first incarnation of the Casa de Contración, but the agency moved to Cádiz in 1717. Moving to a city near the southern tip of Spain streamlined the influx of ships, which had previously traveled up the highly trafficked Guadalquivir River. The Casa remained in Cádiz until its termination in 1790 due to the empire’s growing debts.
+“All other lands found on the western side of the boundary shall belong to the King and Queen of Castille—and their successors.”
+– Treaty of Tordesillas
+Traits
+Removed if game started after
+Modern Era
++3
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Cartography
+Adjacency
+Government Plaza
+Production Cost
+Base Cost: 920
+Production

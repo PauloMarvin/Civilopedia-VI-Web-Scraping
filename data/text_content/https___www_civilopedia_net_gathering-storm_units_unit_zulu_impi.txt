@@ -1,0 +1,62 @@
+Impi - Units - Civilopedia - Civilization VI
+Impi
+Description
+Zulu unique Medieval Era unit that replaces the Pikeman. Increased Flanking bonus, low cost and low maintenance. Earns XP faster.
+Historical Context
+The powerful warrior regiments of the Zulu were already a formidable force when the ambitious Shaka taught them new techniques: combining the iklwa (a short, stabbing spear with a broader blade than a throwing spear) and the ishlangu (a large, oval shield with cowhide layered on top). They trained to form shield walls, both to blunt projectiles and to hide their true numbers, and attack with a “buffalo horns” formation—greener troops would sweep out and around to pin the enemy’s flanks (the horns), while a more experienced center would slam into the pinned enemy (the rest of the buffalo).
+The impi training regimes under Shaka were nothing less than brutal, but harsh conditioning led to tightly bonded, well-disciplined soldiers able to carry out complex formations with ease. The impi became a highly mobile force, nigh-unstoppable against anything short of repeating rifles and high explosives.
+Traits
+Unique To
+Zulu
+Upgrades To
+Pike and Shot
+Carolean
+Upgrade From
+Spearman
+Promotion Class: Anti Cavalry
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 125
+Production
+Purchase Cost
+Base Cost: 500
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Zulu unique Medieval Era unit that replaces the Pikeman. Increased Flanking bonus, low cost and low maintenance. Earns XP faster.
+Historical Context
+The powerful warrior regiments of the Zulu were already a formidable force when the ambitious Shaka taught them new techniques: combining the iklwa (a short, stabbing spear with a broader blade than a throwing spear) and the ishlangu (a large, oval shield with cowhide layered on top). They trained to form shield walls, both to blunt projectiles and to hide their true numbers, and attack with a “buffalo horns” formation—greener troops would sweep out and around to pin the enemy’s flanks (the horns), while a more experienced center would slam into the pinned enemy (the rest of the buffalo).
+The impi training regimes under Shaka were nothing less than brutal, but harsh conditioning led to tightly bonded, well-disciplined soldiers able to carry out complex formations with ease. The impi became a highly mobile force, nigh-unstoppable against anything short of repeating rifles and high explosives.
+Traits
+Unique To
+Zulu
+Upgrades To
+Pike and Shot
+Carolean
+Upgrade From
+Spearman
+Promotion Class: Anti Cavalry
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 125
+Production
+Purchase Cost
+Base Cost: 500
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

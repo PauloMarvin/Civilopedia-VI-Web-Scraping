@@ -1,0 +1,60 @@
+Mountie - Units - Civilopedia - Civilization VI
+Mountie
+Description
+Canadian unique Modern era unit. Can create 2 National Parks. +5
+Combat Strength when fighting within 2 tiles of a National Park. Additional +5
+Combat Strength when fighting within 2 tiles of a National Park you own.
+Historical Context
+The Royal Canadian Mounted Police are a law enforcement body, not a military unit (sorry!), and were originally created to help establish the law in the Canadian frontier. Their distinctive dress uniform of Red Serge jacket, campaign hat, and Strathcona boots are universally recognized and one of the enduring images of Canada. They are courteous, disciplined, professional, and they always get their man.
+In 1873, Parliament of Canada established the North-West Mounted Police, sending 150 recruits into Manitoba, including the legendary Sam Steele, who would go on to become Superintendent of the NWMP and one of Canada's greatest heroes. Wilfrid Laurier wanted to disband the growing NWMP, but the discovery of gold in the Klondike and the subsequent gold rush proved the need for law enforcement in the frontier. Eight Mounties were killed during the North-West Rebellion. King Edward VII awarded the NWMP the Royal title in 1904. In 1919, the Mounties were merged with the Dominion Police, which were an Eastern Canadian federal police force, and the organization was renamed the Royal Canadian Mounted Police.
+It is difficult to conceive of the immense size of the territory that a relatively small band of Mounties would patrol. Whether shutting down illegal whiskey distilling, or negotiating with bands of First Nations, or pursuing criminals beyond the far fringes of civilization, the Mounties were often the only government presence in the frontiers. Their isolation meant that they needed to build support with the people of that land, and in this they were widely praised. The First Nations especially had a far more positive relationship with the Mounties than any US police or military force.
+Today the Mounties are one of the best-equipped and flexible law enforcement units in the world. Although the last dogsled patrol ended in 1969, they still serve as the representatives of the government and the defenders of justice. And today, as since 1873, they always get their man.
+Traits
+Unique To
+Canada
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Civic
+Conservation
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Canadian unique Modern era unit. Can create 2 National Parks. +5
+Combat Strength when fighting within 2 tiles of a National Park. Additional +5
+Combat Strength when fighting within 2 tiles of a National Park you own.
+Historical Context
+The Royal Canadian Mounted Police are a law enforcement body, not a military unit (sorry!), and were originally created to help establish the law in the Canadian frontier. Their distinctive dress uniform of Red Serge jacket, campaign hat, and Strathcona boots are universally recognized and one of the enduring images of Canada. They are courteous, disciplined, professional, and they always get their man.
+In 1873, Parliament of Canada established the North-West Mounted Police, sending 150 recruits into Manitoba, including the legendary Sam Steele, who would go on to become Superintendent of the NWMP and one of Canada's greatest heroes. Wilfrid Laurier wanted to disband the growing NWMP, but the discovery of gold in the Klondike and the subsequent gold rush proved the need for law enforcement in the frontier. Eight Mounties were killed during the North-West Rebellion. King Edward VII awarded the NWMP the Royal title in 1904. In 1919, the Mounties were merged with the Dominion Police, which were an Eastern Canadian federal police force, and the organization was renamed the Royal Canadian Mounted Police.
+It is difficult to conceive of the immense size of the territory that a relatively small band of Mounties would patrol. Whether shutting down illegal whiskey distilling, or negotiating with bands of First Nations, or pursuing criminals beyond the far fringes of civilization, the Mounties were often the only government presence in the frontiers. Their isolation meant that they needed to build support with the people of that land, and in this they were widely praised. The First Nations especially had a far more positive relationship with the Mounties than any US police or military force.
+Today the Mounties are one of the best-equipped and flexible law enforcement units in the world. Although the last dogsled patrol ended in 1969, they still serve as the representatives of the government and the defenders of justice. And today, as since 1873, they always get their man.
+Traits
+Unique To
+Canada
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Civic
+Conservation
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

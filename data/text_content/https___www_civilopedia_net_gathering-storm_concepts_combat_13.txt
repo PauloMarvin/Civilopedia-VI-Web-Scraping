@@ -1,0 +1,14 @@
+Pillaging - Concepts - Civilopedia - Civilization VI
+Pillaging
+Pillaging
+Both improvements and buildings in districts without garrisons can be pillaged. This action renders them inoperable and awards the pillaging unit with some form of "plunder." With the exception of healing, these plunder awards increase in magnitude as you progress through the game.
+Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district. Refer to the district's page for specific yields. Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the
+Production cost of initial construction of that building.)
+Pillaging an improvement will take 3 Movement Points, or all your movement (if you have
+Movement Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).Refer to the improvement's page for specific yields.
+Pillaging
+Both improvements and buildings in districts without garrisons can be pillaged. This action renders them inoperable and awards the pillaging unit with some form of "plunder." With the exception of healing, these plunder awards increase in magnitude as you progress through the game.
+Pillaging a district takes 3 Movement Points, or all of your movement. Each building in a district must be pillaged separately, and awards some sort of plunder based on the district. Refer to the district's page for specific yields. Once pillaged, a building cannot be pillaged again until it is brought back online by its owner (done through the Production Menu and takes 25% of the
+Production cost of initial construction of that building.)
+Pillaging an improvement will take 3 Movement Points, or all your movement (if you have
+Movement Points of less than 3).  It will mark the improvement in the tile as "pillaged".  Once pillaged, an improvement cannot be pillaged again until it is brought back online by its owner (a Builder operation that always takes one turn but does not require a Builder charge).Refer to the improvement's page for specific yields.

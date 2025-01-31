@@ -1,0 +1,50 @@
+Rifling - Technologies - Civilopedia - Civilization VI
+Rifling
+Historical Context
+Rifling is merely the cutting of helical grooves into the inner part of a gun barrel so as to induce spin in a ball or bullet which serves to gyroscopically stabilize the projectile, giving it greater accuracy and range. In short, all this means is that it took a skilled marksman to hit anything specific with a smoothbore musket, but any fool with a steady hand has a fair chance of success firing a rifle at a target.
+Although problematic to decide who first came up with the idea, rifling of musket barrels was begun by several gunsmiths in Augsburg in the late 15th Century; August Kotter, in Nuremburg, improved upon the design around 1520 AD. However, rifling wasn’t particularly effective with black-powder weapons, due to the residue left behind in the barrel (thus mucking up the grooves); the most effective rifled black-powder weapons were breech-loaded pistols, such as the Queen Anne flintlock. Although rifling dates from the 16th Century, it didn’t become common until the wars of the Industrial Age.
+In the early 1700s Benjamin Robins, an English mathematician, proved that an elongated “bullet” rather than a ball would retain the spin from a rifle barrel but cut the air resistance better. Within a couple decades, most continental armies had rifle battalions to augment the musket-armed infantry regiments. At first these units were used to snipe at enemy officers … sharpshooters in truth. But by the time of the Napoleonic wars, and more so during the American Civil War, rifle-armed troops were integrated into the regular line infantry.
+In 1866, breech-loading rifles were being developed: the German “needle” gun, French Tabatière, British Snider-Enfield. Bolt action rifles such as the Chassepot meant that rifles could be loaded faster and fired even from the prone position. The American Colt “Revolving Rifle” was the first “repeating” rifle. Except for some deadly refinements – like automatic fire and telescopic sights – rifling had reached its apex.
+“Bolt actions speak louder than words.”
+– Craig Roberts
+“Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.”
+– The 2nd Target Company
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Ballistics
+Military Science
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build a Niter Mine.
+Progression
+Leads to Technologies
+Steel
+Refining
+Historical Context
+Rifling is merely the cutting of helical grooves into the inner part of a gun barrel so as to induce spin in a ball or bullet which serves to gyroscopically stabilize the projectile, giving it greater accuracy and range. In short, all this means is that it took a skilled marksman to hit anything specific with a smoothbore musket, but any fool with a steady hand has a fair chance of success firing a rifle at a target.
+Although problematic to decide who first came up with the idea, rifling of musket barrels was begun by several gunsmiths in Augsburg in the late 15th Century; August Kotter, in Nuremburg, improved upon the design around 1520 AD. However, rifling wasn’t particularly effective with black-powder weapons, due to the residue left behind in the barrel (thus mucking up the grooves); the most effective rifled black-powder weapons were breech-loaded pistols, such as the Queen Anne flintlock. Although rifling dates from the 16th Century, it didn’t become common until the wars of the Industrial Age.
+In the early 1700s Benjamin Robins, an English mathematician, proved that an elongated “bullet” rather than a ball would retain the spin from a rifle barrel but cut the air resistance better. Within a couple decades, most continental armies had rifle battalions to augment the musket-armed infantry regiments. At first these units were used to snipe at enemy officers … sharpshooters in truth. But by the time of the Napoleonic wars, and more so during the American Civil War, rifle-armed troops were integrated into the regular line infantry.
+In 1866, breech-loading rifles were being developed: the German “needle” gun, French Tabatière, British Snider-Enfield. Bolt action rifles such as the Chassepot meant that rifles could be loaded faster and fired even from the prone position. The American Colt “Revolving Rifle” was the first “repeating” rifle. Except for some deadly refinements – like automatic fire and telescopic sights – rifling had reached its apex.
+“Bolt actions speak louder than words.”
+– Craig Roberts
+“Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.”
+– The 2nd Target Company
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Ballistics
+Military Science
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build a Niter Mine.
+Progression
+Leads to Technologies
+Steel
+Refining

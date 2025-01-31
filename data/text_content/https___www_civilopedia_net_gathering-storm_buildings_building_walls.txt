@@ -1,0 +1,34 @@
+Ancient Walls - Buildings - Civilopedia - Civilization VI
+Ancient Walls
+Description
+Provides Walls around the City Center and Encampment district. Walls allow
+Ranged Strikes from the City Center and Encampment district, and must be defeated before a city can be assaulted. Provides 1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+Until things like gunpowder, bomber aircraft, and nuclear missiles made them rather pointless, city walls were pretty important if a city wanted to stay inviolate. If a town wanted to keep its citizens relatively safe and its stuff relatively secure from the barbarians at the gates, it needed a relatively strong wall surrounding it. The Sumerian city of Uruk is the oldest known settlement completely enclosed by a wall, in this case supposedly built by the god-king Gilgamesh. Some of the early settlements in the Indus Valley – such as Kot Diji – had massive stone-and-brick walls for protection. On the other hand, if the city was inhabited by awesome warriors, it could generally get by without walls – Sparta and Rome survived for several centuries before walls were built. Today, what portions of city walls remain are either ignored or consider part of the “local color.”
+Traits
++100 Outer defense
+Requirements
+District
+City Center
+Technology
+Masonry
+Production Cost
+Base Cost: 80
+Production
+Description
+Provides Walls around the City Center and Encampment district. Walls allow
+Ranged Strikes from the City Center and Encampment district, and must be defeated before a city can be assaulted. Provides 1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+Until things like gunpowder, bomber aircraft, and nuclear missiles made them rather pointless, city walls were pretty important if a city wanted to stay inviolate. If a town wanted to keep its citizens relatively safe and its stuff relatively secure from the barbarians at the gates, it needed a relatively strong wall surrounding it. The Sumerian city of Uruk is the oldest known settlement completely enclosed by a wall, in this case supposedly built by the god-king Gilgamesh. Some of the early settlements in the Indus Valley – such as Kot Diji – had massive stone-and-brick walls for protection. On the other hand, if the city was inhabited by awesome warriors, it could generally get by without walls – Sparta and Rome survived for several centuries before walls were built. Today, what portions of city walls remain are either ignored or consider part of the “local color.”
+Traits
++100 Outer defense
+Requirements
+District
+City Center
+Technology
+Masonry
+Production Cost
+Base Cost: 80
+Production

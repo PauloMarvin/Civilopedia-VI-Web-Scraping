@@ -1,0 +1,66 @@
+Mamluk - Units - Civilopedia - Civilization VI
+Mamluk
+Description
+Arabian unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.
+Historical Context
+Although the term mamluk simply means “property” or “owned slave” in Arabic, most think of the military caste in medieval Islam as the only mamalik (the plural form) in history. They are certainly the most famous. Although there is disagreement among scholars, most agree that the mamluk slave-warriors arose during the reign of the Abbasid caliphs of Bagdad sometime around the 9th Century AD. These warriors were primarily of Kipchak, Circassian, Georgian, and Balkan tribes, captured or sold into slavery, and proved devoted converts to Islam, superb horsemen, and vicious adversaries. Over time the mamluks became a political power – as in Cairo where they established a sultanate – in many Muslim kingdoms, where they sometimes served as kingmakers (well, sultan-makers). So successful and influential was the mamluk caste that it survived 1000 years until wiped out by the Ottoman general Muhammed Ali Pasha in 1811.
+Traits
+Unique To
+Arabia
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+50
+Melee Strength
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Arabian unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.
+Historical Context
+Although the term mamluk simply means “property” or “owned slave” in Arabic, most think of the military caste in medieval Islam as the only mamalik (the plural form) in history. They are certainly the most famous. Although there is disagreement among scholars, most agree that the mamluk slave-warriors arose during the reign of the Abbasid caliphs of Bagdad sometime around the 9th Century AD. These warriors were primarily of Kipchak, Circassian, Georgian, and Balkan tribes, captured or sold into slavery, and proved devoted converts to Islam, superb horsemen, and vicious adversaries. Over time the mamluks became a political power – as in Cairo where they established a sultanate – in many Muslim kingdoms, where they sometimes served as kingmakers (well, sultan-makers). So successful and influential was the mamluk caste that it survived 1000 years until wiped out by the Ottoman general Muhammed Ali Pasha in 1811.
+Traits
+Unique To
+Arabia
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+50
+Melee Strength
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

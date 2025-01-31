@@ -1,0 +1,40 @@
+Aqueduct - Districts - Civilopedia - Civilization VI
+Aqueduct
+Description
+A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6
+Housing. Cities that already have existing fresh water will instead get +2
+Housing. If built adjacent to a Geothermal Fissure +1
+Amenity. Prevents
+Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of an Aqueduct's production.
+Historical Context
+The remains of aqueducts – man-made watercourses – have been found scattered about ancient settlements around the world … Egypt, India, Persia, Greece, Azteca, and especially across the once-Roman lands. Over 415 kilometers (about 258 miles) of aqueducts brought fresh water to the metropolis of Rome for drinking and bathing. These Roman aqueducts were marvels of engineering (considering the times) and often roofed, so also serving as bridges where they crossed ravines and waterways. Although there were some health issues involved in the design of aqueducts (notably the sometime use of lead to line them), in general a supply of relatively-clean water was a boon to any town hoping to grow into a city.
+Traits
+Replaced By
+Bath
+Requirements
+Technology
+Engineering
+Placement
+Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain
+Production Cost
+Base Cost: 36
+Production
+Description
+A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6
+Housing. Cities that already have existing fresh water will instead get +2
+Housing. If built adjacent to a Geothermal Fissure +1
+Amenity. Prevents
+Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of an Aqueduct's production.
+Historical Context
+The remains of aqueducts – man-made watercourses – have been found scattered about ancient settlements around the world … Egypt, India, Persia, Greece, Azteca, and especially across the once-Roman lands. Over 415 kilometers (about 258 miles) of aqueducts brought fresh water to the metropolis of Rome for drinking and bathing. These Roman aqueducts were marvels of engineering (considering the times) and often roofed, so also serving as bridges where they crossed ravines and waterways. Although there were some health issues involved in the design of aqueducts (notably the sometime use of lead to line them), in general a supply of relatively-clean water was a boon to any town hoping to grow into a city.
+Traits
+Replaced By
+Bath
+Requirements
+Technology
+Engineering
+Placement
+Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain
+Production Cost
+Base Cost: 36
+Production

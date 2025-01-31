@@ -1,0 +1,40 @@
+Convert to Nuclear Power - Wonders and Projects - Civilopedia - Civilization VI
+Convert to Nuclear Power
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Nuclear Power Plant.
+Nuclear Power Plant:
+Automatically converts any amount of
+Uranium into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Uranium
+16
+Power
+Miniscule CO2 into the atmosphere
+Once built, as a Nuclear Power Plant ages, there is an increased chance for a Nuclear Accident to occur. Its
+Production and
+Science bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Requirements
+District
+Industrial Zone
+Technology
+Nuclear Fission
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Nuclear Power Plant.
+Nuclear Power Plant:
+Automatically converts any amount of
+Uranium into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Uranium
+16
+Power
+Miniscule CO2 into the atmosphere
+Once built, as a Nuclear Power Plant ages, there is an increased chance for a Nuclear Accident to occur. Its
+Production and
+Science bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Requirements
+District
+Industrial Zone
+Technology
+Nuclear Fission

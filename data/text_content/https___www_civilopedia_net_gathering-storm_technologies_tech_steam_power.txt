@@ -1,0 +1,54 @@
+Steam Power - Technologies - Civilopedia - Civilization VI
+Steam Power
+Description
++2
+Movement for embarked units.
+Historical Context
+When heated to boiling, water produces steam. Even barbarians knew this. But harnessing that steam wasn’t thought of until Taqi al-Din Muhammed ibn Ma’ruf described a hypothetical steam turbine for turning a spit in 1551 AD. The move towards a workable steam engine gets started a century later when Edward Somerset published a collection on his “inventions,” including a steam pump, a working model of which he built in Raglan Castle. But he died before he could put it to use in mining as he’d planned. In 1680 Huygens published memoirs describing an engine that drives a piston; in 1698 one Thomas Savery builds a virtual copy of Somerset’s machine … and patents it in just about every use to which steam power could be put.
+But in 1705 Thomas Newcomen coupled a steam boiler with a piston in a cylinder. Seven years later, now partnered with the unsavory Savery he installed his first commercial steam engine, intended to pump water out of mines. Soon enough every inventor was harnessing the “power of steam” to every conceivable machine imaginable, though occasionally blowing themselves up along with their boilers. In 1769, James Watt invented the separate condenser, installing a second cylinder with a water jet – making the steam engine both practical and much safer.
+The “Industrial Revolution” arrived with steam. By 1802 steam engines were being installed in boats, and in 1825 steam railroads were in operation. Steam power revolutionized industry and transportation across the world. Within a century the globe was crisscrossed by rail lines and steamship routes. Steam-powered factory machines were turning out tens of millions of tons of commercial and consumer goods. The industrialized nations enjoyed a huge increase in productivity and wealth and pollution. Coal, the primary fuel used in steam engines, was being feverishly mined around the planet.
+Eventually steam engines would be replaced by internal combustion engines, more efficient and a little less polluting. But before oil, steam was king, and our civilized world would never have existed without it.
+“It is arguable whether the human race have been gainers by the march of science beyond the steam engine.”
+– Winston Churchill
+“Science owes more to the steam engine than the steam engine owes to science.”
+– Lawrence Henderson
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Industrialization
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Shipyards.
+Progression
+Leads to Technologies
+Electricity
+Radio
+Description
++2
+Movement for embarked units.
+Historical Context
+When heated to boiling, water produces steam. Even barbarians knew this. But harnessing that steam wasn’t thought of until Taqi al-Din Muhammed ibn Ma’ruf described a hypothetical steam turbine for turning a spit in 1551 AD. The move towards a workable steam engine gets started a century later when Edward Somerset published a collection on his “inventions,” including a steam pump, a working model of which he built in Raglan Castle. But he died before he could put it to use in mining as he’d planned. In 1680 Huygens published memoirs describing an engine that drives a piston; in 1698 one Thomas Savery builds a virtual copy of Somerset’s machine … and patents it in just about every use to which steam power could be put.
+But in 1705 Thomas Newcomen coupled a steam boiler with a piston in a cylinder. Seven years later, now partnered with the unsavory Savery he installed his first commercial steam engine, intended to pump water out of mines. Soon enough every inventor was harnessing the “power of steam” to every conceivable machine imaginable, though occasionally blowing themselves up along with their boilers. In 1769, James Watt invented the separate condenser, installing a second cylinder with a water jet – making the steam engine both practical and much safer.
+The “Industrial Revolution” arrived with steam. By 1802 steam engines were being installed in boats, and in 1825 steam railroads were in operation. Steam power revolutionized industry and transportation across the world. Within a century the globe was crisscrossed by rail lines and steamship routes. Steam-powered factory machines were turning out tens of millions of tons of commercial and consumer goods. The industrialized nations enjoyed a huge increase in productivity and wealth and pollution. Coal, the primary fuel used in steam engines, was being feverishly mined around the planet.
+Eventually steam engines would be replaced by internal combustion engines, more efficient and a little less polluting. But before oil, steam was king, and our civilized world would never have existed without it.
+“It is arguable whether the human race have been gainers by the march of science beyond the steam engine.”
+– Winston Churchill
+“Science owes more to the steam engine than the steam engine owes to science.”
+– Lawrence Henderson
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Industrialization
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Shipyards.
+Progression
+Leads to Technologies
+Electricity
+Radio

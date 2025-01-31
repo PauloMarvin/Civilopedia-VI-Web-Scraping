@@ -1,0 +1,52 @@
+Currency - Technologies - Civilopedia - Civilization VI
+Currency
+Description
+Unlocks ability to create Industries
+Historical Context
+Currency, where something relatively worthless in itself represents some amount of actual value, has been the bane of civilization since around 2000 BC, when a form of receipt was used to show ownership of stored grain in temples in Sumer. The Egyptians soon adopted the practice for their own grain warehouses, so that individuals could claim a portion they had “banked” therein. Then small bits of rare metals, a lot easier to keep track of than written receipts (especially since these were on clay tablets), came to represent certain amounts of various commodities, able to be exchanged … or hoarded. Thus, wealth was determined by how many of these bits a person had.
+But the collapse of the Mesopotamian and Mediterranean trading economy around 1100 BC revealed a flaw in this concept of circulating currency – it was only as good as the guarantees of worth that backed it. It was only with the recovery of Phoenician trade across the Mediterranean that coinage made a reappearance, this time being backed by rulers of the city-states of Phoenicia and Greece. Most of the major economies of the time were soon minting coins, usually out of gold or silver or copper. Trade flourished, taxes could be paid, banking evolved, and now people could even go into debt (a whole new concept).
+It was left to the Chinese to “invent” paper currency, initially in the form of promissory notes from wholesaler’s shops backed by the merchant, but these were only useful in the local region. The Song dynasty began issuing a more universal paper currency based on the state monopoly of salt production. It took until the 13th Century for this paper money to finally become standardized and acceptable across the kingdom. Around the same time, the Islamic nations adopted the practice and established a stable, high-value currency (the dinar). A vibrant and vigorous monetary economy resulted; the Muslims thus were the first to have credit, cheques, savings accounts, trusts, exchange rates, and all the other wonders of a “modern” economy.
+“Wealth consists not in having great possessions, but in having few wants.”
+- Epictetus
+“Money, if it does not bring you happiness, will at least help you be miserable in comfort.”
+– Helen Gurley Brown
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Writing
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Make a
+Trade Route.
+Progression
+Leads to Technologies
+Mathematics
+Apprenticeship
+Description
+Unlocks ability to create Industries
+Historical Context
+Currency, where something relatively worthless in itself represents some amount of actual value, has been the bane of civilization since around 2000 BC, when a form of receipt was used to show ownership of stored grain in temples in Sumer. The Egyptians soon adopted the practice for their own grain warehouses, so that individuals could claim a portion they had “banked” therein. Then small bits of rare metals, a lot easier to keep track of than written receipts (especially since these were on clay tablets), came to represent certain amounts of various commodities, able to be exchanged … or hoarded. Thus, wealth was determined by how many of these bits a person had.
+But the collapse of the Mesopotamian and Mediterranean trading economy around 1100 BC revealed a flaw in this concept of circulating currency – it was only as good as the guarantees of worth that backed it. It was only with the recovery of Phoenician trade across the Mediterranean that coinage made a reappearance, this time being backed by rulers of the city-states of Phoenicia and Greece. Most of the major economies of the time were soon minting coins, usually out of gold or silver or copper. Trade flourished, taxes could be paid, banking evolved, and now people could even go into debt (a whole new concept).
+It was left to the Chinese to “invent” paper currency, initially in the form of promissory notes from wholesaler’s shops backed by the merchant, but these were only useful in the local region. The Song dynasty began issuing a more universal paper currency based on the state monopoly of salt production. It took until the 13th Century for this paper money to finally become standardized and acceptable across the kingdom. Around the same time, the Islamic nations adopted the practice and established a stable, high-value currency (the dinar). A vibrant and vigorous monetary economy resulted; the Muslims thus were the first to have credit, cheques, savings accounts, trusts, exchange rates, and all the other wonders of a “modern” economy.
+“Wealth consists not in having great possessions, but in having few wants.”
+- Epictetus
+“Money, if it does not bring you happiness, will at least help you be miserable in comfort.”
+– Helen Gurley Brown
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Writing
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Make a
+Trade Route.
+Progression
+Leads to Technologies
+Mathematics
+Apprenticeship

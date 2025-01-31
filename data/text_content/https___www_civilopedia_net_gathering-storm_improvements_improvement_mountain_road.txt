@@ -1,0 +1,48 @@
+Qhapaq Ñan - Improvements and Routes - Civilopedia - Civilization VI
+Qhapaq Ñan
+Description
+Unlocks the Builder ability to construct a Qhapaq Ñan, unique to Pachacuti.
+Acts as a movement portal on a mountain range, allowing units to move into it and exit from another portal at the cost of 2
+Movement.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination. Can only be built on an adjacent Mountain tile. Cannot be pillaged or removed.
+Historical Context
+The Qhapac Ñan, also known as the Andean Road System, is a network of roads used by the Incan empire. What makes this site so remarkable isn't simply the distance covered – over 30,000 km – but also the terrain through which the roads travel - the mountains of the Andes, deserts, and lush rainforests. While the roads were used for transporting goods – usually by llama or alpaca – there was also in place a speedy messenger system. The chasquis were quick and agile men who would run through the extensive network of roads to pass messages to one another at relay stations until the message reached its final destination.
+The Andean Road System was a truly innovative means for keeping such a vast empire connected, and to some extent, controlled by a central power.
+Traits
+Unique To
+Pachacuti
+Requirements
+Civic
+Foreign Trade
+Grassland (Mountain)
+Plains (Mountain)
+Desert (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Qhapaq Ñan, unique to Pachacuti.
+Acts as a movement portal on a mountain range, allowing units to move into it and exit from another portal at the cost of 2
+Movement.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination. Can only be built on an adjacent Mountain tile. Cannot be pillaged or removed.
+Historical Context
+The Qhapac Ñan, also known as the Andean Road System, is a network of roads used by the Incan empire. What makes this site so remarkable isn't simply the distance covered – over 30,000 km – but also the terrain through which the roads travel - the mountains of the Andes, deserts, and lush rainforests. While the roads were used for transporting goods – usually by llama or alpaca – there was also in place a speedy messenger system. The chasquis were quick and agile men who would run through the extensive network of roads to pass messages to one another at relay stations until the message reached its final destination.
+The Andean Road System was a truly innovative means for keeping such a vast empire connected, and to some extent, controlled by a central power.
+Traits
+Unique To
+Pachacuti
+Requirements
+Civic
+Foreign Trade
+Grassland (Mountain)
+Plains (Mountain)
+Desert (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Usage
+Built By
+Builder

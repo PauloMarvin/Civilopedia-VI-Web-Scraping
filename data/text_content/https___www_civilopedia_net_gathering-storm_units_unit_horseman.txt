@@ -1,0 +1,58 @@
+Horseman - Units - Civilopedia - Civilization VI
+Horseman
+Description
+Fast-moving Classical era light cavalry unit.
+Historical Context
+Before the Iron Age, the role of horsemen was largely filled by light chariots, useful both for reconnaissance and in battle. Though occasionally used by commanders and couriers, the horses of the age were too small to carry much weight and were damn expensive. Around 2000 BC, however, those living in the Central Asian steppes domesticated and cultivated larger, stockier, and hardier breeds. Armed with spears, swords and eventually bows, these horsemen generally raised hell … and changed the face of warfare. Soon enough the Greeks to the west and Chinese to the east adapted mounted warriors for their own purposes, then everyone around did as well. But it was the development of the stirrup attached to a sturdy saddle that made horsemen the dominant shock weapon on the battlefield; the earliest saddles with stirrups date from c. 300 AD, and over the next four centuries the innovation spread across Asia and into Europe.
+Traits
+Upgrades To
+Courser
+Black Army
+Oromo Cavalry
+Promotion Class: Light Cavalry
+4
+Movement Points
+36
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 80
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Fast-moving Classical era light cavalry unit.
+Historical Context
+Before the Iron Age, the role of horsemen was largely filled by light chariots, useful both for reconnaissance and in battle. Though occasionally used by commanders and couriers, the horses of the age were too small to carry much weight and were damn expensive. Around 2000 BC, however, those living in the Central Asian steppes domesticated and cultivated larger, stockier, and hardier breeds. Armed with spears, swords and eventually bows, these horsemen generally raised hell … and changed the face of warfare. Soon enough the Greeks to the west and Chinese to the east adapted mounted warriors for their own purposes, then everyone around did as well. But it was the development of the stirrup attached to a sturdy saddle that made horsemen the dominant shock weapon on the battlefield; the earliest saddles with stirrups date from c. 300 AD, and over the next four centuries the innovation spread across Asia and into Europe.
+Traits
+Upgrades To
+Courser
+Black Army
+Oromo Cavalry
+Promotion Class: Light Cavalry
+4
+Movement Points
+36
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 80
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

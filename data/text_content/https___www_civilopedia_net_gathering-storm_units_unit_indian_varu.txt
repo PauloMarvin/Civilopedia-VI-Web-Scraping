@@ -1,0 +1,60 @@
+Varu - Units - Civilopedia - Civilization VI
+Varu
+Description
+Indian unique Classical era heavy cavalry unit.  Adjacent enemy units receive -5
+Combat Strength.
+Historical Context
+Although not the most reliable of battle-mounts (as apt to trample friendly troops as enemy when panicked), war elephants were a staple in Indian warfare for centuries until the advent of gunpowder. In pre-gunpowder combat, the 'vāru' (“royal elephant”) served two purposes. Their scent tended to terrify horses, thus rendering the enemy cavalry relatively useless. Second, they could usually break through even the strongest line of infantry, especially if armored, crushing spearmen and archers and everything else in their path (and reaching 25 kph on the run). Too, elephants were notoriously hard to kill, and there are records of them surviving as many as sixty arrows. Usually surmounted with a howdah or other platform for archers, the vāru could wade right into the fray. But, in case the elephants did go berserk and start squashing their own side, the driver carried a spike and mallet to kill them with a blow to the skull.
+Traits
+Unique To
+India
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Promotion Class: Heavy Cavalry
+2
+Movement Points
+40
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Indian unique Classical era heavy cavalry unit.  Adjacent enemy units receive -5
+Combat Strength.
+Historical Context
+Although not the most reliable of battle-mounts (as apt to trample friendly troops as enemy when panicked), war elephants were a staple in Indian warfare for centuries until the advent of gunpowder. In pre-gunpowder combat, the 'vāru' (“royal elephant”) served two purposes. Their scent tended to terrify horses, thus rendering the enemy cavalry relatively useless. Second, they could usually break through even the strongest line of infantry, especially if armored, crushing spearmen and archers and everything else in their path (and reaching 25 kph on the run). Too, elephants were notoriously hard to kill, and there are records of them surviving as many as sixty arrows. Usually surmounted with a howdah or other platform for archers, the vāru could wade right into the fray. But, in case the elephants did go berserk and start squashing their own side, the driver carried a spike and mallet to kill them with a blow to the skull.
+Traits
+Unique To
+India
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Promotion Class: Heavy Cavalry
+2
+Movement Points
+40
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

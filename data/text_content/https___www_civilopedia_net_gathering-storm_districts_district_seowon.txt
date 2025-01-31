@@ -1,0 +1,100 @@
+Seowon - Districts - Civilopedia - Civilization VI
+Seowon
+Description
+A district unique to Korea for scientific endeavors. Replaces the Campus district. +4
+Science. -1
+Science for every adjacent district tile. Must be built on Hills.
+Historical Context
+An educational crisis in 16th Century Korea brought about the seowon, a private institution designed to fill the scholarly void. The heavy emphasis on Confucian teachings and rituals were often expressed in the modest appearance of its structures. The preponderance of aristocratic children attending made the seowon ideal for discussing politics. This blend of Neo-Confucianism and topical matters created an ideal setting to explore new ideas about Korea’s contemporary culture and government.
+Traits
+Unique To
+Korea
+Replaces
+Campus
++1
+Great Scientist point per turn.
+Adjacency Bonus
+--1
+Science from each adjacent district tile.
++1
+Science from each adjacent Government Plaza tile.
+Citizen Yields (per citizen)
++2
+Science
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Science
+Requirements
+Technology
+Writing
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Alchemical Society
+Library
+Research Lab
+University
+Description
+A district unique to Korea for scientific endeavors. Replaces the Campus district. +4
+Science. -1
+Science for every adjacent district tile. Must be built on Hills.
+Historical Context
+An educational crisis in 16th Century Korea brought about the seowon, a private institution designed to fill the scholarly void. The heavy emphasis on Confucian teachings and rituals were often expressed in the modest appearance of its structures. The preponderance of aristocratic children attending made the seowon ideal for discussing politics. This blend of Neo-Confucianism and topical matters created an ideal setting to explore new ideas about Korea’s contemporary culture and government.
+Traits
+Unique To
+Korea
+Replaces
+Campus
++1
+Great Scientist point per turn.
+Adjacency Bonus
+--1
+Science from each adjacent district tile.
++1
+Science from each adjacent Government Plaza tile.
+Citizen Yields (per citizen)
++2
+Science
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Science
+Requirements
+Technology
+Writing
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Alchemical Society
+Library
+Research Lab
+University

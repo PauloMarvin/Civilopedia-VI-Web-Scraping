@@ -1,0 +1,22 @@
+Occult Research - Wonders and Projects - Civilopedia - Civilization VI
+Occult Research
+Description
+Project that provides
+Gold every turn. Receive
+Science per Ley Line in this city and
+Great Scientist,
+Great Merchant, and
+Great Engineer points once finished. This project requires a Campus district.
+Requirements
+District
+Campus
+Description
+Project that provides
+Gold every turn. Receive
+Science per Ley Line in this city and
+Great Scientist,
+Great Merchant, and
+Great Engineer points once finished. This project requires a Campus district.
+Requirements
+District
+Campus

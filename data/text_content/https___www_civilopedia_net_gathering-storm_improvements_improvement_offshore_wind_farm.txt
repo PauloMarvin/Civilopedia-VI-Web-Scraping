@@ -1,0 +1,38 @@
+Offshore Wind Farm - Improvements and Routes - Civilopedia - Civilization VI
+Offshore Wind Farm
+Description
+Unlocks the Builder ability to construct an Offshore Wind Farm.
++2
+Production. Provides 2
+Power per turn. Must be built on Coast or Lake terrain.
+Historical Context
+Everybody knows the feeling of a crisp ocean breeze, and today we are able to harness that breeze for more than just a refreshing breath of fresh air. Offshore winds blowing over shallow waters are ideal placement spots for wind farms, although this application is quite new. It wasn't until 1991 that the first offshore wind energy project came to fruition in Denmark, but the technology has since spread throughout the world.
+Similar to onshore wind farms, these wind turbines are turned by winds and generate electricity. But unlike the wind farms found across rolling hills, offshore farms require foundations that will weather whatever the ocean brings with it – rolling waves, salt water, or even a hurricane. Though engineers continue to work to improve the technology, we are currently limited by the depth of water into which these turbines can be installed. Even so, offshore wind farms are already improving the lives of coastal communities that may have limited access to other forms of power production.
+Traits
++2
+Production
+Requirements
+Technology
+Predictive Systems
+Coast and Lake
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Offshore Wind Farm.
++2
+Production. Provides 2
+Power per turn. Must be built on Coast or Lake terrain.
+Historical Context
+Everybody knows the feeling of a crisp ocean breeze, and today we are able to harness that breeze for more than just a refreshing breath of fresh air. Offshore winds blowing over shallow waters are ideal placement spots for wind farms, although this application is quite new. It wasn't until 1991 that the first offshore wind energy project came to fruition in Denmark, but the technology has since spread throughout the world.
+Similar to onshore wind farms, these wind turbines are turned by winds and generate electricity. But unlike the wind farms found across rolling hills, offshore farms require foundations that will weather whatever the ocean brings with it – rolling waves, salt water, or even a hurricane. Though engineers continue to work to improve the technology, we are currently limited by the depth of water into which these turbines can be installed. Even so, offshore wind farms are already improving the lives of coastal communities that may have limited access to other forms of power production.
+Traits
++2
+Production
+Requirements
+Technology
+Predictive Systems
+Coast and Lake
+Usage
+Built By
+Builder

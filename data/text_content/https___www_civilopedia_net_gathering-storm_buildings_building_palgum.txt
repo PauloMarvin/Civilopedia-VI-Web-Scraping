@@ -1,0 +1,56 @@
+Palgum - Buildings - Civilopedia - Civilization VI
+Palgum
+Description
+A building unique to Babylon. +1
+Housing and +2
+Production. Freshwater tiles receive +1
+Food. City must be adjacent to a River.
+Historical Context
+Mesopotamia is a land with a complicated relationship with water. Between the dry desert and the flood-prone Tigris and Euphrates, the Babylonians had to learn how to control their rivers. And control them they did, even channeling the flow through palgum – small-scale canals – to feed elaborate gardens. While the Hanging Gardens of Babylon have not been as well documented as historians may have hoped, at Nineveh, the Assyrian king Sennacherib built a luxurious garden fed by aqueducts and elaborate canals – often the same waterway at different points, cutting through mountains and rising over canyons - that allowed for exotic trees such as ebony and rosewood to grow within the palace. These canals were reinforced by great limestone blocks and controlled by specialized sluice gates. The King was proud of these – he inscribed, “over deep-cut ravines, I spanned a bridge of white stone blocks. Those waters I caused to pass over upon it.” The Yazidi ethnic group in Iraq kept up this tradition of building elaborate aqueducts and canals well into the 20th century.
+Traits
+Unique To
+Babylon
+Replaces
+Water Mill
++2
+Production
++1
+Housing
+Requirements
+District
+City Center
+Technology
+Irrigation
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold
+Description
+A building unique to Babylon. +1
+Housing and +2
+Production. Freshwater tiles receive +1
+Food. City must be adjacent to a River.
+Historical Context
+Mesopotamia is a land with a complicated relationship with water. Between the dry desert and the flood-prone Tigris and Euphrates, the Babylonians had to learn how to control their rivers. And control them they did, even channeling the flow through palgum – small-scale canals – to feed elaborate gardens. While the Hanging Gardens of Babylon have not been as well documented as historians may have hoped, at Nineveh, the Assyrian king Sennacherib built a luxurious garden fed by aqueducts and elaborate canals – often the same waterway at different points, cutting through mountains and rising over canyons - that allowed for exotic trees such as ebony and rosewood to grow within the palace. These canals were reinforced by great limestone blocks and controlled by specialized sluice gates. The King was proud of these – he inscribed, “over deep-cut ravines, I spanned a bridge of white stone blocks. Those waters I caused to pass over upon it.” The Yazidi ethnic group in Iraq kept up this tradition of building elaborate aqueducts and canals well into the 20th century.
+Traits
+Unique To
+Babylon
+Replaces
+Water Mill
++2
+Production
++1
+Housing
+Requirements
+District
+City Center
+Technology
+Irrigation
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold

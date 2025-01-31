@@ -1,0 +1,70 @@
+Keshig - Units - Civilopedia - Civilization VI
+Keshig
+Description
+Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher
+Movement speed.
+Historical Context
+The Mongolian keshig were the elite imperial guard of the Great Kahn. These mounted warriors, originally comprised of Genghis Khan’s most loyal fighters, grew to 10,000 strong among later khans. The keshig were well equipped, using their composite bows and mobility to harry opponents from a distance. As horse archers, they were second to none. Their peculiar rank as the Khan’s guard put them above even the commanding officers of an army—unsurprising, for they were predominantly composed of young warriors from prominent households.
+Traits
+Unique To
+Mongolia
+Upgrades To
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+4
+Movement Points
+35
+Melee Strength
+45
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher
+Movement speed.
+Historical Context
+The Mongolian keshig were the elite imperial guard of the Great Kahn. These mounted warriors, originally comprised of Genghis Khan’s most loyal fighters, grew to 10,000 strong among later khans. The keshig were well equipped, using their composite bows and mobility to harry opponents from a distance. As horse archers, they were second to none. Their peculiar rank as the Khan’s guard put them above even the commanding officers of an army—unsurprising, for they were predominantly composed of young warriors from prominent households.
+Traits
+Unique To
+Mongolia
+Upgrades To
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+4
+Movement Points
+35
+Melee Strength
+45
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

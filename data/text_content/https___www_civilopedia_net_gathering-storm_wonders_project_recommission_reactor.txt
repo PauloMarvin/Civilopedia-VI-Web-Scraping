@@ -1,0 +1,14 @@
+Recommission Nuclear Reactor - Wonders and Projects - Civilopedia - Civilization VI
+Recommission Nuclear Reactor
+Description
+Allows for the recommissioning of a nuclear reactor to increase safety measures and reduce the risk of a nuclear accident.
+Recommissioning resets the reactor age to 0. The older a reactor gets, the higher the chance that a Nuclear Accident can occur.
+Requirements
+Technology
+Nuclear Fission
+Description
+Allows for the recommissioning of a nuclear reactor to increase safety measures and reduce the risk of a nuclear accident.
+Recommissioning resets the reactor age to 0. The older a reactor gets, the higher the chance that a Nuclear Accident can occur.
+Requirements
+Technology
+Nuclear Fission

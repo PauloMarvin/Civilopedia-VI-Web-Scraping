@@ -1,0 +1,56 @@
+Mathematics - Technologies - Civilopedia - Civilization VI
+Mathematics
+Description
++1
+Movement for all naval units.
+Historical Context
+The term “mathematics” is derived from the Greek mathema, meaning “knowledge, study, or learning.” Appropriate, given that it is the science of science, focused on quantity, measurement, structure, logic and change. Mathematics, according to some, is also the art of art, focused on space, shape, relationship, perspective, and fractals. Not to mention mathematics relationship to music.
+Whether art or science, virtually everything today is based or derived from mathematics. Mathematics has been around since some relatively intelligent human ancestor figured out that having four bananas was better than having two bananas – and clubbed his neighbor to get them. The Sumerians had a complex arithmetic (the manipulation of numbers), which was both “base-ten” (the modern system) and “base-sixty” as well. The remnants of that base-60 system survived in time-keeping: 60 second in a minute, sixty minutes in an hour.
+The Egyptians, needing to keep track of all the taxes and trade, not to mention designing massive pyramids and monuments, developed a written system of numerals during the Middle Kingdom period. Between 600 and 300 BC, the Greeks began a systematic study of mathematics, dividing it into two spheres: arithmetic and geometry (the understanding of shapes and area). More importantly, they divorced mathematics from reality and began the study of it in the abstract, evolving the concepts of proofs and theorems, leading to the likes of the Pythagorean Theorem and irrational numbers.
+Mathematics continued to evolve to bedevil students over the following centuries. Muslim mathematicians developed algebra. In India, the Kerala School of astronomy and mathematics discovered infinite series and trigonometric functions. And the Indians invented “zero,” not just to fill an empty space in the calculations as the Egyptians did, but as an actual value around 600 AD. From that point mathematics as a discipline has grown (as one might say) geometrically ever since …
+“Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.”
+– Shakuntala Devi
+“If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.”
+– Galileo Galilei
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Currency
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build 3 different specialty districts.
+Progression
+Leads to Technologies
+Military Tactics
+Education
+Buttress
+Description
++1
+Movement for all naval units.
+Historical Context
+The term “mathematics” is derived from the Greek mathema, meaning “knowledge, study, or learning.” Appropriate, given that it is the science of science, focused on quantity, measurement, structure, logic and change. Mathematics, according to some, is also the art of art, focused on space, shape, relationship, perspective, and fractals. Not to mention mathematics relationship to music.
+Whether art or science, virtually everything today is based or derived from mathematics. Mathematics has been around since some relatively intelligent human ancestor figured out that having four bananas was better than having two bananas – and clubbed his neighbor to get them. The Sumerians had a complex arithmetic (the manipulation of numbers), which was both “base-ten” (the modern system) and “base-sixty” as well. The remnants of that base-60 system survived in time-keeping: 60 second in a minute, sixty minutes in an hour.
+The Egyptians, needing to keep track of all the taxes and trade, not to mention designing massive pyramids and monuments, developed a written system of numerals during the Middle Kingdom period. Between 600 and 300 BC, the Greeks began a systematic study of mathematics, dividing it into two spheres: arithmetic and geometry (the understanding of shapes and area). More importantly, they divorced mathematics from reality and began the study of it in the abstract, evolving the concepts of proofs and theorems, leading to the likes of the Pythagorean Theorem and irrational numbers.
+Mathematics continued to evolve to bedevil students over the following centuries. Muslim mathematicians developed algebra. In India, the Kerala School of astronomy and mathematics discovered infinite series and trigonometric functions. And the Indians invented “zero,” not just to fill an empty space in the calculations as the Egyptians did, but as an actual value around 600 AD. From that point mathematics as a discipline has grown (as one might say) geometrically ever since …
+“Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.”
+– Shakuntala Devi
+“If I were again beginning my studies, I would follow the advice of Plato and start with mathematics.”
+– Galileo Galilei
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Currency
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build 3 different specialty districts.
+Progression
+Leads to Technologies
+Military Tactics
+Education
+Buttress

@@ -1,0 +1,66 @@
+Seaport - Buildings - Civilopedia - Civilization VI
+Seaport
+Description
++25% combat experience for all naval units trained in this city. Allows Fleets and Armadas to be trained directly. Fleet and Armada training costs reduced 25%.  +2
+Gold on all Coast tiles for this city.
+Historical Context
+The sites of ancient ports were selected to optimize access to land or river routes, protect the anchored shipping, and maximize harbor fees – Guangzhou in Qin China, Piraeus for Athens, Canopus and Alexandria in Egypt, Lothal for the Harappan, Rome's Ostia Antica. More than just a harbor, a seaport offered all the necessities for sea-going vessels and their crews: cordage and carpentry workshops, docks and slips, bars and brothels, warehouses, and so on. The seaports of Europe were the launching points for the exploration and colonization of the world, as well as the naval bases that figure prominently in military history. Commercial empires rose and fell tied to the fate of their seaports: Phoenicia, Srivijaya, Portugal and others. Although less common than those facing the seas, inland ports such as New Orleans or Calcutta gave vast regions access to the oceans. Today the great ports of the world – Port Said, Hamburg, Shanghai, Melbourne, Santos, Hong Kong, Los Angeles and Vancouver, to name a few – are a forest of cranes, a maze of roads and rail, a city of warehouses and storage tanks, all devoted to making a profit from export and import.
+Traits
++2
+Gold
++2
+Food
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
+Citizen Yields (per citizen)
++1
+Food
+Requirements
+District
+Harbor
+Technology
+Electricity
+Building
+Shipyard
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Description
++25% combat experience for all naval units trained in this city. Allows Fleets and Armadas to be trained directly. Fleet and Armada training costs reduced 25%.  +2
+Gold on all Coast tiles for this city.
+Historical Context
+The sites of ancient ports were selected to optimize access to land or river routes, protect the anchored shipping, and maximize harbor fees – Guangzhou in Qin China, Piraeus for Athens, Canopus and Alexandria in Egypt, Lothal for the Harappan, Rome's Ostia Antica. More than just a harbor, a seaport offered all the necessities for sea-going vessels and their crews: cordage and carpentry workshops, docks and slips, bars and brothels, warehouses, and so on. The seaports of Europe were the launching points for the exploration and colonization of the world, as well as the naval bases that figure prominently in military history. Commercial empires rose and fell tied to the fate of their seaports: Phoenicia, Srivijaya, Portugal and others. Although less common than those facing the seas, inland ports such as New Orleans or Calcutta gave vast regions access to the oceans. Today the great ports of the world – Port Said, Hamburg, Shanghai, Melbourne, Santos, Hong Kong, Los Angeles and Vancouver, to name a few – are a forest of cranes, a maze of roads and rail, a city of warehouses and storage tanks, all devoted to making a profit from export and import.
+Traits
++2
+Gold
++2
+Food
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
+Citizen Yields (per citizen)
++1
+Food
+Requirements
+District
+Harbor
+Technology
+Electricity
+Building
+Shipyard
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold

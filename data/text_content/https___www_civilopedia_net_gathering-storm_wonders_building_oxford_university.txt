@@ -1,0 +1,60 @@
+Oxford University - Wonders and Projects - Civilopedia - Civilization VI
+Oxford University
+Description
++20%
+Science in this city, and awards 2 randomly-chosen free technologies when completed. Must be built on Grassland or Plains adjacent to a Campus district with a University.
+Historical Context
+The oldest university in the English-speaking world (and, thus, of Merry Ol’ England), instruction has been taking place at Oxford University since c. 1096 AD. It grew from a small institution when, in 1148, Henry II granted it a royal charter and then, in 1167, prohibited British students from attending the University of Paris. Although it was a Royalist center during the English Civil War, having survived that error the university has since taken little part in politics. In the mid-1800s the Oxford curriculum was greatly influenced by the reformed model of German higher education which came with the arrival of scholars such as Pusey, Jowett and Muller. The first women’s college (Lady Margaret Hall) at Oxford University was established in 1878. And in 1974, five previously all-male colleges there admitted women for the first time. Things haven’t been the same since.
+“The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!”
+– Kenneth Grahame
+Traits
+Removed if game started after
+Atomic Era
++3
+Great Scientist points per turn.
++2
+Great Works of Writing slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Scientific Theory
+Building
+University
+Adjacency
+Campus
+Placement
+Grassland
+Plains
+Production Cost
+Base Cost: 1240
+Production
+Description
++20%
+Science in this city, and awards 2 randomly-chosen free technologies when completed. Must be built on Grassland or Plains adjacent to a Campus district with a University.
+Historical Context
+The oldest university in the English-speaking world (and, thus, of Merry Ol’ England), instruction has been taking place at Oxford University since c. 1096 AD. It grew from a small institution when, in 1148, Henry II granted it a royal charter and then, in 1167, prohibited British students from attending the University of Paris. Although it was a Royalist center during the English Civil War, having survived that error the university has since taken little part in politics. In the mid-1800s the Oxford curriculum was greatly influenced by the reformed model of German higher education which came with the arrival of scholars such as Pusey, Jowett and Muller. The first women’s college (Lady Margaret Hall) at Oxford University was established in 1878. And in 1974, five previously all-male colleges there admitted women for the first time. Things haven’t been the same since.
+“The clever men at Oxford... Know all that there is to be knowed. But they none of them know one half as much... As intelligent Mr. Toad!”
+– Kenneth Grahame
+Traits
+Removed if game started after
+Atomic Era
++3
+Great Scientist points per turn.
++2
+Great Works of Writing slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Scientific Theory
+Building
+University
+Adjacency
+Campus
+Placement
+Grassland
+Plains
+Production Cost
+Base Cost: 1240
+Production

@@ -1,0 +1,74 @@
+Outback Station - Improvements and Routes - Civilopedia - Civilization VI
+Outback Station
+Description
+Unlocks the Builder ability to construct an Outback Station, unique to Australia.
++1
+Food and +1
+Production. +1
+Food for each adjacent Pasture. Additional
+Food and
+Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.
+Historical Context
+Outback stations are known for their broad expanses of land, livestock herds, and self-sufficiency. Somewhat analogous to a ranch, the distinctly Australian stations are run by graziers in remote and somewhat inhospitable areas. They are often immense to compensate for thinly productive grazing ground and the occasional drought. Predictably, cattle stations stock cattle and sheep stations stock sheep. Wild dingoes find sheep to be delicious and defenseless, so graziers in dingo-infested areas traditionally shifted their stock to the (mostly) dingo-proof cattle.
+Traits
+Unique To
+Australia
++1
+Production
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from each adjacent Pasture tile.
++1
+Production from every 2 adjacent Outback Station tiles.Requires Steam Power.
++1
+Food from every 2 adjacent Outback Station tiles.Requires Rapid Deployment.
+Requirements
+Civic
+Guilds
+Grassland
+Plains
+Desert
+Desert (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Outback Station, unique to Australia.
++1
+Food and +1
+Production. +1
+Food for each adjacent Pasture. Additional
+Food and
+Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.
+Historical Context
+Outback stations are known for their broad expanses of land, livestock herds, and self-sufficiency. Somewhat analogous to a ranch, the distinctly Australian stations are run by graziers in remote and somewhat inhospitable areas. They are often immense to compensate for thinly productive grazing ground and the occasional drought. Predictably, cattle stations stock cattle and sheep stations stock sheep. Wild dingoes find sheep to be delicious and defenseless, so graziers in dingo-infested areas traditionally shifted their stock to the (mostly) dingo-proof cattle.
+Traits
+Unique To
+Australia
++1
+Production
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from each adjacent Pasture tile.
++1
+Production from every 2 adjacent Outback Station tiles.Requires Steam Power.
++1
+Food from every 2 adjacent Outback Station tiles.Requires Rapid Deployment.
+Requirements
+Civic
+Guilds
+Grassland
+Plains
+Desert
+Desert (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,126 @@
+Theater Square - Districts - Civilopedia - Civilization VI
+Theater Square
+Description
+A district in your city for cultural sites.
+Historical Context
+As the urban middle-class took on aspects of being “cultured” in the late 19th Century, it demanded more refined entertainments than bear-baiting and bare-knuckle boxing. Theater districts were the answer, usually clustering around existing theaters and museums patronized by the upper-class. Thus New York City’s Broadway district saw a number of new music halls and restaurants open immediately after the Metropolitan Opera House relocated to West 39th and Broadway in 1883. In the earlier 1800s, London’s West End theater district expanded outward from the Royal Opera House in Covent Garden. In time, all those that feed off theatrical talent were also found in the theater districts: recording studios, radio studios, agents, producers, and so forth.
+Traits
+Replaced By
+Acropolis
++1
+Great Writer point per turn.
++1
+Great Artist point per turn.
++1
+Great Musician point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Culture from each adjacent wonder tile.
++1
+Culture from every 2 adjacent district tiles.
++1
+Culture from each adjacent Government Plaza tile.
++2
+Culture from each adjacent Entertainment Complex tile.
++2
+Culture from each adjacent Water Park tile.
++2
+Culture from each adjacent Street Carnival tile.
++2
+Culture from each adjacent Copacabana tile.
++2
+Culture from each adjacent Pamukkale tile.
++2
+Culture from each adjacent Hippodrome tile.
++2
+Culture from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Culture
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Culture
+Requirements
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Amphitheater
+Broadcast Center
+Film Studio
+Marae
+Art Museum
+Archaeological Museum
+Description
+A district in your city for cultural sites.
+Historical Context
+As the urban middle-class took on aspects of being “cultured” in the late 19th Century, it demanded more refined entertainments than bear-baiting and bare-knuckle boxing. Theater districts were the answer, usually clustering around existing theaters and museums patronized by the upper-class. Thus New York City’s Broadway district saw a number of new music halls and restaurants open immediately after the Metropolitan Opera House relocated to West 39th and Broadway in 1883. In the earlier 1800s, London’s West End theater district expanded outward from the Royal Opera House in Covent Garden. In time, all those that feed off theatrical talent were also found in the theater districts: recording studios, radio studios, agents, producers, and so forth.
+Traits
+Replaced By
+Acropolis
++1
+Great Writer point per turn.
++1
+Great Artist point per turn.
++1
+Great Musician point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Culture from each adjacent wonder tile.
++1
+Culture from every 2 adjacent district tiles.
++1
+Culture from each adjacent Government Plaza tile.
++2
+Culture from each adjacent Entertainment Complex tile.
++2
+Culture from each adjacent Water Park tile.
++2
+Culture from each adjacent Street Carnival tile.
++2
+Culture from each adjacent Copacabana tile.
++2
+Culture from each adjacent Pamukkale tile.
++2
+Culture from each adjacent Hippodrome tile.
++2
+Culture from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Culture
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Culture
+Requirements
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Amphitheater
+Broadcast Center
+Film Studio
+Marae
+Art Museum
+Archaeological Museum

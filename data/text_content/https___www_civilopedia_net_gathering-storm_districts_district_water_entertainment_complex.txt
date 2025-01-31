@@ -1,0 +1,70 @@
+Water Park - Districts - Civilopedia - Civilization VI
+Water Park
+Description
+A district placed out on a coastal tile dedicated to keeping your people happy by increasing
+Amenities. Cannot be built in a city with an Entertainment Complex. Cannot be built on Reef.
+Historical Context
+Throughout history, one of the most popular activities in a city has been to leave it when the summer gets hot. As public transportation offered cooler options to a broader range of people during the Industrial Revolution, beach resort towns saw a boom in their popularity, and expanded their range of offerings to include amenities like boardwalks and amusement park rides in addition to the beach (or lake, or big river, or whatever local water feature… featured) and boating. What was once the domain of only the rich and powerful is now available to millions, and as the sun rises, the water park opens to keep people entertained and cool against the summer sun.
+Traits
+Replaced By
+Copacabana
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Natural History
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Aquarium
+Aquatics Center
+Ferris Wheel
+Description
+A district placed out on a coastal tile dedicated to keeping your people happy by increasing
+Amenities. Cannot be built in a city with an Entertainment Complex. Cannot be built on Reef.
+Historical Context
+Throughout history, one of the most popular activities in a city has been to leave it when the summer gets hot. As public transportation offered cooler options to a broader range of people during the Industrial Revolution, beach resort towns saw a boom in their popularity, and expanded their range of offerings to include amenities like boardwalks and amusement park rides in addition to the beach (or lake, or big river, or whatever local water feature… featured) and boating. What was once the domain of only the rich and powerful is now available to millions, and as the sun rises, the water park opens to keep people entertained and cool against the summer sun.
+Traits
+Replaced By
+Copacabana
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Natural History
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Aquarium
+Aquatics Center
+Ferris Wheel

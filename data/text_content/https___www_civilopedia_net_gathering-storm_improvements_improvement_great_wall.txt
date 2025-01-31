@@ -1,0 +1,76 @@
+Great Wall - Improvements and Routes - Civilopedia - Civilization VI
+Great Wall
+Description
+Unlocks the Builder ability to construct the Great Wall, unique to China.
++2
+Gold. Provides an increase to
+Defense. Bonus to
+Gold if adjacent to other segments. Additional
+Culture and
+Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire. Can only be pillaged (never destroyed) by natural disasters.
+Historical Context
+A fortified border took on new meaning when some civilizations attempted to make sure the uncivilized stayed out. A number of empires built “great walls” – the Roman Hadrian’s Wall, the Chola-Pandya Madukkarai Wall, the Sassanid Great Wall of Gorgan, the French Maginot Line, and, of course, the Great Wall of China. Most were built of earth and stone, most incorporated natural terrain features (hills, rivers, and the like), and most had fortresses or garrisons scattered along their length. They were built in stages, sometimes over a long period of time. In terms of intent, none of these worked very well, for the outsiders managed time and again to “cross” the frontier walls, no matter how great. On the other hand, these great walls did provide a psychological sop to the empire’s citizens, and did deter the less barbaric barbarians from raiding the frontier settlements. With history having passed them by, most of the great walls have fallen into disrepair and obscurity … or become tourist traps.
+Traits
+Unique To
+China
++2
+Gold
+Adjacency Bonus
++2
+Gold from each adjacent Great Wall tile.Requires Masonry.
++2
+Culture from each adjacent Great Wall tile.Requires Castles.
+Requirements
+Technology
+Masonry
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct the Great Wall, unique to China.
++2
+Gold. Provides an increase to
+Defense. Bonus to
+Gold if adjacent to other segments. Additional
+Culture and
+Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire. Can only be pillaged (never destroyed) by natural disasters.
+Historical Context
+A fortified border took on new meaning when some civilizations attempted to make sure the uncivilized stayed out. A number of empires built “great walls” – the Roman Hadrian’s Wall, the Chola-Pandya Madukkarai Wall, the Sassanid Great Wall of Gorgan, the French Maginot Line, and, of course, the Great Wall of China. Most were built of earth and stone, most incorporated natural terrain features (hills, rivers, and the like), and most had fortresses or garrisons scattered along their length. They were built in stages, sometimes over a long period of time. In terms of intent, none of these worked very well, for the outsiders managed time and again to “cross” the frontier walls, no matter how great. On the other hand, these great walls did provide a psychological sop to the empire’s citizens, and did deter the less barbaric barbarians from raiding the frontier settlements. With history having passed them by, most of the great walls have fallen into disrepair and obscurity … or become tourist traps.
+Traits
+Unique To
+China
++2
+Gold
+Adjacency Bonus
++2
+Gold from each adjacent Great Wall tile.Requires Masonry.
++2
+Culture from each adjacent Great Wall tile.Requires Castles.
+Requirements
+Technology
+Masonry
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,78 @@
+Sphinx - Improvements and Routes - Civilopedia - Civilization VI
+Sphinx
+Description
+Unlocks the Builder ability to construct a Sphinx, unique to Egypt.
++1
+Faith and +1
+Culture. +2 Appeal. +2
+Faith if next to a wonder. +1
+Culture if built on Floodplains. Additional
+Culture once Natural History is discovered. Provides
+Tourism after researching Flight. Cannot be built next to another Sphinx. Cannot be built on Snow or Snow Hills.
+Historical Context
+In contrast to the Greek version, the Egyptian sphinx has a human head on a lion’s body, is benevolent, and is the guardian of temples and tombs. Perhaps the first Egyptian sphinx constructed was during the Fourth Dynasty (c. 2500 BC) that depicted the face of Queen Hetepheres II, daughter of famed Khufu. But the sphinx was a common motif among those eternity-obsessed pharaohs; other famous ones include that depicting Hatshepsut and the “alabaster sphinx” of Memphis. Then there is that “Great Sphinx” at Giza that bears the likeness of the pharaoh Khafra (who is otherwise historically insignificant). Smaller ones lined the approaches to tombs and temples, and any number were put at the top of stairways in palaces and public places. By the 18th Dynasty, one could hardly swing a cat in Egypt without hitting a sphinx.
+Traits
+Unique To
+Egypt
++1
+Culture
++1
+Faith
+Appeal to Adjacent Tiles: 2
++1
+Culture (requires Natural History)
+Requirements
+Civic
+Craftsmanship
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Sphinx, unique to Egypt.
++1
+Faith and +1
+Culture. +2 Appeal. +2
+Faith if next to a wonder. +1
+Culture if built on Floodplains. Additional
+Culture once Natural History is discovered. Provides
+Tourism after researching Flight. Cannot be built next to another Sphinx. Cannot be built on Snow or Snow Hills.
+Historical Context
+In contrast to the Greek version, the Egyptian sphinx has a human head on a lion’s body, is benevolent, and is the guardian of temples and tombs. Perhaps the first Egyptian sphinx constructed was during the Fourth Dynasty (c. 2500 BC) that depicted the face of Queen Hetepheres II, daughter of famed Khufu. But the sphinx was a common motif among those eternity-obsessed pharaohs; other famous ones include that depicting Hatshepsut and the “alabaster sphinx” of Memphis. Then there is that “Great Sphinx” at Giza that bears the likeness of the pharaoh Khafra (who is otherwise historically insignificant). Smaller ones lined the approaches to tombs and temples, and any number were put at the top of stairways in palaces and public places. By the 18th Dynasty, one could hardly swing a cat in Egypt without hitting a sphinx.
+Traits
+Unique To
+Egypt
++1
+Culture
++1
+Faith
+Appeal to Adjacent Tiles: 2
++1
+Culture (requires Natural History)
+Requirements
+Civic
+Craftsmanship
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder

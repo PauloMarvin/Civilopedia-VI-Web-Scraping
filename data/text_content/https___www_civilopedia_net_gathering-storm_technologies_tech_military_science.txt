@@ -1,0 +1,48 @@
+Military Science - Technologies - Civilopedia - Civilization VI
+Military Science
+Historical Context
+Military Science is the study of the theory and application of “organized coercive force,” both friendly and enemy. Until the end of the Second World War, when the arrival of atomic weapons made a lot of its assumptions baseless, the term was always written starting with capital letters in English and was considered an academic discipline on par with physics, philosophy and political science. However, as Clausewitz observed, “unlike in any other science or art, in war the object reacts.”
+Although there had been earlier generals and writers such as Sun Tzu, Aeneas Tacticus, Miyamoto Musashi, Niccolò Machiavelli, and others who had focused on using military power to efficiently achieve a civilization’s political goals – whether that be defending the homeland or beating up one’s neighbors – it was Carl von Clausewitz, Ardant du Picq, Alfred Thayer Mahan and Helmuth von Moltke (the Elder) who gave theories of warfare the patina of science in the latter half of the 1800s. With the evolution of weapons, tactics and technology that resulted from the American Civil War and the Franco-Prussian War, military science needed to go beyond mere considerations of the battlefield. Von Moltke, for instance, wrote extensively on exploiting the railroad and the telegraph to insure victory.
+In the process, military science came to consider all aspects of war. Ardant du Picq looked at the manner in which a soldier’s fighting performance was rooted in the individual’s personal and group psychology while Hans Delbrück formulated the theory of a “strategy of exhaustion.” Other soldier-academics focused on logistics, economics, national morale, military intelligence and even more esoteric parts of war. The Great War was the chance for the generals to put these new theories of military science to the test, a sort of empirical experiment in slaughter.
+The Cold War with its strategies of mutual destruction, state-sponsored terrorism and military-industrial complex, took military science from the merely theoretical to something far more terrifying and immediate for most civilians. Military Science has not been as simple since.
+“However beautiful the strategy, you should occasionally look at the results.”
+– Winston Churchill
+“No one starts a war – or rather, no one in his senses ought to do so – without first being clear in his mind what he intends to achieve by that war and how he intends to conduct it.”
+– Karl von Clausewitz
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Siege Tactics
+Printing
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Kill a unit with a Knight.
+Progression
+Leads to Technologies
+Rifling
+Historical Context
+Military Science is the study of the theory and application of “organized coercive force,” both friendly and enemy. Until the end of the Second World War, when the arrival of atomic weapons made a lot of its assumptions baseless, the term was always written starting with capital letters in English and was considered an academic discipline on par with physics, philosophy and political science. However, as Clausewitz observed, “unlike in any other science or art, in war the object reacts.”
+Although there had been earlier generals and writers such as Sun Tzu, Aeneas Tacticus, Miyamoto Musashi, Niccolò Machiavelli, and others who had focused on using military power to efficiently achieve a civilization’s political goals – whether that be defending the homeland or beating up one’s neighbors – it was Carl von Clausewitz, Ardant du Picq, Alfred Thayer Mahan and Helmuth von Moltke (the Elder) who gave theories of warfare the patina of science in the latter half of the 1800s. With the evolution of weapons, tactics and technology that resulted from the American Civil War and the Franco-Prussian War, military science needed to go beyond mere considerations of the battlefield. Von Moltke, for instance, wrote extensively on exploiting the railroad and the telegraph to insure victory.
+In the process, military science came to consider all aspects of war. Ardant du Picq looked at the manner in which a soldier’s fighting performance was rooted in the individual’s personal and group psychology while Hans Delbrück formulated the theory of a “strategy of exhaustion.” Other soldier-academics focused on logistics, economics, national morale, military intelligence and even more esoteric parts of war. The Great War was the chance for the generals to put these new theories of military science to the test, a sort of empirical experiment in slaughter.
+The Cold War with its strategies of mutual destruction, state-sponsored terrorism and military-industrial complex, took military science from the merely theoretical to something far more terrifying and immediate for most civilians. Military Science has not been as simple since.
+“However beautiful the strategy, you should occasionally look at the results.”
+– Winston Churchill
+“No one starts a war – or rather, no one in his senses ought to do so – without first being clear in his mind what he intends to achieve by that war and how he intends to conduct it.”
+– Karl von Clausewitz
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Siege Tactics
+Printing
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Kill a unit with a Knight.
+Progression
+Leads to Technologies
+Rifling

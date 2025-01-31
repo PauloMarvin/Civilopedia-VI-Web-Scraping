@@ -1,0 +1,62 @@
+Statue of Zeus - Wonders and Projects - Civilopedia - Civilization VI
+Statue of Zeus
+Description
+Grants 3 Archers, 3 Spearmen, and a Battering Ram. +50%
+Production towards anti-cavalry units. Must be built on flat land adjacent to an Encampment district with a Barracks.
+Historical Context
+Phidias, the master sculptor who supervised the construction of the Parthenon, saw the statue of Athena within, and said, “Yes, but make it bigger.” Zeus would have been pleased by that statement, no doubt, and even happier by the outcome of his monument. The final statue featured Zeus seated on a throne and sat a massive 40 feet (he would have hit his head on the temple’s roof if he’d stood up). Gold and ivory were molded over a wooden core to create the god in all of his glory. Other precious materials like silver, ebony, and jewels were etched in to make fine details. On top of the god’s head was a wreath of olive branches and in his right hand the goddess Nike. An eagle perched on his scepter. For all of the statue (and Zeus’s) power, the statue was eventually removed and destroyed by either fire or natural disaster.
+“Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory”
+- Samuel Augustus Mitchell
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Military Training
+Building
+Barracks
+Adjacency
+Encampment
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production
+Description
+Grants 3 Archers, 3 Spearmen, and a Battering Ram. +50%
+Production towards anti-cavalry units. Must be built on flat land adjacent to an Encampment district with a Barracks.
+Historical Context
+Phidias, the master sculptor who supervised the construction of the Parthenon, saw the statue of Athena within, and said, “Yes, but make it bigger.” Zeus would have been pleased by that statement, no doubt, and even happier by the outcome of his monument. The final statue featured Zeus seated on a throne and sat a massive 40 feet (he would have hit his head on the temple’s roof if he’d stood up). Gold and ivory were molded over a wooden core to create the god in all of his glory. Other precious materials like silver, ebony, and jewels were etched in to make fine details. On top of the god’s head was a wreath of olive branches and in his right hand the goddess Nike. An eagle perched on his scepter. For all of the statue (and Zeus’s) power, the statue was eventually removed and destroyed by either fire or natural disaster.
+“Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory”
+- Samuel Augustus Mitchell
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Military Training
+Building
+Barracks
+Adjacency
+Encampment
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production

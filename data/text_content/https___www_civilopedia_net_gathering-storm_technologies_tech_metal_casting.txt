@@ -1,0 +1,48 @@
+Metal Casting - Technologies - Civilopedia - Civilization VI
+Metal Casting
+Historical Context
+Metal casting is the process by which a craftsman can make multiple, identical metal objects by pouring molten metal into a mold. The oldest such yet found is a copper frog cast in Mesopotamia around 3200 BC. The first production of cast iron was in China between 800 and 700 BC; using sand mold casting, the Chinese were making cast iron plowshares by 233 BC. Cast iron was also handy for making a lot of arrowheads, spearheads and cannon balls, as the Chinese soon discovered. But mostly the ancients used metal casting to make jewelry.
+One of the oldest methods of making a mold is the “lost wax” procedure, which dates back at least to the third millennium BC. In this process, the craftsman creates a wax duplicate of the object around which is built the mold, usually of clay (one needs something that the hot metal won’t melt); the wax is then melted and flows out of the mold and is replaced by molten metal. Historically, sand and clay have been popular materials from which to construct molds. In modern times molds have been constructed out of plastics and latex-like substances.
+In the West, cast iron did not take hold until around the 15th Century AD, the technique apparently moving along the Silk Road from Asia to Europe. In 1455 the Germans are using cast iron pipe to carry water in the Dillenburg Castle, and around 1500 the Italian Vannoccio Biringuccio builds the first cast iron foundry.
+In 1799s England metal casting – especially with iron and later steel – became common. In 1709 Abraham Darby established a foundry using sand-and-loam molds to produce high quality pig iron. Fifty years later, another Englishman, Benjamin Huntsman, reinvented the process to cast crucible steel. Fifty years after that A.G. Eckhardt of Soho developed centrifugal casting to make thin-walled metal cylinders. Engineers kept coming up with new metal casting methods, until now just everything is made of metal – what isn’t made out of plastic, that is.
+“And first Hephaestus makes a great and massive shield … And he forged on the shield two noble cities.”
+– Homer
+“Don’t judge someone until you’ve stood at his forge and worked with his hammer.”
+– Rick Riordan
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Gunpowder
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Own 2 Crossbowman.
+Progression
+Leads to Technologies
+Economics
+Ballistics
+Historical Context
+Metal casting is the process by which a craftsman can make multiple, identical metal objects by pouring molten metal into a mold. The oldest such yet found is a copper frog cast in Mesopotamia around 3200 BC. The first production of cast iron was in China between 800 and 700 BC; using sand mold casting, the Chinese were making cast iron plowshares by 233 BC. Cast iron was also handy for making a lot of arrowheads, spearheads and cannon balls, as the Chinese soon discovered. But mostly the ancients used metal casting to make jewelry.
+One of the oldest methods of making a mold is the “lost wax” procedure, which dates back at least to the third millennium BC. In this process, the craftsman creates a wax duplicate of the object around which is built the mold, usually of clay (one needs something that the hot metal won’t melt); the wax is then melted and flows out of the mold and is replaced by molten metal. Historically, sand and clay have been popular materials from which to construct molds. In modern times molds have been constructed out of plastics and latex-like substances.
+In the West, cast iron did not take hold until around the 15th Century AD, the technique apparently moving along the Silk Road from Asia to Europe. In 1455 the Germans are using cast iron pipe to carry water in the Dillenburg Castle, and around 1500 the Italian Vannoccio Biringuccio builds the first cast iron foundry.
+In 1799s England metal casting – especially with iron and later steel – became common. In 1709 Abraham Darby established a foundry using sand-and-loam molds to produce high quality pig iron. Fifty years later, another Englishman, Benjamin Huntsman, reinvented the process to cast crucible steel. Fifty years after that A.G. Eckhardt of Soho developed centrifugal casting to make thin-walled metal cylinders. Engineers kept coming up with new metal casting methods, until now just everything is made of metal – what isn’t made out of plastic, that is.
+“And first Hephaestus makes a great and massive shield … And he forged on the shield two noble cities.”
+– Homer
+“Don’t judge someone until you’ve stood at his forge and worked with his hammer.”
+– Rick Riordan
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Gunpowder
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Own 2 Crossbowman.
+Progression
+Leads to Technologies
+Economics
+Ballistics

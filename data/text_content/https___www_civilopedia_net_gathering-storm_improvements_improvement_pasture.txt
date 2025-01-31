@@ -1,0 +1,62 @@
+Pasture - Improvements and Routes - Civilopedia - Civilization VI
+Pasture
+Description
+Unlocks the Builder ability to construct Pastures.
++1
+Production. Can only be built on valid resources.
+If built on Strategic resources, the city will gain use of that resource.
+Historical Context
+Since it is a lot easier to keep track of livestock if they aren’t running loose across the countryside, it wasn’t long after grazing animals were domesticated that a lazy shepherd devised a fence for keeping them in a pasture. Even those pastoralists who practiced transhumance had crude pastures at each end of their seasonal journeys. Pastures (not to be confused with meadows) are typically grazed throughout the summer, and may be purposely planted or simply fenced-off rangeland. The fences can be made of almost anything that will keep the livestock in and the local predators (animal or human) out: rock and stone, posts and rails, thorny brush, barbed wire, or electric wire. In most places, land ownership was tied to fenced pasturage, as in feudal societies or those progressive ranchers in the American West.
+Traits
++1
+Production
++0.5
+Housing
++1
+Food (requires Stirrups)
++1
+Production (requires Replaceable Parts)
++1
+Food (requires Robotics)
+Adjacency Bonus
++1
+Production from each adjacent Outback Station tile.Requires Steam Power.
+Requirements
+Technology
+Animal Husbandry
+Cattle
+Sheep
+Horses
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Pastures.
++1
+Production. Can only be built on valid resources.
+If built on Strategic resources, the city will gain use of that resource.
+Historical Context
+Since it is a lot easier to keep track of livestock if they aren’t running loose across the countryside, it wasn’t long after grazing animals were domesticated that a lazy shepherd devised a fence for keeping them in a pasture. Even those pastoralists who practiced transhumance had crude pastures at each end of their seasonal journeys. Pastures (not to be confused with meadows) are typically grazed throughout the summer, and may be purposely planted or simply fenced-off rangeland. The fences can be made of almost anything that will keep the livestock in and the local predators (animal or human) out: rock and stone, posts and rails, thorny brush, barbed wire, or electric wire. In most places, land ownership was tied to fenced pasturage, as in feudal societies or those progressive ranchers in the American West.
+Traits
++1
+Production
++0.5
+Housing
++1
+Food (requires Stirrups)
++1
+Production (requires Replaceable Parts)
++1
+Food (requires Robotics)
+Adjacency Bonus
++1
+Production from each adjacent Outback Station tile.Requires Steam Power.
+Requirements
+Technology
+Animal Husbandry
+Cattle
+Sheep
+Horses
+Usage
+Built By
+Builder

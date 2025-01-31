@@ -1,0 +1,48 @@
+Lasers - Technologies - Civilopedia - Civilization VI
+Lasers
+Historical Context
+The term “laser” is an acronym for “light amplification by stimulated emission of radiation,” which pretty much describes what it happens to be. The theory dates back to a paper by Albert Einstein in 1917 which offered a derivation of Planck’s Law concerning stimulated emission of electromagnetic radiation. In 1928, the atomic physicist Rudolf Ladenburg confirmed the phenomena of stimulated emission and negative absorption.
+By the time of the first true laser, American and Soviet Russian scientists had built masers, amplifying microwave radiation rather than light radiation. So it wasn’t long before various others were attempting to build “optical masers,” as commonly termed (“laser” was coined in 1959). The first functional laser was demonstrated in May 1960 when the Hughes Research Laboratories introduced laser technology capable of storing data on optical devices. Later that same year, the Iranian Ali Javan headed an international team that produced the first gas laser, utilizing helium and neon, capable of continuous operation in the infrared spectrum.
+Since this early laser research many kinds of specialized lasers have been developed, ones optimized for different maximum firing ranges, output power, or utilizing different wavelengths. Chemical lasers, excimer lasers, dry lasers, solid state and fiber lasers, semiconductor lasers and free-electron lasers. So many kinds, with so many different purposes. Lasers have found their way into thousands of uses, from consumer electronics and entertainment to law enforcement and military use.
+Perhaps the most advanced uses of lasers are in the fields of medicine and the military. In the former lasers offer “bloodless” surgery, removal of tumors and diseased organs, diagnostic tools unknown a decade ago, and photobiomodulation (i.e., laser therapy). And for the military nothing beats a laser for targeting and weapons guidance, although its potential as a directed-energy weapon has yet to be realized (despite research in the billions of dollars thus far). Industrial and home use (the oft-touted holography isn’t quite here yet) is expanding continuously. Just don’t look directly into the light from one.
+“When God said, ‘Let there be light,’ he surely must have meant perfectly coherent light.”
+– Charles Townes
+“I’m a big laser believer – I really think they are the wave of the future.”
+– Courteney Cox
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Nuclear Fission
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Build 2 Drones.
+Progression
+Leads to Technologies
+Nuclear Fusion
+Robotics
+Historical Context
+The term “laser” is an acronym for “light amplification by stimulated emission of radiation,” which pretty much describes what it happens to be. The theory dates back to a paper by Albert Einstein in 1917 which offered a derivation of Planck’s Law concerning stimulated emission of electromagnetic radiation. In 1928, the atomic physicist Rudolf Ladenburg confirmed the phenomena of stimulated emission and negative absorption.
+By the time of the first true laser, American and Soviet Russian scientists had built masers, amplifying microwave radiation rather than light radiation. So it wasn’t long before various others were attempting to build “optical masers,” as commonly termed (“laser” was coined in 1959). The first functional laser was demonstrated in May 1960 when the Hughes Research Laboratories introduced laser technology capable of storing data on optical devices. Later that same year, the Iranian Ali Javan headed an international team that produced the first gas laser, utilizing helium and neon, capable of continuous operation in the infrared spectrum.
+Since this early laser research many kinds of specialized lasers have been developed, ones optimized for different maximum firing ranges, output power, or utilizing different wavelengths. Chemical lasers, excimer lasers, dry lasers, solid state and fiber lasers, semiconductor lasers and free-electron lasers. So many kinds, with so many different purposes. Lasers have found their way into thousands of uses, from consumer electronics and entertainment to law enforcement and military use.
+Perhaps the most advanced uses of lasers are in the fields of medicine and the military. In the former lasers offer “bloodless” surgery, removal of tumors and diseased organs, diagnostic tools unknown a decade ago, and photobiomodulation (i.e., laser therapy). And for the military nothing beats a laser for targeting and weapons guidance, although its potential as a directed-energy weapon has yet to be realized (despite research in the billions of dollars thus far). Industrial and home use (the oft-touted holography isn’t quite here yet) is expanding continuously. Just don’t look directly into the light from one.
+“When God said, ‘Let there be light,’ he surely must have meant perfectly coherent light.”
+– Charles Townes
+“I’m a big laser believer – I really think they are the wave of the future.”
+– Courteney Cox
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Nuclear Fission
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Build 2 Drones.
+Progression
+Leads to Technologies
+Nuclear Fusion
+Robotics

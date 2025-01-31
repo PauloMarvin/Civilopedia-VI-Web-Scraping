@@ -1,0 +1,38 @@
+Nuclear Program - Civics - Civilopedia - Civilization VI
+Nuclear Program
+Historical Context
+When “Trinity” was detonated in New Mexico in July 1945 AD, it was the culmination of a centuries-long science project. Uranium had been discovered in 1789 by the German chemist Martin Klaproth. Wilhelm Rontgen received the Nobel Prize for his discovery of ionizing radiation in 1895; then in 1898 Pierre and Marie Curie isolated radium from pitchblende, the same year that Samuel Prescott showed that radiation destroyed bacteria (and other living things). Between 1898 and 1938, more discoveries followed … until Hahn and Strassmann finally proved that atomic fission had occurred in their experiments. Lise Meitner, Otto Frisch and Niels Bohr calculated that the energy released from nuclear fission as about 200 million volts, a figure Frisch confirmed experimentally in January 1939.
+The world war brought civilization the Manhattan Project, as the United States raced to be the first nation to build an “atomic” bomb. The horrendous result of all this science was a device known as “Little Boy” that was dropped on Hiroshima on 6 August 1945, destroying 12 square kilometers and killing around 75 thousand (exact estimates are difficult to determine since 90% of the doctors and 93% of the nurses in the city died in the explosion). By December 1945, another 75 thousand survivors had died of radiation poisoning. When Japan didn’t surrender unconditionally immediately, Truman ordered a second bomb dropped on the city of Nagasaki, with similar results. Japan surrendered.
+But now everyone wanted “the bomb.” Throughout the 1950s and 1960s the U.S. and USSR competed for nuclear supremacy until a point of MAD (“mutually assured destruction”) was reached. During the same decades, Anglo-American cooperation brought the British the bomb, and China was made a nuclear power in 1964 by a subsequently regretful Russia. France developed nuclear weapons on its own. Since then these five powers have tried to put the apocalyptic genie back in the box – but all sorts have embarked on nuclear programs: India, Pakistan, Israel, Libya, Iran, and North Korea.
+“The release of atom power has changed everything except our way of thinking…the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker.”
+– Albert Einstein
+”The children of the nuclear age, I think, were weakened in their capacity to love. Hard to love, when you’re bracing yourself for impact.”
+– Martin Amis
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 1715
+Culture
+Boosts
+Build a Research Lab.
+Historical Context
+When “Trinity” was detonated in New Mexico in July 1945 AD, it was the culmination of a centuries-long science project. Uranium had been discovered in 1789 by the German chemist Martin Klaproth. Wilhelm Rontgen received the Nobel Prize for his discovery of ionizing radiation in 1895; then in 1898 Pierre and Marie Curie isolated radium from pitchblende, the same year that Samuel Prescott showed that radiation destroyed bacteria (and other living things). Between 1898 and 1938, more discoveries followed … until Hahn and Strassmann finally proved that atomic fission had occurred in their experiments. Lise Meitner, Otto Frisch and Niels Bohr calculated that the energy released from nuclear fission as about 200 million volts, a figure Frisch confirmed experimentally in January 1939.
+The world war brought civilization the Manhattan Project, as the United States raced to be the first nation to build an “atomic” bomb. The horrendous result of all this science was a device known as “Little Boy” that was dropped on Hiroshima on 6 August 1945, destroying 12 square kilometers and killing around 75 thousand (exact estimates are difficult to determine since 90% of the doctors and 93% of the nurses in the city died in the explosion). By December 1945, another 75 thousand survivors had died of radiation poisoning. When Japan didn’t surrender unconditionally immediately, Truman ordered a second bomb dropped on the city of Nagasaki, with similar results. Japan surrendered.
+But now everyone wanted “the bomb.” Throughout the 1950s and 1960s the U.S. and USSR competed for nuclear supremacy until a point of MAD (“mutually assured destruction”) was reached. During the same decades, Anglo-American cooperation brought the British the bomb, and China was made a nuclear power in 1964 by a subsequently regretful Russia. France developed nuclear weapons on its own. Since then these five powers have tried to put the apocalyptic genie back in the box – but all sorts have embarked on nuclear programs: India, Pakistan, Israel, Libya, Iran, and North Korea.
+“The release of atom power has changed everything except our way of thinking…the solution to this problem lies in the heart of mankind. If only I had known, I should have become a watchmaker.”
+– Albert Einstein
+”The children of the nuclear age, I think, were weakened in their capacity to love. Hard to love, when you’re bracing yourself for impact.”
+– Martin Amis
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 1715
+Culture
+Boosts
+Build a Research Lab.

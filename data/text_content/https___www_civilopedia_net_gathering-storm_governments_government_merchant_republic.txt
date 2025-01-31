@@ -1,0 +1,44 @@
+Merchant Republic - Governments and Policies - Civilopedia - Civilization VI
+Merchant Republic
+Description
+Inherent effect
++10%
+Gold in all cities with an established
+Governor.
+Inherent effect
++15% Production toward Districts.
+Historical Context
+In the early Renaissance, a number of small, wealthy, trade-based nations embraced republican ideals, notably across Italy and the Baltic. In these “mercantile republics,” the leaders – usually a council of merchants headed by a doge or mayor – were elected by the citizenry with the primary duty of increasing the city-state's collective wealth. Thus, while military affairs were of importance, these were usually focused on opening or guarding trade routes. And diplomacy was centered on such matters as tariffs, customs duties and financial matters. In short, merchant republics had capital lead the way, and gave a pragmatic approach to governing, although occasionally they were not immune to misguided visions of glory, as when the aged Doge Dandolo joined the Fourth Crusade and helped sack Constantinople.
+In general, these mercantile republics arose in regions of Europe where feudal control by an absolutist monarchy was minimal or absent completely. In the Holy Roman Empire, 51 “free imperial cities,” many later composing the Hanseatic League, established chartered mercantile republics. To the east, two Russian cities – Novgorod and Pskov – pursued republicanism into the 15th Century until Muscovy put an end to any pretensions of independence. But it was in Italy that mercantile republican aspirations reached their culmination, with powerful city-states such as Venice, Genoa, Pisa, Florence and others dominating the landscape until the Napoleonic Wars subsumed their greed.
+Traits
+2
+Diplomatic Favor per
+turn.
+1 Military  Slot
+2 Economic  Slots
+2 Diplomatic  Slots
+1 Wildcard  Slot
+Requirements
+Civic
+Exploration
+Description
+Inherent effect
++10%
+Gold in all cities with an established
+Governor.
+Inherent effect
++15% Production toward Districts.
+Historical Context
+In the early Renaissance, a number of small, wealthy, trade-based nations embraced republican ideals, notably across Italy and the Baltic. In these “mercantile republics,” the leaders – usually a council of merchants headed by a doge or mayor – were elected by the citizenry with the primary duty of increasing the city-state's collective wealth. Thus, while military affairs were of importance, these were usually focused on opening or guarding trade routes. And diplomacy was centered on such matters as tariffs, customs duties and financial matters. In short, merchant republics had capital lead the way, and gave a pragmatic approach to governing, although occasionally they were not immune to misguided visions of glory, as when the aged Doge Dandolo joined the Fourth Crusade and helped sack Constantinople.
+In general, these mercantile republics arose in regions of Europe where feudal control by an absolutist monarchy was minimal or absent completely. In the Holy Roman Empire, 51 “free imperial cities,” many later composing the Hanseatic League, established chartered mercantile republics. To the east, two Russian cities – Novgorod and Pskov – pursued republicanism into the 15th Century until Muscovy put an end to any pretensions of independence. But it was in Italy that mercantile republican aspirations reached their culmination, with powerful city-states such as Venice, Genoa, Pisa, Florence and others dominating the landscape until the Napoleonic Wars subsumed their greed.
+Traits
+2
+Diplomatic Favor per
+turn.
+1 Military  Slot
+2 Economic  Slots
+2 Diplomatic  Slots
+1 Wildcard  Slot
+Requirements
+Civic
+Exploration

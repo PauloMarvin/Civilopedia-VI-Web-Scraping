@@ -1,0 +1,24 @@
+Build Nuclear Device - Wonders and Projects - Civilopedia - Civilization VI
+Build Nuclear Device
+Description
+Adds one Nuclear Device to your nation's inventory. Requires
+Uranium. Maintenance is 14
+Gold.
+Requirements
+Resource
+Uranium
+Technology
+Nuclear Fission
+Project(s)
+Manhattan Project
+Description
+Adds one Nuclear Device to your nation's inventory. Requires
+Uranium. Maintenance is 14
+Gold.
+Requirements
+Resource
+Uranium
+Technology
+Nuclear Fission
+Project(s)
+Manhattan Project

@@ -1,0 +1,34 @@
+Predictive Systems - Technologies - Civilopedia - Civilization VI
+Predictive Systems
+Description
++1
+Production to Quarry, Oil Well, and Oil Rig improvements.
+Historical Context
+Artificial Intelligence systems can create sophisticated models of behavior, with good predictive power for future behavior. This is becoming widely exploited in commercial domains (as anyone who carefully observes the Internet advertisements served up them can tell you) but it is also being used in other areas as well. Medical and health professionals are interested in increased efficacy of targeted preventative programs. Law enforcement is interested in being able to anticipate crime.
+There is some cultural discomfort with the increasing scope of this kind of preventative analysis, in part because the AI-generated models are often opaque (data goes in, recommendations come out, the intervening calculation is sensible only to the AI), and because some of the analysis treads on traditional notions of privacy in those cultures that value such. Whether or not such advances in predicting and intervening against dire outcomes are worth the changes that will come to the culture remains a subject of considerable dispute.
+“If the enemy know not where he will be attacked, he must prepare in every quarter, and so be everywhere weak.”
+– Sun Tzu
+Unlocks
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.
+Description
++1
+Production to Quarry, Oil Well, and Oil Rig improvements.
+Historical Context
+Artificial Intelligence systems can create sophisticated models of behavior, with good predictive power for future behavior. This is becoming widely exploited in commercial domains (as anyone who carefully observes the Internet advertisements served up them can tell you) but it is also being used in other areas as well. Medical and health professionals are interested in increased efficacy of targeted preventative programs. Law enforcement is interested in being able to anticipate crime.
+There is some cultural discomfort with the increasing scope of this kind of preventative analysis, in part because the AI-generated models are often opaque (data goes in, recommendations come out, the intervening calculation is sensible only to the AI), and because some of the analysis treads on traditional notions of privacy in those cultures that value such. Whether or not such advances in predicting and intervening against dire outcomes are worth the changes that will come to the culture remains a subject of considerable dispute.
+“If the enemy know not where he will be attacked, he must prepare in every quarter, and so be everywhere weak.”
+– Sun Tzu
+Unlocks
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.

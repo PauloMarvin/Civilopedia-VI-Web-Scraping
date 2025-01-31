@@ -1,0 +1,48 @@
+Supply Convoy - Units - Civilopedia - Civilization VI
+Supply Convoy
+Description
+Modern era support unit. Increases healing for adjacent units. Gives units 1 bonus
+Movement if move is started adjacent to the Convoy.
+Historical Context
+With the advent of mechanized infantry, logistics grew increasingly complex. A motorized army can only travel as far as its fuel provides, which is why support convoys became the lifeblood of modern warfare. Motorized transports could bear food, fuel, and medical supplies with more reliability and efficiency than carts drawn by beasts of burden. They also allowed for faster relocation of mobile field hospitals or fuel depots when operating near a more fluid front.
+Traits
+Upgrade From
+Medic
+Promotion Class: Support
+4
+Movement Points
+Requirements
+Technology
+Combustion
+Production Cost
+Base Cost: 450
+Production
+Purchase Cost
+Base Cost: 1800
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Modern era support unit. Increases healing for adjacent units. Gives units 1 bonus
+Movement if move is started adjacent to the Convoy.
+Historical Context
+With the advent of mechanized infantry, logistics grew increasingly complex. A motorized army can only travel as far as its fuel provides, which is why support convoys became the lifeblood of modern warfare. Motorized transports could bear food, fuel, and medical supplies with more reliability and efficiency than carts drawn by beasts of burden. They also allowed for faster relocation of mobile field hospitals or fuel depots when operating near a more fluid front.
+Traits
+Upgrade From
+Medic
+Promotion Class: Support
+4
+Movement Points
+Requirements
+Technology
+Combustion
+Production Cost
+Base Cost: 450
+Production
+Purchase Cost
+Base Cost: 1800
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

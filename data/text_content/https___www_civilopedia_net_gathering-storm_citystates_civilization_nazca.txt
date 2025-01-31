@@ -1,0 +1,56 @@
+Nazca - City-States - Civilopedia - Civilization VI
+Nazca
+Unique Ability
+Religious City-State
+1
+Envoy: +2
+Faith in the
+Capital.
+3
+Envoys: +2
+Faith in every Shrine building.
+6
+Envoys: +2
+Faith in every Temple building.
+Nazca Suzerain Bonus
+Your Builders can now make Nazca Line improvements.
+Nazca Lines provide +1
+Faith to adjacent tiles. +1
+Faith to adjacent tiles with a resource. +1
+Food to adjacent Desert and Desert Hill tiles after discovering Civil Service. +1
+Production to adjacent flat tiles after researching Mass Production. +1 Appeal. Can only be built on flat Desert. This tile cannot be worked.
+Historical Context
+Nazca is the name of a city, a region, and a culture along the southern coast of Peru. The area is famous for a series of enormous geoglyphs carved into the desert called (creatively enough) the Nazca Lines.
+Nazca culture predates the Inca, from about 100 BCE to 800 CE, rising in the arid coastal lands. The Nazca created beautiful pottery and elaborately-decorated textiles, but their most remarkable engineering achievements were the puquios – a system of underground aqueducts used to bring water to the city. The puquio network is largely intact and still used to carry water today. The history of the Nazca Lines is covered under their entry in the Civilopedia.
+The ceremonial center of Nazca culture was the complex at Cahuachi – a system of mounds and adobe structures including burial sites. Modern interpretation of the site is that it was not a city or palace, but a ceremonial center which probably lacked a large full-time population. Changes in climate and deforestation of the huarango tree appear to have preceded abandonment of Cahuachi and the decline of the Nazca culture. There were a series of floods which would have inundated the region and made habitation difficult. The Nazca were eventually conquered by the Wari.
+Spanish colonists settled Nazca in the 16th Century. The region became prominent for its viticulture and wineries. The Jesuit Order controlled many properties in the Nazca region until their expulsion from Spain, at which time the lands were confiscated by the crown.
+Today, tourism around the Nazca Lines is the major industry in the region, as people flock from around the world to see the UNESCO Heritage site and contemplate the purpose of these enigmatic gylphs. The dry land around them remains silent and yields no secrets.
+City-State Type
+Religious
+City-State Type
+Religious
+Unique Ability
+Religious City-State
+1
+Envoy: +2
+Faith in the
+Capital.
+3
+Envoys: +2
+Faith in every Shrine building.
+6
+Envoys: +2
+Faith in every Temple building.
+Nazca Suzerain Bonus
+Your Builders can now make Nazca Line improvements.
+Nazca Lines provide +1
+Faith to adjacent tiles. +1
+Faith to adjacent tiles with a resource. +1
+Food to adjacent Desert and Desert Hill tiles after discovering Civil Service. +1
+Production to adjacent flat tiles after researching Mass Production. +1 Appeal. Can only be built on flat Desert. This tile cannot be worked.
+Historical Context
+Nazca is the name of a city, a region, and a culture along the southern coast of Peru. The area is famous for a series of enormous geoglyphs carved into the desert called (creatively enough) the Nazca Lines.
+Nazca culture predates the Inca, from about 100 BCE to 800 CE, rising in the arid coastal lands. The Nazca created beautiful pottery and elaborately-decorated textiles, but their most remarkable engineering achievements were the puquios – a system of underground aqueducts used to bring water to the city. The puquio network is largely intact and still used to carry water today. The history of the Nazca Lines is covered under their entry in the Civilopedia.
+The ceremonial center of Nazca culture was the complex at Cahuachi – a system of mounds and adobe structures including burial sites. Modern interpretation of the site is that it was not a city or palace, but a ceremonial center which probably lacked a large full-time population. Changes in climate and deforestation of the huarango tree appear to have preceded abandonment of Cahuachi and the decline of the Nazca culture. There were a series of floods which would have inundated the region and made habitation difficult. The Nazca were eventually conquered by the Wari.
+Spanish colonists settled Nazca in the 16th Century. The region became prominent for its viticulture and wineries. The Jesuit Order controlled many properties in the Nazca region until their expulsion from Spain, at which time the lands were confiscated by the crown.
+Today, tourism around the Nazca Lines is the major industry in the region, as people flock from around the world to see the UNESCO Heritage site and contemplate the purpose of these enigmatic gylphs. The dry land around them remains silent and yields no secrets.

@@ -1,0 +1,64 @@
+Sea Dog - Units - Civilopedia - Civilization VI
+Sea Dog
+Description
+English unique Renaissance era naval unit that replaces the Privateer. Has a chance to capture defeated enemy ships. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+Heroic privateers to the English, pirates to everyone else. From 1560 to 1605 AD, Elizabeth I gave permission to her “Sea Dogs” to attack the ships and colonies of other nations – especially the Spanish – at will, usually without the nicety of being at war. The likes of Sir John Hawkins and Sir Francis Drake and Sir Walter Raleigh (in fact, many of these pirates were knighted) raided across the Caribbean and even reached the California coast to ply their bloody trade: grabbing as much treasure as they could for the English crown … and themselves of course.  In England’s hour of greatest need, the Sea Dogs spearheaded Elizabeth’s defense against the Spanish Armada in 1588. Hawkins is also known as the pioneer of the British slave trade, and Drake took part in the Rathlin Island Massacre of some 600 men, women, and children off the coast of Ireland.
+Traits
+Unique To
+England
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 280
+Production
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+English unique Renaissance era naval unit that replaces the Privateer. Has a chance to capture defeated enemy ships. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+Heroic privateers to the English, pirates to everyone else. From 1560 to 1605 AD, Elizabeth I gave permission to her “Sea Dogs” to attack the ships and colonies of other nations – especially the Spanish – at will, usually without the nicety of being at war. The likes of Sir John Hawkins and Sir Francis Drake and Sir Walter Raleigh (in fact, many of these pirates were knighted) raided across the Caribbean and even reached the California coast to ply their bloody trade: grabbing as much treasure as they could for the English crown … and themselves of course.  In England’s hour of greatest need, the Sea Dogs spearheaded Elizabeth’s defense against the Spanish Armada in 1588. Hawkins is also known as the pioneer of the British slave trade, and Drake took part in the Rathlin Island Massacre of some 600 men, women, and children off the coast of Ireland.
+Traits
+Unique To
+England
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 280
+Production
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

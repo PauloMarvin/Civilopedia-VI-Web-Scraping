@@ -1,0 +1,62 @@
+Winged Hussar - Units - Civilopedia - Civilization VI
+Winged Hussar
+Description
+Polish unique Renaissance era unit that replaces the Cuirassier. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.
+Historical Context
+Polish military reforms of the late 1570s gave birth to the winged hussars, a fearsome heavy cavalry force who would enjoy their elite status for the next two centuries. Rather than fielding cavalry comprised of foreign mercenaries, Transylvanian prince Stephen Bathory (also Grand Duke of Lithuania, King-by-right-of-his-wife of Poland, and collector of increasingly impressive titles) filled the ranks of the winged hussars with Polish nobility and their retinues. The famed "wings" were wooden frames with feathers attached, borne on a rider's back to clearly distinguish them. It was said the distinctive sound of the wings startled enemy horses and demoralized enemy soldiers with an "evil hiss"—by novelists of later centuries, who likely romanticized a ceremonial accessory. Far less contentious a question are the lances, sabers, and pistols the winged hussars brought to the battlefield, which no doubt startled enemy horses and demoralized enemy soldiers.
+Traits
+Unique To
+Poland
+Upgrades To
+Tank
+Upgrade From
+Knight
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+64
+Melee Strength
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Polish unique Renaissance era unit that replaces the Cuirassier. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.
+Historical Context
+Polish military reforms of the late 1570s gave birth to the winged hussars, a fearsome heavy cavalry force who would enjoy their elite status for the next two centuries. Rather than fielding cavalry comprised of foreign mercenaries, Transylvanian prince Stephen Bathory (also Grand Duke of Lithuania, King-by-right-of-his-wife of Poland, and collector of increasingly impressive titles) filled the ranks of the winged hussars with Polish nobility and their retinues. The famed "wings" were wooden frames with feathers attached, borne on a rider's back to clearly distinguish them. It was said the distinctive sound of the wings startled enemy horses and demoralized enemy soldiers with an "evil hiss"—by novelists of later centuries, who likely romanticized a ceremonial accessory. Far less contentious a question are the lances, sabers, and pistols the winged hussars brought to the battlefield, which no doubt startled enemy horses and demoralized enemy soldiers.
+Traits
+Unique To
+Poland
+Upgrades To
+Tank
+Upgrade From
+Knight
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+64
+Melee Strength
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

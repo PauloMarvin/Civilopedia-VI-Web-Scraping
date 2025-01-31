@@ -1,0 +1,68 @@
+Garde Impériale - Units - Civilopedia - Civilization VI
+Garde Impériale
+Description
+French unique Industrial era melee unit that replaces the Line Infantry. +10
+Combat Strength when fighting on your capital's continent.
+Great General points for killing units.
+Historical Context
+From a small cadre of veterans under the direct command of Napoléon Bonaparte, formed in 1799 from the union of the Guard of the Directory and the Grenadiers of the Legislature (both of those effete democratic bodies soon enough done away with by the emperor), the Garde Impériale grew during the Napoleonic Wars to be a division strong. The Garde was divided into three echelons depending on experience: the Old, the Middle and the Young. Napoleon favored his Garde, giving them higher pay as well as better rations, equipment, and living quarters. Nonetheless, the Old Guard were outspoken in their complaints, often directly to Napoleon himself, earning them the nickname les Grognards (“the grumblers”) among the rest of the French troops. Serving in every campaign during the wars, at Waterloo they were committed in desperation to secure a victory, but the Middle Guard retreated (for the first and only time) under withering fire; the Old Guard and some Young Guard units stood their ground to cover the Emperor’s withdrawal, only to be virtually annihilated by the British and Prussian cannon. Thus came to an inglorious end the most elite (according to the French and to wargame designers) of all military units in history.
+Traits
+Unique To
+France
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Promotion Class: Melee
+2
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+French unique Industrial era melee unit that replaces the Line Infantry. +10
+Combat Strength when fighting on your capital's continent.
+Great General points for killing units.
+Historical Context
+From a small cadre of veterans under the direct command of Napoléon Bonaparte, formed in 1799 from the union of the Guard of the Directory and the Grenadiers of the Legislature (both of those effete democratic bodies soon enough done away with by the emperor), the Garde Impériale grew during the Napoleonic Wars to be a division strong. The Garde was divided into three echelons depending on experience: the Old, the Middle and the Young. Napoleon favored his Garde, giving them higher pay as well as better rations, equipment, and living quarters. Nonetheless, the Old Guard were outspoken in their complaints, often directly to Napoleon himself, earning them the nickname les Grognards (“the grumblers”) among the rest of the French troops. Serving in every campaign during the wars, at Waterloo they were committed in desperation to secure a victory, but the Middle Guard retreated (for the first and only time) under withering fire; the Old Guard and some Young Guard units stood their ground to cover the Emperor’s withdrawal, only to be virtually annihilated by the British and Prussian cannon. Thus came to an inglorious end the most elite (according to the French and to wargame designers) of all military units in history.
+Traits
+Unique To
+France
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Promotion Class: Melee
+2
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

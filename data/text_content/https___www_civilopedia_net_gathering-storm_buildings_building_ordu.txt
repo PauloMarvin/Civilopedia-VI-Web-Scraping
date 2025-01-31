@@ -1,0 +1,76 @@
+Ordu - Buildings - Civilopedia - Civilization VI
+Ordu
+Description
+A building unique to Mongolia. Grants an ability that gives +1
+Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry and siege class units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Barracks.
+Historical Context
+Simply translated, “ordu” means “palace tent.” However, an ordu was something much more than just a simple tent—it was the center of the tribe for the nomadic Mongolians.
+An ordu served as the headquarters and main encampment for the Khan and his warriors. Though built for travel, it had style, from simple decorations to carefully sewn patterns. The ordu moved with the Khan and his warriors as they went on campaign, ensuring they always felt at home no matter where they traveled.
+Traits
+Unique To
+Mongolia
+Replaces
+Stable
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Horseback Riding
+Mutually Exclusive With
+Barracks
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+A building unique to Mongolia. Grants an ability that gives +1
+Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry and siege class units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Barracks.
+Historical Context
+Simply translated, “ordu” means “palace tent.” However, an ordu was something much more than just a simple tent—it was the center of the tribe for the nomadic Mongolians.
+An ordu served as the headquarters and main encampment for the Khan and his warriors. Though built for travel, it had style, from simple decorations to carefully sewn patterns. The ordu moved with the Khan and his warriors as they went on campaign, ensuring they always felt at home no matter where they traveled.
+Traits
+Unique To
+Mongolia
+Replaces
+Stable
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Horseback Riding
+Mutually Exclusive With
+Barracks
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

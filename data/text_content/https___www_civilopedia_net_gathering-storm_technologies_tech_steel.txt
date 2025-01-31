@@ -1,0 +1,54 @@
+Steel - Technologies - Civilopedia - Civilization VI
+Steel
+Description
++1
+Production from the Lumber Mill improvement. Unlocks Urban Defenses, giving all of your cities an automatic 400 Fortification Strength and the ability to perform a ranged attack. All previous wall improvements become obsolete and siege support units are no longer effective.
+Historical Context
+The earliest examples of steel – an alloy of carbon and iron with both high tensile strength and high ductility – dates to c. 1800 BC in Anatolia; the “historian” Herodotus states in no uncertain terms that steel weapons were used in Iberia at the time of his scribblings, and Noric (Celtic) steel was favored by the Romans for weapons. Seric iron from southern India was reputedly the best for steel, and was used by the Greeks, Romans, Egyptians, east Africans, Chinese and Middle Eastern kingdoms. Steel was especially favored by swordsmiths, for it could be folded and beaten in many layers (such as the famed katanas) and held an edge. Damascus steel was thought better than other types, near legendary and much favored by Arab warriors. Europeans had to make do with “crucible” steel.
+Modern steelmaking got its start in 1855 AD, when Henry Bessemer perfected his process using pig iron as the basis to make “mild” (or “low-carbon”) steel in quantity fairly cheaply, a century after Benjamin Huntsman had established the first steelworks in Sheffield, England – a refinement but not much improvement over the old “crucible” method. Within a few decades, however, steel mills were springing up all over the world using Bessemer’s method; the steel industry had been born, producing tons of it for the new bridges, skyscrapers, trains and automobiles, household gadgets and weapons of the modern era.
+Along with petroleum, steel is the backbone of modern civilization. In 1980, there were a half-million steelworkers in the United States alone. Between 2000 and 2005, demand for steel increased 6% worldwide, driven by the building boom in India and China. In 2005, China was the world’s leading steel producer, followed (in order) by Japan, Russia and America. In 2008 steel began being traded as a commodity, first on the London Metal Exchange. Seems it really is worth (nearly) its weight in gold.
+“The best steel doesn’t always shine the brightest.”
+– Joe Abercrombie
+“There are three things extremely hard: steel, a diamond, and to know one’s self.”
+– Benjamin Franklin
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Rifling
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build a Coal Mine and an Ironclad.
+Progression
+Leads to Technologies
+Combustion
+Advanced Ballistics
+Combined Arms
+Description
++1
+Production from the Lumber Mill improvement. Unlocks Urban Defenses, giving all of your cities an automatic 400 Fortification Strength and the ability to perform a ranged attack. All previous wall improvements become obsolete and siege support units are no longer effective.
+Historical Context
+The earliest examples of steel – an alloy of carbon and iron with both high tensile strength and high ductility – dates to c. 1800 BC in Anatolia; the “historian” Herodotus states in no uncertain terms that steel weapons were used in Iberia at the time of his scribblings, and Noric (Celtic) steel was favored by the Romans for weapons. Seric iron from southern India was reputedly the best for steel, and was used by the Greeks, Romans, Egyptians, east Africans, Chinese and Middle Eastern kingdoms. Steel was especially favored by swordsmiths, for it could be folded and beaten in many layers (such as the famed katanas) and held an edge. Damascus steel was thought better than other types, near legendary and much favored by Arab warriors. Europeans had to make do with “crucible” steel.
+Modern steelmaking got its start in 1855 AD, when Henry Bessemer perfected his process using pig iron as the basis to make “mild” (or “low-carbon”) steel in quantity fairly cheaply, a century after Benjamin Huntsman had established the first steelworks in Sheffield, England – a refinement but not much improvement over the old “crucible” method. Within a few decades, however, steel mills were springing up all over the world using Bessemer’s method; the steel industry had been born, producing tons of it for the new bridges, skyscrapers, trains and automobiles, household gadgets and weapons of the modern era.
+Along with petroleum, steel is the backbone of modern civilization. In 1980, there were a half-million steelworkers in the United States alone. Between 2000 and 2005, demand for steel increased 6% worldwide, driven by the building boom in India and China. In 2005, China was the world’s leading steel producer, followed (in order) by Japan, Russia and America. In 2008 steel began being traded as a commodity, first on the London Metal Exchange. Seems it really is worth (nearly) its weight in gold.
+“The best steel doesn’t always shine the brightest.”
+– Joe Abercrombie
+“There are three things extremely hard: steel, a diamond, and to know one’s self.”
+– Benjamin Franklin
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Rifling
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build a Coal Mine and an Ironclad.
+Progression
+Leads to Technologies
+Combustion
+Advanced Ballistics
+Combined Arms

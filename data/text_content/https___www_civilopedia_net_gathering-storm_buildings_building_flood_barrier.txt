@@ -1,0 +1,36 @@
+Flood Barrier - Buildings - Civilopedia - Civilization VI
+Flood Barrier
+Description
+Protects Coastal Lowland tiles in this city from flooding. Initial build cost and per turn maintenance are variable based on the number of Coastal Lowlands in this city and the current sea level. If constructed after some of a city's tiles have been flooded, those tiles can be repaired in full. Submerged tiles however are never recoverable.
+Must be built in a city with one or more Coastal Lowland tiles. Will not be pillaged if the city is captured.
+Historical Context
+There is a long history of constructing earthworks to prevent flooding of low-lying habited areas. Levees to contain rivers have been built almost as long as urban centers have existed. Sea walls prevent the sea from inundating populated areas along the coast under most circumstances. These engineering feats are effective and can be long lasting if maintained—and they must be maintained or they can fail catastrophically.
+The Pondicherry sea wall was built in 1735 and protected that city from a tsunami in 2004 that caused intense devastation in many other areas in the Indian Ocean.
+Requirements
+District
+City Center
+Technology
+Computers
+Production Cost
+Base Cost: 80
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Protects Coastal Lowland tiles in this city from flooding. Initial build cost and per turn maintenance are variable based on the number of Coastal Lowlands in this city and the current sea level. If constructed after some of a city's tiles have been flooded, those tiles can be repaired in full. Submerged tiles however are never recoverable.
+Must be built in a city with one or more Coastal Lowland tiles. Will not be pillaged if the city is captured.
+Historical Context
+There is a long history of constructing earthworks to prevent flooding of low-lying habited areas. Levees to contain rivers have been built almost as long as urban centers have existed. Sea walls prevent the sea from inundating populated areas along the coast under most circumstances. These engineering feats are effective and can be long lasting if maintained—and they must be maintained or they can fail catastrophically.
+The Pondicherry sea wall was built in 1735 and protected that city from a tsunami in 2004 that caused intense devastation in many other areas in the Indian Ocean.
+Requirements
+District
+City Center
+Technology
+Computers
+Production Cost
+Base Cost: 80
+Production
+Maintenance Cost
+Base Cost: 1
+Gold

@@ -1,0 +1,88 @@
+Broadcast Center - Buildings - Civilopedia - Civilization VI
+Broadcast Center
+Historical Context
+It wasn’t long after commercial radio began being broadcast that the first “broadcast center” was built: Broadcasting House, home of the British Broadcasting Corporation (the world’s oldest and largest), in 1932 AD. A “broadcasting center” is a complex (studios, sound booths, antennae, and lots of esoteric electrical equipment) for sending out radio and television waves to home receivers, thus keeping folk passively entertained for hours at a time. The BBC was chartered in 1922 as a government-supported operation to supply edifying entertainment and information to the people of Great Britain. Soon after, a number of Commonwealth nations took the same approach, as did a handful of other countries. In the American model, private broadcasting corporations provided competitive programming, funded by the sale of advertising time to “sponsors.” By 1928, the United States had three national networks (two owned by NBC). These competing (for audience numbers, which translate to advertising revenues) networks each built their own broadcasting center(s) to feed the electronic wasteland.
+Traits
+Replaced By
+Film Studio
++2
+Culture
++4
+Culture additionally when
+Powered
++1
+Citizen slot
++1
+Great Artist point per turn.
++2
+Great Musician points per turn.
++1
+Great Work of Music slot
++750
+Tourism from Rock Concerts.
+Citizen Yields (per citizen)
++1
+Culture
+Requirements
+District
+Theater Square
+Technology
+Radio
+Buildings (any)
+Art Museum
+Archaeological Museum
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Power Cost
+Base Load: 3
+Power
+Historical Context
+It wasn’t long after commercial radio began being broadcast that the first “broadcast center” was built: Broadcasting House, home of the British Broadcasting Corporation (the world’s oldest and largest), in 1932 AD. A “broadcasting center” is a complex (studios, sound booths, antennae, and lots of esoteric electrical equipment) for sending out radio and television waves to home receivers, thus keeping folk passively entertained for hours at a time. The BBC was chartered in 1922 as a government-supported operation to supply edifying entertainment and information to the people of Great Britain. Soon after, a number of Commonwealth nations took the same approach, as did a handful of other countries. In the American model, private broadcasting corporations provided competitive programming, funded by the sale of advertising time to “sponsors.” By 1928, the United States had three national networks (two owned by NBC). These competing (for audience numbers, which translate to advertising revenues) networks each built their own broadcasting center(s) to feed the electronic wasteland.
+Traits
+Replaced By
+Film Studio
++2
+Culture
++4
+Culture additionally when
+Powered
++1
+Citizen slot
++1
+Great Artist point per turn.
++2
+Great Musician points per turn.
++1
+Great Work of Music slot
++750
+Tourism from Rock Concerts.
+Citizen Yields (per citizen)
++1
+Culture
+Requirements
+District
+Theater Square
+Technology
+Radio
+Buildings (any)
+Art Museum
+Archaeological Museum
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Power Cost
+Base Load: 3
+Power

@@ -1,0 +1,80 @@
+Mahavihara - Improvements and Routes - Civilopedia - Civilization VI
+Mahavihara
+Description
+Unlocks the Builder ability to construct a Mahavihara.
++2
+Science and +1
+Housing. +1
+Faith for every adjacent Holy Site district and +1
+Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1
+Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.
+Historical Context
+A vihara is the Sanskrit and Pali term for a Buddhist monastery; “Maha” simply means “great,” so the “mahavihara” just means a large center for monastic life. Buddhist monks in a vihara are not the stereotype of silent worshippers simply seeking enlightenment via meditation. Rather, many monasteries are places of active learning – devotees are exposed to a wide variety of knowledge and encouraged to debate religious and scientific truths. The mahavihara of Nalanda was a massive complex that brought visitors from all across Asia precisely for this discussion and exchange. It contained within it a library that contained knowledge both of Buddhism as well as  literature and science, including several famous texts: Nagarjuna’s Madhyamaka, or the doctrine of emptiness; as well as the Four Vedas – Sanskrit texts that are vital to both Buddhism and Hinduism. Vihara are still present today – the terms “wihan” and “vihear” in Thai and Cambodian, respectively, refer to the main functional structure in a Buddhist temple.
+Traits
+Unique To
+Nalanda
++2
+Science
++1.0
+Housing
+Adjacency Bonus
++1
+Science from each adjacent Campus tile.Becomes obsolete with Scientific Theory.
++2
+Science from each adjacent Campus tile.Requires Scientific Theory.
++1
+Faith from each adjacent Holy Site tile.
++1
+Faith from each adjacent Lavra tile.
++1
+Science from each adjacent Observatory tile.Becomes obsolete with Scientific Theory.
++2
+Science from each adjacent Observatory tile.Requires Scientific Theory.
+Requirements
+Plains
+Grassland
+Desert
+Tundra
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Mahavihara.
++2
+Science and +1
+Housing. +1
+Faith for every adjacent Holy Site district and +1
+Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1
+Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.
+Historical Context
+A vihara is the Sanskrit and Pali term for a Buddhist monastery; “Maha” simply means “great,” so the “mahavihara” just means a large center for monastic life. Buddhist monks in a vihara are not the stereotype of silent worshippers simply seeking enlightenment via meditation. Rather, many monasteries are places of active learning – devotees are exposed to a wide variety of knowledge and encouraged to debate religious and scientific truths. The mahavihara of Nalanda was a massive complex that brought visitors from all across Asia precisely for this discussion and exchange. It contained within it a library that contained knowledge both of Buddhism as well as  literature and science, including several famous texts: Nagarjuna’s Madhyamaka, or the doctrine of emptiness; as well as the Four Vedas – Sanskrit texts that are vital to both Buddhism and Hinduism. Vihara are still present today – the terms “wihan” and “vihear” in Thai and Cambodian, respectively, refer to the main functional structure in a Buddhist temple.
+Traits
+Unique To
+Nalanda
++2
+Science
++1.0
+Housing
+Adjacency Bonus
++1
+Science from each adjacent Campus tile.Becomes obsolete with Scientific Theory.
++2
+Science from each adjacent Campus tile.Requires Scientific Theory.
++1
+Faith from each adjacent Holy Site tile.
++1
+Faith from each adjacent Lavra tile.
++1
+Science from each adjacent Observatory tile.Becomes obsolete with Scientific Theory.
++2
+Science from each adjacent Observatory tile.Requires Scientific Theory.
+Requirements
+Plains
+Grassland
+Desert
+Tundra
+Snow
+Usage
+Built By
+Builder

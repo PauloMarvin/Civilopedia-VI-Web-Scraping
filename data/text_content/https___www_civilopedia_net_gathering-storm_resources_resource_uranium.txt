@@ -1,0 +1,60 @@
+Uranium - Resources - Civilopedia - Civilization VI
+Uranium
+Historical Context
+With 92 protons and electrons, six of the latter valence electrons, uranium is a silver-white metal that is slightly radioactive. The use of uranium dates back to at least 79 AD, when it was used to add a yellowish color to ceramic glazes. But Enrico Fermi found a more malevolent use for the metal; his research in 1934 led to the discovery of “nuclear fission.” And in December 1942, another team led by Fermi as part of the Manhattan Project initiated the world’s first self-sustained nuclear reaction. A few years later, thanks to uranium, the skies above Hiroshima lit up.
+Traits
+Strategic
++2
+Production
+Produces +3
+Uranium per turn when improved.
+Requirements
+Unlocked By
+Combined Arms
+Placement
+Desert
+Desert (Hills)
+Grassland
+Grassland (Hills)
+Plains
+Plains (Hills)
+Rainforest
+Snow
+Snow (Hills)
+Tundra
+Tundra (Hills)
+Woods
+Usage
+Improved By
+Mine
+Building
+Projects
+Historical Context
+With 92 protons and electrons, six of the latter valence electrons, uranium is a silver-white metal that is slightly radioactive. The use of uranium dates back to at least 79 AD, when it was used to add a yellowish color to ceramic glazes. But Enrico Fermi found a more malevolent use for the metal; his research in 1934 led to the discovery of “nuclear fission.” And in December 1942, another team led by Fermi as part of the Manhattan Project initiated the world’s first self-sustained nuclear reaction. A few years later, thanks to uranium, the skies above Hiroshima lit up.
+Traits
+Strategic
++2
+Production
+Produces +3
+Uranium per turn when improved.
+Requirements
+Unlocked By
+Combined Arms
+Placement
+Desert
+Desert (Hills)
+Grassland
+Grassland (Hills)
+Plains
+Plains (Hills)
+Rainforest
+Snow
+Snow (Hills)
+Tundra
+Tundra (Hills)
+Woods
+Usage
+Improved By
+Mine
+Building
+Projects

@@ -1,0 +1,48 @@
+Synagogue - Buildings - Civilopedia - Civilization VI
+Synagogue
+Historical Context
+Traditionally, the term synagogue (Greek for “assembly”) is used to describe all Jewish temples and is a place both of worship and of study. Worship and prayer take place in the main room, the sanctuary. The prayer may be led by a rabbi (“teacher”) – but not necessarily, and many synagogues do not have a rabbi in attendance. Communal worship can occur whenever a 'minyan' (ten Jews) convenes. Although synagogues existed before the destruction of the Second Temple in Jerusalem in 70 AD, one of its rabbis – Yohanan ben Zakkai – promoted the idea of establishing individual houses of worship wherever the scattered Jews might find themselves. Thus, ever since, any individual Jew (king, wealthy patron, scholar, etc.) or group of Jews (Sephardic, Hasidic, Karaite, Orthodox, Reform, etc.) can found a synagogue.
+Traits
+Unique To
+Synagogue
++5
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+Traditionally, the term synagogue (Greek for “assembly”) is used to describe all Jewish temples and is a place both of worship and of study. Worship and prayer take place in the main room, the sanctuary. The prayer may be led by a rabbi (“teacher”) – but not necessarily, and many synagogues do not have a rabbi in attendance. Communal worship can occur whenever a 'minyan' (ten Jews) convenes. Although synagogues existed before the destruction of the Second Temple in Jerusalem in 70 AD, one of its rabbis – Yohanan ben Zakkai – promoted the idea of establishing individual houses of worship wherever the scattered Jews might find themselves. Thus, ever since, any individual Jew (king, wealthy patron, scholar, etc.) or group of Jews (Sephardic, Hasidic, Karaite, Orthodox, Reform, etc.) can found a synagogue.
+Traits
+Unique To
+Synagogue
++5
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

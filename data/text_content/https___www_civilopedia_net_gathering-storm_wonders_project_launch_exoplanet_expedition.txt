@@ -1,0 +1,20 @@
+Exoplanet Expedition - Wonders and Projects - Civilopedia - Civilization VI
+Exoplanet Expedition
+Description
+Space Race project which travels through deep space at 1 Light Year per turn to spread humankind to another star system. Wins the Science Victory once it arrives. Can be sped up by other projects.
+Requirements
+District
+Spaceport
+Technology
+Smart Materials
+Project(s)
+Launch Mars Colony
+Description
+Space Race project which travels through deep space at 1 Light Year per turn to spread humankind to another star system. Wins the Science Victory once it arrives. Can be sped up by other projects.
+Requirements
+District
+Spaceport
+Technology
+Smart Materials
+Project(s)
+Launch Mars Colony

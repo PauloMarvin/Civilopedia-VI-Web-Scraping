@@ -1,0 +1,66 @@
+Tank - Units - Civilopedia - Civilization VI
+Tank
+Description
+Fast-moving Modern era heavy cavalry unit that ignores zone of control.
+Historical Context
+Like so many efficient ways of killing the enemy in great numbers, the “tank” was first used to any effect during WW1 and perfected during WW2. It is essentially an armored, self-propelled (on caterpillar-type tracks), self-contained fighting vehicle. The concept had been around a long time, and visionaries such as Leonardo da Vinci and Hebert G. Wells had offered simplistic views of an armored leviathan that could dominate a battlefield. But it was the stalemated fronts of WW1, dominated by barbed-wire, machineguns, artillery and mud that brought the concept to fruition. The tank (so-named on the first shipping manifests to mislead enemy intelligence) did not make a good first impression, being used solely as infantry support in the final Allied victory. The defeated learned their lesson, and in WW2 the Germans unveiled the blitzkrieg, the use of massed tanks to blow holes in the enemy lines, then pour through and overrun everything behind. Today, the battle tank is the mainstay of every nation’s army – or at least any big enough to matter.
+Traits
+Upgrades To
+Modern Armor
+Upgrade From
+Winged Hussar
+Cuirassier
+Rough Rider
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Combustion
+Production Cost
+Base Cost: 480
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn
+Description
+Fast-moving Modern era heavy cavalry unit that ignores zone of control.
+Historical Context
+Like so many efficient ways of killing the enemy in great numbers, the “tank” was first used to any effect during WW1 and perfected during WW2. It is essentially an armored, self-propelled (on caterpillar-type tracks), self-contained fighting vehicle. The concept had been around a long time, and visionaries such as Leonardo da Vinci and Hebert G. Wells had offered simplistic views of an armored leviathan that could dominate a battlefield. But it was the stalemated fronts of WW1, dominated by barbed-wire, machineguns, artillery and mud that brought the concept to fruition. The tank (so-named on the first shipping manifests to mislead enemy intelligence) did not make a good first impression, being used solely as infantry support in the final Allied victory. The defeated learned their lesson, and in WW2 the Germans unveiled the blitzkrieg, the use of massed tanks to blow holes in the enemy lines, then pour through and overrun everything behind. Today, the battle tank is the mainstay of every nation’s army – or at least any big enough to matter.
+Traits
+Upgrades To
+Modern Armor
+Upgrade From
+Winged Hussar
+Cuirassier
+Rough Rider
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Combustion
+Production Cost
+Base Cost: 480
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn

@@ -1,0 +1,60 @@
+Spec Ops - Units - Civilopedia - Civilization VI
+Spec Ops
+Description
+Atomic Era reconnaissance unit. Paradrop ability allows movement from friendly tile to location 7 tiles away (12 if starting from Aerodrome or Airstrip). Can attack support units directly without having to eliminate the combat unit first.
+Historical Context
+Some military problems carry severe risk of failure if resolved with purely military solutions—sensitive political fallout, extreme weather conditions/environmental hazards, or an outraged and resistant local populace. Special ops (short for “special operations”) are soldiers uniquely trained to handle these difficult situations, ranging from combat and reconnaissance to political or civil affairs. They rely on superior skill, tactics, and equipment to complete jobs that would otherwise be impossible for larger units, training in foreign languages and customs of their operational theaters. Their strength lies in their creative approach to engaging an enemy and their capacity to act without hesitation, no matter how unconventional or dangerous a situation may be.
+Traits
+Upgrade From
+Highlander
+Ranger
+Promotion Class: Recon
+3
+Movement Points
+60
+Melee Strength
+65
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Plastics
+Production Cost
+Base Cost: 520
+Production
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Description
+Atomic Era reconnaissance unit. Paradrop ability allows movement from friendly tile to location 7 tiles away (12 if starting from Aerodrome or Airstrip). Can attack support units directly without having to eliminate the combat unit first.
+Historical Context
+Some military problems carry severe risk of failure if resolved with purely military solutions—sensitive political fallout, extreme weather conditions/environmental hazards, or an outraged and resistant local populace. Special ops (short for “special operations”) are soldiers uniquely trained to handle these difficult situations, ranging from combat and reconnaissance to political or civil affairs. They rely on superior skill, tactics, and equipment to complete jobs that would otherwise be impossible for larger units, training in foreign languages and customs of their operational theaters. Their strength lies in their creative approach to engaging an enemy and their capacity to act without hesitation, no matter how unconventional or dangerous a situation may be.
+Traits
+Upgrade From
+Highlander
+Ranger
+Promotion Class: Recon
+3
+Movement Points
+60
+Melee Strength
+65
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Plastics
+Production Cost
+Base Cost: 520
+Production
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold

@@ -1,0 +1,100 @@
+Rock-Hewn Church - Improvements and Routes - Civilopedia - Civilization VI
+Rock-Hewn Church
+Description
+Unlocks the Builder ability to construct a Rock-Hewn Church, unique to Ethiopia.
++1
+Faith. +1
+Faith for every adjacent Mountain and Hills tile. Provides
+Tourism from
+Faith, after researching Flight. +1 Appeal. Can only be pillaged (never destroyed) by natural disasters. Can only be built on Hills or Volcanic Soil not adjacent to another Rock-Hewn Church.
+Historical Context
+In the 11th century, Ethiopian Christians found themselves cut off. Whereas in centuries before, pilgrims from the ancient Christian centers would travel to the Holy Land, but Muslim conquests prevented these travels. King Lalibela, then, decided to construct a site closer to home, something impressive enough to draw pilgrims from the region without them having to travel across a war-torn region. To this end, he ordered the construction of a “New Jerusalem” – the rock-hewn churches of Lalibela.
+These were not ordinary churches. Instead, each was carved from a single giant stone, including doors, windows, columns, along with all of the practicalities: drainage ditches, catacombs, and hermits’ caves. As was required by the order to create a “New Jerusalem,” these churches include replicas of Jesus’s birthplace and tomb, so that visiting pilgrims could feel that they were able to commune with God without risking life and limb. They were – and remain - vital places of pilgrimage and worship for Coptic Christians.
+Traits
+Unique To
+Ethiopia
++1
+Faith
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from each adjacent Grassland (Hills) tile.
++1
+Faith from each adjacent Plains (Hills) tile.
++1
+Faith from each adjacent Desert (Hills) tile.
++1
+Faith from each adjacent Tundra (Hills) tile.
++1
+Faith from each adjacent Snow (Hills) tile.
+Requirements
+Civic
+Drama and Poetry
+Volcanic Soil
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Rock-Hewn Church, unique to Ethiopia.
++1
+Faith. +1
+Faith for every adjacent Mountain and Hills tile. Provides
+Tourism from
+Faith, after researching Flight. +1 Appeal. Can only be pillaged (never destroyed) by natural disasters. Can only be built on Hills or Volcanic Soil not adjacent to another Rock-Hewn Church.
+Historical Context
+In the 11th century, Ethiopian Christians found themselves cut off. Whereas in centuries before, pilgrims from the ancient Christian centers would travel to the Holy Land, but Muslim conquests prevented these travels. King Lalibela, then, decided to construct a site closer to home, something impressive enough to draw pilgrims from the region without them having to travel across a war-torn region. To this end, he ordered the construction of a “New Jerusalem” – the rock-hewn churches of Lalibela.
+These were not ordinary churches. Instead, each was carved from a single giant stone, including doors, windows, columns, along with all of the practicalities: drainage ditches, catacombs, and hermits’ caves. As was required by the order to create a “New Jerusalem,” these churches include replicas of Jesus’s birthplace and tomb, so that visiting pilgrims could feel that they were able to commune with God without risking life and limb. They were – and remain - vital places of pilgrimage and worship for Coptic Christians.
+Traits
+Unique To
+Ethiopia
++1
+Faith
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from each adjacent Grassland (Hills) tile.
++1
+Faith from each adjacent Plains (Hills) tile.
++1
+Faith from each adjacent Desert (Hills) tile.
++1
+Faith from each adjacent Tundra (Hills) tile.
++1
+Faith from each adjacent Snow (Hills) tile.
+Requirements
+Civic
+Drama and Poetry
+Volcanic Soil
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

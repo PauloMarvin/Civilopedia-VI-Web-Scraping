@@ -1,0 +1,64 @@
+Kampung - Improvements and Routes - Civilopedia - Civilization VI
+Kampung
+Description
+Unlocks the Builder ability to construct a Kampung, unique to Indonesia.
++1
+Production and +1
+Housing. +1
+Food for each adjacent Fishing Boat. Additional
+Production,
+Housing, and
+Tourism as you advance through the Technology and Civics Tree. Must be placed on a Coast or Lake tile adjacent to a sea resource.
+Historical Context
+In the densely-packed islands of Southeast Asia, local rulers faced the challenge of how best to house their people while also keeping them safe from floods and wildlife. Their answer – communities of tightly-clustered houses on stilts, or the kampung.
+While the term is a general one referring to a neighborhood, Indonesian kampungs were famous for helping Java achieve the highest population density of any island in the world. Indeed, foreign visitors were so impressed by the efficiency of Indonesian and Malay kampungs that they adopted the term in the English ‘compound.’
+Traits
+Unique To
+Indonesia
++1
+Production
++1.0
+Housing
++1
+Production (requires Civil Engineering)
+Adjacency Bonus
++1
+Food from each adjacent Fishing Boats tile.
+Requirements
+Technology
+Shipbuilding
+Coast and Lake
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Kampung, unique to Indonesia.
++1
+Production and +1
+Housing. +1
+Food for each adjacent Fishing Boat. Additional
+Production,
+Housing, and
+Tourism as you advance through the Technology and Civics Tree. Must be placed on a Coast or Lake tile adjacent to a sea resource.
+Historical Context
+In the densely-packed islands of Southeast Asia, local rulers faced the challenge of how best to house their people while also keeping them safe from floods and wildlife. Their answer – communities of tightly-clustered houses on stilts, or the kampung.
+While the term is a general one referring to a neighborhood, Indonesian kampungs were famous for helping Java achieve the highest population density of any island in the world. Indeed, foreign visitors were so impressed by the efficiency of Indonesian and Malay kampungs that they adopted the term in the English ‘compound.’
+Traits
+Unique To
+Indonesia
++1
+Production
++1.0
+Housing
++1
+Production (requires Civil Engineering)
+Adjacency Bonus
++1
+Food from each adjacent Fishing Boats tile.
+Requirements
+Technology
+Shipbuilding
+Coast and Lake
+Usage
+Built By
+Builder

@@ -1,0 +1,58 @@
+Potala Palace - Wonders and Projects - Civilopedia - Civilization VI
+Potala Palace
+Description
++1 Diplomatic policy slot.  +1 Diplomatic Victory point.
+Must be built on a Hill adjacent to a Mountain.
+Historical Context
+Since there wasn’t much level ground in Tibet, with its base set on the southern slope of the Red Hill, the Potala Palace – home to the Dalai Lama (until the fourteenth one fled an uprising in 1959) – sort of grew along the hillside. The palace is named after Mount Potalaka, abode of the eleven-headed bodhisattva Avalokiteśvara. Today, its crimson and white walls and golden roof “shine in glory” … for paying tourists. Lozang Gyatso, the fifth Dalai Lama, began construction of the “modern” palace above Lhasa c. 1645 AD, and moved in four years later. Since then more bits and pieces have been added to the sprawling edifice, notably the Potrang Marpo (“red palace”) and the holy stupa completed in 1694. However, it should be noted that the Potala Palace has only one bathroom, located on the right side of the White Palace Square … although it is said to be the most beautiful restroom on Earth, filled with sunlight and good thoughts.
+“The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.”
+– Pico Iyer
+Traits
+Removed if game started after
+Modern Era
++2
+Culture
++3
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Astronomy
+Placement
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Production Cost
+Base Cost: 1060
+Production
+Description
++1 Diplomatic policy slot.  +1 Diplomatic Victory point.
+Must be built on a Hill adjacent to a Mountain.
+Historical Context
+Since there wasn’t much level ground in Tibet, with its base set on the southern slope of the Red Hill, the Potala Palace – home to the Dalai Lama (until the fourteenth one fled an uprising in 1959) – sort of grew along the hillside. The palace is named after Mount Potalaka, abode of the eleven-headed bodhisattva Avalokiteśvara. Today, its crimson and white walls and golden roof “shine in glory” … for paying tourists. Lozang Gyatso, the fifth Dalai Lama, began construction of the “modern” palace above Lhasa c. 1645 AD, and moved in four years later. Since then more bits and pieces have been added to the sprawling edifice, notably the Potrang Marpo (“red palace”) and the holy stupa completed in 1694. However, it should be noted that the Potala Palace has only one bathroom, located on the right side of the White Palace Square … although it is said to be the most beautiful restroom on Earth, filled with sunlight and good thoughts.
+“The first time I stepped onto the rooftop of the Potala Palace, I felt, as never before or since, as if I were stepping onto the rooftop of my being: onto some dimension of consciousness that I’d never visited before.”
+– Pico Iyer
+Traits
+Removed if game started after
+Modern Era
++2
+Culture
++3
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Astronomy
+Placement
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Production Cost
+Base Cost: 1060
+Production

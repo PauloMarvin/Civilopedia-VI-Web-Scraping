@@ -1,0 +1,56 @@
+Amundsen-Scott Research Station - Wonders and Projects - Civilopedia - Civilization VI
+Amundsen-Scott Research Station
+Description
++20%
+Science and 10%
+Production in all cities. If there are 5 Snow or Snow Hills tiles within 3 tiles of a city and owned by this player these yields are doubled. Must be built next to a Campus with a Research Lab on a Snow or Snow Hills tile.
+Historical Context
+Scientists studying the South Pole brave its extreme conditions at the Amundsen-Scott Research Station. The station bears the names of Antarctic explorers Captain Robert Scott (the explorer who discovered the plateau where the South Pole is located) and Roald Amundsen (the first man to reach the South Pole—beating Scott’s expedition by 34 days). The original station, completed by the United States in 1957, became party to the Antarctic Treaty in 1959. All scientists working at the research station swore to freely explore and share scientific endeavors.
+Good intentions aside, the South Pole is no easy place to settle. The United States abandoned the station by 1975, whereupon it was buried under 30 feet of snow, excavated in 2010, and subsequently demolished with explosives. The new and improved Amundsen-Scott South Pole Station (established in 1999) features an Atmospheric Research Observatory, a section for studying astrophysics, and most importantly, internet access.
+“For scientific leadership, give me Scott; for swift and efficient travel, Amundsen.”
+– Sir Raymond Priestley
+Traits
++5
+Great Scientist points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Rapid Deployment
+Building
+Research Lab
+Adjacency
+Campus
+Placement
+Snow
+Snow (Hills)
+Production Cost
+Base Cost: 1620
+Production
+Description
++20%
+Science and 10%
+Production in all cities. If there are 5 Snow or Snow Hills tiles within 3 tiles of a city and owned by this player these yields are doubled. Must be built next to a Campus with a Research Lab on a Snow or Snow Hills tile.
+Historical Context
+Scientists studying the South Pole brave its extreme conditions at the Amundsen-Scott Research Station. The station bears the names of Antarctic explorers Captain Robert Scott (the explorer who discovered the plateau where the South Pole is located) and Roald Amundsen (the first man to reach the South Pole—beating Scott’s expedition by 34 days). The original station, completed by the United States in 1957, became party to the Antarctic Treaty in 1959. All scientists working at the research station swore to freely explore and share scientific endeavors.
+Good intentions aside, the South Pole is no easy place to settle. The United States abandoned the station by 1975, whereupon it was buried under 30 feet of snow, excavated in 2010, and subsequently demolished with explosives. The new and improved Amundsen-Scott South Pole Station (established in 1999) features an Atmospheric Research Observatory, a section for studying astrophysics, and most importantly, internet access.
+“For scientific leadership, give me Scott; for swift and efficient travel, Amundsen.”
+– Sir Raymond Priestley
+Traits
++5
+Great Scientist points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Rapid Deployment
+Building
+Research Lab
+Adjacency
+Campus
+Placement
+Snow
+Snow (Hills)
+Production Cost
+Base Cost: 1620
+Production

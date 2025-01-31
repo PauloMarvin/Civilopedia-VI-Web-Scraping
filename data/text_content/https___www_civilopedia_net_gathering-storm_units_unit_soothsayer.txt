@@ -1,0 +1,36 @@
+Soothsayer - Units - Civilopedia - Civilization VI
+Soothsayer
+Description
+An Apocalypse-mode-specific support unit.  Can use the Cause Disaster action to begin a random disaster in the hexes near the unit.  Doing so destroys the Soothsayer if it has no more charges.
+Historical Context
+In times of crisis, people have long turned towards those that promise some form of deliverance. As the natural, political, or economic order breaks down, soothsayers emerge that might provide people a way to stave off disaster, to survive it, or to inflict it on one's enemies. While the Soothsayer unit here is not meant to reflect any particular culture or historical moment, we can find similar turns towards such figures across the world and across history, from the Mesoamerican reaction to the arrival of the Spanish, to European millennial cults, to present-day groups like Heaven's Gate.
+For instance, at the turn of the 20th century, across Lao-speaking parts of Southeast Asia, new prophets emerged, the "holy men." They promised Lao people - who had seen their territory divided between French and Siamese forces, new systems of taxation, and the destruction of the city of Vientiane - that worse things were to come. Cows and pigs would transform into demons. Money would become worthless, while currently worthless gravel would become gold. A great wind would sweep through the land and carry with it anyone who could not hold on to a clump of lemongrass. Many believed these soothsayers, collecting gravel and killing their own animals, all awaiting the great change that was to come.
+Soothsayers rarely end up well. The Lao movement was suppressed by Siamese troops, Aztec prayers did not stop Spanish conquest, and the end times seemingly never come.
+Traits
+Promotion Class: Soothsayer
+2
+Movement Points
+Requirements
+Purchase Cost
+Base Cost: 100
+Faith
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+An Apocalypse-mode-specific support unit.  Can use the Cause Disaster action to begin a random disaster in the hexes near the unit.  Doing so destroys the Soothsayer if it has no more charges.
+Historical Context
+In times of crisis, people have long turned towards those that promise some form of deliverance. As the natural, political, or economic order breaks down, soothsayers emerge that might provide people a way to stave off disaster, to survive it, or to inflict it on one's enemies. While the Soothsayer unit here is not meant to reflect any particular culture or historical moment, we can find similar turns towards such figures across the world and across history, from the Mesoamerican reaction to the arrival of the Spanish, to European millennial cults, to present-day groups like Heaven's Gate.
+For instance, at the turn of the 20th century, across Lao-speaking parts of Southeast Asia, new prophets emerged, the "holy men." They promised Lao people - who had seen their territory divided between French and Siamese forces, new systems of taxation, and the destruction of the city of Vientiane - that worse things were to come. Cows and pigs would transform into demons. Money would become worthless, while currently worthless gravel would become gold. A great wind would sweep through the land and carry with it anyone who could not hold on to a clump of lemongrass. Many believed these soothsayers, collecting gravel and killing their own animals, all awaiting the great change that was to come.
+Soothsayers rarely end up well. The Lao movement was suppressed by Siamese troops, Aztec prayers did not stop Spanish conquest, and the end times seemingly never come.
+Traits
+Promotion Class: Soothsayer
+2
+Movement Points
+Requirements
+Purchase Cost
+Base Cost: 100
+Faith
+Maintenance Cost
+Base Cost: 4
+Gold

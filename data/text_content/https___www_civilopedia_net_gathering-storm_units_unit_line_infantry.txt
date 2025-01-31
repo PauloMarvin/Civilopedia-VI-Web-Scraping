@@ -1,0 +1,64 @@
+Line Infantry - Units - Civilopedia - Civilization VI
+Line Infantry
+Description
+Industrial Era melee unit.
+Historical Context
+The Roman legion was famous for its rigid discipline – moving in tight formation, infantry continuously cycled fresh soldiers to the front of the line, massacring tougher but less-disciplined Gaulish and German soldiers. A similar concept exists in the line infantry. Moving in rigid blocks and armed with muskets, the line infantry turned irregular fire into a simultaneous focused volley from two or more ranks. In battle, such lines proved short-lived as commands were drowned out by smoke and noise and the general chaos of the battlefield, and so lines quickly devolved into a bayonet charge, but that initial volley could be devastating against lesser-organized units. This was the case, for instance, during the Bengal Wars, when European line infantry were able to win impressive victories against similarly-armed but disorganized Indian units. On the other hand, line infantry were slow to move and could be outflanked easily… or, as the Americans showed the British in the Revolution, harassed into disunity via guerilla tactics. Line infantry were typically armed with matchlock or flintlock fusils (smoothbore long guns) and replaced pikemen as the typical infantry unit. They were often distinguished by elaborate uniforms, allowing commanders to see their units to be moved about the battlefield for tactical advantage rather as you, the Civilization player, move your units. Line infantry became the norm in European armies during the 1600s-1860s, but with the advent of rifles and a more mobile, skirmishing tactics, line infantry became obsolete.
+Traits
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Conquistador
+Janissary
+Promotion Class: Melee
+2
+Movement Points
+65
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Industrial Era melee unit.
+Historical Context
+The Roman legion was famous for its rigid discipline – moving in tight formation, infantry continuously cycled fresh soldiers to the front of the line, massacring tougher but less-disciplined Gaulish and German soldiers. A similar concept exists in the line infantry. Moving in rigid blocks and armed with muskets, the line infantry turned irregular fire into a simultaneous focused volley from two or more ranks. In battle, such lines proved short-lived as commands were drowned out by smoke and noise and the general chaos of the battlefield, and so lines quickly devolved into a bayonet charge, but that initial volley could be devastating against lesser-organized units. This was the case, for instance, during the Bengal Wars, when European line infantry were able to win impressive victories against similarly-armed but disorganized Indian units. On the other hand, line infantry were slow to move and could be outflanked easily… or, as the Americans showed the British in the Revolution, harassed into disunity via guerilla tactics. Line infantry were typically armed with matchlock or flintlock fusils (smoothbore long guns) and replaced pikemen as the typical infantry unit. They were often distinguished by elaborate uniforms, allowing commanders to see their units to be moved about the battlefield for tactical advantage rather as you, the Civilization player, move your units. Line infantry became the norm in European armies during the 1600s-1860s, but with the advent of rifles and a more mobile, skirmishing tactics, line infantry became obsolete.
+Traits
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Conquistador
+Janissary
+Promotion Class: Melee
+2
+Movement Points
+65
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

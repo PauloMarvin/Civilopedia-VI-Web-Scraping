@@ -1,0 +1,30 @@
+Trader - Units - Civilopedia - Civilization VI
+Trader
+Description
+May make and maintain a single
+Trade Route. Automatically creates Roads as it travels.
+Historical Context
+As soon as there were villages, there were traders. At first they used poor, dumb brutes – horses, mules, camels, llamas, men – as beasts of burden to carry gems, precious metals, spices and anything else that would turn a profit in a distant village. Every civilized, and many not, land was crisscrossed with trade routes, and these routes – such as the great Silk Road from China to the Middle East – shaped boundaries and civilization as surely as did any war or religion. In time, some traders took to the seas; many of the earliest written records are inventories of commercial goods in ships’ holds, and archaeology shows evidence of sea-going cargo ships in the Mediterranean and Red seas by the beginning of the first millennium BC. As longer voyages of trade were undertaken, cargo ship design was constantly revised; and the beasts of burden were replaced by truck convoys. But the same principle drives trade still … the human need to make a profit.
+Requirements
+Civic
+Foreign Trade
+Production Cost
+Base Cost: 40
+Production
+Purchase Cost
+Base Cost: 160
+Gold
+Description
+May make and maintain a single
+Trade Route. Automatically creates Roads as it travels.
+Historical Context
+As soon as there were villages, there were traders. At first they used poor, dumb brutes – horses, mules, camels, llamas, men – as beasts of burden to carry gems, precious metals, spices and anything else that would turn a profit in a distant village. Every civilized, and many not, land was crisscrossed with trade routes, and these routes – such as the great Silk Road from China to the Middle East – shaped boundaries and civilization as surely as did any war or religion. In time, some traders took to the seas; many of the earliest written records are inventories of commercial goods in ships’ holds, and archaeology shows evidence of sea-going cargo ships in the Mediterranean and Red seas by the beginning of the first millennium BC. As longer voyages of trade were undertaken, cargo ship design was constantly revised; and the beasts of burden were replaced by truck convoys. But the same principle drives trade still … the human need to make a profit.
+Requirements
+Civic
+Foreign Trade
+Production Cost
+Base Cost: 40
+Production
+Purchase Cost
+Base Cost: 160
+Gold

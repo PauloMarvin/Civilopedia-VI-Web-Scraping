@@ -1,0 +1,50 @@
+Panama Canal - Wonders and Projects - Civilopedia - Civilization VI
+Panama Canal
+Description
+Upon completion 1 or 2 adjacent Canal districts are automatically constructed. The Canal wonder tile can now be crossed by naval units.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination.
+Must be built on a flat land tile where there are two adjacent tiles directly across the build tile from one another that meet the following criteria: one adjacent tile must be able to legally hold a Canal district connecting into the Panama Canal construction tile; the other must be either a city, a water tile, or be another tile that can hold a connecting Canal.
+Historical Context
+On August 15, 1914, just after the start of World War I, the Panama Canal officially opened. This direct water passage through Panama to link the Atlantic and Pacific oceans was first dreamed of in the 1500s, but it took several failed attempts and hundreds of years to see the project to fruition. Stretching for 50 miles across the Panama isthmus, the project was completed under supervision of the United States and remained under their control until 1999, when control passed to Panama.
+The canal itself is made up of man-made lakes separated by a system of locks. Using chambers in the locks locks, ships can be raised or lowered to match the water level at the next lake before continuing their journey through the canal.
+Today, about 14,000 ships cross through the Panama Canal each year, and each one pays a toll based on its type, size, and cargo.
+“Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof.”
+- Psalms 46:2-3
+Traits
+Removed if game started after
+Atomic Era
++10
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Steam Power
+Production Cost
+Base Cost: 920
+Production
+Description
+Upon completion 1 or 2 adjacent Canal districts are automatically constructed. The Canal wonder tile can now be crossed by naval units.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination.
+Must be built on a flat land tile where there are two adjacent tiles directly across the build tile from one another that meet the following criteria: one adjacent tile must be able to legally hold a Canal district connecting into the Panama Canal construction tile; the other must be either a city, a water tile, or be another tile that can hold a connecting Canal.
+Historical Context
+On August 15, 1914, just after the start of World War I, the Panama Canal officially opened. This direct water passage through Panama to link the Atlantic and Pacific oceans was first dreamed of in the 1500s, but it took several failed attempts and hundreds of years to see the project to fruition. Stretching for 50 miles across the Panama isthmus, the project was completed under supervision of the United States and remained under their control until 1999, when control passed to Panama.
+The canal itself is made up of man-made lakes separated by a system of locks. Using chambers in the locks locks, ships can be raised or lowered to match the water level at the next lake before continuing their journey through the canal.
+Today, about 14,000 ships cross through the Panama Canal each year, and each one pays a toll based on its type, size, and cargo.
+“Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof.”
+- Psalms 46:2-3
+Traits
+Removed if game started after
+Atomic Era
++10
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Steam Power
+Production Cost
+Base Cost: 920
+Production

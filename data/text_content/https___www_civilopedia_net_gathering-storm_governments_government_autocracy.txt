@@ -1,0 +1,40 @@
+Autocracy - Governments and Policies - Civilopedia - Civilization VI
+Autocracy
+Description
+Inherent effect
++1 to all yields for each Government Plaza building, Diplomatic Quarter building, and palace in a city.
+Inherent effect
++10% Production toward Wonders.
+Historical Context
+The Greek historian Herodotus describes a debate between three would-be Persian rulers. One advocates for democracy, another for an oligarchy, but Darius counters each. In a democracy, ill-informed masses may fall under the sway of a charismatic, short-sighted leader (as they continue to do to this day), and in an oligarchy, one oligarch inevitably triumphs over the others. Rule by one person, Darius argues, is ideal, so long as that one person is the best person. "Seeing that using the best judgement he would be the guardian of the multitude without reproach," Darius argues. Further, Darius proposes - perhaps unsurprisingly - that he should be the person for the job: "whence arose the liberty which we possess, and who gave it to us? ... Having been set free by one man, [we] should preserve that form of rule." Convenient for Darius (to be fair, Herodotus is producing a piece of Greek anti-Persian propaganda here, so his account must be taken with a grain of salt).
+Rule by the judgement of one means that the palace is able to muster resources – serfs or soldiers – for whatever seems important at the time to the autocrat. Some of the great wonders of civilization – the Sphinx, Great Wall, Taj Mahal, Hermitage, etc – have been the fancy of autocrats. Some of the best armies of civilization have been those of autocrats (useful for keeping an eye on their people as well as invading neighbors). .
+Traits
+1
+Diplomatic Favor per
+turn.
+1 Military  Slot
+1 Economic  Slot
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Political Philosophy
+Description
+Inherent effect
++1 to all yields for each Government Plaza building, Diplomatic Quarter building, and palace in a city.
+Inherent effect
++10% Production toward Wonders.
+Historical Context
+The Greek historian Herodotus describes a debate between three would-be Persian rulers. One advocates for democracy, another for an oligarchy, but Darius counters each. In a democracy, ill-informed masses may fall under the sway of a charismatic, short-sighted leader (as they continue to do to this day), and in an oligarchy, one oligarch inevitably triumphs over the others. Rule by one person, Darius argues, is ideal, so long as that one person is the best person. "Seeing that using the best judgement he would be the guardian of the multitude without reproach," Darius argues. Further, Darius proposes - perhaps unsurprisingly - that he should be the person for the job: "whence arose the liberty which we possess, and who gave it to us? ... Having been set free by one man, [we] should preserve that form of rule." Convenient for Darius (to be fair, Herodotus is producing a piece of Greek anti-Persian propaganda here, so his account must be taken with a grain of salt).
+Rule by the judgement of one means that the palace is able to muster resources – serfs or soldiers – for whatever seems important at the time to the autocrat. Some of the great wonders of civilization – the Sphinx, Great Wall, Taj Mahal, Hermitage, etc – have been the fancy of autocrats. Some of the best armies of civilization have been those of autocrats (useful for keeping an eye on their people as well as invading neighbors). .
+Traits
+1
+Diplomatic Favor per
+turn.
+1 Military  Slot
+1 Economic  Slot
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Political Philosophy

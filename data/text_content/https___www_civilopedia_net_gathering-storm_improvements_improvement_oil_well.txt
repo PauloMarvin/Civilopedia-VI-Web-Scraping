@@ -1,0 +1,60 @@
+Oil Well - Improvements and Routes - Civilopedia - Civilization VI
+Oil Well
+Description
+Unlocks the Builder ability to construct an Oil Well.
+-1 Appeal. Can only be built on land tiles with
+Oil.
+Historical Context
+As J. Paul Getty put it, “Formula for success: rise early, work hard, strike oil.” Ever since the first oil wells were drilled in China around 340 AD, using metal bits attached to bamboo poles, men have been trying to do just that. Throughout the millennium and a half since then, the technology has advanced, spurred by civilization finding new ways to use all the things that come from petroleum: gasoline, lubricants, asphalt, petrochemicals, tar, plastics, fertilizer, pesticides, and a thousand other things. The first “modern” commercial oil well in North America came online in Oil Springs, Ontario, in 1858. Then came the development of the automobile, and humanity’s thirst for oil became insatiable. Since then, wars have been fought for it, regimes toppled because of it, and unchecked pollution has resulted from it. But then too, unbelievable fortunes have been made from it – as Getty could attest.
+Traits
++2
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Refining
+Oil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Oil Well.
+-1 Appeal. Can only be built on land tiles with
+Oil.
+Historical Context
+As J. Paul Getty put it, “Formula for success: rise early, work hard, strike oil.” Ever since the first oil wells were drilled in China around 340 AD, using metal bits attached to bamboo poles, men have been trying to do just that. Throughout the millennium and a half since then, the technology has advanced, spurred by civilization finding new ways to use all the things that come from petroleum: gasoline, lubricants, asphalt, petrochemicals, tar, plastics, fertilizer, pesticides, and a thousand other things. The first “modern” commercial oil well in North America came online in Oil Springs, Ontario, in 1858. Then came the development of the automobile, and humanity’s thirst for oil became insatiable. Since then, wars have been fought for it, regimes toppled because of it, and unchecked pollution has resulted from it. But then too, unbelievable fortunes have been made from it – as Getty could attest.
+Traits
++2
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Refining
+Oil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

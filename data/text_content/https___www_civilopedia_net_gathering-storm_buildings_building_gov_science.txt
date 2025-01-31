@@ -1,0 +1,54 @@
+Royal Society - Buildings - Civilopedia - Civilization VI
+Royal Society
+Description
+Builders gain the ability to use all of their charges to provide bonus
+Production to a District Project. Once per city per turn.
+Awards +1
+Governor Title.
+Historical Context
+An enlightened ruler is one who is aware of the limitations of his or her knowledge. A particularly astute ruler will go on to retain a body of scholars and philosophers on hand to help rectify these shortcomings, and who might, from time to time, be induced to work on matters of science that produce practical advantages for the kingdom or state.
+The original Royal Society was founded in England, under a charter by King Charles II, who would meet from time to time and conduct experiments in natural philosophy or physiology. It happens that this happened just as the Early Modern Period was getting underway and titans like Isaac Newton and Robert Hooke were alive, and the result was one of the most prolific flourishings of science to ever develop ensued. We reap the rewards of the work of the Royal Society even today.
+Since that first Royal Society, a number of national science bodies have been created around the world, consisting of the best scholars of every discipline, investigating the mysteries of nature and the universe in a spirit of free inquiry. But all of them adhere to the original Royal Society motto "Nullius in verba"—Take no one's unquestioned word.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+War Department
+National History Museum
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Builders gain the ability to use all of their charges to provide bonus
+Production to a District Project. Once per city per turn.
+Awards +1
+Governor Title.
+Historical Context
+An enlightened ruler is one who is aware of the limitations of his or her knowledge. A particularly astute ruler will go on to retain a body of scholars and philosophers on hand to help rectify these shortcomings, and who might, from time to time, be induced to work on matters of science that produce practical advantages for the kingdom or state.
+The original Royal Society was founded in England, under a charter by King Charles II, who would meet from time to time and conduct experiments in natural philosophy or physiology. It happens that this happened just as the Early Modern Period was getting underway and titans like Isaac Newton and Robert Hooke were alive, and the result was one of the most prolific flourishings of science to ever develop ensued. We reap the rewards of the work of the Royal Society even today.
+Since that first Royal Society, a number of national science bodies have been created around the world, consisting of the best scholars of every discipline, investigating the mysteries of nature and the universe in a spirit of free inquiry. But all of them adhere to the original Royal Society motto "Nullius in verba"—Take no one's unquestioned word.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+War Department
+National History Museum
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold

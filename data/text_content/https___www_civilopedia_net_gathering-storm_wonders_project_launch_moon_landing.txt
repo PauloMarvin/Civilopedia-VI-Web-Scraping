@@ -1,0 +1,24 @@
+Launch Moon Landing - Wonders and Projects - Civilopedia - Civilization VI
+Launch Moon Landing
+Description
+Space Race project which launches a large rocket to land a human on the moon. Grants a one time
+Culture bonus equal to 10 times your
+Science per turn, and marks the second step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Satellites
+Project(s)
+Launch Earth Satellite
+Description
+Space Race project which launches a large rocket to land a human on the moon. Grants a one time
+Culture bonus equal to 10 times your
+Science per turn, and marks the second step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Satellites
+Project(s)
+Launch Earth Satellite

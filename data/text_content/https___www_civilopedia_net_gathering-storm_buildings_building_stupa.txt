@@ -1,0 +1,58 @@
+Stupa - Buildings - Civilopedia - Civilization VI
+Stupa
+Historical Context
+If you make your way to the Swat Valley, and find yourself in the village of Shingardar, you'll see a massive stone dome towering over the small town, itself dwarfed by the mountains behind both. This structure is a stupa, constructed by the Buddhist king of Swat between the Second and Third Centuries CE.
+Buddhist kings weren't just partial to constructing giant domes just because they liked them—the stupas built throughout Asia were monuments, first appearing in India during the Fourth Century BCE.
+Many stupas often contain relics related to Buddha, his life, and his disciples. Others, like the 108 Stupas of Ningxia in China, were built with some theological significance in mind or for their potential spiritual benefits.
+While many have endured, history has been somewhat rough on the stupas of Asia: many have suffered damage to their domes as a result of conflict and calamity.
+Traits
+Unique To
+Stupa
++3
+Faith
++1
+Amenity from entertainment
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+If you make your way to the Swat Valley, and find yourself in the village of Shingardar, you'll see a massive stone dome towering over the small town, itself dwarfed by the mountains behind both. This structure is a stupa, constructed by the Buddhist king of Swat between the Second and Third Centuries CE.
+Buddhist kings weren't just partial to constructing giant domes just because they liked them—the stupas built throughout Asia were monuments, first appearing in India during the Fourth Century BCE.
+Many stupas often contain relics related to Buddha, his life, and his disciples. Others, like the 108 Stupas of Ningxia in China, were built with some theological significance in mind or for their potential spiritual benefits.
+While many have endured, history has been somewhat rough on the stupas of Asia: many have suffered damage to their domes as a result of conflict and calamity.
+Traits
+Unique To
+Stupa
++3
+Faith
++1
+Amenity from entertainment
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

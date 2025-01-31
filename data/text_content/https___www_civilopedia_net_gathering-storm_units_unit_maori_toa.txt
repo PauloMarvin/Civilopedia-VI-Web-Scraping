@@ -1,0 +1,76 @@
+Toa - Units - Civilopedia - Civilization VI
+Toa
+Description
+Māori unique Classical era melee unit. Adjacent enemy units receive -5
+Combat Strength. Can build the unique Pā improvement.
+Historical Context
+The Maori word Toa translates simply as “warrior” when used as a noun, and “to win” when used as a verb. In Maori culture, the concept of utu implies that behaviors should be balance, with positive behaviors and gifts rewarded, and wrongs punished to a proportional extent. The Maori culture possessed gradations for these responses, from raiding to full violence. Failure by a leader to respond appropriately could bring about a loss of their mana. European observers were particularly impressed (one might even say terrified) by the great strength and energy of the toa they encountered.
+The toa had some distinctive weapons. The staff-like taiaha is made from hardwood, slightly flattened on one end (called the ate), with a stabbing base end below the hand grip. This is the weapon traditionally used during the wero—the traditional challenge at the beginning of a powhiri welcoming ceremony. The smaller, paddle-shaped mere was made from greenstone, with a wrist cord passing through the handle, and used as a stabbing weapon. Mere were also ceremonial objects, used to indicate the prestige of the bearer, due to the difficulty of their manufacturing. Larger clubs were called patu, and were made of hardwood, stone, or bone.
+Maori created strong hill forts called Pa, which consisted of terraced land, protected by an elaborate system of palisades and ramparts, encompassing an inner area with access to fresh water and food stores. The introduction of gunpowder weapons and modern artillery eventually rendered these obsolete.
+Today the toa are best known for the practice of the haka, the terrifying, energetic chant and dance originating as a war dance. Originally performed to indicate the great strength and skill of the toa, they are performed today by both men and women as part of many activities, including sporting events, formal greetings, and weddings.
+Traits
+Unique To
+Māori
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+1
+Build Charges
+Requirements
+Technology
+Construction
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Usage
+Can Construct
+Pā
+Description
+Māori unique Classical era melee unit. Adjacent enemy units receive -5
+Combat Strength. Can build the unique Pā improvement.
+Historical Context
+The Maori word Toa translates simply as “warrior” when used as a noun, and “to win” when used as a verb. In Maori culture, the concept of utu implies that behaviors should be balance, with positive behaviors and gifts rewarded, and wrongs punished to a proportional extent. The Maori culture possessed gradations for these responses, from raiding to full violence. Failure by a leader to respond appropriately could bring about a loss of their mana. European observers were particularly impressed (one might even say terrified) by the great strength and energy of the toa they encountered.
+The toa had some distinctive weapons. The staff-like taiaha is made from hardwood, slightly flattened on one end (called the ate), with a stabbing base end below the hand grip. This is the weapon traditionally used during the wero—the traditional challenge at the beginning of a powhiri welcoming ceremony. The smaller, paddle-shaped mere was made from greenstone, with a wrist cord passing through the handle, and used as a stabbing weapon. Mere were also ceremonial objects, used to indicate the prestige of the bearer, due to the difficulty of their manufacturing. Larger clubs were called patu, and were made of hardwood, stone, or bone.
+Maori created strong hill forts called Pa, which consisted of terraced land, protected by an elaborate system of palisades and ramparts, encompassing an inner area with access to fresh water and food stores. The introduction of gunpowder weapons and modern artillery eventually rendered these obsolete.
+Today the toa are best known for the practice of the haka, the terrifying, energetic chant and dance originating as a war dance. Originally performed to indicate the great strength and skill of the toa, they are performed today by both men and women as part of many activities, including sporting events, formal greetings, and weddings.
+Traits
+Unique To
+Māori
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+1
+Build Charges
+Requirements
+Technology
+Construction
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Usage
+Can Construct
+Pā

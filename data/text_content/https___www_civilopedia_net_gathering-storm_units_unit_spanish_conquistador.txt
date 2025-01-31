@@ -1,0 +1,68 @@
+Conquistador - Units - Civilopedia - Civilization VI
+Conquistador
+Description
+Spanish unique Renaissance era unit that replaces the Musketman. +10
+Combat Strength when there is a religious unit within one hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.
+Historical Context
+The Spanish conquistadores (“conquerors”) were the soldier-explorers who colonized the world for Spain from the 14th through the 18th centuries. With the end of the Reconquista in 1492 AD, there were a lot of veteran Spanish soldiers at loose ends; luckily, shortly thereafter the Spanish discovered a New World, just ripe for conquest and conversion to Christianity (the latter actually did motivate some). The conquistadors would spread across the Americas, Africa, Asia, and even Oceania, exploring, exploiting, and even settling down in places. Drawn primarily from the ranks of light horsemen, the combination of European tactics, weapons, mounts, and ruthlessness meant most of the natives had little chance of defeating the conquistadors … and that small chance only due to sheer numbers (provided enough of them were willing to die). There is no doubt that without the likes of Cortes, Pizarro, de Balboa, de Soto and others chasing fortune, there would have been no globe-spanning empire.
+Traits
+Unique To
+Spain
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Promotion Class: Melee
+2
+Movement Points
+58
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 250
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Spanish unique Renaissance era unit that replaces the Musketman. +10
+Combat Strength when there is a religious unit within one hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.
+Historical Context
+The Spanish conquistadores (“conquerors”) were the soldier-explorers who colonized the world for Spain from the 14th through the 18th centuries. With the end of the Reconquista in 1492 AD, there were a lot of veteran Spanish soldiers at loose ends; luckily, shortly thereafter the Spanish discovered a New World, just ripe for conquest and conversion to Christianity (the latter actually did motivate some). The conquistadors would spread across the Americas, Africa, Asia, and even Oceania, exploring, exploiting, and even settling down in places. Drawn primarily from the ranks of light horsemen, the combination of European tactics, weapons, mounts, and ruthlessness meant most of the natives had little chance of defeating the conquistadors … and that small chance only due to sheer numbers (provided enough of them were willing to die). There is no doubt that without the likes of Cortes, Pizarro, de Balboa, de Soto and others chasing fortune, there would have been no globe-spanning empire.
+Traits
+Unique To
+Spain
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Promotion Class: Melee
+2
+Movement Points
+58
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 250
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

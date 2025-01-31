@@ -1,0 +1,48 @@
+Petra - Wonders and Projects - Civilopedia - Civilization VI
+Petra
+Description
++2
+Food, +2
+Gold, and +1
+Production on all Desert tiles for this city (non-Floodplains). Must be built on Desert or Desert Floodplains without Hills.
+Historical Context
+Situated between the Red Sea and the Dead Sea, Petra is a city cut from the red sandstone around Wadi Musa (now part of Jordan) by the Nabataeans – who obviously had a lot of free time – around 400 BC. Mentioned in Egyptian, Greek and Biblical sources, the city would develop into a major caravan center, a vital crossroads between Arabia, Egypt and Syria to the north. Surrounded by mountains riddled with gorges and canyon passages, it was defensible; but it was the ingenious and extensive system of cisterns and reservoirs in the middle of a desert that made it a trade center. At its peak, Petra was home to perhaps 20 thousand inhabitants, and served as the capital of the Nabataean kingdom. That is, until the Romans arrived and annexed it in 106 AD. Struck by a series of earthquakes, as well as Roman taxes, it was essentially abandoned two hundred years after – not to be “discovered” until 1812 by the Swiss explorer Johann Burckhardt.
+“Petra is a brilliant display of man’s artistry in turning barren rock into majestic wonder.”
+– Edward Dawson
+Traits
+Removed if game started after
+Renaissance Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Mathematics
+Placement
+Desert Floodplains
+Desert
+Production Cost
+Base Cost: 400
+Production
+Description
++2
+Food, +2
+Gold, and +1
+Production on all Desert tiles for this city (non-Floodplains). Must be built on Desert or Desert Floodplains without Hills.
+Historical Context
+Situated between the Red Sea and the Dead Sea, Petra is a city cut from the red sandstone around Wadi Musa (now part of Jordan) by the Nabataeans – who obviously had a lot of free time – around 400 BC. Mentioned in Egyptian, Greek and Biblical sources, the city would develop into a major caravan center, a vital crossroads between Arabia, Egypt and Syria to the north. Surrounded by mountains riddled with gorges and canyon passages, it was defensible; but it was the ingenious and extensive system of cisterns and reservoirs in the middle of a desert that made it a trade center. At its peak, Petra was home to perhaps 20 thousand inhabitants, and served as the capital of the Nabataean kingdom. That is, until the Romans arrived and annexed it in 106 AD. Struck by a series of earthquakes, as well as Roman taxes, it was essentially abandoned two hundred years after – not to be “discovered” until 1812 by the Swiss explorer Johann Burckhardt.
+“Petra is a brilliant display of man’s artistry in turning barren rock into majestic wonder.”
+– Edward Dawson
+Traits
+Removed if game started after
+Renaissance Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Mathematics
+Placement
+Desert Floodplains
+Desert
+Production Cost
+Base Cost: 400
+Production

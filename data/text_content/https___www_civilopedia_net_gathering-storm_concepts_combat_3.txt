@@ -1,0 +1,14 @@
+War Weariness - Concepts - Civilopedia - Civilization VI
+War Weariness
+War Weariness
+Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness grows for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased depending on the era and if you declared war without using a Casus Belli.
+War weariness is applied to every city you own as a negative
+Amenity, lowering your city growth and productivity. Having low
+Amenities for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.
+While war weariness will slowly reduce while you are still at war, it reduces at a greatly increased rate when you are not at war with any player.
+War Weariness
+Having a nation that is constantly at war will diminish the productivity and happiness of your people. War weariness grows for every battle you fight. This accumulation is worse when those battles occur in foreign territory or when your units are killed. It is worse still if those units are killed by a nuclear weapon, but launching a nuclear weapon yourself is the greatest source of war weariness. All war weariness you accumulate is increased depending on the era and if you declared war without using a Casus Belli.
+War weariness is applied to every city you own as a negative
+Amenity, lowering your city growth and productivity. Having low
+Amenities for too long can cause rebel partisans to spawn in your cities. These hostile units will attack your units and pillage your tiles and districts.
+While war weariness will slowly reduce while you are still at war, it reduces at a greatly increased rate when you are not at war with any player.

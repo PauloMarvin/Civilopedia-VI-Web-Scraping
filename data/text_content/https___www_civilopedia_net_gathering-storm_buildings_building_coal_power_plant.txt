@@ -1,0 +1,86 @@
+Coal Power Plant - Buildings - Civilopedia - Civilization VI
+Coal Power Plant
+Description
+Automatically converts any amount of
+Coal into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Coal
+4
+Power
+Heavy CO2 into the atmosphere
+Historical Context
+Coal has been used as fuel for fire as far back as prehistory. The rise of steam engines during the industrial revolution created an immense demand for the fuel. Coal burns hotter than wood and was, at the time, relatively easy to extract from various places around the world. The first coal-fired electrical power plant was built in 1884. In a coal-fired power plant, coal burns to heat water, which creates steam, which drives a dynamo, which generates electricity. This is an inefficient conversion of the potential energy in each lump of coal into electrical power even with modern improvements on the process, and as a side effect it creates a tremendous quantity of harmful particulates in smoke and ash, and releases CO2 into the atmosphere.
+In the early twenty-first century, coal still provides a significant percentage of the total power generation in the world, particularly in industrial economies and in nations with large natural coal reserves. Pollution from both mining and power generation continue to plague humanity, but the reliability of on-demand coal-generated electrical power means it will continue to be used as long as the world continues to run on electricity.
+Traits
+Bonus
+Production equal to the adjacency
+Production bonus of its district.
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization
+Building
+Factory
+Mutually Exclusive With
+Oil Power Plant
+Nuclear Power Plant
+Production Cost
+Base Cost: 300
+Production
+Purchase Cost
+Base Cost: 1200
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Automatically converts any amount of
+Coal into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Coal
+4
+Power
+Heavy CO2 into the atmosphere
+Historical Context
+Coal has been used as fuel for fire as far back as prehistory. The rise of steam engines during the industrial revolution created an immense demand for the fuel. Coal burns hotter than wood and was, at the time, relatively easy to extract from various places around the world. The first coal-fired electrical power plant was built in 1884. In a coal-fired power plant, coal burns to heat water, which creates steam, which drives a dynamo, which generates electricity. This is an inefficient conversion of the potential energy in each lump of coal into electrical power even with modern improvements on the process, and as a side effect it creates a tremendous quantity of harmful particulates in smoke and ash, and releases CO2 into the atmosphere.
+In the early twenty-first century, coal still provides a significant percentage of the total power generation in the world, particularly in industrial economies and in nations with large natural coal reserves. Pollution from both mining and power generation continue to plague humanity, but the reliability of on-demand coal-generated electrical power means it will continue to be used as long as the world continues to run on electricity.
+Traits
+Bonus
+Production equal to the adjacency
+Production bonus of its district.
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization
+Building
+Factory
+Mutually Exclusive With
+Oil Power Plant
+Nuclear Power Plant
+Production Cost
+Base Cost: 300
+Production
+Purchase Cost
+Base Cost: 1200
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

@@ -1,0 +1,68 @@
+Field Cannon - Units - Civilopedia - Civilization VI
+Field Cannon
+Description
+Industrial era ranged unit.
+Historical Context
+Field cannon – the earliest form of mobile gunpowder artillery – dates back to the wars of Gustavus Adolphus, a bastardization of the Ottoman hand cannon and the heavy siege artillery used throughout Europe. The Swedish king needed increased mobility and devastation from his guns if he was going to conquer the north, and so he developed 4- and 9-pounder demi-culverins and a 12-pounder cannon (the traditional method of distinguishing type of cannon is by weight of shot); each gun was able to be serviced by three men and hauled by two horses. He also organized them into batteries, rather than scatter them about through the ranks. And the Swedes pioneered several types of specialized ammunition, including canister for blasting massed enemy infantry. So effective was Adolphus’ field guns and his tactics for their use that soon enough every nation in Europe and beyond had adopted his innovations, and the art of war again changed dramatically.
+Traits
+Upgrades To
+Machine Gun
+Upgrade From
+Crossbowman
+Crouching Tiger
+Keshig
+Voi Chiến
+Promotion Class: Ranged
+2
+Movement Points
+50
+Melee Strength
+60
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Ballistics
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Industrial era ranged unit.
+Historical Context
+Field cannon – the earliest form of mobile gunpowder artillery – dates back to the wars of Gustavus Adolphus, a bastardization of the Ottoman hand cannon and the heavy siege artillery used throughout Europe. The Swedish king needed increased mobility and devastation from his guns if he was going to conquer the north, and so he developed 4- and 9-pounder demi-culverins and a 12-pounder cannon (the traditional method of distinguishing type of cannon is by weight of shot); each gun was able to be serviced by three men and hauled by two horses. He also organized them into batteries, rather than scatter them about through the ranks. And the Swedes pioneered several types of specialized ammunition, including canister for blasting massed enemy infantry. So effective was Adolphus’ field guns and his tactics for their use that soon enough every nation in Europe and beyond had adopted his innovations, and the art of war again changed dramatically.
+Traits
+Upgrades To
+Machine Gun
+Upgrade From
+Crossbowman
+Crouching Tiger
+Keshig
+Voi Chiến
+Promotion Class: Ranged
+2
+Movement Points
+50
+Melee Strength
+60
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Ballistics
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

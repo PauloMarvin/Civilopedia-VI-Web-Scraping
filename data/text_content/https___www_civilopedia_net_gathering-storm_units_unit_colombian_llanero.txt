@@ -1,0 +1,66 @@
+Llanero - Units - Civilopedia - Civilization VI
+Llanero
+Description
+Gran Colombian Industrial era unique unit that replaces the Cavalry. Low maintenance cost. +2
+Combat Strength for every adjacent Llanero. Fully heals when in range of a Comandante General that activates its retire ability.
+Historical Context
+The Llanos grasslands extend across eastern Colombia and western Venezuela, and are the home of those countries’ brave, hardy cattlemen, the llaneros. Separated from the rich coastal Caribbean ports, the llaneros developed a strong individualistic and resourceful streak, something that won them acclaim when they served as cavalry on both sides of the wars of Latin American independence. Famously, one of their own, José Antonio Páez, formed the llaneros into an effective fighting force, especially when facing down the similarly-organized royalist llaneros of José Tomás Boves.
+The llanero culture came as Spanish settlers lived near and intermingled with indigenous groups, creating a new, distinctive society with its own music, cuisine, and, especially, its own tradition of horsemanship. Owing to their dislike for the coastal elites, llaneros initially were persuaded to fight for the Crown, but under Páez, the llaneros became a potent force for independence, leading the revolutionaries to victory in the battles of Boyacá and Carabobo. In one memorable scene, Páez led his llaneros through a burning plain, stunning the Spanish, who had been disorientated by the flames and smoke… and the thunder of thousands of horses galloping straight for them!
+Traits
+Unique To
+Gran Colombia
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Gran Colombian Industrial era unique unit that replaces the Cavalry. Low maintenance cost. +2
+Combat Strength for every adjacent Llanero. Fully heals when in range of a Comandante General that activates its retire ability.
+Historical Context
+The Llanos grasslands extend across eastern Colombia and western Venezuela, and are the home of those countries’ brave, hardy cattlemen, the llaneros. Separated from the rich coastal Caribbean ports, the llaneros developed a strong individualistic and resourceful streak, something that won them acclaim when they served as cavalry on both sides of the wars of Latin American independence. Famously, one of their own, José Antonio Páez, formed the llaneros into an effective fighting force, especially when facing down the similarly-organized royalist llaneros of José Tomás Boves.
+The llanero culture came as Spanish settlers lived near and intermingled with indigenous groups, creating a new, distinctive society with its own music, cuisine, and, especially, its own tradition of horsemanship. Owing to their dislike for the coastal elites, llaneros initially were persuaded to fight for the Crown, but under Páez, the llaneros became a potent force for independence, leading the revolutionaries to victory in the battles of Boyacá and Carabobo. In one memorable scene, Páez led his llaneros through a burning plain, stunning the Spanish, who had been disorientated by the flames and smoke… and the thunder of thousands of horses galloping straight for them!
+Traits
+Unique To
+Gran Colombia
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

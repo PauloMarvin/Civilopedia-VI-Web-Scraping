@@ -1,0 +1,40 @@
+Sewer - Buildings - Civilopedia - Civilization VI
+Sewer
+Historical Context
+Put enough people and animals in one place, pave over the streets, let it rain … and the need for a sewage system becomes evident. At least it did to the Indians; the oldest covered sewers uncovered by archaeologists have been found in the ruins of the Indus Valley civilization. Where to put the runoff from the waste water and sewage was always a problem; the great Cloaca Maxima in ancient Rome, considered an engineering marvel, emptied into the Tiber River (hopefully, downriver from where the city’s drinking water was acquired). In many places, a natural waterway was covered over and served as the sewer system; London’s River Fleet is one such. With the advent of the Industrial Revolution, and the explosive growth of cities, during the early 19th Century many civil engineers urged the construction of integrated, purposeful water and sewer systems; the “Great Stink” of 1858 in London resulted in the first “modern” sewer system, funded by Parliament, and became the basis for all the sewage innovations since.
+Traits
++2
+Housing
+Requirements
+District
+City Center
+Technology
+Sanitation
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Historical Context
+Put enough people and animals in one place, pave over the streets, let it rain … and the need for a sewage system becomes evident. At least it did to the Indians; the oldest covered sewers uncovered by archaeologists have been found in the ruins of the Indus Valley civilization. Where to put the runoff from the waste water and sewage was always a problem; the great Cloaca Maxima in ancient Rome, considered an engineering marvel, emptied into the Tiber River (hopefully, downriver from where the city’s drinking water was acquired). In many places, a natural waterway was covered over and served as the sewer system; London’s River Fleet is one such. With the advent of the Industrial Revolution, and the explosive growth of cities, during the early 19th Century many civil engineers urged the construction of integrated, purposeful water and sewer systems; the “Great Stink” of 1858 in London resulted in the first “modern” sewer system, funded by Parliament, and became the basis for all the sewage innovations since.
+Traits
++2
+Housing
+Requirements
+District
+City Center
+Technology
+Sanitation
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

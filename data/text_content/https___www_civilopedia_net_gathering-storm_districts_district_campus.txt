@@ -1,0 +1,130 @@
+Campus - Districts - Civilopedia - Civilization VI
+Campus
+Description
+A district in your city for scientific endeavors.
+Historical Context
+The term “campus” is the Latin word for “field,” and was first applied to the grounds of what would become Princeton University founded in 1746 AD; the word has since come to be applied to the usually landscaped setting of any institution of higher learning (and, sometimes, to pretentious corporate office complexes). The tradition of the campus as a special district devoted to learning has its roots in 12th Century European schools where instructors and students lived together in a self-regulating, cloistered settlement. Those early campuses with their collective rights and legal privileges were often guaranteed by charters from princes or prelates, with the land “donated” by the town in which they were located.
+Traits
+Replaced By
+Seowon
+Observatory
++1
+Great Scientist point per turn.
+Adjacency Bonus
++1
+Science from each adjacent Grassland (Mountain) tile.
++1
+Science from each adjacent Plains (Mountain) tile.
++1
+Science from each adjacent Desert (Mountain) tile.
++1
+Science from each adjacent Tundra (Mountain) tile.
++1
+Science from each adjacent Snow (Mountain) tile.
++1
+Science from every 2 adjacent Rainforest tiles.
++1
+Science from every 2 adjacent district tiles.
++2
+Science from each adjacent Great Barrier Reef tile.
++1
+Science from each adjacent Government Plaza tile.
++2
+Science from each adjacent Geothermal Fissure tile.
++2
+Science from each adjacent Reef tile.
++2
+Science from each adjacent Pamukkale tile.
++2
+Science from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Science
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Science
+Requirements
+Technology
+Writing
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Alchemical Society
+Library
+Madrasa
+Navigation School
+Research Lab
+University
+Description
+A district in your city for scientific endeavors.
+Historical Context
+The term “campus” is the Latin word for “field,” and was first applied to the grounds of what would become Princeton University founded in 1746 AD; the word has since come to be applied to the usually landscaped setting of any institution of higher learning (and, sometimes, to pretentious corporate office complexes). The tradition of the campus as a special district devoted to learning has its roots in 12th Century European schools where instructors and students lived together in a self-regulating, cloistered settlement. Those early campuses with their collective rights and legal privileges were often guaranteed by charters from princes or prelates, with the land “donated” by the town in which they were located.
+Traits
+Replaced By
+Seowon
+Observatory
++1
+Great Scientist point per turn.
+Adjacency Bonus
++1
+Science from each adjacent Grassland (Mountain) tile.
++1
+Science from each adjacent Plains (Mountain) tile.
++1
+Science from each adjacent Desert (Mountain) tile.
++1
+Science from each adjacent Tundra (Mountain) tile.
++1
+Science from each adjacent Snow (Mountain) tile.
++1
+Science from every 2 adjacent Rainforest tiles.
++1
+Science from every 2 adjacent district tiles.
++2
+Science from each adjacent Great Barrier Reef tile.
++1
+Science from each adjacent Government Plaza tile.
++2
+Science from each adjacent Geothermal Fissure tile.
++2
+Science from each adjacent Reef tile.
++2
+Science from each adjacent Pamukkale tile.
++2
+Science from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Science
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Science
+Requirements
+Technology
+Writing
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Alchemical Society
+Library
+Madrasa
+Navigation School
+Research Lab
+University

@@ -1,0 +1,40 @@
+Refining - Technologies - Civilopedia - Civilization VI
+Refining
+Historical Context
+Petroleum refining developed in parallel with the chemical revolution of the late 19th and early 20th Centuries, starting with the drilling of the first oil wells in the United States around 1860. The increased volume in crude oil’s availability led to experiments in improving its qualities, starting with simple distillation rigs, and increasing in complexity and sophistication. It quickly became possible to produce higher-quality, cleaner-burning fuels like kerosene and fuel oil from crude oil, rather than relying on whale oil or distilled animal fats.
+Development of internal combustion engines was driven in part by the availability of these new refined fuels, and in turn increased demand for these. The thermal cracking (and later catalyzed cracking) processes for refining heavy oil produced greater and greater yields of gasoline, kerosene, and light industrial fuel, as well as improving the quality of the fuels.
+Fuel refining may be the most fundamental technology that underlies the industrial expansion of the 20th Century, for better and worse. The accelerating change to the world’s climate and the incredible growth of material prosperity are both inextricably bound in this development, which is so common in this age that we take it for granted.
+"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."
+- Thomas Tredgold
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Rifling
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build 1 Coal Power Plant.
+Progression
+Leads to Technologies
+Combustion
+Historical Context
+Petroleum refining developed in parallel with the chemical revolution of the late 19th and early 20th Centuries, starting with the drilling of the first oil wells in the United States around 1860. The increased volume in crude oil’s availability led to experiments in improving its qualities, starting with simple distillation rigs, and increasing in complexity and sophistication. It quickly became possible to produce higher-quality, cleaner-burning fuels like kerosene and fuel oil from crude oil, rather than relying on whale oil or distilled animal fats.
+Development of internal combustion engines was driven in part by the availability of these new refined fuels, and in turn increased demand for these. The thermal cracking (and later catalyzed cracking) processes for refining heavy oil produced greater and greater yields of gasoline, kerosene, and light industrial fuel, as well as improving the quality of the fuels.
+Fuel refining may be the most fundamental technology that underlies the industrial expansion of the 20th Century, for better and worse. The accelerating change to the world’s climate and the incredible growth of material prosperity are both inextricably bound in this development, which is so common in this age that we take it for granted.
+"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."
+- Thomas Tredgold
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Rifling
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Build 1 Coal Power Plant.
+Progression
+Leads to Technologies
+Combustion

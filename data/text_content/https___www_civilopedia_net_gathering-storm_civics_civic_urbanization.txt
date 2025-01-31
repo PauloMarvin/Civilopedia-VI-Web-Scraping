@@ -1,0 +1,48 @@
+Urbanization - Civics - Civilopedia - Civilization VI
+Urbanization
+Historical Context
+It is estimated that by 2050 AD some 70% of the world’s population will live in urban areas, sucking up scarce resources and creating waste on an unprecedented scale in human civilization. It is a trend that has been advancing since the first towns arose in ancient Egypt, Mesopotamia, India and China when mankind finally moved beyond subsistence farming and primitive societies could afford to feed “useless” mouths – priests, philosophers, bureaucrats and the like. But cities were limited to the population that the local agriculture could support, “local” expanding as transportation expanded. Too, agricultural production was labor intensive, and there were only so many jobs available in towns for craftsmen and other trades. But the onset of the agricultural and industrial revolutions in the 18th Century shattered that millennia-old balance.
+Only three percent of mankind lived in cities in 1800; by 1900 that figure had risen to 14 percent, and 12 cities had populations over a million each. Just a half-century later that percentage had doubled and there were 83 cities in the world numbering over a million humans. Cities just kept getting more crowded; the number of “mega-cities” – those with populations of ten million or more – rose from three in 1975 to 16 in 2000, and is projected to be 27 in 2025. All thanks to technology.
+Sociologists have proposed that the Industrial Revolution threw off the four natural limits on the growth of urban centers: the distance to food and water supplies, the geographic extent of walls and fortifications, the speed of traffic (all those slow-moving oxcarts and pedestrians), and the availability of power. Steam engines and motor cars, natural gas and electricity, iceboxes and indoor plumbing, artillery and aeroplanes. The telephone and automobile brought yet another stage of urbanization in the early 20th Century, the phenomenon of suburbs. No longer did folk need to live near the factories and offices they labored in in the cities; now they could live in the “countryside” again.
+“It’s the Industrial Revolution and the growth of urban concentrations that led to a sense of anonymity.”
+– Vint Cerf
+“What I like about cities is that everything is king size, the beauty and the ugliness.”
+– Joseph Brodsky
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Civil Engineering
+Nationalism
+Culture Cost
+Base Cost: 1210
+Culture
+Boosts
+Grow a city to 15 population.
+Progression
+Leads to Civics
+Mass Media
+Mobilization
+Historical Context
+It is estimated that by 2050 AD some 70% of the world’s population will live in urban areas, sucking up scarce resources and creating waste on an unprecedented scale in human civilization. It is a trend that has been advancing since the first towns arose in ancient Egypt, Mesopotamia, India and China when mankind finally moved beyond subsistence farming and primitive societies could afford to feed “useless” mouths – priests, philosophers, bureaucrats and the like. But cities were limited to the population that the local agriculture could support, “local” expanding as transportation expanded. Too, agricultural production was labor intensive, and there were only so many jobs available in towns for craftsmen and other trades. But the onset of the agricultural and industrial revolutions in the 18th Century shattered that millennia-old balance.
+Only three percent of mankind lived in cities in 1800; by 1900 that figure had risen to 14 percent, and 12 cities had populations over a million each. Just a half-century later that percentage had doubled and there were 83 cities in the world numbering over a million humans. Cities just kept getting more crowded; the number of “mega-cities” – those with populations of ten million or more – rose from three in 1975 to 16 in 2000, and is projected to be 27 in 2025. All thanks to technology.
+Sociologists have proposed that the Industrial Revolution threw off the four natural limits on the growth of urban centers: the distance to food and water supplies, the geographic extent of walls and fortifications, the speed of traffic (all those slow-moving oxcarts and pedestrians), and the availability of power. Steam engines and motor cars, natural gas and electricity, iceboxes and indoor plumbing, artillery and aeroplanes. The telephone and automobile brought yet another stage of urbanization in the early 20th Century, the phenomenon of suburbs. No longer did folk need to live near the factories and offices they labored in in the cities; now they could live in the “countryside” again.
+“It’s the Industrial Revolution and the growth of urban concentrations that led to a sense of anonymity.”
+– Vint Cerf
+“What I like about cities is that everything is king size, the beauty and the ugliness.”
+– Joseph Brodsky
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Civil Engineering
+Nationalism
+Culture Cost
+Base Cost: 1210
+Culture
+Boosts
+Grow a city to 15 population.
+Progression
+Leads to Civics
+Mass Media
+Mobilization

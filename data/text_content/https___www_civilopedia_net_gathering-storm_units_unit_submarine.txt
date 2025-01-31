@@ -1,0 +1,74 @@
+Submarine - Units - Civilopedia - Civilization VI
+Submarine
+Description
+Modern era ranged raiding naval unit. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+When those madcap Confederates in the Hunley sank the USS Housatonic in 1864 AD, it launched a new age of naval warfare; unfortunately, the Hunley also sank itself, taking its crew to the bottom as well. Nevertheless, the submarine had made its stealthy appearance. The submarine, submersible, U-boat is a craft made for sneaking up on a target while underwater and then sinking it with torpedoes … or if possible surfacing and using its pathetic deck-guns. Germany pioneered their use as merchant raiders – really effective ones – during WW1, and expanded upon it during WW2, eventually sinking some 14.5 million tons of enemy shipping (including the odd warship) from 1939 through 1945. Advances in ballast tanks, power plants, control planes, hull plating and such sparked a “submarine-race” between the post-war superpowers culminating in nuclear-powered, deep-diving boats … armed with nuclear missiles that could be launched at population centers. What has the Hunley wrought?
+Traits
+Upgrades To
+Nuclear Submarine
+Upgrade From
+Privateer
+Sea Dog
+Barbary Corsair
+Promotion Class: Naval Raider
+3
+Movement Points
+65
+Melee Strength
+75
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Electricity
+Production Cost
+Base Cost: 480
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn
+Description
+Modern era ranged raiding naval unit. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+When those madcap Confederates in the Hunley sank the USS Housatonic in 1864 AD, it launched a new age of naval warfare; unfortunately, the Hunley also sank itself, taking its crew to the bottom as well. Nevertheless, the submarine had made its stealthy appearance. The submarine, submersible, U-boat is a craft made for sneaking up on a target while underwater and then sinking it with torpedoes … or if possible surfacing and using its pathetic deck-guns. Germany pioneered their use as merchant raiders – really effective ones – during WW1, and expanded upon it during WW2, eventually sinking some 14.5 million tons of enemy shipping (including the odd warship) from 1939 through 1945. Advances in ballast tanks, power plants, control planes, hull plating and such sparked a “submarine-race” between the post-war superpowers culminating in nuclear-powered, deep-diving boats … armed with nuclear missiles that could be launched at population centers. What has the Hunley wrought?
+Traits
+Upgrades To
+Nuclear Submarine
+Upgrade From
+Privateer
+Sea Dog
+Barbary Corsair
+Promotion Class: Naval Raider
+3
+Movement Points
+65
+Melee Strength
+75
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Electricity
+Production Cost
+Base Cost: 480
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn

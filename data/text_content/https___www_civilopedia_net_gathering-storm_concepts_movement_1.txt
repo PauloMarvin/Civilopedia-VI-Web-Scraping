@@ -1,0 +1,16 @@
+Movement Points - Concepts - Civilopedia - Civilization VI
+Movement Points
+Movement Points
+All mobile units have a certain number of
+Movement points that they can expend on
+Movement every turn. Once they've expended those
+Movement points, they can't move any more until the next turn. Units expend
+Movement points to enter tiles, to attack other units, or to pillage improvements or districts. The terrain of the tile a unit is entering determines the
+Movement point cost of the move.
+Movement Points
+All mobile units have a certain number of
+Movement points that they can expend on
+Movement every turn. Once they've expended those
+Movement points, they can't move any more until the next turn. Units expend
+Movement points to enter tiles, to attack other units, or to pillage improvements or districts. The terrain of the tile a unit is entering determines the
+Movement point cost of the move.

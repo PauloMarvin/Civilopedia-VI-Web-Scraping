@@ -1,0 +1,16 @@
+Burning Woods - Terrains and Features - Civilopedia - Civilization VI
+Burning Woods
+Description
+Woods engulfed in flame.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
+Description
+Woods engulfed in flame.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3

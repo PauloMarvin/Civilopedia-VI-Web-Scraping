@@ -1,0 +1,72 @@
+Government Plaza - Districts - Civilopedia - Civilization VI
+Government Plaza
+Description
+A district placed once in your empire to commemorate your government choices. Provides +8 Loyalty per turn to this city, and an increase of +1 to the adjacency bonuses being earned by any adjacent district. Awards +1
+Governor Title.
+Historical Context
+While a government may exist in the hearts and minds and consent of the governed, the actual execution of government requires desks to work on, archives to store records, and meeting rooms to discuss the affairs of state. It helps if the government can set aside space somewhere for dedicated scribes, civil servants, sinecure holders, and politicos to work efficiently, so that the matters of state can be conducted in a timely way. Throughout history, many civilizations have consolidated their bureaucracies in central areas, creating Government Plazas with clustered office dedicated to governance. Westminster in London, or the Kremlin in Moscow, or Eixo Monumental in Brazil might all be considered examples of the Government Plaza.
+Traits
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++2
+Gold
+Requirements
+Civic
+State Workforce
+Production Cost
+Base Cost: 30
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Foreign Ministry
+Warlord's Throne
+National History Museum
+Grand Master's Chapel
+War Department
+Royal Society
+Intelligence Agency
+Audience Chamber
+Ancestral Hall
+Queen's Bibliotheque
+Description
+A district placed once in your empire to commemorate your government choices. Provides +8 Loyalty per turn to this city, and an increase of +1 to the adjacency bonuses being earned by any adjacent district. Awards +1
+Governor Title.
+Historical Context
+While a government may exist in the hearts and minds and consent of the governed, the actual execution of government requires desks to work on, archives to store records, and meeting rooms to discuss the affairs of state. It helps if the government can set aside space somewhere for dedicated scribes, civil servants, sinecure holders, and politicos to work efficiently, so that the matters of state can be conducted in a timely way. Throughout history, many civilizations have consolidated their bureaucracies in central areas, creating Government Plazas with clustered office dedicated to governance. Westminster in London, or the Kremlin in Moscow, or Eixo Monumental in Brazil might all be considered examples of the Government Plaza.
+Traits
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++2
+Gold
+Requirements
+Civic
+State Workforce
+Production Cost
+Base Cost: 30
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Foreign Ministry
+Warlord's Throne
+National History Museum
+Grand Master's Chapel
+War Department
+Royal Society
+Intelligence Agency
+Audience Chamber
+Ancestral Hall
+Queen's Bibliotheque

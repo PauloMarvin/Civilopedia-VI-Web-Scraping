@@ -1,0 +1,80 @@
+Nubian Pyramid - Improvements and Routes - Civilopedia - Civilization VI
+Nubian Pyramid
+Description
+Improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Desert Floodplains. +2
+Faith and +2
+Food. Receives additional yields from adjacent districts. +1
+Food if adjacent to a city center. For all other districts that award adjacency bonuses: +1 of the appropriate yield if that district is adjacent.
+Historical Context
+During their on-again/off-again periods of mutual conflict, Nubia found its culture influenced by the powerful Egyptian dynasties further down the Nile. Nubian burial customs would eventually come to resemble those of Egypt. Nubia’s Kingdom of Kush began burying its kings and queens in pyramids sometime in the First Millennium BCE.
+Nubia took a vastly different approach to its pyramids than Egypt. Rather than build immense tomb complexes that bankrupted their state, they opted for a more practical method: smaller pyramids with no more than a 26 ft (8 m) wide base, steep sides that rose at a sharp angle in the air, and an ornate entry chamber that extended from the pyramid tomb. Though treasure hunters plundered most of these pyramids since Nubia's fall, the pyramids remain a powerful testament to Nubia's legacy.
+Traits
+Unique To
+Nubia
++2
+Faith
++2
+Food
+Adjacency Bonus
++1
+Food from each adjacent City Center tile.
++1
+Science from each adjacent Campus tile.
++1
+Gold from each adjacent Commercial Hub tile.
++1
+Gold from each adjacent Harbor tile.
++1
+Faith from each adjacent Holy Site tile.
++1
+Production from each adjacent Industrial Zone tile.
++1
+Culture from each adjacent Theater Square tile.
+Requirements
+Technology
+Masonry
+Desert Floodplains
+Desert
+Desert (Hills)
+Usage
+Built By
+Builder
+Description
+Improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Desert Floodplains. +2
+Faith and +2
+Food. Receives additional yields from adjacent districts. +1
+Food if adjacent to a city center. For all other districts that award adjacency bonuses: +1 of the appropriate yield if that district is adjacent.
+Historical Context
+During their on-again/off-again periods of mutual conflict, Nubia found its culture influenced by the powerful Egyptian dynasties further down the Nile. Nubian burial customs would eventually come to resemble those of Egypt. Nubia’s Kingdom of Kush began burying its kings and queens in pyramids sometime in the First Millennium BCE.
+Nubia took a vastly different approach to its pyramids than Egypt. Rather than build immense tomb complexes that bankrupted their state, they opted for a more practical method: smaller pyramids with no more than a 26 ft (8 m) wide base, steep sides that rose at a sharp angle in the air, and an ornate entry chamber that extended from the pyramid tomb. Though treasure hunters plundered most of these pyramids since Nubia's fall, the pyramids remain a powerful testament to Nubia's legacy.
+Traits
+Unique To
+Nubia
++2
+Faith
++2
+Food
+Adjacency Bonus
++1
+Food from each adjacent City Center tile.
++1
+Science from each adjacent Campus tile.
++1
+Gold from each adjacent Commercial Hub tile.
++1
+Gold from each adjacent Harbor tile.
++1
+Faith from each adjacent Holy Site tile.
++1
+Production from each adjacent Industrial Zone tile.
++1
+Culture from each adjacent Theater Square tile.
+Requirements
+Technology
+Masonry
+Desert Floodplains
+Desert
+Desert (Hills)
+Usage
+Built By
+Builder

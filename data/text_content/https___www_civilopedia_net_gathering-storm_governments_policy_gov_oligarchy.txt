@@ -1,0 +1,22 @@
+Oligarchic Legacy - Governments and Policies - Civilopedia - Civilization VI
+Oligarchic Legacy
+Description
+All land melee, anti-cavalry, and naval melee class units gain +4
+Combat Strength.
+Historical Context
+The Greeks coined the term “oligarchy” to mean “rule by the few.” Whether distinguished from the hoi polloi by family ties, religious or military prestige, personal achievements, or other attributes – Aristotle used the term to refer to rule by the rich, and Plato in The Republic argued for rule by an educated elite – the oligarchs determine what issues should be on the political agenda, debate these, and then decide “for the good of the people.” Depending on the qualifications imposed to be an oligarch, oligarchy can be efficient, or it can generate a viper's nest of intrigue.
+The classic examples of oligarchy are found in ancient Greece – Corinth, Sparta, Thebes, in fact all the major city-states… except the democratic Athenians. However, recent works by political scholars such as the German sociologist Robert Michels argue there is an “Iron Law of Oligarchy” whereby all forms of government tend inevitably towards oligarchy. Even in representative democracies, the practical demands of governance results in the concentration of political power in a small group, in a monolithic bureaucracy, and in rigorous means to control dissention. Which may be a good thing, as the historian Spencer Weart claims that oligarchies rarely make war on each other.
+Requirements
+Government
+Cannot be slotted while in and unlocked by
+Oligarchy
+Description
+All land melee, anti-cavalry, and naval melee class units gain +4
+Combat Strength.
+Requirements
+Government
+Cannot be slotted while in and unlocked by
+Oligarchy
+Historical Context
+The Greeks coined the term “oligarchy” to mean “rule by the few.” Whether distinguished from the hoi polloi by family ties, religious or military prestige, personal achievements, or other attributes – Aristotle used the term to refer to rule by the rich, and Plato in The Republic argued for rule by an educated elite – the oligarchs determine what issues should be on the political agenda, debate these, and then decide “for the good of the people.” Depending on the qualifications imposed to be an oligarch, oligarchy can be efficient, or it can generate a viper's nest of intrigue.
+The classic examples of oligarchy are found in ancient Greece – Corinth, Sparta, Thebes, in fact all the major city-states… except the democratic Athenians. However, recent works by political scholars such as the German sociologist Robert Michels argue there is an “Iron Law of Oligarchy” whereby all forms of government tend inevitably towards oligarchy. Even in representative democracies, the practical demands of governance results in the concentration of political power in a small group, in a monolithic bureaucracy, and in rigorous means to control dissention. Which may be a good thing, as the historian Spencer Weart claims that oligarchies rarely make war on each other.

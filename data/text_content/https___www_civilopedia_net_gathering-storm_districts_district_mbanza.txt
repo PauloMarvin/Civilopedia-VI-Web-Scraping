@@ -1,0 +1,64 @@
+Mbanza - Districts - Civilopedia - Civilization VI
+Mbanza
+Description
+A district unique to Kongo that can only be constructed in Rainforest or Woods. Replaces the Neighborhood district but is available earlier and cheaper to build. Provides +5
+Housing , +2
+Food, and +4
+Gold, regardless of Appeal.
+Historical Context
+Mbanza is Kongolese for “city,” or in some cases simply “settlement.” By the time the Portuguese arrived in central Africa, M’banza Kongo was already a large city, rich from trade and craft manufacturing, but most of the population lived in the valleys that surrounded it in residential neighborhoods – perhaps as many as 100 thousand people. While these small towns might have a market and a workshop, the important things – churches, palace, schools, clinics, and tax offices – were located in the hilltop capital. They were linked to M’banza Kongo by several roads up the slopes, and these were quite crowded at times such as feast and tax days. All this in 1648 AD according to the visitor Francesco da Roma. So not only did the Kongolese give civilization suburbia but also “rush hour.”
+Traits
+Unique To
+Kongo
+Replaces
+Neighborhood
++2
+Food
++4
+Gold
++5
+Housing
+Requirements
+Civic
+Guilds
+Placement
+Rainforest
+Woods
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Food Market
+Shopping Mall
+Description
+A district unique to Kongo that can only be constructed in Rainforest or Woods. Replaces the Neighborhood district but is available earlier and cheaper to build. Provides +5
+Housing , +2
+Food, and +4
+Gold, regardless of Appeal.
+Historical Context
+Mbanza is Kongolese for “city,” or in some cases simply “settlement.” By the time the Portuguese arrived in central Africa, M’banza Kongo was already a large city, rich from trade and craft manufacturing, but most of the population lived in the valleys that surrounded it in residential neighborhoods – perhaps as many as 100 thousand people. While these small towns might have a market and a workshop, the important things – churches, palace, schools, clinics, and tax offices – were located in the hilltop capital. They were linked to M’banza Kongo by several roads up the slopes, and these were quite crowded at times such as feast and tax days. All this in 1648 AD according to the visitor Francesco da Roma. So not only did the Kongolese give civilization suburbia but also “rush hour.”
+Traits
+Unique To
+Kongo
+Replaces
+Neighborhood
++2
+Food
++4
+Gold
++5
+Housing
+Requirements
+Civic
+Guilds
+Placement
+Rainforest
+Woods
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Food Market
+Shopping Mall

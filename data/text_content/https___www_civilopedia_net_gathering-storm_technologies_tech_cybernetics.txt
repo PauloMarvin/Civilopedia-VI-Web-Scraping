@@ -1,0 +1,34 @@
+Cybernetics - Technologies - Civilopedia - Civilization VI
+Cybernetics
+Description
+Unlocks Giant Death Robot upgrade: Enhanced Mobility
++3
+Movement. Can perform a Jump action to cross over mountain terrain.
+Historical Context
+The term “cybernetics” is taken from the ancient Greek term to describe the skill of a ship's helmsman, and was re-invigorated in 1948 by American mathematician Norbert Weiner, who used it as a term for the study and practice of controlling complex systems, particularly with regard to human sensory input and locomotor function. One of the earliest projects of scientists in the cybernetic program was interest in developing more effective artificial limbs, and thus the term “cybernetics” became equated in the popular culture with the replacement of organic physiology with artificial physiology.
+The cybernetics program of study had a decidedly reductivist, machine-metaphor flavor to its course of study. New experimental programs in psychology and advances in computer science meant its practitioners largely migrated into those two academic departments within a few decades, although the machine-metaphor view of life processes does occasionally recur. The rest of the world seems content to let the term refer to robot limbs, eyes, and so on.
+“If there is any work in the afterlife, you must do it. Behold me whenever you are called. Be watchful at any moment to work there. Plough my fields, carry water and sand to the east and west. Behold me whenever you are called.”
+– Inscription on an Egyptian Ushabti
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.
+Description
+Unlocks Giant Death Robot upgrade: Enhanced Mobility
++3
+Movement. Can perform a Jump action to cross over mountain terrain.
+Historical Context
+The term “cybernetics” is taken from the ancient Greek term to describe the skill of a ship's helmsman, and was re-invigorated in 1948 by American mathematician Norbert Weiner, who used it as a term for the study and practice of controlling complex systems, particularly with regard to human sensory input and locomotor function. One of the earliest projects of scientists in the cybernetic program was interest in developing more effective artificial limbs, and thus the term “cybernetics” became equated in the popular culture with the replacement of organic physiology with artificial physiology.
+The cybernetics program of study had a decidedly reductivist, machine-metaphor flavor to its course of study. New experimental programs in psychology and advances in computer science meant its practitioners largely migrated into those two academic departments within a few decades, although the machine-metaphor view of life processes does occasionally recur. The rest of the world seems content to let the term refer to robot limbs, eyes, and so on.
+“If there is any work in the afterlife, you must do it. Behold me whenever you are called. Be watchful at any moment to work there. Plough my fields, carry water and sand to the east and west. Behold me whenever you are called.”
+– Inscription on an Egyptian Ushabti
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.

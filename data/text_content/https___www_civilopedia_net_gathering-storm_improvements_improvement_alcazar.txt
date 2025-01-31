@@ -1,0 +1,58 @@
+Alcázar - Improvements and Routes - Civilopedia - Civilization VI
+Alcázar
+Description
+Unlocks the Builder ability to construct an Alcázar.
++2
+Culture. Provides
+Science equal to 50% of the tile's Appeal. Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. Provides
+Tourism after researching Flight. Cannot be built next to another Alcázar.
+Historical Context
+The alcázars (a sort of final refuge) were castle-palaces built in many of the Moorish cities in al-Andalus, mostly between the 8th and 15th centuries AD. Many of these were built as the residence of the Moorish governors … and came in quite handy, not only against unruly rivals but also later against that perplexing Christian Reconquista. Many still stand, and are quite famous: for instance, those in Segovia. Toledo, Cordoba (the famed Alcázar de los Reyes Cristianos), Burgos, and Seville. The last, as an example, was built in 913 as a fort for the Cordoban governor; in the 11th Century, it was expanded into the palace known as al-Muwarak (“the Blessed”). The Christian king Fernando III made it his royal residence when he captured Seville in 1248. Now it is just another stop for tour buses in the city.
+Traits
+Unique To
+Granada
++2
+Culture
+Requirements
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Alcázar.
++2
+Culture. Provides
+Science equal to 50% of the tile's Appeal. Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. Provides
+Tourism after researching Flight. Cannot be built next to another Alcázar.
+Historical Context
+The alcázars (a sort of final refuge) were castle-palaces built in many of the Moorish cities in al-Andalus, mostly between the 8th and 15th centuries AD. Many of these were built as the residence of the Moorish governors … and came in quite handy, not only against unruly rivals but also later against that perplexing Christian Reconquista. Many still stand, and are quite famous: for instance, those in Segovia. Toledo, Cordoba (the famed Alcázar de los Reyes Cristianos), Burgos, and Seville. The last, as an example, was built in 913 as a fort for the Cordoban governor; in the 11th Century, it was expanded into the palace known as al-Muwarak (“the Blessed”). The Christian king Fernando III made it his royal residence when he captured Seville in 1248. Now it is just another stop for tour buses in the city.
+Traits
+Unique To
+Granada
++2
+Culture
+Requirements
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

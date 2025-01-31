@@ -1,0 +1,52 @@
+Sanitation - Technologies - Civilopedia - Civilization VI
+Sanitation
+Description
+Stepwell improvements receive +1
+Housing.
+Historical Context
+A clean water supply and sanitation has been rather important for the rise of civilization, since without such folk tend to fall prey to disease and death. Especially when crowded together in urban centers. The earliest signs of city sanitation have been found in the ruins of the Harappan settlements Mohenjo-daro and Rakhigarhi in the Indus Valley c. 2500 BC. There groups of homes obtained water from a common well, and waste water (with all that was in it) was emptied into covered drains which lined the streets.
+Roman cities and villas had even better water and sanitation systems, with stone and wooden sewers – the famed Cloaca Maxima in Rome, which emptied into the River Tiber – to carry the waste away from civilized folk. But there is little evidence of sensible sanitation across the rest of Europe until the late Middle Ages; hence, the Plague of Cyprian (likely smallpox), Plague of Justinian (bubonic plague), the Black Death. Slowly – because of the expense – during the Renaissance sewers replaced the pail closets, outhouses and cesspits of Europe. (Meanwhile, the Mayan city of Palenque is believed to have had underground aqueducts and flush toilets.)
+In 1596 Sir John Harington published his work A New Discourse on a Stale Subject in which he described the forerunner to the modern toilet, which he had installed in his home, incorporating a flush valve, a water tank, and a means to wash down the bowl when used. He also installed one for his godmother Queen Elizabeth I at Richmond Palace, but she refused to use it because of the unseemly noise.
+With the onset of the Industrial Revolution, urban growth and more disposable income for many workers – and the invention of the S-trap by Alexander Cumming in 1775 – indoor toilets became a practical reality. Inventor Joseph Bramah added a float-valve system to the water tank, and in 1778 began installing toilets in homes and businesses across London, a very lucrative operation by all accounts. For soon, everyone wanted one.
+“No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.”
+– Sylvia Burwell
+“Apart from the sanitation, the medicine, education, wine, public order, roads, the fresh water system, and public health … what have the Romans ever done for us?”
+– John Cleese
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Scientific Theory
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Neighborhoods.
+Progression
+Leads to Technologies
+Chemistry
+Description
+Stepwell improvements receive +1
+Housing.
+Historical Context
+A clean water supply and sanitation has been rather important for the rise of civilization, since without such folk tend to fall prey to disease and death. Especially when crowded together in urban centers. The earliest signs of city sanitation have been found in the ruins of the Harappan settlements Mohenjo-daro and Rakhigarhi in the Indus Valley c. 2500 BC. There groups of homes obtained water from a common well, and waste water (with all that was in it) was emptied into covered drains which lined the streets.
+Roman cities and villas had even better water and sanitation systems, with stone and wooden sewers – the famed Cloaca Maxima in Rome, which emptied into the River Tiber – to carry the waste away from civilized folk. But there is little evidence of sensible sanitation across the rest of Europe until the late Middle Ages; hence, the Plague of Cyprian (likely smallpox), Plague of Justinian (bubonic plague), the Black Death. Slowly – because of the expense – during the Renaissance sewers replaced the pail closets, outhouses and cesspits of Europe. (Meanwhile, the Mayan city of Palenque is believed to have had underground aqueducts and flush toilets.)
+In 1596 Sir John Harington published his work A New Discourse on a Stale Subject in which he described the forerunner to the modern toilet, which he had installed in his home, incorporating a flush valve, a water tank, and a means to wash down the bowl when used. He also installed one for his godmother Queen Elizabeth I at Richmond Palace, but she refused to use it because of the unseemly noise.
+With the onset of the Industrial Revolution, urban growth and more disposable income for many workers – and the invention of the S-trap by Alexander Cumming in 1775 – indoor toilets became a practical reality. Inventor Joseph Bramah added a float-valve system to the water tank, and in 1778 began installing toilets in homes and businesses across London, a very lucrative operation by all accounts. For soon, everyone wanted one.
+“No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.”
+– Sylvia Burwell
+“Apart from the sanitation, the medicine, education, wine, public order, roads, the fresh water system, and public health … what have the Romans ever done for us?”
+– John Cleese
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Scientific Theory
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Neighborhoods.
+Progression
+Leads to Technologies
+Chemistry

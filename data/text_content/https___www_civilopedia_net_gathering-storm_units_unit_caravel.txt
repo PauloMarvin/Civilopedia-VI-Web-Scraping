@@ -1,0 +1,58 @@
+Caravel - Units - Civilopedia - Civilization VI
+Caravel
+Description
+Fast Renaissance era exploration melee naval unit.
+Historical Context
+As Iñigo Arieta, the Spanish commander who escorted Columbus to sea in 1492 AD, put it, caravels were “corredoras extremadas, buenas para descubrir tierras.” The Nina and the Pinta were caravels, and Columbus praised the Nina for its maneuverability, speed and safety. Developed in the 15th Century and used extensively in the 16th, the caravel was a speedy sailing ship with lateen-rigged main- and mizzen-mast, sloping bow and high stern castle. It appears that the classic (there was a lot of variation) caravel design was a melding of an earlier Iberian fishing vessel and the Arab qarib plying the Mediterranean. Small, light and shallow-drafted compared to other sailing ships, it was perfect for exploring all those coasts and rivers the Europeans were finding during the Age of Exploration. Likely the first vision people had of Europeans was a caravel looming off of the coast. After the explorers came the conquistadors, priests, adventurers, traders and eventually settlers...and so the unpretentious little caravel spread conquest round the globe.
+Traits
+Upgrades To
+Ironclad
+Upgrade From
+Galley
+Viking Longship
+Bireme
+Promotion Class: Naval Melee
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Cartography
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Fast Renaissance era exploration melee naval unit.
+Historical Context
+As Iñigo Arieta, the Spanish commander who escorted Columbus to sea in 1492 AD, put it, caravels were “corredoras extremadas, buenas para descubrir tierras.” The Nina and the Pinta were caravels, and Columbus praised the Nina for its maneuverability, speed and safety. Developed in the 15th Century and used extensively in the 16th, the caravel was a speedy sailing ship with lateen-rigged main- and mizzen-mast, sloping bow and high stern castle. It appears that the classic (there was a lot of variation) caravel design was a melding of an earlier Iberian fishing vessel and the Arab qarib plying the Mediterranean. Small, light and shallow-drafted compared to other sailing ships, it was perfect for exploring all those coasts and rivers the Europeans were finding during the Age of Exploration. Likely the first vision people had of Europeans was a caravel looming off of the coast. After the explorers came the conquistadors, priests, adventurers, traders and eventually settlers...and so the unpretentious little caravel spread conquest round the globe.
+Traits
+Upgrades To
+Ironclad
+Upgrade From
+Galley
+Viking Longship
+Bireme
+Promotion Class: Naval Melee
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Cartography
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

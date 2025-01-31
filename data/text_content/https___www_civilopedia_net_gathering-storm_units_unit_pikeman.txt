@@ -1,0 +1,58 @@
+Pikeman - Units - Civilopedia - Civilization VI
+Pikeman
+Description
+Medieval era anti-cavalry unit.
+Historical Context
+A pike is, basically, a very long spear, used for thrusting the sharp point into someone instead of throwing it at them. Very effective against other foot soldiers and especially against horsemen of all types. Indeed, besides longbowmen and muddy ground, the pike was about the only thing that would dissuade mounted knights from riding the peasants down. Thus, the pike was best used in mass formations, as by the Greek phalanx or Swiss mercenaries or German landsknechts. However, as it’s difficult to hold a pike with two hands and a shield simultaneously, pikemen tended to be vulnerable to archers and swordsmen; they weren’t much good in a melee. But if it could maintain close ranks, a pike-armed mass could roll right over the opposition, and could anchor the flanks against knights. During the heyday of its use in the Renaissance Era, the pikes became longer and longer, eventually some being 22 feet or so.
+Traits
+Upgrades To
+Pike and Shot
+Carolean
+Upgrade From
+Spearman
+Hoplite
+Promotion Class: Anti Cavalry
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 180
+Production
+Purchase Cost
+Base Cost: 720
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Medieval era anti-cavalry unit.
+Historical Context
+A pike is, basically, a very long spear, used for thrusting the sharp point into someone instead of throwing it at them. Very effective against other foot soldiers and especially against horsemen of all types. Indeed, besides longbowmen and muddy ground, the pike was about the only thing that would dissuade mounted knights from riding the peasants down. Thus, the pike was best used in mass formations, as by the Greek phalanx or Swiss mercenaries or German landsknechts. However, as it’s difficult to hold a pike with two hands and a shield simultaneously, pikemen tended to be vulnerable to archers and swordsmen; they weren’t much good in a melee. But if it could maintain close ranks, a pike-armed mass could roll right over the opposition, and could anchor the flanks against knights. During the heyday of its use in the Renaissance Era, the pikes became longer and longer, eventually some being 22 feet or so.
+Traits
+Upgrades To
+Pike and Shot
+Carolean
+Upgrade From
+Spearman
+Hoplite
+Promotion Class: Anti Cavalry
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 180
+Production
+Purchase Cost
+Base Cost: 720
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

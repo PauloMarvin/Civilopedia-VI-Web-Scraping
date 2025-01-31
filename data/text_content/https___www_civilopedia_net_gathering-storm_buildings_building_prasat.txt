@@ -1,0 +1,90 @@
+Prasat - Buildings - Civilopedia - Civilization VI
+Prasat
+Description
++6
+Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with
+Faith. +0.5
+Culture for every
+population in this city. Once Flight is researched receive +10
+Tourism if the city
+population is 10 or higher and +20
+Tourism if the city
+population is 20 or higher. Recalling Heroes in this city costs 15% less
+Faith.
+Historical Context
+When not dominating the Mekong and the mainland of Southeast Asia, the kings of the Khmer empire would turn their attention to their faith. And what better way to venerate the gods than through erecting massive temples?
+These holy sites at the center of Khmer worship would serve as both symbols of their warrior-kings’ piety and their engineers' brilliance. The earliest Khmer temple on record is Prasat Ak Yom (c. 800), its design reflecting the South Indian tradition of 'ratha'-style temples, towering edifices terminating in a crown at the top. Of course, the Khmer would add their own flourish, adding prangs, or towers to the structures.
+The construction of these temples would become an enduring feature of subsequent Khmer rulers, first facing east in honor of the Hindu god Shiva, while later construction would turn west after Jayavarman VII introduced Mahayana Buddhism to the Empire in the Twelfth Century.
+Traits
+Unique To
+Khmer
+Replaces
+Temple
++6
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++6
+Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with
+Faith. +0.5
+Culture for every
+population in this city. Once Flight is researched receive +10
+Tourism if the city
+population is 10 or higher and +20
+Tourism if the city
+population is 20 or higher. Recalling Heroes in this city costs 15% less
+Faith.
+Historical Context
+When not dominating the Mekong and the mainland of Southeast Asia, the kings of the Khmer empire would turn their attention to their faith. And what better way to venerate the gods than through erecting massive temples?
+These holy sites at the center of Khmer worship would serve as both symbols of their warrior-kings’ piety and their engineers' brilliance. The earliest Khmer temple on record is Prasat Ak Yom (c. 800), its design reflecting the South Indian tradition of 'ratha'-style temples, towering edifices terminating in a crown at the top. Of course, the Khmer would add their own flourish, adding prangs, or towers to the structures.
+The construction of these temples would become an enduring feature of subsequent Khmer rulers, first facing east in honor of the Hindu god Shiva, while later construction would turn west after Jayavarman VII introduced Mahayana Buddhism to the Empire in the Twelfth Century.
+Traits
+Unique To
+Khmer
+Replaces
+Temple
++6
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

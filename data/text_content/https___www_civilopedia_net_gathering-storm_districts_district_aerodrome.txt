@@ -1,0 +1,68 @@
+Aerodrome - Districts - Civilopedia - Civilization VI
+Aerodrome
+Description
+A district that allows you to build and store aircraft. Cannot be built on Hills.
+Historical Context
+An aerodrome is a place where, well, aeroplanes take off and land. Technically, according to the International Civil Aviation Organization, an “aerodrome” is “a defined area on land or water … intended to be used wholly or in part for the arrival, departure, and surface movement of aircraft.” The first such district to fit that description wholly was located in Viry-Châtillon, a suburb of Paris. In those early days of flight, any open, relatively flat, grassy field would serve...and did. Which meant, unlike the present, that planes could land and take-off in any direction, adjusting for the wind direction and weather conditions, requiring nothing more than a wind-sock or flag. Then someone had the clever idea of adding paved runways, and all that landing and taking-off got far more complicated.
+Traits
+Aircraft Capacity: 2
+Appeal to Adjacent Tiles: -1
+Requirements
+Technology
+Flight
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Airport
+Hangar
+Unlocks Units
+P-51 Mustang
+Biplane
+Bomber
+Fighter
+Jet Bomber
+Jet Fighter
+Description
+A district that allows you to build and store aircraft. Cannot be built on Hills.
+Historical Context
+An aerodrome is a place where, well, aeroplanes take off and land. Technically, according to the International Civil Aviation Organization, an “aerodrome” is “a defined area on land or water … intended to be used wholly or in part for the arrival, departure, and surface movement of aircraft.” The first such district to fit that description wholly was located in Viry-Châtillon, a suburb of Paris. In those early days of flight, any open, relatively flat, grassy field would serve...and did. Which meant, unlike the present, that planes could land and take-off in any direction, adjusting for the wind direction and weather conditions, requiring nothing more than a wind-sock or flag. Then someone had the clever idea of adding paved runways, and all that landing and taking-off got far more complicated.
+Traits
+Aircraft Capacity: 2
+Appeal to Adjacent Tiles: -1
+Requirements
+Technology
+Flight
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Airport
+Hangar
+Unlocks Units
+P-51 Mustang
+Biplane
+Bomber
+Fighter
+Jet Bomber
+Jet Fighter

@@ -1,0 +1,98 @@
+Thành - Districts - Civilopedia - Civilization VI
+Thành
+Description
+A district unique to Vietnam which replaces the Encampment. +2
+Culture for each adjacent district. After Flight is researched receive
+Tourism equal to the
+Culture output. This district does not require population, is cheaper to build, cannot be built adjacent to the city center, does not provide
+Great People points, and is not a specialty district.
+Historical Context
+The word “thành” refers to a citadel or fort, but classical Vietnamese architecture combined military protection with architectural artistry. The oldest thành in Vietnam is the Thành Cổ Loa, in a district of what is now Hà Nội. Local legend tells of how the king had angered a magical turtle by continually trying to build a thành on the turtle’s back. After becoming aware of this magical, talking, and very very angry turtle, the king agreed to relocate the site for the thành. In thanks, the turtle gave the king a magical crossbow, some thousand times the strength of an ordinary one. While the crossbow has been lost to time, the citadel still stands, with its spiral outer walls and rectangular internal keep.
+Thành often had a rectangular internal keep surrounded by a moat. The citadel’s walls could be thick and durable, but, at least in the case of the stunning thành at Huế, the upper level was often beautifully painted and carved with dragons and other auspicious symbols of royalty.
+In central Hà Nội, the thành Thăng Long remains the city’s predominant symbol, with its squat central tower and thick walls. Built in 1010, this central fortress was so impressive that it was used as a base by groups as disparate as the royal family, the French military during the colonial period, the Japanese imperial army (as a prison), and the communist People’s Army of Vietnam. It was not just a military outpost, though, as it was decorated with carved stone dragons, elaborate palaces (now destroyed), and, now, serves as a museum.
+Traits
+Unique To
+Vietnam
+Replaces
+Encampment
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++2
+Culture from each adjacent district tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Military Academy
+Stable
+Description
+A district unique to Vietnam which replaces the Encampment. +2
+Culture for each adjacent district. After Flight is researched receive
+Tourism equal to the
+Culture output. This district does not require population, is cheaper to build, cannot be built adjacent to the city center, does not provide
+Great People points, and is not a specialty district.
+Historical Context
+The word “thành” refers to a citadel or fort, but classical Vietnamese architecture combined military protection with architectural artistry. The oldest thành in Vietnam is the Thành Cổ Loa, in a district of what is now Hà Nội. Local legend tells of how the king had angered a magical turtle by continually trying to build a thành on the turtle’s back. After becoming aware of this magical, talking, and very very angry turtle, the king agreed to relocate the site for the thành. In thanks, the turtle gave the king a magical crossbow, some thousand times the strength of an ordinary one. While the crossbow has been lost to time, the citadel still stands, with its spiral outer walls and rectangular internal keep.
+Thành often had a rectangular internal keep surrounded by a moat. The citadel’s walls could be thick and durable, but, at least in the case of the stunning thành at Huế, the upper level was often beautifully painted and carved with dragons and other auspicious symbols of royalty.
+In central Hà Nội, the thành Thăng Long remains the city’s predominant symbol, with its squat central tower and thick walls. Built in 1010, this central fortress was so impressive that it was used as a base by groups as disparate as the royal family, the French military during the colonial period, the Japanese imperial army (as a prison), and the communist People’s Army of Vietnam. It was not just a military outpost, though, as it was decorated with carved stone dragons, elaborate palaces (now destroyed), and, now, serves as a museum.
+Traits
+Unique To
+Vietnam
+Replaces
+Encampment
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++2
+Culture from each adjacent district tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Military Academy
+Stable

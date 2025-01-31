@@ -1,0 +1,48 @@
+Rainforest - Terrains and Features - Civilopedia - Civilization VI
+Rainforest
+Historical Context
+Rainforests are places of extreme biodiversity, making them difficult to pass, but treasure troves of scientific and medical knowledge.  Rainforests in Asia, Africa, and South America have provided all sorts of wealth and food, and now expensive pharmaceuticals to modern civilization.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
++1
+Food
+Valid Resources
+Aluminum
+Amber
+Antiquity Site
+Bananas
+Cocoa
+Coffee
+Diamonds
+Dyes
+Ivory
+Spices
+Tobacco
+Truffles
+Uranium
+Historical Context
+Rainforests are places of extreme biodiversity, making them difficult to pass, but treasure troves of scientific and medical knowledge.  Rainforests in Asia, Africa, and South America have provided all sorts of wealth and food, and now expensive pharmaceuticals to modern civilization.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
++1
+Food
+Valid Resources
+Aluminum
+Amber
+Antiquity Site
+Bananas
+Cocoa
+Coffee
+Diamonds
+Dyes
+Ivory
+Spices
+Tobacco
+Truffles
+Uranium

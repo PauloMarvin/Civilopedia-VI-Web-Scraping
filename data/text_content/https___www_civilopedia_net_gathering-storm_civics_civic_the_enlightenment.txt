@@ -1,0 +1,54 @@
+The Enlightenment - Civics - Civilopedia - Civilization VI
+The Enlightenment
+Description
+Religious
+Tourism effects are halved versus your civilization.
+Historical Context
+The Enlightenment was a sprawling intellectual, philosophical, cultural, social movement marked by empiricism, scientific rationalism and reductionism displayed in the questioning of religious and political orthodoxy. It sprang from the thinking of several influential thinkers writing in different places on different subjects – politics, science, religion, aesthetics – and spread across Europe, the several currents mixing and mutating. In short, it was a tidal wave of rationalism … and swept civilization into a new channel.
+The power of reason was first explored by the philosophers of ancient Greece, thinkers such as Plato, Aristotle, Zeno, Socrates, and Thales of Miletus. The Romans adopted and adapted Greek thinking to include their thinking on a rational natural order and natural laws, but most of this was rejected by the Church in the following centuries, until Thomas Aquinas resurrected reason as a tool of understanding … although he subordinated it to spiritual revelation of the revealed truths of the Church. Soon a rediscovery of the ancient classics, humanism, experimental science, the Renaissance and the Protestant Reformation brought about a new way of thinking. Thinkers such as Bacon, Galileo and Copernicus challenged Church dogma about the ways the universe works; the likes of Voltaire, Diderot, Rousseau, Hume and Smith offered new thoughts on the human condition.
+Some historians date the Enlightenment from 1715 (the year Louis XIV died) to 1789 AD (the beginning of the French Revolution), for it was during this period that great thinkers circulated their thinking through meetings at scientific academies and societies, literary salons, Masonic lodges, and especially through printed books and pamphlets. Especially virulent were the concepts of rational politics, as thinkers such as John Locke and Thomas Hobbes and Thomas Paine espoused individual rights, the social contract and representative government. This was appalling thinking to the monarchs and the church. And such thinking led to various revolutions, the Napoleonic wars, the Industrial Revolution, and everything since.
+“New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.”
+– John Locke
+“Whatever is contrary to nature is contrary to reason, and whatsoever is contrary to reason is absurd.”
+– Baruch Spinoza
+Unlocks
+Requirements
+Renaissance Era
+Required Civics
+Humanism
+Diplomatic Service
+Culture Cost
+Base Cost: 720
+Culture
+Boosts
+Earn 3 Great People.
+Progression
+Leads to Civics
+Nationalism
+Opera and Ballet
+Description
+Religious
+Tourism effects are halved versus your civilization.
+Historical Context
+The Enlightenment was a sprawling intellectual, philosophical, cultural, social movement marked by empiricism, scientific rationalism and reductionism displayed in the questioning of religious and political orthodoxy. It sprang from the thinking of several influential thinkers writing in different places on different subjects – politics, science, religion, aesthetics – and spread across Europe, the several currents mixing and mutating. In short, it was a tidal wave of rationalism … and swept civilization into a new channel.
+The power of reason was first explored by the philosophers of ancient Greece, thinkers such as Plato, Aristotle, Zeno, Socrates, and Thales of Miletus. The Romans adopted and adapted Greek thinking to include their thinking on a rational natural order and natural laws, but most of this was rejected by the Church in the following centuries, until Thomas Aquinas resurrected reason as a tool of understanding … although he subordinated it to spiritual revelation of the revealed truths of the Church. Soon a rediscovery of the ancient classics, humanism, experimental science, the Renaissance and the Protestant Reformation brought about a new way of thinking. Thinkers such as Bacon, Galileo and Copernicus challenged Church dogma about the ways the universe works; the likes of Voltaire, Diderot, Rousseau, Hume and Smith offered new thoughts on the human condition.
+Some historians date the Enlightenment from 1715 (the year Louis XIV died) to 1789 AD (the beginning of the French Revolution), for it was during this period that great thinkers circulated their thinking through meetings at scientific academies and societies, literary salons, Masonic lodges, and especially through printed books and pamphlets. Especially virulent were the concepts of rational politics, as thinkers such as John Locke and Thomas Hobbes and Thomas Paine espoused individual rights, the social contract and representative government. This was appalling thinking to the monarchs and the church. And such thinking led to various revolutions, the Napoleonic wars, the Industrial Revolution, and everything since.
+“New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.”
+– John Locke
+“Whatever is contrary to nature is contrary to reason, and whatsoever is contrary to reason is absurd.”
+– Baruch Spinoza
+Unlocks
+Requirements
+Renaissance Era
+Required Civics
+Humanism
+Diplomatic Service
+Culture Cost
+Base Cost: 720
+Culture
+Boosts
+Earn 3 Great People.
+Progression
+Leads to Civics
+Nationalism
+Opera and Ballet

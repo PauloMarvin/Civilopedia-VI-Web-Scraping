@@ -1,0 +1,76 @@
+Jong - Units - Civilopedia - Civilization VI
+Jong
+Description
+Indonesian unique Medieval era naval unit that replaces the Frigate. Formation units all inherit escort's
+Movement speed and +5
+Combat Strength when in a formation.
+Historical Context
+If you wish to dominate the high seas, confront the enemy with overwhelming force. This was the philosophy behind the massive jong ships, the schooner of the Majapahit. This vessel allowed the Empire to control Javanese waters through a combination of size and strength.
+The Majapahit sailing vessels differentiated themselves from Chinese junks with the addition of a second rudder, which made the 600 ton jong fast yet easy to control. This wasn't the only extra maneuverability option for the jong; if the winds were low, a row of oarsmen could move the schooner beyond the range of enemy fire or around seaborne obstacles.
+While primarily used as merchant ships, jongs also served as military transports. All of that weight wasn't just for show: the addition of four-layer wooden masts offered protection against incoming cannon fire, and a jong under attack could return the favor with its own opposing ordnance.
+Traits
+Unique To
+Indonesia
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Promotion Class: Naval Ranged
+5
+Movement Points
+45
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercenaries
+Production Cost
+Base Cost: 300
+Production
+Purchase Cost
+Base Cost: 1200
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Indonesian unique Medieval era naval unit that replaces the Frigate. Formation units all inherit escort's
+Movement speed and +5
+Combat Strength when in a formation.
+Historical Context
+If you wish to dominate the high seas, confront the enemy with overwhelming force. This was the philosophy behind the massive jong ships, the schooner of the Majapahit. This vessel allowed the Empire to control Javanese waters through a combination of size and strength.
+The Majapahit sailing vessels differentiated themselves from Chinese junks with the addition of a second rudder, which made the 600 ton jong fast yet easy to control. This wasn't the only extra maneuverability option for the jong; if the winds were low, a row of oarsmen could move the schooner beyond the range of enemy fire or around seaborne obstacles.
+While primarily used as merchant ships, jongs also served as military transports. All of that weight wasn't just for show: the addition of four-layer wooden masts offered protection against incoming cannon fire, and a jong under attack could return the favor with its own opposing ordnance.
+Traits
+Unique To
+Indonesia
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Promotion Class: Naval Ranged
+5
+Movement Points
+45
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercenaries
+Production Cost
+Base Cost: 300
+Production
+Purchase Cost
+Base Cost: 1200
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

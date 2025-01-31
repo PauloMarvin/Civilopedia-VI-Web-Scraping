@@ -1,0 +1,68 @@
+Fishing Boats - Improvements and Routes - Civilopedia - Civilization VI
+Fishing Boats
+Description
+Unlocks the Builder ability to construct Fishing Boats.
++1
+Food. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+“Behold, I am going to send for many fishermen,” declared the Lord, “and they will fish for them.” (Jeremiah 16:16) And so it has been since men first cast hooks and nets into the waters, whether from the sea shore or the river bank. Eventually, those fisher folk built boats to pursue the fish into deeper waters. A number of civilizations – from the Polynesians of the Pacific to the Norse along the North Sea – depended upon fishing for food, oil, raw materials, and trade goods. Even where agriculture was viable, fishing boats supplied essentials unavailable by any other means. From small dinghies to large commercial vessels, fishing boats operate out of every port; as of 2004 AD, there were some four million registered fishing boats. Trawlers, seiners, longliners and whalers have prowled the seas for centuries. And some folk even think of fishing as a sport...
+Traits
++1
+Food
++0.5
+Housing
++2
+Gold (requires Cartography)
++1
+Food (requires Plastics)
++1
+Production (requires Colonialism)
+Adjacency Bonus
++1
+Production from each adjacent Seastead tile.
+Requirements
+Technology
+Sailing
+Crabs
+Fish
+Pearls
+Whales
+Amber
+Turtles
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Fishing Boats.
++1
+Food. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+“Behold, I am going to send for many fishermen,” declared the Lord, “and they will fish for them.” (Jeremiah 16:16) And so it has been since men first cast hooks and nets into the waters, whether from the sea shore or the river bank. Eventually, those fisher folk built boats to pursue the fish into deeper waters. A number of civilizations – from the Polynesians of the Pacific to the Norse along the North Sea – depended upon fishing for food, oil, raw materials, and trade goods. Even where agriculture was viable, fishing boats supplied essentials unavailable by any other means. From small dinghies to large commercial vessels, fishing boats operate out of every port; as of 2004 AD, there were some four million registered fishing boats. Trawlers, seiners, longliners and whalers have prowled the seas for centuries. And some folk even think of fishing as a sport...
+Traits
++1
+Food
++0.5
+Housing
++2
+Gold (requires Cartography)
++1
+Food (requires Plastics)
++1
+Production (requires Colonialism)
+Adjacency Bonus
++1
+Production from each adjacent Seastead tile.
+Requirements
+Technology
+Sailing
+Crabs
+Fish
+Pearls
+Whales
+Amber
+Turtles
+Usage
+Built By
+Builder

@@ -1,0 +1,96 @@
+Harbor - Districts - Civilopedia - Civilization VI
+Harbor
+Description
+A district for naval activity in your city. Also removes the
+Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land. Cannot be built on Reef.
+Historical Context
+Safe haven, shelter from storms, place to rest and refit, harbor. As soon as men went sailing, the need for harbors became evident. Early civilizations sought out natural harbors, and history has been often defined by where these maritime settlements sat. In time, breakwaters, jetties, seawalls, lighthouses, and drydocks were added, and the seabed was dredged if necessary to keep the harbor open. The harbors were the centers of trade and naval war, the launch point for exploration and end point for immigration. As technology developed, “artificial” harbors could now be built to handle modern merchant ships – such as Long Beach Harbor, created from salt marshes and tidal flats – using concrete, steel, dredge barges, and pumping stations.
+Traits
+Replaced By
+Royal Navy Dockyard
+Cothon
++1
+Great Admiral point per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard
+Description
+A district for naval activity in your city. Also removes the
+Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land. Cannot be built on Reef.
+Historical Context
+Safe haven, shelter from storms, place to rest and refit, harbor. As soon as men went sailing, the need for harbors became evident. Early civilizations sought out natural harbors, and history has been often defined by where these maritime settlements sat. In time, breakwaters, jetties, seawalls, lighthouses, and drydocks were added, and the seabed was dredged if necessary to keep the harbor open. The harbors were the centers of trade and naval war, the launch point for exploration and end point for immigration. As technology developed, “artificial” harbors could now be built to handle modern merchant ships – such as Long Beach Harbor, created from salt marshes and tidal flats – using concrete, steel, dredge barges, and pumping stations.
+Traits
+Replaced By
+Royal Navy Dockyard
+Cothon
++1
+Great Admiral point per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard

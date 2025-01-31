@@ -1,0 +1,58 @@
+Big Ben - Wonders and Projects - Civilopedia - Civilization VI
+Big Ben
+Description
++1 Economic policy slot
+Immediately after construction
+Gold in treasury is increased by 50%. Must be built next to a River adjacent to a Commercial Hub district with a Bank.
+Historical Context
+The giant bell, Big Ben, is housed in the Elizabethan Tower – so named to celebrate the Diamond Jubilee of Queen Elizabeth II (being just the “Clock Tower” before that) – at the north end of the Palace of Westminster, where sits the Houses of Parliament. Being rather casual in language, most Brits and flocks of tourists tend to refer to the whole thing as “Big Ben.” The great 16-ton bell was cast in August 1856 at the foundry at Stockton-on-Tees and recast at the Whitechapel Bell Foundry in April 1858 after it cracked while being transported to London. The pendulum clockwork was designed by the Astronomer Royal and crafted by the clockmaker Edward Dent and his stepson Frederick; it was ready in 1854. So fine is the precision, that adding or removing a penny (English, of course) to the pendulum will change the speed by four-tenths of a second each day. But all had to await the completion of the clock tower itself, which wasn’t done until 1859. Despite being silenced during wartime and the occasional breakdown, Big Ben has chimed the hour ever since.
+“Don’t watch the big clock; do what it does. Keep going.”
+– Sam Levenson
+Traits
+Removed if game started after
+Atomic Era
++6
+Gold
++3
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Economics
+Building
+Bank
+Adjacency
+Commercial Hub
+Must be adjacent to a river
+Production Cost
+Base Cost: 1450
+Production
+Description
++1 Economic policy slot
+Immediately after construction
+Gold in treasury is increased by 50%. Must be built next to a River adjacent to a Commercial Hub district with a Bank.
+Historical Context
+The giant bell, Big Ben, is housed in the Elizabethan Tower – so named to celebrate the Diamond Jubilee of Queen Elizabeth II (being just the “Clock Tower” before that) – at the north end of the Palace of Westminster, where sits the Houses of Parliament. Being rather casual in language, most Brits and flocks of tourists tend to refer to the whole thing as “Big Ben.” The great 16-ton bell was cast in August 1856 at the foundry at Stockton-on-Tees and recast at the Whitechapel Bell Foundry in April 1858 after it cracked while being transported to London. The pendulum clockwork was designed by the Astronomer Royal and crafted by the clockmaker Edward Dent and his stepson Frederick; it was ready in 1854. So fine is the precision, that adding or removing a penny (English, of course) to the pendulum will change the speed by four-tenths of a second each day. But all had to await the completion of the clock tower itself, which wasn’t done until 1859. Despite being silenced during wartime and the occasional breakdown, Big Ben has chimed the hour ever since.
+“Don’t watch the big clock; do what it does. Keep going.”
+– Sam Levenson
+Traits
+Removed if game started after
+Atomic Era
++6
+Gold
++3
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Economics
+Building
+Bank
+Adjacency
+Commercial Hub
+Must be adjacent to a river
+Production Cost
+Base Cost: 1450
+Production

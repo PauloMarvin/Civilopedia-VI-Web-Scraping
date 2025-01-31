@@ -1,0 +1,58 @@
+Forbidden City - Wonders and Projects - Civilopedia - Civilization VI
+Forbidden City
+Description
++1 Wildcard policy slot
+Must be built on flat land adjacent to the City Center.
+Historical Context
+Lying in the center of Beijing, a visit to Gu Gong (the Imperial Palace of China) was forbidden to the common folk without special dispensation from the emperor himself; hence the complex became known across the land as the “Forbidden City” (much like most presidential residences these days). Construction of the walled “city” – liberally sprinkled with ornamental gardens, graceful terraces, restful fountains and lots of utilitarian administrative offices – began in 1408 AD under the guidance of the Yonglu Emperor, third of the Ming dynasty. The complex grew over the centuries, serving as home to 24 emperors of the Ming and Qing. It grew until it encompassed 9,999 rooms spread over 178 square acres, surrounded by a 170-foot wide moat and 32-foot high walls (just to make sure none of those commoners entered unchecked). At its peak, the Forbidden City was home to ten thousand people, all to serve the needs of one emperor. Now only a few hundred inhabit the sumptuous grounds, to serve as guides and janitors.
+“The whole palace complex is built along a central axis, the axis of the world, everything in the four directions suspend from this central point represented by these palaces.”
+– Jeffrey Riegel
+Traits
+Removed if game started after
+Modern Era
++5
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Printing
+Adjacency
+City Center
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 920
+Production
+Description
++1 Wildcard policy slot
+Must be built on flat land adjacent to the City Center.
+Historical Context
+Lying in the center of Beijing, a visit to Gu Gong (the Imperial Palace of China) was forbidden to the common folk without special dispensation from the emperor himself; hence the complex became known across the land as the “Forbidden City” (much like most presidential residences these days). Construction of the walled “city” – liberally sprinkled with ornamental gardens, graceful terraces, restful fountains and lots of utilitarian administrative offices – began in 1408 AD under the guidance of the Yonglu Emperor, third of the Ming dynasty. The complex grew over the centuries, serving as home to 24 emperors of the Ming and Qing. It grew until it encompassed 9,999 rooms spread over 178 square acres, surrounded by a 170-foot wide moat and 32-foot high walls (just to make sure none of those commoners entered unchecked). At its peak, the Forbidden City was home to ten thousand people, all to serve the needs of one emperor. Now only a few hundred inhabit the sumptuous grounds, to serve as guides and janitors.
+“The whole palace complex is built along a central axis, the axis of the world, everything in the four directions suspend from this central point represented by these palaces.”
+– Jeffrey Riegel
+Traits
+Removed if game started after
+Modern Era
++5
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Printing
+Adjacency
+City Center
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 920
+Production

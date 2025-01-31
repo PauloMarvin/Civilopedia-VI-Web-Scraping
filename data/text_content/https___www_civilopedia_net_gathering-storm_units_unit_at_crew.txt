@@ -1,0 +1,56 @@
+AT Crew - Units - Civilopedia - Civilization VI
+AT Crew
+Description
+Modern era counter to cavalry class units.
+Historical Context
+Although the first appearance of tanks on the battlefield was hardly auspicious, by the end of WW1 it had become obvious that something needed to be done to keep them from grinding one’s infantry underfoot. By the opening of WW2, most countries’ arsenals included some small-caliber (none larger than 50mm) artillery pieces designed to punch through the armor plating of armored vehicles, causing havoc within for the crew, engine, and/or ammunition. But with the advances in tank design and tactics, Germany and then Britain created increasingly larger anti-tank guns, manned by a crew of stalwarts … for, since they had to be in the open to operate the gun, the crewmen were vulnerable to just about everything flying about the field. By the end of the war, the Germans relied on their famed 88mm gun, the Americans had 105s, and the Russians were using 122mm howitzers firing over open sights.
+Traits
+Upgrades To
+Modern AT
+Upgrade From
+Pike and Shot
+Carolean
+Promotion Class: Anti Cavalry
+2
+Movement Points
+75
+Melee Strength
+Requirements
+Technology
+Chemistry
+Production Cost
+Base Cost: 400
+Production
+Purchase Cost
+Base Cost: 1600
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Modern era counter to cavalry class units.
+Historical Context
+Although the first appearance of tanks on the battlefield was hardly auspicious, by the end of WW1 it had become obvious that something needed to be done to keep them from grinding one’s infantry underfoot. By the opening of WW2, most countries’ arsenals included some small-caliber (none larger than 50mm) artillery pieces designed to punch through the armor plating of armored vehicles, causing havoc within for the crew, engine, and/or ammunition. But with the advances in tank design and tactics, Germany and then Britain created increasingly larger anti-tank guns, manned by a crew of stalwarts … for, since they had to be in the open to operate the gun, the crewmen were vulnerable to just about everything flying about the field. By the end of the war, the Germans relied on their famed 88mm gun, the Americans had 105s, and the Russians were using 122mm howitzers firing over open sights.
+Traits
+Upgrades To
+Modern AT
+Upgrade From
+Pike and Shot
+Carolean
+Promotion Class: Anti Cavalry
+2
+Movement Points
+75
+Melee Strength
+Requirements
+Technology
+Chemistry
+Production Cost
+Base Cost: 400
+Production
+Purchase Cost
+Base Cost: 1600
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

@@ -1,0 +1,54 @@
+Gaesatae - Units - Civilopedia - Civilization VI
+Gaesatae
+Description
+Gallic unique Ancient era unit that replaces the Warrior. This unit has increased cost and receives +10
+Combat Strength when fighting units with a higher base Combat Strength. +5
+Combat Strength vs. district defenses.
+Historical Context
+The Gaesatae were Celtic warriors from the Alps. In the early days of the Roman Republic, Rome was expanding northward, taking formerly Gallic land and giving it to poorer Roman families. Worried about this expansion, a group of tribes from Cisalpine Gaul – the northern part of Italy – banded together and hired the Gaesatae to defend them. Armed with spears and javelins, the Gaesatae (according to Greek historian Polybius) fought naked, with nothing but their weapons. Polybius writes that the Gallic army made a “dreadful din, for there were innumerable horn-blowers and trumpeters, and, as the whole army were shouting their war-cries at the same time, there was such a tumult of sound that it seemed that not only the trumpets and the soldiers but all the country round had got a voice and caught up the cry. Very terrifying too were the appearance and the gestures of the naked warriors in front, all in the prime of life, and finely built men.” The strange Gallic costume (or lack of costume) may have been because of their sheer confidence in battle or may have just been a practical measure to keep from getting caught in the brambles. Regardless of why they fought nude, the Gauls won the first few battles, but a better-prepared Rome won the war. Perhaps armor was a good idea after all.
+Traits
+Unique To
+Gaul
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Promotion Class: Melee
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Description
+Gallic unique Ancient era unit that replaces the Warrior. This unit has increased cost and receives +10
+Combat Strength when fighting units with a higher base Combat Strength. +5
+Combat Strength vs. district defenses.
+Historical Context
+The Gaesatae were Celtic warriors from the Alps. In the early days of the Roman Republic, Rome was expanding northward, taking formerly Gallic land and giving it to poorer Roman families. Worried about this expansion, a group of tribes from Cisalpine Gaul – the northern part of Italy – banded together and hired the Gaesatae to defend them. Armed with spears and javelins, the Gaesatae (according to Greek historian Polybius) fought naked, with nothing but their weapons. Polybius writes that the Gallic army made a “dreadful din, for there were innumerable horn-blowers and trumpeters, and, as the whole army were shouting their war-cries at the same time, there was such a tumult of sound that it seemed that not only the trumpets and the soldiers but all the country round had got a voice and caught up the cry. Very terrifying too were the appearance and the gestures of the naked warriors in front, all in the prime of life, and finely built men.” The strange Gallic costume (or lack of costume) may have been because of their sheer confidence in battle or may have just been a practical measure to keep from getting caught in the brambles. Regardless of why they fought nude, the Gauls won the first few battles, but a better-prepared Rome won the war. Perhaps armor was a good idea after all.
+Traits
+Unique To
+Gaul
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Promotion Class: Melee
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold

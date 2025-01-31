@@ -1,0 +1,50 @@
+Niter - Resources - Civilopedia - Civilization VI
+Niter
+Historical Context
+Better known as saltpeter, niter is the mineral form of potassium nitrate. Although known for millennia, it didn’t become important until the Chinese figured out it could be combined with sulfur to make gunpowder in the mid-1st Century AD. And gunpowder is really good for making fireworks and blowing things up. Niter is also useful as a fertilizer and food preservative, but few people remember that.
+Traits
+Strategic
++1
+Food
++1
+Production
+Produces +2
+Niter per turn when improved.
+Requirements
+Unlocked By
+Military Engineering
+Placement
+Desert
+Grassland
+Grassland Floodplains
+Plains
+Plains Floodplains
+Tundra
+Usage
+Improved By
+Mine
+Projects
+Historical Context
+Better known as saltpeter, niter is the mineral form of potassium nitrate. Although known for millennia, it didn’t become important until the Chinese figured out it could be combined with sulfur to make gunpowder in the mid-1st Century AD. And gunpowder is really good for making fireworks and blowing things up. Niter is also useful as a fertilizer and food preservative, but few people remember that.
+Traits
+Strategic
++1
+Food
++1
+Production
+Produces +2
+Niter per turn when improved.
+Requirements
+Unlocked By
+Military Engineering
+Placement
+Desert
+Grassland
+Grassland Floodplains
+Plains
+Plains Floodplains
+Tundra
+Usage
+Improved By
+Mine
+Projects

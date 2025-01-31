@@ -1,0 +1,18 @@
+Literary Tradition - Governments and Policies - Civilopedia - Civilization VI
+Literary Tradition
+Description
++2
+Great Writer points per turn.
+Historical Context
+Every linguistic group has developed a literary tradition; in part, it is what distinguishes one civilization from another – the passing down of stories which give meaning to human experience. Early literary traditions were oral (such as the tales of Homer), but once writing progressed beyond daubing pictographs on walls, the various literary forms were immortalized, and no longer had to be memorized to be passed on. In ancient China, its oral poetry was collected in works such as the Shijing and Songs of Chu. And the Western literary traditions were largely set by the early Greek and Roman authors, and by the Bible.
+Requirements
+Civic
+Drama and Poetry
+Description
++2
+Great Writer points per turn.
+Historical Context
+Every linguistic group has developed a literary tradition; in part, it is what distinguishes one civilization from another – the passing down of stories which give meaning to human experience. Early literary traditions were oral (such as the tales of Homer), but once writing progressed beyond daubing pictographs on walls, the various literary forms were immortalized, and no longer had to be memorized to be passed on. In ancient China, its oral poetry was collected in works such as the Shijing and Songs of Chu. And the Western literary traditions were largely set by the early Greek and Roman authors, and by the Bible.
+Requirements
+Civic
+Drama and Poetry

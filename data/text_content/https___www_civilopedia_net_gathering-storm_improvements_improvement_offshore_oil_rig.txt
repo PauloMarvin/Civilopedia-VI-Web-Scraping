@@ -1,0 +1,44 @@
+Offshore Oil Rig - Improvements and Routes - Civilopedia - Civilization VI
+Offshore Oil Rig
+Description
+Unlocks the Builder ability to construct an Offshore Oil Rig.
+-1 Appeal. Can only be built on Coast or Lake tiles with
+Oil.
+Historical Context
+At one time, long ago, an offshore platform was used by primitives for fishing, harvesting kelp, or gathering shells. But once civilization discovered all the uses for oil, offshore platforms became massive constructs anchored in deep waters to squeeze out the oil below the seabed. The first underwater oil drilling was on platforms on pilings in the fresh water Ohio lake St. Mary’s in 1891 AD. The first true offshore rig went up in 1896 at the Summerland field off the California coast near Santa Barbara. Soon enough, offshore platforms were sprouting off the Texas and Louisiana coastline in the 1910s, in the Caspian Sea near Azerbaijan in the 1920s, the Persian Gulf, the North Sea, the Campos and Santos basins off Brazil, and every place else the oil companies set their sights on. Submarine pipelines finally solved the problem of getting the oil ashore cheaply. Although oil rigs are expensive, and occasionally one sinks or leaks, the profits outweigh the costs … at least in the short term.
+Traits
++2
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Plastics
+Oil
+Coast and Lake
+Ocean
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Offshore Oil Rig.
+-1 Appeal. Can only be built on Coast or Lake tiles with
+Oil.
+Historical Context
+At one time, long ago, an offshore platform was used by primitives for fishing, harvesting kelp, or gathering shells. But once civilization discovered all the uses for oil, offshore platforms became massive constructs anchored in deep waters to squeeze out the oil below the seabed. The first underwater oil drilling was on platforms on pilings in the fresh water Ohio lake St. Mary’s in 1891 AD. The first true offshore rig went up in 1896 at the Summerland field off the California coast near Santa Barbara. Soon enough, offshore platforms were sprouting off the Texas and Louisiana coastline in the 1910s, in the Caspian Sea near Azerbaijan in the 1920s, the Persian Gulf, the North Sea, the Campos and Santos basins off Brazil, and every place else the oil companies set their sights on. Submarine pipelines finally solved the problem of getting the oil ashore cheaply. Although oil rigs are expensive, and occasionally one sinks or leaks, the profits outweigh the costs … at least in the short term.
+Traits
++2
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Plastics
+Oil
+Coast and Lake
+Ocean
+Usage
+Built By
+Builder

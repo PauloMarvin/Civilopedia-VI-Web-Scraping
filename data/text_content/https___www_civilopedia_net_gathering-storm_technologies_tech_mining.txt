@@ -1,0 +1,46 @@
+Mining - Technologies - Civilopedia - Civilization VI
+Mining
+Description
+Allows chopping of Woods, and harvesting of
+Copper.
+Historical Context
+If it can’t be found laying about, dig it up. That’s the basic premise behind mining, one of civilization’s earliest and most pragmatic technologies. The Neolithics mined flint in England and France about 4000 BC; the ancient Egyptians mined malachite at Maadi between 2600 and 2500 BC, using the hard stone for ornamentation and pottery. These were generally open pit mines, or shallow shafts (less than 100 feet deep) such as the Athenian silver mines at Laurium, where over 20 thousand slaves labored.
+It was Roman engineers who developed large and efficient mining methods; among their other advances in the technology, building aqueducts to bring water to the mine site, where it was used to remove debris (a sort of early hydraulic mining) and separate ore from crushed rock. Romans also developed the process of thermal cracking to shatter rock, building fires against the rock face and heating the stone until it shattered when a stream of water was directed onto it. Their mining methods spread around the world, as men dug for copper, iron, gems, gold, silver, and just about every other mineral and crystal.
+In Asia and the Americas, mining tech remained fairly primitive until the Europeans arrived to begin carting off the wealth of those lands. During the late Middle Ages, as the rich veins easily reached were exhausted, deep mining evolved, using hand tools to drive shafts further down and shoring the walls and ceilings up with timber. Then the great silver crisis of 1465 AD came when the mines reached such depths that groundwater filled the shafts. It took a hundred years for that obstacle to be overcome, and in the meantime gunpowder blasting replaced the picks and shovels (mostly). Then came the Industrial Revolution, with its thirst for coal, and mining became mechanized and ever more rapacious.
+"Who deserves more credit than the wife of a coal miner?”
+– Merle Travis
+"When you find yourself in a hole, quit digging."
+- Will Rogers
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Masonry
+Bronze Working
+Wheel
+Description
+Allows chopping of Woods, and harvesting of
+Copper.
+Historical Context
+If it can’t be found laying about, dig it up. That’s the basic premise behind mining, one of civilization’s earliest and most pragmatic technologies. The Neolithics mined flint in England and France about 4000 BC; the ancient Egyptians mined malachite at Maadi between 2600 and 2500 BC, using the hard stone for ornamentation and pottery. These were generally open pit mines, or shallow shafts (less than 100 feet deep) such as the Athenian silver mines at Laurium, where over 20 thousand slaves labored.
+It was Roman engineers who developed large and efficient mining methods; among their other advances in the technology, building aqueducts to bring water to the mine site, where it was used to remove debris (a sort of early hydraulic mining) and separate ore from crushed rock. Romans also developed the process of thermal cracking to shatter rock, building fires against the rock face and heating the stone until it shattered when a stream of water was directed onto it. Their mining methods spread around the world, as men dug for copper, iron, gems, gold, silver, and just about every other mineral and crystal.
+In Asia and the Americas, mining tech remained fairly primitive until the Europeans arrived to begin carting off the wealth of those lands. During the late Middle Ages, as the rich veins easily reached were exhausted, deep mining evolved, using hand tools to drive shafts further down and shoring the walls and ceilings up with timber. Then the great silver crisis of 1465 AD came when the mines reached such depths that groundwater filled the shafts. It took a hundred years for that obstacle to be overcome, and in the meantime gunpowder blasting replaced the picks and shovels (mostly). Then came the Industrial Revolution, with its thirst for coal, and mining became mechanized and ever more rapacious.
+"Who deserves more credit than the wife of a coal miner?”
+– Merle Travis
+"When you find yourself in a hole, quit digging."
+- Will Rogers
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Masonry
+Bronze Working
+Wheel

@@ -1,0 +1,142 @@
+Builder - Units - Civilopedia - Civilization VI
+Builder
+Description
+May create tile improvements, remove features like Woods or Rainforest, or Harvest some resources. Builders can be used 3 times. This can be increased through policies or wonders like the Pyramids.
+Historical Context
+Every era has had the men and women who lay the foundations … the farms, fences, mines, roads, bridges, ditches, and all the rest that add up to “civilization.” Whether slaves, wage-slaves, contractors, or actually working for themselves, these “builders” spread out into the wilderness and tame it, making it productive and profitable. Then they keep it all running and in repair. No civilization can survive without these men and women (and children, at least until the early 20th century). While technology and machinery has certainly helped, the work of all this building and maintaining the infrastructure of a nation is still demanding, dirty, and dangerous; in 2013 AD, there were 828 fatalities in the construction industry in the United States, and 46 in the United Kingdom.
+Traits
+2
+Movement Points
+3
+Build Charges
+Requirements
+Production Cost
+Base Cost: 50
+Production
+Purchase Cost
+Base Cost: 200
+Gold
+Usage
+Can Construct
+Farm
+Mine
+Quarry
+Fishing Boats
+Pasture
+Plantation
+Camp
+Lumber Mill
+Oil Well
+Offshore Oil Rig
+Seaside Resort
+Château
+Colossal Head
+Great Wall
+Kurgan
+Mission
+Sphinx
+Stepwell
+Ziggurat
+Kampung
+Alcázar
+Monastery
+Nubian Pyramid
+Pairidaeza
+Outback Station
+Chemamull
+Golf Course
+Mekewap
+Polder
+Fishery
+City Park
+Geothermal Plant
+Seastead
+Solar Farm
+Offshore Wind Farm
+Wind Farm
+Nazca Line
+Cahokia Mounds
+Moai
+Ski Resort
+Open-Air Museum
+Ice Hockey Rink
+Terrace Farm
+Qhapaq Ñan
+Batey
+Hacienda
+Industry
+Rock-Hewn Church
+Mahavihara
+Trading Dome
+Barricade
+Trap
+Description
+May create tile improvements, remove features like Woods or Rainforest, or Harvest some resources. Builders can be used 3 times. This can be increased through policies or wonders like the Pyramids.
+Historical Context
+Every era has had the men and women who lay the foundations … the farms, fences, mines, roads, bridges, ditches, and all the rest that add up to “civilization.” Whether slaves, wage-slaves, contractors, or actually working for themselves, these “builders” spread out into the wilderness and tame it, making it productive and profitable. Then they keep it all running and in repair. No civilization can survive without these men and women (and children, at least until the early 20th century). While technology and machinery has certainly helped, the work of all this building and maintaining the infrastructure of a nation is still demanding, dirty, and dangerous; in 2013 AD, there were 828 fatalities in the construction industry in the United States, and 46 in the United Kingdom.
+Traits
+2
+Movement Points
+3
+Build Charges
+Requirements
+Production Cost
+Base Cost: 50
+Production
+Purchase Cost
+Base Cost: 200
+Gold
+Usage
+Can Construct
+Farm
+Mine
+Quarry
+Fishing Boats
+Pasture
+Plantation
+Camp
+Lumber Mill
+Oil Well
+Offshore Oil Rig
+Seaside Resort
+Château
+Colossal Head
+Great Wall
+Kurgan
+Mission
+Sphinx
+Stepwell
+Ziggurat
+Kampung
+Alcázar
+Monastery
+Nubian Pyramid
+Pairidaeza
+Outback Station
+Chemamull
+Golf Course
+Mekewap
+Polder
+Fishery
+City Park
+Geothermal Plant
+Seastead
+Solar Farm
+Offshore Wind Farm
+Wind Farm
+Nazca Line
+Cahokia Mounds
+Moai
+Ski Resort
+Open-Air Museum
+Ice Hockey Rink
+Terrace Farm
+Qhapaq Ñan
+Batey
+Hacienda
+Industry
+Rock-Hewn Church
+Mahavihara
+Trading Dome
+Barricade
+Trap

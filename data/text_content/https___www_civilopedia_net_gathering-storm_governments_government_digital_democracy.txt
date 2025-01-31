@@ -1,0 +1,52 @@
+Digital Democracy - Governments and Policies - Civilopedia - Civilization VI
+Digital Democracy
+Description
+Inherent effect
++2
+Amenities in all cities, and +2
+Culture per Specialty District.
+Inherent effect
+-3
+Combat Strength for all units.
+Historical Context
+The great advantage of direct participatory democracy is that every citizen is allowed a say in the matters of state, with their own voice. But even the most ardent fans of direct democracy must admit it scales very poorly. Since Athenians have been shouting themselves hoarse in the Agora, political philosophers have looked for more efficient, scalable democracies.
+Advances in technology, most especially the rise of the Internet and the connected world, have given hope that the scaling problem of democracy can be resolved in the future. In a digital democracy, specific questions would be formulated as referenda, and frequently put forth for public discussion and comment and voting. Citizens could read the arguments, proffer their own, and vote on the matter, using readily-available technologies like smartphones.
+Many Internet communities already include metrics of participation: Voting on popular topics, “liking” comments, rebroadcasting, and so forth. These provide a rough estimation of the social capital of the participants. Some political philosophers believe these sorts of systems could be extended to political questions. This would ostensibly allow for a greater level of grassroots participation, since a good idea could come from anyone in the community. Another feature is that policies would have broad popular support, which is a desirable feature if you believe that government derives its power from the consent of the governed.
+Early strong proponents of the digital democracy were confident that it could avoid demagoguery or obstreperous, malicious actions by a minority of participants. There is some reason to be skeptical of this claim. Whether or not the digital democracy of the future will deliver the promised participatory utopia or be forever distracted by cat pictures and flame wars remains an open question.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+1 Economic  Slot
+3 Diplomatic  Slots
+5 Wildcard  Slots
+Requirements
+Civic
+Distributed Sovereignty
+Description
+Inherent effect
++2
+Amenities in all cities, and +2
+Culture per Specialty District.
+Inherent effect
+-3
+Combat Strength for all units.
+Historical Context
+The great advantage of direct participatory democracy is that every citizen is allowed a say in the matters of state, with their own voice. But even the most ardent fans of direct democracy must admit it scales very poorly. Since Athenians have been shouting themselves hoarse in the Agora, political philosophers have looked for more efficient, scalable democracies.
+Advances in technology, most especially the rise of the Internet and the connected world, have given hope that the scaling problem of democracy can be resolved in the future. In a digital democracy, specific questions would be formulated as referenda, and frequently put forth for public discussion and comment and voting. Citizens could read the arguments, proffer their own, and vote on the matter, using readily-available technologies like smartphones.
+Many Internet communities already include metrics of participation: Voting on popular topics, “liking” comments, rebroadcasting, and so forth. These provide a rough estimation of the social capital of the participants. Some political philosophers believe these sorts of systems could be extended to political questions. This would ostensibly allow for a greater level of grassroots participation, since a good idea could come from anyone in the community. Another feature is that policies would have broad popular support, which is a desirable feature if you believe that government derives its power from the consent of the governed.
+Early strong proponents of the digital democracy were confident that it could avoid demagoguery or obstreperous, malicious actions by a minority of participants. There is some reason to be skeptical of this claim. Whether or not the digital democracy of the future will deliver the promised participatory utopia or be forever distracted by cat pictures and flame wars remains an open question.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+1 Economic  Slot
+3 Diplomatic  Slots
+5 Wildcard  Slots
+Requirements
+Civic
+Distributed Sovereignty

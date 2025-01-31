@@ -1,0 +1,92 @@
+Nuclear Power Plant - Buildings - Civilopedia - Civilization VI
+Nuclear Power Plant
+Description
+Automatically converts any amount of
+Uranium into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Uranium
+16
+Power
+Miniscule CO2 into the atmosphere
+Once built, as a Nuclear Power Plant ages, there is an increased chance for a Nuclear Accident to occur. Its
+Production and
+Science bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Historical Context
+The sole purpose of a power plant (or power station, generating plant, or power house) – be it hydro, nuclear, solar, fossil fuel-fired, tidal or other – is to feed the voracious appetite for electricity that civilization has developed over the past 160 years. Whatever the form, the principle is the same: convert one type of energy into another so that humans can enjoy their comforts. The first power plant was designed and built by Baron William Armstrong in 1868 AD (when scientists were still playing around with electricity in labs) in Cragside; water from a lake was used to turn the dynamos, and the resulting electricity powered lights, heating, hot water heaters, an elevator, and other odd devices in his properties nearby. In January 1882 the first public power plant came online in London, and in September the Pearl Street Station began operations in New York City supplying electricity to lower Manhattan. Although the Pearl Street Station burned down in 1890, it was too late – people were hooked on electric lights, and now over 7300 power plants operate in the United States alone.
+Traits
++4
+Production
++3
+Science
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Nuclear Fission
+Building
+Factory
+Mutually Exclusive With
+Coal Power Plant
+Oil Power Plant
+Production Cost
+Base Cost: 480
+Production
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Automatically converts any amount of
+Uranium into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Uranium
+16
+Power
+Miniscule CO2 into the atmosphere
+Once built, as a Nuclear Power Plant ages, there is an increased chance for a Nuclear Accident to occur. Its
+Production and
+Science bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Historical Context
+The sole purpose of a power plant (or power station, generating plant, or power house) – be it hydro, nuclear, solar, fossil fuel-fired, tidal or other – is to feed the voracious appetite for electricity that civilization has developed over the past 160 years. Whatever the form, the principle is the same: convert one type of energy into another so that humans can enjoy their comforts. The first power plant was designed and built by Baron William Armstrong in 1868 AD (when scientists were still playing around with electricity in labs) in Cragside; water from a lake was used to turn the dynamos, and the resulting electricity powered lights, heating, hot water heaters, an elevator, and other odd devices in his properties nearby. In January 1882 the first public power plant came online in London, and in September the Pearl Street Station began operations in New York City supplying electricity to lower Manhattan. Although the Pearl Street Station burned down in 1890, it was too late – people were hooked on electric lights, and now over 7300 power plants operate in the United States alone.
+Traits
++4
+Production
++3
+Science
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Nuclear Fission
+Building
+Factory
+Mutually Exclusive With
+Coal Power Plant
+Oil Power Plant
+Production Cost
+Base Cost: 480
+Production
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

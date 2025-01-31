@@ -1,0 +1,38 @@
+Suffrage - Civics - Civilopedia - Civilization VI
+Suffrage
+Historical Context
+Suffrage – the odd notion that everyone in a democracy deserves to vote. Before the first of a series of reforms in 1832 AD in the United Kingdom, only 3% of the adult male population was “qualified” to vote. In general, both in the Americas and in Europe, the right to vote depended on how much one earned and the value of his property. Thus, the majority of people who could vote were both wealthy and male. Throughout the early 1800s idealists fought to extend the franchise to women, the un-wealthy, immigrants, and various minorities with some concessions won (such as the 1870 15th Amendment in the United States). But, largely, voting was still a white, middle-class, male privilege.
+While the history of universal suffrage is a hodge-podge of reform movements and civil protests and editorial diatribes, the most visible (and noisy) were women’s efforts in the United States and Great Britain to get to vote. Although full female enfranchisement was still decades away in most places, there had been some brief instances of women having the vote: in Sweden-Finland 1718 to 1772, Corsica 1755 through 1769, and even in New Jersey in 1776 (it was rescinded in 1807).
+In the United States, the campaign for women’s suffrage began in earnest in 1848 when a group of abolitionists, mostly women, gathered in Seneca Falls to discuss women’s rights in a democracy. The outcome, a significant – and sometimes violent – effort to gain the vote. Meanwhile in the United Kingdom, following the flawed 1832 Reform Act, suffrage became a political topic, leading to the formation of the National Society for Women’s Suffrage in 1867 and the even more militant Women’s Social and Political Union in 1903. Although the process was delayed by the distraction of the First World War, in 1920 in the United States and in 1928 in the United Kingdom women were finally given full voting rights … well after New Zealand (1893) and Finland (1906).
+“Why is a woman to be treated differently? Woman suffrage will succeed, despite this miserable guerrilla opposition.”
+– Victoria Woodhull
+“Men, their rights, and nothing more; women, their rights, and nothing less.”
+– Susan B. Anthony
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 1640
+Culture
+Boosts
+Build 4 Sewers.
+Historical Context
+Suffrage – the odd notion that everyone in a democracy deserves to vote. Before the first of a series of reforms in 1832 AD in the United Kingdom, only 3% of the adult male population was “qualified” to vote. In general, both in the Americas and in Europe, the right to vote depended on how much one earned and the value of his property. Thus, the majority of people who could vote were both wealthy and male. Throughout the early 1800s idealists fought to extend the franchise to women, the un-wealthy, immigrants, and various minorities with some concessions won (such as the 1870 15th Amendment in the United States). But, largely, voting was still a white, middle-class, male privilege.
+While the history of universal suffrage is a hodge-podge of reform movements and civil protests and editorial diatribes, the most visible (and noisy) were women’s efforts in the United States and Great Britain to get to vote. Although full female enfranchisement was still decades away in most places, there had been some brief instances of women having the vote: in Sweden-Finland 1718 to 1772, Corsica 1755 through 1769, and even in New Jersey in 1776 (it was rescinded in 1807).
+In the United States, the campaign for women’s suffrage began in earnest in 1848 when a group of abolitionists, mostly women, gathered in Seneca Falls to discuss women’s rights in a democracy. The outcome, a significant – and sometimes violent – effort to gain the vote. Meanwhile in the United Kingdom, following the flawed 1832 Reform Act, suffrage became a political topic, leading to the formation of the National Society for Women’s Suffrage in 1867 and the even more militant Women’s Social and Political Union in 1903. Although the process was delayed by the distraction of the First World War, in 1920 in the United States and in 1928 in the United Kingdom women were finally given full voting rights … well after New Zealand (1893) and Finland (1906).
+“Why is a woman to be treated differently? Woman suffrage will succeed, despite this miserable guerrilla opposition.”
+– Victoria Woodhull
+“Men, their rights, and nothing more; women, their rights, and nothing less.”
+– Susan B. Anthony
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 1640
+Culture
+Boosts
+Build 4 Sewers.

@@ -1,0 +1,56 @@
+Communism - Governments and Policies - Civilopedia - Civilization VI
+Communism
+Description
+Inherent effect
++0.6
+Production per
+Citizen in cities with
+Governors.
+Inherent effect
++10%
+Science.
+Historical Context
+In theory more of an economic system, rather than a system of government, communist theory rests on the tension between work and value in society. In Karl Marx’s writings, Marx presents a problem: work creates value, but workers ("the proletariat") are paid the minimum wages required to keep them fed and keep them around. All profit goes to those who own the factory (or farm, or company stock, or, for Marx, the "means of production"). For many in the late-19th and early 20th-century, this sounded like theft - the fruits of their labor were being stolen by factory owners ("the bourgeoisie") who did no work themselves. And thus, the idea of communism was born - the "dictatorship of the proletariat", meaning the rule by those who worked, and the free access by workers to the fruits of their own labor. This was not anything like an autocratic "dictatorship:" ideally, "the proletariat" would eventually mean everyone, where workers "gave according to ability and received according to need" and participated democratically in government (though functioning democratic rule in major communist states is hard to find in history). In practice, Communist states struggled with how to implement such a vision. While Marx's model used industrial production as its base - what should agricultural societies do? Communism saw religion as a hoax used to keep the lower classes in their place, but should be done with those workers who felt a deep attachment to their beliefs? Communism saw the struggle as one that transcended national boundaries and ethnicities, but what about people who couldn't accept international unity? In answer to these questions, Marx's ideology became fractured and fragmented. The Soviet Union embraced an idea that a select group - the Communist Party - should lead the charge in implementing these changes (creating the "Marxist-Leninist" tradition, as we see now in places like Vietnam), and, later, Joseph Stalin re-introduced nationalism and an idea of a charismatic leader to a previously anti-nationalist ideology. And as the Soviets progressed, they found themselves having more and more to suppress dissenting voices with harsher and harsher tactics. Elsewhere, Mao suggested that agricultural peasants - not industrial workers - should be at the heart of a movement. Building upon Stalin's legacy, other leaders in places such as North Korea built totalitarian societies that could be indistinguishable from the fascist ideologies that they purported to oppose.
+Communism became an attractive option for many nations emerging from European colonialism. Whereas capitalist nations promised the "Third World" that membership in an international community dominated by Western companies, communists offered self-reliance and resistance to that order, albiet at the cost of bringing national politics in line with the USSR. But nationalism was important, too, in such emerging bodies politic - it was national sentiment that led to the overthrow of colonial regimes. So the Cold War was born: capitalist versus communist international orders that tore apart any nation that sought to go a middle way, and often fostered authoritarian regimes that bore little resemblance to their democratic ideals - the worst horror carried out under the name of communism might be the Khmer Rouge, a Maoist Cambodian regime that sought to reset society to a utopian level, and ended up carrying out a genocide until (also communist) Vietnamese forces intervened and ended the slaughter. Communist parties still exist, often as minor political parties, in many countries, and many nominally Communist states have embraced some form of capitalism (China and Vietnam, most notably). At least on paper, currently-existing communist states include Cuba, China, Vietnam, and Laos, with North Korea's "Juche" blend of communism and totalitarianism often also included.
+Traits
+3
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+3 Military  Slots
+3 Economic  Slots
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Class Struggle
+Exclusive Policies
+Collectivization
+Defense of the Motherland
+Description
+Inherent effect
++0.6
+Production per
+Citizen in cities with
+Governors.
+Inherent effect
++10%
+Science.
+Historical Context
+In theory more of an economic system, rather than a system of government, communist theory rests on the tension between work and value in society. In Karl Marx’s writings, Marx presents a problem: work creates value, but workers ("the proletariat") are paid the minimum wages required to keep them fed and keep them around. All profit goes to those who own the factory (or farm, or company stock, or, for Marx, the "means of production"). For many in the late-19th and early 20th-century, this sounded like theft - the fruits of their labor were being stolen by factory owners ("the bourgeoisie") who did no work themselves. And thus, the idea of communism was born - the "dictatorship of the proletariat", meaning the rule by those who worked, and the free access by workers to the fruits of their own labor. This was not anything like an autocratic "dictatorship:" ideally, "the proletariat" would eventually mean everyone, where workers "gave according to ability and received according to need" and participated democratically in government (though functioning democratic rule in major communist states is hard to find in history). In practice, Communist states struggled with how to implement such a vision. While Marx's model used industrial production as its base - what should agricultural societies do? Communism saw religion as a hoax used to keep the lower classes in their place, but should be done with those workers who felt a deep attachment to their beliefs? Communism saw the struggle as one that transcended national boundaries and ethnicities, but what about people who couldn't accept international unity? In answer to these questions, Marx's ideology became fractured and fragmented. The Soviet Union embraced an idea that a select group - the Communist Party - should lead the charge in implementing these changes (creating the "Marxist-Leninist" tradition, as we see now in places like Vietnam), and, later, Joseph Stalin re-introduced nationalism and an idea of a charismatic leader to a previously anti-nationalist ideology. And as the Soviets progressed, they found themselves having more and more to suppress dissenting voices with harsher and harsher tactics. Elsewhere, Mao suggested that agricultural peasants - not industrial workers - should be at the heart of a movement. Building upon Stalin's legacy, other leaders in places such as North Korea built totalitarian societies that could be indistinguishable from the fascist ideologies that they purported to oppose.
+Communism became an attractive option for many nations emerging from European colonialism. Whereas capitalist nations promised the "Third World" that membership in an international community dominated by Western companies, communists offered self-reliance and resistance to that order, albiet at the cost of bringing national politics in line with the USSR. But nationalism was important, too, in such emerging bodies politic - it was national sentiment that led to the overthrow of colonial regimes. So the Cold War was born: capitalist versus communist international orders that tore apart any nation that sought to go a middle way, and often fostered authoritarian regimes that bore little resemblance to their democratic ideals - the worst horror carried out under the name of communism might be the Khmer Rouge, a Maoist Cambodian regime that sought to reset society to a utopian level, and ended up carrying out a genocide until (also communist) Vietnamese forces intervened and ended the slaughter. Communist parties still exist, often as minor political parties, in many countries, and many nominally Communist states have embraced some form of capitalism (China and Vietnam, most notably). At least on paper, currently-existing communist states include Cuba, China, Vietnam, and Laos, with North Korea's "Juche" blend of communism and totalitarianism often also included.
+Traits
+3
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+3 Military  Slots
+3 Economic  Slots
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Class Struggle
+Exclusive Policies
+Collectivization
+Defense of the Motherland

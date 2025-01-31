@@ -1,0 +1,50 @@
+Rapid Deployment - Civics - Civilopedia - Civilization VI
+Rapid Deployment
+Description
+Allows for the transport of land units between Aerodrome districts that contain Airports.
+Historical Context
+Most First World nations now have military formations capable of quick deployment into the field at short notice; as opposed to “Quick Deployment Forces” (which are local in nature – such as the American National Guard), “Rapid Deployment Forces” (RDF) are meant for outside the borders of the home country. In general, these RDF consist of elite formations, such as the American 82nd Airborne Division, 75th U.S. Ranger Regiment, or British Royal Marines. All have the mission of having combat troops “wheels up” and battle-ready within 18 hours of notification, and all are trained in “forced entry” into enemy territory to seize and secure key places (such as airfields or beaches) for follow-up units.
+The history of rapid deployment forces is rich and varied, as with most elite military units. Marines are perhaps the oldest such formations, and trace their antecedents back to the naval landing shore parties of Peter the Great and the U.S. Marine Corps was originally established by the Continental Congress in 1775. The latter earned its “rapid” reputation during such battles as the First Barbary War, the Mexican-American War, the Boxer Rebellion, and during dozens of missions to protect American interests around the globe. In Europe, meanwhile, light infantry units such as grenz, chasseur, and jager (depending on national preferences) formations were established that could be quickly mobilized and transported to the border. In time, airborne and air mobile units were added to the mix.
+With the onset of the Cold War, both sides developed RDF orders-of-battle that incorporated units from several services. In Great Britain, the Joint Rapid Reaction Force consisted of a pool of specialized units from all three armed forces, capable of mounting operations under the auspices of NATO, the European Union or the United Nations. The United States created its own Rapid Deployment Joint Task Force in March 1980 with the specific mission to “help maintain regional stability and the Gulf oil-flow westward.” In Russia, the Collective Rapid Reaction Force formed in 2009 has largely supplanted the Soviet VDV (airborne) units used for such purposes.
+“A good plan violently executed right now is far better than a perfect plan executed next week.”
+- George S. Patton
+"Never mind the maneuvers, just go straight at them."
+- Horatio Nelson
+Unlocks
+Requirements
+Atomic Era
+Required Civics
+Cold War
+Culture Cost
+Base Cost: 2415
+Culture
+Boosts
+Build an Aerodrome or Airstrip on a foreign continent.
+Progression
+Leads to Civics
+Globalization
+Environmentalism
+Description
+Allows for the transport of land units between Aerodrome districts that contain Airports.
+Historical Context
+Most First World nations now have military formations capable of quick deployment into the field at short notice; as opposed to “Quick Deployment Forces” (which are local in nature – such as the American National Guard), “Rapid Deployment Forces” (RDF) are meant for outside the borders of the home country. In general, these RDF consist of elite formations, such as the American 82nd Airborne Division, 75th U.S. Ranger Regiment, or British Royal Marines. All have the mission of having combat troops “wheels up” and battle-ready within 18 hours of notification, and all are trained in “forced entry” into enemy territory to seize and secure key places (such as airfields or beaches) for follow-up units.
+The history of rapid deployment forces is rich and varied, as with most elite military units. Marines are perhaps the oldest such formations, and trace their antecedents back to the naval landing shore parties of Peter the Great and the U.S. Marine Corps was originally established by the Continental Congress in 1775. The latter earned its “rapid” reputation during such battles as the First Barbary War, the Mexican-American War, the Boxer Rebellion, and during dozens of missions to protect American interests around the globe. In Europe, meanwhile, light infantry units such as grenz, chasseur, and jager (depending on national preferences) formations were established that could be quickly mobilized and transported to the border. In time, airborne and air mobile units were added to the mix.
+With the onset of the Cold War, both sides developed RDF orders-of-battle that incorporated units from several services. In Great Britain, the Joint Rapid Reaction Force consisted of a pool of specialized units from all three armed forces, capable of mounting operations under the auspices of NATO, the European Union or the United Nations. The United States created its own Rapid Deployment Joint Task Force in March 1980 with the specific mission to “help maintain regional stability and the Gulf oil-flow westward.” In Russia, the Collective Rapid Reaction Force formed in 2009 has largely supplanted the Soviet VDV (airborne) units used for such purposes.
+“A good plan violently executed right now is far better than a perfect plan executed next week.”
+- George S. Patton
+"Never mind the maneuvers, just go straight at them."
+- Horatio Nelson
+Unlocks
+Requirements
+Atomic Era
+Required Civics
+Cold War
+Culture Cost
+Base Cost: 2415
+Culture
+Boosts
+Build an Aerodrome or Airstrip on a foreign continent.
+Progression
+Leads to Civics
+Globalization
+Environmentalism

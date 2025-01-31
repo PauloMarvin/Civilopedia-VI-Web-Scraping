@@ -1,0 +1,72 @@
+Biplane - Units - Civilopedia - Civilization VI
+Biplane
+Description
+First air combat unit, available in the Modern era.
+Historical Context
+Before WW1, the airplane was a clever curiosity for getting grown men excited. Airplanes were fragile, underpowered (gliding as much as flying), clumsy, limited in distance and payload, expensive, and generally biplanes, since two wings served better than one for maneuverability and lift in the face of all these limitations. By the end of WW1, the airplane was a dreaded machine of war, able to spot enemy movement at a distance and then rain destruction down upon it. The biplanes of the 1914-1918 conflict became ever-more specialized as the war progressed, from the nimble fighters to the dependable recon planes to the lumbering bombers soon flying over enemy cities dropping explosives on civilians. By the end of the war, however, the wood-and-fabric biplanes were disappearing, being replaced by metal covered, single-wing craft capable of better speed and faster climb. But by then, the exploits of heroic, gallant men in their brightly-painted biplanes had already entered the psyche of war.
+Traits
+Upgrades To
+Fighter
+P-51 Mustang
+Promotion Class: Air Fighter
+6
+Movement Points
+80
+Melee Strength
+75
+Ranged Strength
+4
+Range
+Requirements
+District
+Aerodrome
+Technology
+Flight
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn
+Description
+First air combat unit, available in the Modern era.
+Historical Context
+Before WW1, the airplane was a clever curiosity for getting grown men excited. Airplanes were fragile, underpowered (gliding as much as flying), clumsy, limited in distance and payload, expensive, and generally biplanes, since two wings served better than one for maneuverability and lift in the face of all these limitations. By the end of WW1, the airplane was a dreaded machine of war, able to spot enemy movement at a distance and then rain destruction down upon it. The biplanes of the 1914-1918 conflict became ever-more specialized as the war progressed, from the nimble fighters to the dependable recon planes to the lumbering bombers soon flying over enemy cities dropping explosives on civilians. By the end of the war, however, the wood-and-fabric biplanes were disappearing, being replaced by metal covered, single-wing craft capable of better speed and faster climb. But by then, the exploits of heroic, gallant men in their brightly-painted biplanes had already entered the psyche of war.
+Traits
+Upgrades To
+Fighter
+P-51 Mustang
+Promotion Class: Air Fighter
+6
+Movement Points
+80
+Melee Strength
+75
+Ranged Strength
+4
+Range
+Requirements
+District
+Aerodrome
+Technology
+Flight
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn

@@ -1,0 +1,46 @@
+Cartography - Technologies - Civilopedia - Civilization VI
+Cartography
+Description
++2
+Gold from the Fishing Boat improvement. All naval and embarked units can navigate Ocean tiles.
+Historical Context
+There is a fair amount of scholarly debate about how long the “science” of making maps has been around, since there’s a fair amount of debate about what constitutes a map. The oldest “map” to have been discovered is a depiction of what may be local terrain features about Catal Huyuk in Anatolia, dated to the 7th millennium BC. But the first ink splatters that are definitely a map is the “House of the Admiral” wall painting dating to the Minoan civilization c. 1600 BC. Around the 4th Century BC, the Greeks and the Romans were making somewhat more portable maps. And Ptolemy produced his famous treatise on cartography, 'Geographia,' in the 2nd Century AD.
+In ancient China, maps have been found dating back to the Qin dynasty, while cartography in ancient India seems to have been limited mostly to star charts of more use to priests than to travelers. During the Dark Ages, most Europeans barely knew what was around the next bend in the river, much less over the horizon. But the Arabs were producing marvelous atlases such as Muhammed al-Idrisi’s Tabula Rogeriana in 1154 showing what was known of Africa, the Middle East, the Mediterranean, the Indian Ocean and even the Far East. His work remained the most accurate and far-reaching map collection for three centuries.
+Until the Age of Exploration kicked off in the 1400s, Portuguese, Spanish, English, Dutch and French explorers and adventurers brought back crude sketches of coastlines and islands, and European cartographers started making innovative maps for those looking to plunder distant shores. In 1492 the German Martin Behaim made the first known globe of the earth; in 1527 the Portuguese map-maker Diego Ribero made one with an equator. And where they didn’t know what was there, these artists filled the empty spaces with sea monsters, mermaids, and all sorts of mythical and mythological creatures. So, if not as accurate, at least the maps were a lot more entertaining than those staid computer-generated ones created from satellite imaging, remote sensing and aerial photography these days.
+“Not all who wander are lost.”
+– J.R.R. Tolkien
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Buttress
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build 2 Harbors.
+Progression
+Leads to Technologies
+Square Rigging
+Description
++2
+Gold from the Fishing Boat improvement. All naval and embarked units can navigate Ocean tiles.
+Historical Context
+There is a fair amount of scholarly debate about how long the “science” of making maps has been around, since there’s a fair amount of debate about what constitutes a map. The oldest “map” to have been discovered is a depiction of what may be local terrain features about Catal Huyuk in Anatolia, dated to the 7th millennium BC. But the first ink splatters that are definitely a map is the “House of the Admiral” wall painting dating to the Minoan civilization c. 1600 BC. Around the 4th Century BC, the Greeks and the Romans were making somewhat more portable maps. And Ptolemy produced his famous treatise on cartography, 'Geographia,' in the 2nd Century AD.
+In ancient China, maps have been found dating back to the Qin dynasty, while cartography in ancient India seems to have been limited mostly to star charts of more use to priests than to travelers. During the Dark Ages, most Europeans barely knew what was around the next bend in the river, much less over the horizon. But the Arabs were producing marvelous atlases such as Muhammed al-Idrisi’s Tabula Rogeriana in 1154 showing what was known of Africa, the Middle East, the Mediterranean, the Indian Ocean and even the Far East. His work remained the most accurate and far-reaching map collection for three centuries.
+Until the Age of Exploration kicked off in the 1400s, Portuguese, Spanish, English, Dutch and French explorers and adventurers brought back crude sketches of coastlines and islands, and European cartographers started making innovative maps for those looking to plunder distant shores. In 1492 the German Martin Behaim made the first known globe of the earth; in 1527 the Portuguese map-maker Diego Ribero made one with an equator. And where they didn’t know what was there, these artists filled the empty spaces with sea monsters, mermaids, and all sorts of mythical and mythological creatures. So, if not as accurate, at least the maps were a lot more entertaining than those staid computer-generated ones created from satellite imaging, remote sensing and aerial photography these days.
+“Not all who wander are lost.”
+– J.R.R. Tolkien
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Buttress
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build 2 Harbors.
+Progression
+Leads to Technologies
+Square Rigging

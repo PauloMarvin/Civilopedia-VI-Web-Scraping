@@ -1,0 +1,54 @@
+Mobile SAM - Units - Civilopedia - Civilization VI
+Mobile SAM
+Description
+Information era anti-air support unit. Provides cover from air and nuclear attacks up to 1 hex away from the weapon.
+Historical Context
+Like all the neat weapon systems, the Germans were first with the idea for a surface-to-air missile; in 1941 AD Friederich Halder proposed a “flak rocket” to counter Allied bombers, but scientific infighting delayed any serious work until 1943, and although several prototype systems were developed none were ready for deployment by the end of World War II. Meanwhile, the U.S. Navy, spurred by the success of Nazi glide bombs and the Japanese kamikaze assaults, produced the SAM-N-2 Lark, a ramjet-powered antiaircraft missile for use at long distances … it too was operationally unused when the war ended. While the Allies puttered along with SAM designs, the Soviets created the S-75 Dvina, the first successful (it knocked down a Taiwanese bomber over China in October 1959) one. The Vietnam War was the first modern war in which SAMs figured prominently, leading to the “man-portable antiaircraft missile” (MANPADS), by the 1990s pervasive in guerrilla and terrorist operations around the globe.
+Traits
+Upgrade From
+Anti-Air Gun
+Promotion Class: Support
+3
+Movement Points
+100
+Anti-air Strength
+1
+Range
+Requirements
+Technology
+Guidance Systems
+Production Cost
+Base Cost: 590
+Production
+Purchase Cost
+Base Cost: 2360
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Information era anti-air support unit. Provides cover from air and nuclear attacks up to 1 hex away from the weapon.
+Historical Context
+Like all the neat weapon systems, the Germans were first with the idea for a surface-to-air missile; in 1941 AD Friederich Halder proposed a “flak rocket” to counter Allied bombers, but scientific infighting delayed any serious work until 1943, and although several prototype systems were developed none were ready for deployment by the end of World War II. Meanwhile, the U.S. Navy, spurred by the success of Nazi glide bombs and the Japanese kamikaze assaults, produced the SAM-N-2 Lark, a ramjet-powered antiaircraft missile for use at long distances … it too was operationally unused when the war ended. While the Allies puttered along with SAM designs, the Soviets created the S-75 Dvina, the first successful (it knocked down a Taiwanese bomber over China in October 1959) one. The Vietnam War was the first modern war in which SAMs figured prominently, leading to the “man-portable antiaircraft missile” (MANPADS), by the 1990s pervasive in guerrilla and terrorist operations around the globe.
+Traits
+Upgrade From
+Anti-Air Gun
+Promotion Class: Support
+3
+Movement Points
+100
+Anti-air Strength
+1
+Range
+Requirements
+Technology
+Guidance Systems
+Production Cost
+Base Cost: 590
+Production
+Purchase Cost
+Base Cost: 2360
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

@@ -1,0 +1,44 @@
+Pottery - Technologies - Civilopedia - Civilization VI
+Pottery
+Description
+Allows harvesting of Bonus resources improved by Farms.
+Historical Context
+“The art or craft of the potter, the skill of creating ceramic items” – in other words, making things out of mud. With pottery, objects (sometimes useful) are shaped out of clay and then placed in an oven and subjected to high temperatures. The resulting product is extremely brittle but is also airtight and more-or-less impervious to corrosion, oxidation, infestation, and other decay. The earliest pottery objects found include jugs and containers to hold liquid or grain. And some really ugly statuettes.
+The earliest known ceramics are the Gravettian culture figurines (little, faceless representations of fat women) that date back to between 29 and 25 thousand BC. These were shaped by hand, and fired in a pit. Somewhere around 12000 years ago, clever folk figured out that clay – often mixed with sand, grit, crushed shells, or bone – could be used to make more useful items: pots, cups, plates, bowls, storage jars, and so forth. In Japan, during the Jōmon period, potters began putting glaze on their earthenware pots. During this time several types of pottery were developed – earthenware, stoneware, and porcelain.
+Until the potter’s wheel was invented in Mesopotamia sometime during the Ubaid period (6000-4000 BC), pots had to be shaped by hand … a laborious process. Harnessing the wheel speeded pottery making. Until the Etruscans made use of molds to “mass produce” pots and other items in the 6th Century BC, a process “acquired” by the Romans when they swept away their bothersome neighbors. In China, meanwhile, the process of slip casting – another way to mass produce ceramic vessels – evolved during the T’ang dynasty.
+Then all these lovely ceramics got replaced by plastic…
+“No man ever wetted clay and then left it, as if there would be bricks by chance and fortune.”
+- Plutarch
+“I thought clay must feel happy in the good potter’s hand.”
+– Janet Fitch
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Writing
+Irrigation
+Description
+Allows harvesting of Bonus resources improved by Farms.
+Historical Context
+“The art or craft of the potter, the skill of creating ceramic items” – in other words, making things out of mud. With pottery, objects (sometimes useful) are shaped out of clay and then placed in an oven and subjected to high temperatures. The resulting product is extremely brittle but is also airtight and more-or-less impervious to corrosion, oxidation, infestation, and other decay. The earliest pottery objects found include jugs and containers to hold liquid or grain. And some really ugly statuettes.
+The earliest known ceramics are the Gravettian culture figurines (little, faceless representations of fat women) that date back to between 29 and 25 thousand BC. These were shaped by hand, and fired in a pit. Somewhere around 12000 years ago, clever folk figured out that clay – often mixed with sand, grit, crushed shells, or bone – could be used to make more useful items: pots, cups, plates, bowls, storage jars, and so forth. In Japan, during the Jōmon period, potters began putting glaze on their earthenware pots. During this time several types of pottery were developed – earthenware, stoneware, and porcelain.
+Until the potter’s wheel was invented in Mesopotamia sometime during the Ubaid period (6000-4000 BC), pots had to be shaped by hand … a laborious process. Harnessing the wheel speeded pottery making. Until the Etruscans made use of molds to “mass produce” pots and other items in the 6th Century BC, a process “acquired” by the Romans when they swept away their bothersome neighbors. In China, meanwhile, the process of slip casting – another way to mass produce ceramic vessels – evolved during the T’ang dynasty.
+Then all these lovely ceramics got replaced by plastic…
+“No man ever wetted clay and then left it, as if there would be bricks by chance and fortune.”
+- Plutarch
+“I thought clay must feel happy in the good potter’s hand.”
+– Janet Fitch
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Writing
+Irrigation

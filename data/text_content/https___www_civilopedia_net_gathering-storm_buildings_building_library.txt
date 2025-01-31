@@ -1,0 +1,48 @@
+Library - Buildings - Civilopedia - Civilization VI
+Library
+Historical Context
+Once literacy fastened on civilization, it was inevitable that reading materials (books, periodicals, maps, newspapers, scrolls, tablets, documents of all sorts) should be gathered in one place – a library. The first libraries, those of Sumer dating back to approximately 2600 BC, were archives of clay tablets covered in cuneiform script. Over 30 thousand clay tablets have been unearthed in the Library of Ashurbanipal in Nineveh, including the Epic of Gilgamesh. The Library of Alexandria was the greatest and most significant library in the classical world, but it was burned – a fate most great libraries suffer, it seems. While Europe plunged into a Dark Age, libraries flourished under the Muslim Arabs, whose development of papermaking helped considerably in their acquisition of texts from the known world. Although many of these historical libraries were open to all, the foundation of free, public libraries came with the British Public Libraries Act of 1850, a boon to the literate (about 76% in 1870) no matter their low birth.
+Traits
++2
+Science
++1
+Citizen slot
++1
+Great Scientist point per turn.
+Requirements
+District
+Campus
+Technology
+Writing
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Historical Context
+Once literacy fastened on civilization, it was inevitable that reading materials (books, periodicals, maps, newspapers, scrolls, tablets, documents of all sorts) should be gathered in one place – a library. The first libraries, those of Sumer dating back to approximately 2600 BC, were archives of clay tablets covered in cuneiform script. Over 30 thousand clay tablets have been unearthed in the Library of Ashurbanipal in Nineveh, including the Epic of Gilgamesh. The Library of Alexandria was the greatest and most significant library in the classical world, but it was burned – a fate most great libraries suffer, it seems. While Europe plunged into a Dark Age, libraries flourished under the Muslim Arabs, whose development of papermaking helped considerably in their acquisition of texts from the known world. Although many of these historical libraries were open to all, the foundation of free, public libraries came with the British Public Libraries Act of 1850, a boon to the literate (about 76% in 1870) no matter their low birth.
+Traits
++2
+Science
++1
+Citizen slot
++1
+Great Scientist point per turn.
+Requirements
+District
+Campus
+Technology
+Writing
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

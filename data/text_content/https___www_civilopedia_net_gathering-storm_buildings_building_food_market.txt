@@ -1,0 +1,62 @@
+Food Market - Buildings - Civilopedia - Civilization VI
+Food Market
+Description
+Can only be built once in a city, even if the city has multiple Neighborhoods.
+Historical Context
+Far from the fluorescent-lit commercial food production hubs of today, early open air markets were a place for farmers to offload excess crops and livestock. Customers, in turn, would be able to inspect food for (relative) cleanliness.
+Food markets would become a necessary feature of cities which moved further from areas of food production—part commerce, part civic endeavor to keep the population fed. Some markets were constructed alongside the cities in which they were founded; for instance, merchants have been selling cheese and meat at the Suq Bab al-Lūq in Cairo since 969 CE.
+Traits
++4
+Food
++2
+Food additionally when
+Powered
+Requirements
+District
+Neighborhood
+Technology
+Replaceable Parts
+Mutually Exclusive With
+Shopping Mall
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Power Cost
+Base Load: 1
+Power
+Description
+Can only be built once in a city, even if the city has multiple Neighborhoods.
+Historical Context
+Far from the fluorescent-lit commercial food production hubs of today, early open air markets were a place for farmers to offload excess crops and livestock. Customers, in turn, would be able to inspect food for (relative) cleanliness.
+Food markets would become a necessary feature of cities which moved further from areas of food production—part commerce, part civic endeavor to keep the population fed. Some markets were constructed alongside the cities in which they were founded; for instance, merchants have been selling cheese and meat at the Suq Bab al-Lūq in Cairo since 969 CE.
+Traits
++4
+Food
++2
+Food additionally when
+Powered
+Requirements
+District
+Neighborhood
+Technology
+Replaceable Parts
+Mutually Exclusive With
+Shopping Mall
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Power Cost
+Base Load: 1
+Power

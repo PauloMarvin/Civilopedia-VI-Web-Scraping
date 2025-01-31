@@ -1,0 +1,54 @@
+Intelligence Agency - Buildings - Civilopedia - Civilization VI
+Intelligence Agency
+Description
++1 Spy and Spy capacity.
+All Spy Operations have a higher chance of success.
+Awards +1
+Governor Title.
+Historical Context
+There are many matters of state which need to be dealt with discreetly. There are matters whose practical solutions run at odds with the intended public image of the state and its leadership. Because of this, rulers have tended to rely on a small set of professionals who possess the discretion and stomach for the secret matters of state.
+There are numerous and famous examples throughout history. Tales of spies are found in the Old Testament. Treatises on best practices for spying, deception, and misdirection were written in classical India and China. The Art of War by Sun Tzu  possesses an entire chapter titled "Intelligence and Espionage," and the Arthashastra has one on spying, counterintelligence, and information warfare. King David IV of Georgia had mstovaris who kept him informed of various plots throughout his domain.
+But the modern intelligence service can be traced to the work done by Francis Walsingham, the redoubtable spymaster and loyal servant of Queen Elizabeth I. To him and his staff we can trace methodical practices of coding and codebreaking, the overseeing of field agents, and reading other people's mail. We can neither confirm nor deny that he had an entire team who made clever gadgets for their spies, like laser pens and sports cars with ejector seats.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Foreign Ministry
+Grand Master's Chapel
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++1 Spy and Spy capacity.
+All Spy Operations have a higher chance of success.
+Awards +1
+Governor Title.
+Historical Context
+There are many matters of state which need to be dealt with discreetly. There are matters whose practical solutions run at odds with the intended public image of the state and its leadership. Because of this, rulers have tended to rely on a small set of professionals who possess the discretion and stomach for the secret matters of state.
+There are numerous and famous examples throughout history. Tales of spies are found in the Old Testament. Treatises on best practices for spying, deception, and misdirection were written in classical India and China. The Art of War by Sun Tzu  possesses an entire chapter titled "Intelligence and Espionage," and the Arthashastra has one on spying, counterintelligence, and information warfare. King David IV of Georgia had mstovaris who kept him informed of various plots throughout his domain.
+But the modern intelligence service can be traced to the work done by Francis Walsingham, the redoubtable spymaster and loyal servant of Queen Elizabeth I. To him and his staff we can trace methodical practices of coding and codebreaking, the overseeing of field agents, and reading other people's mail. We can neither confirm nor deny that he had an entire team who made clever gadgets for their spies, like laser pens and sports cars with ejector seats.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Foreign Ministry
+Grand Master's Chapel
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold

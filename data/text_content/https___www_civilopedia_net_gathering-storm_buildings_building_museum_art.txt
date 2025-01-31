@@ -1,0 +1,70 @@
+Art Museum - Buildings - Civilopedia - Civilization VI
+Art Museum
+Description
+Holds
+Great Works of Art. May not be built in a Theater Square district that already has an Archaeological Museum.
+Historical Context
+Art museums (or art galleries) are public spaces - paid for by the public, usually in the form of taxes – to house artwork meant to edify and uplift the masses. The art objects may take many forms: paintings, sketches, sculptures, ceramics, metalwork, prints, and now even video. Perhaps the first such effort at bringing high culture to the public took place in 1671 AD, the Amerbach-Cabinet in Basel (now the Kunstmuseum). But the whole idea of such collections for public edification really took off during the Renaissance, with the likes of the Capitoline, Vatican, and Uffizi galleries established. The 1700s saw another wave of iconic collections open: the Hermitage, the Prado, the Louvre, and the first American museum, the Charleston Museum, in 1773. The Louvre was established in 1793, soon after the French Revolution when the royal collection of art was declared the property of the people, beginning the trend of removing art from the grasp of the wealthy and putting it on tasteful display for the public to gawk at.
+Traits
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Artist points per turn.
++3
+Great Works of Art slots
+Requirements
+District
+Theater Square
+Civic
+Humanism
+Building
+Amphitheater
+Mutually Exclusive With
+Archaeological Museum
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Holds
+Great Works of Art. May not be built in a Theater Square district that already has an Archaeological Museum.
+Historical Context
+Art museums (or art galleries) are public spaces - paid for by the public, usually in the form of taxes – to house artwork meant to edify and uplift the masses. The art objects may take many forms: paintings, sketches, sculptures, ceramics, metalwork, prints, and now even video. Perhaps the first such effort at bringing high culture to the public took place in 1671 AD, the Amerbach-Cabinet in Basel (now the Kunstmuseum). But the whole idea of such collections for public edification really took off during the Renaissance, with the likes of the Capitoline, Vatican, and Uffizi galleries established. The 1700s saw another wave of iconic collections open: the Hermitage, the Prado, the Louvre, and the first American museum, the Charleston Museum, in 1773. The Louvre was established in 1793, soon after the French Revolution when the royal collection of art was declared the property of the people, beginning the trend of removing art from the grasp of the wealthy and putting it on tasteful display for the public to gawk at.
+Traits
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Artist points per turn.
++3
+Great Works of Art slots
+Requirements
+District
+Theater Square
+Civic
+Humanism
+Building
+Amphitheater
+Mutually Exclusive With
+Archaeological Museum
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

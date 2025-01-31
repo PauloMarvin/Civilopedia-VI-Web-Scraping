@@ -1,0 +1,66 @@
+Korea - Civilizations/Leaders - Civilopedia - Civilization VI
+Korea
+Unique Ability
+Three Kingdoms
+Mines receive +1
+Science for every adjacent Seowon district. Farms receive +1
+Food for every adjacent Seowon district.
+Historical Context
+The Korean peninsula’s fate has long been one of struggle. Myriad dynasties rise, fall, and rise again on a landmass roughly the size of Great Britain. The influence of foreign empires, both supportive and belligerent, provide a constant uncertainty looming over the horizon.
+The earliest known Korean state was Gojoseon, a prosperous kingdom rich with natural resources and bountiful agriculture. Gojoseon was founded by the (likely apocryphal) Dangun Wangeom in 2333 BCE. According to legend, Dangun was the child of the god Hwangung and a very tenacious she-bear who had persisted against all odds in a trial of hardship and survival. Gojoseon would eventually collapse into a collection of warring states in 108 BCE.
+The rise of a truly Korean identity began with the Three Kingdoms in 1st Century BCE. The largest was Goguryeo, to the mountainous north. Silla held the southeast lands bordering the east coast, while Baekje claimed the southwest lands bordering the Yellow Sea. There were other smaller states, such as Buyeo or Gaya, but the three kingdoms were the ones able to consolidate their power. By the 6th Century Silla had conquered many of the smaller states, Goguryeo developed a martial reputation (pressing its famed cavalry against its neighbors’ borders), while Baekje prioritized farming and good trade relationships with both China and Japan.
+Silla’s appetite for conquest eventually spread to its neighbors. Though the smallest kingdom, Silla’s shifting alliances helped them avoid the fate of a kingdom such as Gaya, playing Goguryeo and Baekje against one another. Ultimately, Queen Seondeok’s alliance with the Tang Dynasty of China (detailed elsewhere) sealed the fate of the Three Kingdoms. By the late 7th Century, Silla alone ruled the Korean peninsula, ceding northernmost lands to the Tang Dynasty. Although Confucianism spread under Silla’s rule, Buddhism truly flourished, with many temples and monasteries built during their reign.
+Unfortunately for Silla, their traditional “bone-rank system” was their downfall. Somewhat analogous to the concept of “royal blood,” bone-rank was a caste system determining a person’s societal rank based upon the status of their parents. Though a  person could not climb above their birth rank, they could find themselves demoted—a frustration that ultimately led to civil war and the kingdom’s decline.
+The emerging kingdom of Goryeo (the source of the name “Korea”) took advantage of Silla’s descent, ruling Korea from 818 CE until 1392 CE. Technology saw an exponential rise in Goryeo’s time. Metal movable-type printing existed in Korea almost 200 years before Guttenberg’s printing press, making printed texts accessible to the Korean populace. Despite Goryeo’s rapid advancements, there was constant political turmoil—and worse, the Mongolian Yuan Dynasty’s invasions in the 13th Century. Over the course of three decades, the Koreans endured six Mongolian invasions. The Goryeo dynasty eventually made peace, but in doing so became a client state to Mongol Yuan China.
+By the mid-14th Century, the Mongol Empire was in a state of disarray. Goryeo regained its independence, mostly, with the exception of northern territory held by remnants of the Yuan Dynasty. When word arrived in 1388 that the Chinese Ming Dynasty planned to take this land for itself, Goryeo General Choi Young ordered General Yi Seong-gye to conquer it preemptively, despite Yi’s objections. General Yi famously marched his army to Wihwa Island, then promptly turned back to overthrow General Choi and the king.
+Yi Seong-gye renamed himself Taejo, declared himself king, and created the Joseon Dynasty in 1392. Korea’s political fortunes waxed and waned over the centuries, but its scholarly advances continued unabated (such as “Hangul,” a Korean phonetic alphabet, and improvements upon movable type). Confucianism succeeded Buddhism, the Manchu threat succeeded the Jurchen threat, and Silhak (“Practical Learning”) educational reforms succeeded the increasingly esoteric pedagogy of Neo-Confucians.
+Despite periods of unrest, internal power struggles, and foreign invasion, Korea maintained a state of relative stability until the late 19th Century, when Japan invaded Korean territory to fight wars with China and Russia. Japan’s temporary occupation became an extended occupation, and finally an annexation of the peninsula. Much to Korea’s dismay, they remained a Japanese colony from 1910 until the end of World War II. In the war’s aftermath, the country split into (Communist) North and (capitalist) South Korea in 1948. The two newly formed countries fought a war in 1950 that saw China and Russia allied with the North, and a United Nations Coalition allied with the South. After a terrible three years, North and South Korea agreed to an armistice (but not peace) in 1953. As of 2017, the two countries have remained in state of deferred war for over half a century.
+Traits
+Leaders
+Seondeok
+Sejong
+Special Units
+Hwacha
+Special Infrastructure
+Seowon
+Geography & Social Data
+Location
+East Asia
+Size
+85,270 square miles (approx. 219,000 km²)
+Population
+Approximately 2,000,000 in 8th Century; 76,497,881 in 2015
+Capital
+Seoul
+Traits
+Leaders
+Seondeok
+Sejong
+Special Units
+Hwacha
+Special Infrastructure
+Seowon
+Geography & Social Data
+Location
+East Asia
+Size
+85,270 square miles (approx. 219,000 km²)
+Population
+Approximately 2,000,000 in 8th Century; 76,497,881 in 2015
+Capital
+Seoul
+Unique Ability
+Three Kingdoms
+Mines receive +1
+Science for every adjacent Seowon district. Farms receive +1
+Food for every adjacent Seowon district.
+Historical Context
+The Korean peninsula’s fate has long been one of struggle. Myriad dynasties rise, fall, and rise again on a landmass roughly the size of Great Britain. The influence of foreign empires, both supportive and belligerent, provide a constant uncertainty looming over the horizon.
+The earliest known Korean state was Gojoseon, a prosperous kingdom rich with natural resources and bountiful agriculture. Gojoseon was founded by the (likely apocryphal) Dangun Wangeom in 2333 BCE. According to legend, Dangun was the child of the god Hwangung and a very tenacious she-bear who had persisted against all odds in a trial of hardship and survival. Gojoseon would eventually collapse into a collection of warring states in 108 BCE.
+The rise of a truly Korean identity began with the Three Kingdoms in 1st Century BCE. The largest was Goguryeo, to the mountainous north. Silla held the southeast lands bordering the east coast, while Baekje claimed the southwest lands bordering the Yellow Sea. There were other smaller states, such as Buyeo or Gaya, but the three kingdoms were the ones able to consolidate their power. By the 6th Century Silla had conquered many of the smaller states, Goguryeo developed a martial reputation (pressing its famed cavalry against its neighbors’ borders), while Baekje prioritized farming and good trade relationships with both China and Japan.
+Silla’s appetite for conquest eventually spread to its neighbors. Though the smallest kingdom, Silla’s shifting alliances helped them avoid the fate of a kingdom such as Gaya, playing Goguryeo and Baekje against one another. Ultimately, Queen Seondeok’s alliance with the Tang Dynasty of China (detailed elsewhere) sealed the fate of the Three Kingdoms. By the late 7th Century, Silla alone ruled the Korean peninsula, ceding northernmost lands to the Tang Dynasty. Although Confucianism spread under Silla’s rule, Buddhism truly flourished, with many temples and monasteries built during their reign.
+Unfortunately for Silla, their traditional “bone-rank system” was their downfall. Somewhat analogous to the concept of “royal blood,” bone-rank was a caste system determining a person’s societal rank based upon the status of their parents. Though a  person could not climb above their birth rank, they could find themselves demoted—a frustration that ultimately led to civil war and the kingdom’s decline.
+The emerging kingdom of Goryeo (the source of the name “Korea”) took advantage of Silla’s descent, ruling Korea from 818 CE until 1392 CE. Technology saw an exponential rise in Goryeo’s time. Metal movable-type printing existed in Korea almost 200 years before Guttenberg’s printing press, making printed texts accessible to the Korean populace. Despite Goryeo’s rapid advancements, there was constant political turmoil—and worse, the Mongolian Yuan Dynasty’s invasions in the 13th Century. Over the course of three decades, the Koreans endured six Mongolian invasions. The Goryeo dynasty eventually made peace, but in doing so became a client state to Mongol Yuan China.
+By the mid-14th Century, the Mongol Empire was in a state of disarray. Goryeo regained its independence, mostly, with the exception of northern territory held by remnants of the Yuan Dynasty. When word arrived in 1388 that the Chinese Ming Dynasty planned to take this land for itself, Goryeo General Choi Young ordered General Yi Seong-gye to conquer it preemptively, despite Yi’s objections. General Yi famously marched his army to Wihwa Island, then promptly turned back to overthrow General Choi and the king.
+Yi Seong-gye renamed himself Taejo, declared himself king, and created the Joseon Dynasty in 1392. Korea’s political fortunes waxed and waned over the centuries, but its scholarly advances continued unabated (such as “Hangul,” a Korean phonetic alphabet, and improvements upon movable type). Confucianism succeeded Buddhism, the Manchu threat succeeded the Jurchen threat, and Silhak (“Practical Learning”) educational reforms succeeded the increasingly esoteric pedagogy of Neo-Confucians.
+Despite periods of unrest, internal power struggles, and foreign invasion, Korea maintained a state of relative stability until the late 19th Century, when Japan invaded Korean territory to fight wars with China and Russia. Japan’s temporary occupation became an extended occupation, and finally an annexation of the peninsula. Much to Korea’s dismay, they remained a Japanese colony from 1910 until the end of World War II. In the war’s aftermath, the country split into (Communist) North and (capitalist) South Korea in 1948. The two newly formed countries fought a war in 1950 that saw China and Russia allied with the North, and a United Nations Coalition allied with the South. After a terrible three years, North and South Korea agreed to an armistice (but not peace) in 1953. As of 2017, the two countries have remained in state of deferred war for over half a century.

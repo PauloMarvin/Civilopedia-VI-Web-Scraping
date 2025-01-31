@@ -1,0 +1,46 @@
+Wheel - Technologies - Civilopedia - Civilization VI
+Wheel
+Historical Context
+“Round, like a circle” … well, like a wheel, a circle artificially manufactured, with a hole in the middle for an axle. The wheel and axle combination is considered one of the “six simple machines” upon which civilization is based. Used on vehicles, it allows easy transport of heavy objects over distances; but the axle-wheel is also the basis for the likes of the steering wheel, potter’s wheel, flywheel, water wheel, and a whole host of other wheels that make life more comfortable.
+The invention of the wheel comes in the late Neolithic Age, and along with the advance of several other technologies kicks off the Bronze Age. Archaeological evidence for wheeled vehicles appears in the fourth millennia BC, more or less at the same time in Mesopotamia, the Caucasus and Central Europe (obviously, an idea whose time had come). In China the wheel was certainly in existence by 1200 BC, when Chinese chariots appeared.
+The first wheels were of solid wood, planks with rounded ends that were put together to give a round shape. In other places, stone and even clay (the Harappans of the Indus Valley) were used to make wheels. Spoked wheels first appear around 2000 BC in Asia Minor, where they were used on horse-drawn chariots. Later improvements included iron hubs and rims, greased axles, and the addition of springs or other sort of shock absorber.
+Contrary to popular belief, the American natives did have the wheel before the Europeans arrived, as evidenced by Olmec pottery wheels and wheeled children’s toys; but since there weren’t any domesticated animals large enough to pull carts and wagons, the wheel remained underutilized. Elsewhere, the spoked wheel was getting attached to everything, from cannons to trains; and wheels remained relatively unchanged until the 1870s when wire wheels and pneumatic tires were invented.
+“Sometimes the wheel turns slowly, but it turns.”
+– Lorne Michaels
+“Don’t reinvent the wheel, just realign it.”
+– Anthony D’Angelo
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Mining
+Research Cost
+Base Cost: 80
+Science
+Boosts
+Mine a resource.
+Progression
+Leads to Technologies
+Engineering
+Historical Context
+“Round, like a circle” … well, like a wheel, a circle artificially manufactured, with a hole in the middle for an axle. The wheel and axle combination is considered one of the “six simple machines” upon which civilization is based. Used on vehicles, it allows easy transport of heavy objects over distances; but the axle-wheel is also the basis for the likes of the steering wheel, potter’s wheel, flywheel, water wheel, and a whole host of other wheels that make life more comfortable.
+The invention of the wheel comes in the late Neolithic Age, and along with the advance of several other technologies kicks off the Bronze Age. Archaeological evidence for wheeled vehicles appears in the fourth millennia BC, more or less at the same time in Mesopotamia, the Caucasus and Central Europe (obviously, an idea whose time had come). In China the wheel was certainly in existence by 1200 BC, when Chinese chariots appeared.
+The first wheels were of solid wood, planks with rounded ends that were put together to give a round shape. In other places, stone and even clay (the Harappans of the Indus Valley) were used to make wheels. Spoked wheels first appear around 2000 BC in Asia Minor, where they were used on horse-drawn chariots. Later improvements included iron hubs and rims, greased axles, and the addition of springs or other sort of shock absorber.
+Contrary to popular belief, the American natives did have the wheel before the Europeans arrived, as evidenced by Olmec pottery wheels and wheeled children’s toys; but since there weren’t any domesticated animals large enough to pull carts and wagons, the wheel remained underutilized. Elsewhere, the spoked wheel was getting attached to everything, from cannons to trains; and wheels remained relatively unchanged until the 1870s when wire wheels and pneumatic tires were invented.
+“Sometimes the wheel turns slowly, but it turns.”
+– Lorne Michaels
+“Don’t reinvent the wheel, just realign it.”
+– Anthony D’Angelo
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Mining
+Research Cost
+Base Cost: 80
+Science
+Boosts
+Mine a resource.
+Progression
+Leads to Technologies
+Engineering

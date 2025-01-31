@@ -1,0 +1,68 @@
+Colosseum - Wonders and Projects - Civilopedia - Civilization VI
+Colosseum
+Description
+The Colosseum provides 2 of the following:
+Culture, Loyalty per turn, and
+Amenities to each city center within 6 tiles. Must be built on flat land adjacent to an Entertainment Complex with an Arena.
+Historical Context
+The Flavian Amphitheater, better known as the “Coliseum” lies in the center of Rome. Construction began during the reign of Emperor Vespasian, c. 72 AD, funded by the spoils from the Jewish Second Temple after the fall of Jerusalem during the First Jewish-Roman War. Built of concrete and stone, it is the largest amphitheater ever built, and one of the great wonders of ancient architecture and engineering. It could hold between 50 and 80 thousand spectators to watch gladiatorial matches, animal hunts, mass executions, and more. By the time medieval Christianity had taken root, it had been repurposed to house low-rent apartments, workshops, quarters for a religious order, a quarry and a Christian shrine. Although knocked about by earthquakes and pillaged by stone-robbers, the Coliseum is still pretty impressive two millennia after the inaugural gladiatorial slaughter.
+“While the Colosseum stands, Rome shall stand; when the Colosseum falls, Rome shall fall; when Rome falls, the world shall fall.”
+– Saint Bede
+Traits
+Removed if game started after
+Renaissance Era
++2
+Culture
++2
+Amenities from entertainment
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Games and Recreation
+Building
+Arena
+Adjacency
+Entertainment Complex
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production
+Description
+The Colosseum provides 2 of the following:
+Culture, Loyalty per turn, and
+Amenities to each city center within 6 tiles. Must be built on flat land adjacent to an Entertainment Complex with an Arena.
+Historical Context
+The Flavian Amphitheater, better known as the “Coliseum” lies in the center of Rome. Construction began during the reign of Emperor Vespasian, c. 72 AD, funded by the spoils from the Jewish Second Temple after the fall of Jerusalem during the First Jewish-Roman War. Built of concrete and stone, it is the largest amphitheater ever built, and one of the great wonders of ancient architecture and engineering. It could hold between 50 and 80 thousand spectators to watch gladiatorial matches, animal hunts, mass executions, and more. By the time medieval Christianity had taken root, it had been repurposed to house low-rent apartments, workshops, quarters for a religious order, a quarry and a Christian shrine. Although knocked about by earthquakes and pillaged by stone-robbers, the Coliseum is still pretty impressive two millennia after the inaugural gladiatorial slaughter.
+“While the Colosseum stands, Rome shall stand; when the Colosseum falls, Rome shall fall; when Rome falls, the world shall fall.”
+– Saint Bede
+Traits
+Removed if game started after
+Renaissance Era
++2
+Culture
++2
+Amenities from entertainment
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Games and Recreation
+Building
+Arena
+Adjacency
+Entertainment Complex
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production

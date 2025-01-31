@@ -1,0 +1,64 @@
+Grand Bazaar - Buildings - Civilopedia - Civilization VI
+Grand Bazaar
+Description
+A building unique to the Ottomans. Accumulate 1 extra Strategic resource for every different type of Strategic resource this city has improved. Receive 1
+Amenity for every Luxury resource this city has improved.
+Historical Context
+The Ottoman Empire is well-known for their military conquests, but they were also a center for craft and trade. Since the Empire stood at the crossroads of Europe, Africa, and Asia, they stood to profit from the trade that passed through their borders. They controlled important trade cities like Istanbul, Cairo, and Baghdad. The Grand Bazaar of Istanbul is probably the oldest continually-operating bazaar in the world, and is one of the most popular tourist attractions on the planet.
+The word “bazaar” is Persian, and the oldest bazaars probably arose around caravansaries. A true bazaar takes place in a building, or under the cover of a permanent breezeway. A number of traditional bazaars are still found around the world, many of which still are vibrant, functioning markets, and some of which are UNESCO Heritage sites. Bazaars may be set up for the buying and selling of a single product, like grain or cloth, or they may be general markets where any number of things may be bought or sold.
+Bazaars were central to urban life of cities in the Ottoman Empire and surrounding lands. The rituals of buying and selling goods and information have worked their way into many languages and cultures in that part of the world.
+Traits
+Unique To
+Ottomans
+Replaces
+Bank
++5
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Banking
+Building
+Market
+Production Cost
+Base Cost: 220
+Production
+Purchase Cost
+Base Cost: 880
+Gold
+Description
+A building unique to the Ottomans. Accumulate 1 extra Strategic resource for every different type of Strategic resource this city has improved. Receive 1
+Amenity for every Luxury resource this city has improved.
+Historical Context
+The Ottoman Empire is well-known for their military conquests, but they were also a center for craft and trade. Since the Empire stood at the crossroads of Europe, Africa, and Asia, they stood to profit from the trade that passed through their borders. They controlled important trade cities like Istanbul, Cairo, and Baghdad. The Grand Bazaar of Istanbul is probably the oldest continually-operating bazaar in the world, and is one of the most popular tourist attractions on the planet.
+The word “bazaar” is Persian, and the oldest bazaars probably arose around caravansaries. A true bazaar takes place in a building, or under the cover of a permanent breezeway. A number of traditional bazaars are still found around the world, many of which still are vibrant, functioning markets, and some of which are UNESCO Heritage sites. Bazaars may be set up for the buying and selling of a single product, like grain or cloth, or they may be general markets where any number of things may be bought or sold.
+Bazaars were central to urban life of cities in the Ottoman Empire and surrounding lands. The rituals of buying and selling goods and information have worked their way into many languages and cultures in that part of the world.
+Traits
+Unique To
+Ottomans
+Replaces
+Bank
++5
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Banking
+Building
+Market
+Production Cost
+Base Cost: 220
+Production
+Purchase Cost
+Base Cost: 880
+Gold

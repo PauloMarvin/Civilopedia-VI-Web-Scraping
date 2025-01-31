@@ -1,0 +1,66 @@
+Cossack - Units - Civilopedia - Civilization VI
+Cossack
+Description
+Russian unique Industrial era unit that replaces Cavalry. Stronger than Cavalry, and gains +5
+Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if
+Movement points remain.
+Historical Context
+The kazaki were members of semi-democratic, semi-nomadic, semi-militaristic communities along the steppe-shores of the Dnieper, Don, Ural, Volga and other rivers cutting across the Ukraine. It isn’t clear when these Slavs started settling in the region after the collapse of the Khazar kingdom, but it is likely after the Mongol tide receded, so perhaps late 13th Century AD. A mixture of horse barbarians and “civilized” peoples, by the 1600s the Cossacks were a loose confederation of tribes and independent communes. Internal politics notwithstanding – and the various Cossack hosts fought among themselves as much as against their neighbors – they became a force to be reckoned with, light cavalry par excellence. In time, early 17th Century or so, some of the hosts took service with the growing Russian kingdom to the north, providing a buffer against the Crimean Tatars and Ottomans to the south. The Cossacks would thereafter figure in every war the Russians fought, until virtually annihilated by Stalin following WW2.
+Traits
+Unique To
+Russia
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+67
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 340
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1360
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Russian unique Industrial era unit that replaces Cavalry. Stronger than Cavalry, and gains +5
+Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if
+Movement points remain.
+Historical Context
+The kazaki were members of semi-democratic, semi-nomadic, semi-militaristic communities along the steppe-shores of the Dnieper, Don, Ural, Volga and other rivers cutting across the Ukraine. It isn’t clear when these Slavs started settling in the region after the collapse of the Khazar kingdom, but it is likely after the Mongol tide receded, so perhaps late 13th Century AD. A mixture of horse barbarians and “civilized” peoples, by the 1600s the Cossacks were a loose confederation of tribes and independent communes. Internal politics notwithstanding – and the various Cossack hosts fought among themselves as much as against their neighbors – they became a force to be reckoned with, light cavalry par excellence. In time, early 17th Century or so, some of the hosts took service with the growing Russian kingdom to the north, providing a buffer against the Crimean Tatars and Ottomans to the south. The Cossacks would thereafter figure in every war the Russians fought, until virtually annihilated by Stalin following WW2.
+Traits
+Unique To
+Russia
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+67
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 340
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1360
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

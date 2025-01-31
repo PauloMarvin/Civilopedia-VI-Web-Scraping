@@ -1,0 +1,60 @@
+Nuclear Submarine - Units - Civilopedia - Civilization VI
+Nuclear Submarine
+Description
+Highly advanced Information era ranged raiding naval unit that can be armed with nuclear weapons. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+The conceptual design of a nuclear-powered submarine was first proposed by the American Naval Research Laboratory in 1939 AD; it was finally realized with the launch of the U.S.S. Nautilus in 1954, which could stay underwater without surfacing for four months … although why one would wish to do so was never explained. Since underwater craft were ideal for launching nuclear-tipped ballistic missiles without warning, it was the perfect Cold War weapon, there not being much other use for such craft. Thus the Soviet Union soon followed the United States in filling the seas with nuclear submarines, beginning with the ill-fated K-19 in 1959. Despite reactor accidents, breakdowns and sinkings, both sides rushed to build ever larger SSBNs. At the height of the Cold War, some five to ten new nuclear submarines were being commissioned each month. Although the pace has slowed somewhat, today six countries deploy nuclear-powered “strategic” submarines (i.e., those meant to kill cities, not other ships): United States, Russia, China, France, United Kingdom and India.
+Traits
+Upgrade From
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+80
+Melee Strength
+85
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Telecommunications
+Production Cost
+Base Cost: 680
+Production
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Description
+Highly advanced Information era ranged raiding naval unit that can be armed with nuclear weapons. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+The conceptual design of a nuclear-powered submarine was first proposed by the American Naval Research Laboratory in 1939 AD; it was finally realized with the launch of the U.S.S. Nautilus in 1954, which could stay underwater without surfacing for four months … although why one would wish to do so was never explained. Since underwater craft were ideal for launching nuclear-tipped ballistic missiles without warning, it was the perfect Cold War weapon, there not being much other use for such craft. Thus the Soviet Union soon followed the United States in filling the seas with nuclear submarines, beginning with the ill-fated K-19 in 1959. Despite reactor accidents, breakdowns and sinkings, both sides rushed to build ever larger SSBNs. At the height of the Cold War, some five to ten new nuclear submarines were being commissioned each month. Although the pace has slowed somewhat, today six countries deploy nuclear-powered “strategic” submarines (i.e., those meant to kill cities, not other ships): United States, Russia, China, France, United Kingdom and India.
+Traits
+Upgrade From
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+80
+Melee Strength
+85
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Telecommunications
+Production Cost
+Base Cost: 680
+Production
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold

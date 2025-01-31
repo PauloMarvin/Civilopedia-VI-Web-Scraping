@@ -1,0 +1,42 @@
+Horses - Resources - Civilopedia - Civilization VI
+Horses
+Historical Context
+The horse is one of the two remaining extant subspecies of Equus ferus, and one of the first animals humans domesticated sometime around 3500 BC in central Asia.  It seems horses were very useful for all that moving about and hunting that primitives needed to do. As beast of burden, military mount, companion, and occasional food source, the horse is likely the most important tamed animal in history.
+Traits
+Strategic
++1
+Food
++1
+Production
+Produces +2
+Horses per turn when improved.
+Requirements
+Unlocked By
+Animal Husbandry
+Placement
+Grassland
+Plains
+Usage
+Improved By
+Pasture
+Project
+Historical Context
+The horse is one of the two remaining extant subspecies of Equus ferus, and one of the first animals humans domesticated sometime around 3500 BC in central Asia.  It seems horses were very useful for all that moving about and hunting that primitives needed to do. As beast of burden, military mount, companion, and occasional food source, the horse is likely the most important tamed animal in history.
+Traits
+Strategic
++1
+Food
++1
+Production
+Produces +2
+Horses per turn when improved.
+Requirements
+Unlocked By
+Animal Husbandry
+Placement
+Grassland
+Plains
+Usage
+Improved By
+Pasture
+Project

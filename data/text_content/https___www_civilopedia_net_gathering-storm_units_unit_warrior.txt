@@ -1,0 +1,50 @@
+Warrior - Units - Civilopedia - Civilization VI
+Warrior
+Description
+Weak Ancient era melee unit.
+Historical Context
+According to the dictionary, a “warrior” is a person engaged or experienced in warfare. In primitive societies, that’s just about everyone since everyone fought everyone else. After all, it didn’t take much training to bash someone in the head with a rock or club, just some stamina and a strong stomach. Thus, early tribes and settlements did not have a professional standing army; that’s a benefit of civilization. Instead, all the able-bodied served in a loose militia, called to face a crisis and then returning to their farms and villages when it was past (or sometimes before). It would be centuries before some ancient kings had the foresight and wherewithal to maintain an army, with specialists in various weapons replacing the old warriors.
+Traits
+Upgrades To
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Promotion Class: Melee
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 40
+Production
+Purchase Cost
+Base Cost: 160
+Gold
+Description
+Weak Ancient era melee unit.
+Historical Context
+According to the dictionary, a “warrior” is a person engaged or experienced in warfare. In primitive societies, that’s just about everyone since everyone fought everyone else. After all, it didn’t take much training to bash someone in the head with a rock or club, just some stamina and a strong stomach. Thus, early tribes and settlements did not have a professional standing army; that’s a benefit of civilization. Instead, all the able-bodied served in a loose militia, called to face a crisis and then returning to their farms and villages when it was past (or sometimes before). It would be centuries before some ancient kings had the foresight and wherewithal to maintain an army, with specialists in various weapons replacing the old warriors.
+Traits
+Upgrades To
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Promotion Class: Melee
+2
+Movement Points
+20
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 40
+Production
+Purchase Cost
+Base Cost: 160
+Gold

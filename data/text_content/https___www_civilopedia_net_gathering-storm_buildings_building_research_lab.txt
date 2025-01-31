@@ -1,0 +1,72 @@
+Research Lab - Buildings - Civilopedia - Civilization VI
+Research Lab
+Historical Context
+A research lab is an institute devoted to the advanced study of a subject, which might be medicine, physics, chemistry, robotics, clean energy, or new products for TV infomercials. Such labs may be publicly funded or run by wealthy corporations looking for profits; research labs may be attached to universities or they may be independent of academic boundaries and ethics. It is pretty clear that “efficient” research labs are the future of research in every discipline. As civilization’s understanding of the world has advanced, the days of the dedicated scientist working alone in his or her basement and shouting “Eureka!” have all but passed. Whatever understanding we may gain of the natural world, whatever new tech toy may grab our attention, whatever improvement of our daily life may come, whatever horrors may be unleashed, it will likely come out of a research laboratory, whether large (CERN’s Large Hadron Collider) or small (computer simulation modelling).
+Traits
++3
+Science
++5
+Science additionally when
+Powered
++1
+Citizen slot
++1
+Great Scientist point per turn.
+Citizen Yields (per citizen)
++1
+Science
+Requirements
+District
+Campus
+Technology
+Chemistry
+Buildings (any)
+University
+Alchemical Society
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Power Cost
+Base Load: 3
+Power
+Historical Context
+A research lab is an institute devoted to the advanced study of a subject, which might be medicine, physics, chemistry, robotics, clean energy, or new products for TV infomercials. Such labs may be publicly funded or run by wealthy corporations looking for profits; research labs may be attached to universities or they may be independent of academic boundaries and ethics. It is pretty clear that “efficient” research labs are the future of research in every discipline. As civilization’s understanding of the world has advanced, the days of the dedicated scientist working alone in his or her basement and shouting “Eureka!” have all but passed. Whatever understanding we may gain of the natural world, whatever new tech toy may grab our attention, whatever improvement of our daily life may come, whatever horrors may be unleashed, it will likely come out of a research laboratory, whether large (CERN’s Large Hadron Collider) or small (computer simulation modelling).
+Traits
++3
+Science
++5
+Science additionally when
+Powered
++1
+Citizen slot
++1
+Great Scientist point per turn.
+Citizen Yields (per citizen)
++1
+Science
+Requirements
+District
+Campus
+Technology
+Chemistry
+Buildings (any)
+University
+Alchemical Society
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Power Cost
+Base Load: 3
+Power

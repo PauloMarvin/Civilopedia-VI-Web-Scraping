@@ -1,0 +1,72 @@
+Hul'che - Units - Civilopedia - Civilization VI
+Hul'che
+Description
+Mayan unique Ancient Era ranged unit that replaces the Archer. Strong ranged attack. +5
+Combat Strength when fighting a wounded opponent.
+Historical Context
+The hul’che, a Mayan weapon for throwing a dart or arrow, seems at first to be quite simple. It is a long wooden shaft with a notch at the end, where an arrow sits. Used by an experienced marksman, the hul’che greatly increases the force of a throw, throwing a dart at over three hundred miles per hour (150 meters per second). Against lightly armored Mesoamerican soldiers, the hul’che would have been deadly. It was used in many ancient societies: the Aztec called it the atlatl, Australian aboriginal groups called theirs a woomera, and archaeological evidence for similar devices exists across Europe.
+Both Maya men and women were trained in the use of the hul’che. Mayan battles would begin with an exchange of hul’che darts, wounding opponents before individual melee fighters rushed in in a search for individual glory.
+Traits
+Unique To
+Maya
+Upgrades To
+Crossbowman
+Voi Chiến
+Upgrade From
+Slinger
+Promotion Class: Ranged
+2
+Movement Points
+15
+Melee Strength
+28
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Archery
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Mayan unique Ancient Era ranged unit that replaces the Archer. Strong ranged attack. +5
+Combat Strength when fighting a wounded opponent.
+Historical Context
+The hul’che, a Mayan weapon for throwing a dart or arrow, seems at first to be quite simple. It is a long wooden shaft with a notch at the end, where an arrow sits. Used by an experienced marksman, the hul’che greatly increases the force of a throw, throwing a dart at over three hundred miles per hour (150 meters per second). Against lightly armored Mesoamerican soldiers, the hul’che would have been deadly. It was used in many ancient societies: the Aztec called it the atlatl, Australian aboriginal groups called theirs a woomera, and archaeological evidence for similar devices exists across Europe.
+Both Maya men and women were trained in the use of the hul’che. Mayan battles would begin with an exchange of hul’che darts, wounding opponents before individual melee fighters rushed in in a search for individual glory.
+Traits
+Unique To
+Maya
+Upgrades To
+Crossbowman
+Voi Chiến
+Upgrade From
+Slinger
+Promotion Class: Ranged
+2
+Movement Points
+15
+Melee Strength
+28
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Archery
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

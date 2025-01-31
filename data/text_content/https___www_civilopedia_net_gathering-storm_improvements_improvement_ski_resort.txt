@@ -1,0 +1,42 @@
+Ski Resort - Improvements and Routes - Civilopedia - Civilization VI
+Ski Resort
+Description
+Unlocks the Builder ability to construct a Ski Resort.
+Provides +4
+Tourism. Provides an
+Amenity. Can only be built on a Mountain. Cannot be built adjacent to another Ski Resort. Cannot be pillaged, worked or removed.
+Historical Context
+Dedicated skiers will travel the globe to pursue their passion, whether to the Alps, the Rockies, the Andes, or fortunate single mountains around the world. The ski resort arose to provide well-maintained ski trails, as well as comfort and lodging to skiers. The first ski resorts were built in the Alps, especially in France, Switzerland, and Austria near established tourist towns, but soon the tourism came to the mountains with the best skiing snow.
+A good ski resort has accommodations for guests, good trails, a way to easily ascend the hill (to get more runs in while the light is still good), and entertainment for those who choose not to ski. There is usually some facility for medical care, particularly as skiers occasionally come into conflict with the inexorable forces of velocity and gravity. Hot tubs or saunas are popular as well.
+As the season ends and the snows melt, some ski resorts focus on providing good hiking and summer recreation—a mountain vista is a different kind of majestic in summer. Some resorts simply close, and go into hibernation, waiting for the first flakes to fall on the next season.
+Requirements
+Civic
+Professional Sports
+Grassland (Mountain)
+Plains (Mountain)
+Desert (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Ski Resort.
+Provides +4
+Tourism. Provides an
+Amenity. Can only be built on a Mountain. Cannot be built adjacent to another Ski Resort. Cannot be pillaged, worked or removed.
+Historical Context
+Dedicated skiers will travel the globe to pursue their passion, whether to the Alps, the Rockies, the Andes, or fortunate single mountains around the world. The ski resort arose to provide well-maintained ski trails, as well as comfort and lodging to skiers. The first ski resorts were built in the Alps, especially in France, Switzerland, and Austria near established tourist towns, but soon the tourism came to the mountains with the best skiing snow.
+A good ski resort has accommodations for guests, good trails, a way to easily ascend the hill (to get more runs in while the light is still good), and entertainment for those who choose not to ski. There is usually some facility for medical care, particularly as skiers occasionally come into conflict with the inexorable forces of velocity and gravity. Hot tubs or saunas are popular as well.
+As the season ends and the snows melt, some ski resorts focus on providing good hiking and summer recreation—a mountain vista is a different kind of majestic in summer. Some resorts simply close, and go into hibernation, waiting for the first flakes to fall on the next season.
+Requirements
+Civic
+Professional Sports
+Grassland (Mountain)
+Plains (Mountain)
+Desert (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Usage
+Built By
+Builder

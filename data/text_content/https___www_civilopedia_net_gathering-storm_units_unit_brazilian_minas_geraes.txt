@@ -1,0 +1,78 @@
+Minas Geraes - Units - Civilopedia - Civilization VI
+Minas Geraes
+Description
+Brazilian unique Industrial era unit that replaces the Battleship. Stronger than the Battleship. Unlocked by Nationalism.
+Historical Context
+Intended to be the first step in Brazil becoming an international power, the Minas Geraes-class were two battleships of 11,800-tons launched in the early 20th Century. While these didn’t do much in making Brazil a power to be reckoned with, the Minas Geraes and sister ship São Paulo did start a South American naval arms race, and caused quite a stir in the United States and United Kingdom (who weren’t real keen on having battleships in South American waters that weren’t theirs). The design plans for the new class took two years to complete, and then were tossed when the new HMS Dreadnought launched in 1906 made them obsolete. Finally the keels of the new design were laid down, and in September 1908 the Minas Geraes launched, followed by the São Paulo in 1909. Their careers weren’t much to speak of – centerpieces in suppressing a naval mutiny and a couple of rebellions. And they met an ignominious end; the Minas Geraes was scrapped in 1950, and the São Paulo sank en route to the scrapyard in 1951.
+Traits
+Unique To
+Brazil
+Upgrades To
+Missile Cruiser
+Upgrade From
+Frigate
+Promotion Class: Naval Ranged
+5
+Movement Points
+70
+Melee Strength
+80
+Ranged Strength
+95
+Anti-air Strength
+3
+Range
+Requirements
+Civic
+Nationalism
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Coal per turn
+Description
+Brazilian unique Industrial era unit that replaces the Battleship. Stronger than the Battleship. Unlocked by Nationalism.
+Historical Context
+Intended to be the first step in Brazil becoming an international power, the Minas Geraes-class were two battleships of 11,800-tons launched in the early 20th Century. While these didn’t do much in making Brazil a power to be reckoned with, the Minas Geraes and sister ship São Paulo did start a South American naval arms race, and caused quite a stir in the United States and United Kingdom (who weren’t real keen on having battleships in South American waters that weren’t theirs). The design plans for the new class took two years to complete, and then were tossed when the new HMS Dreadnought launched in 1906 made them obsolete. Finally the keels of the new design were laid down, and in September 1908 the Minas Geraes launched, followed by the São Paulo in 1909. Their careers weren’t much to speak of – centerpieces in suppressing a naval mutiny and a couple of rebellions. And they met an ignominious end; the Minas Geraes was scrapped in 1950, and the São Paulo sank en route to the scrapyard in 1951.
+Traits
+Unique To
+Brazil
+Upgrades To
+Missile Cruiser
+Upgrade From
+Frigate
+Promotion Class: Naval Ranged
+5
+Movement Points
+70
+Melee Strength
+80
+Ranged Strength
+95
+Anti-air Strength
+3
+Range
+Requirements
+Civic
+Nationalism
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Coal per turn

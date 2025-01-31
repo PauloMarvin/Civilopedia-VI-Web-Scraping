@@ -1,0 +1,44 @@
+Pā - Improvements and Routes - Civilopedia - Civilization VI
+Pā
+Description
+Unlocks the Toa ability to construct a Pā, unique to Māori.
+Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. A Māori unit occupying a Pā heals even if they just moved or attacked. Must be built on a Hill tile.
+Deals minor damage to and depletes the movement of hostile units walking onto this tile.
+Historical Context
+The Maori constructed sophisticated hilltop fortifications, called Pā. These consisted of clearing and terracing a hilltop, erecting a palisade wall (or series of palisades), and constructing earthworks, foot storage pits, and water sources. Some Pā were large enough to support limited agriculture at their heart. A Pā conveyed a great deal of mana on the iwi which constructed it, in much the way a castle conveyed power to the nobility of feudal cultures.
+During the Maori wars with the British, the Pā of the North Island were centers of strong resistance for the Maori. In response to the introduction of gunpowder weapons, the Maori quickly modified their Pā design to include interlocking fields of fire for the defenders, and soft flax padding on the palisades that would dissipate the damage from bullets and shells. Only with heavy artillery could the colonial troops crack a Pā.
+Pā represent ingenious use of local resources to build strong defenses. The Maori quickly adapted the design of the Pā as new European weapons were introduced to the island, rapidly recapitulating the history of European fortification development in only a few generations on their own. There are many old Pā sites still visible around New Zealand today.
+Traits
+Unique To
+Māori
+Requirements
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Toa
+Description
+Unlocks the Toa ability to construct a Pā, unique to Māori.
+Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. A Māori unit occupying a Pā heals even if they just moved or attacked. Must be built on a Hill tile.
+Deals minor damage to and depletes the movement of hostile units walking onto this tile.
+Historical Context
+The Maori constructed sophisticated hilltop fortifications, called Pā. These consisted of clearing and terracing a hilltop, erecting a palisade wall (or series of palisades), and constructing earthworks, foot storage pits, and water sources. Some Pā were large enough to support limited agriculture at their heart. A Pā conveyed a great deal of mana on the iwi which constructed it, in much the way a castle conveyed power to the nobility of feudal cultures.
+During the Maori wars with the British, the Pā of the North Island were centers of strong resistance for the Maori. In response to the introduction of gunpowder weapons, the Maori quickly modified their Pā design to include interlocking fields of fire for the defenders, and soft flax padding on the palisades that would dissipate the damage from bullets and shells. Only with heavy artillery could the colonial troops crack a Pā.
+Pā represent ingenious use of local resources to build strong defenses. The Maori quickly adapted the design of the Pā as new European weapons were introduced to the island, rapidly recapitulating the history of European fortification development in only a few generations on their own. There are many old Pā sites still visible around New Zealand today.
+Traits
+Unique To
+Māori
+Requirements
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Toa

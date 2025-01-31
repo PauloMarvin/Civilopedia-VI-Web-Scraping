@@ -1,0 +1,50 @@
+Shipbuilding - Technologies - Civilopedia - Civilization VI
+Shipbuilding
+Description
+Allows all land units to embark.
+Historical Context
+Shipbuilding is, of course, the building of ships. Shipwrights follow a profession that traces its roots back to an age before recorded history. Archaeological evidence indicates that humans sailed to Borneo from Asia 120 thousand years ago aboard constructed ships; and later to New Guinea and Australia some 50 thousand years ago. In the fourth millennium BC, the Egyptians were constructing boat hulls from planks of wood, using treenails to hold them together and pitch to make them watertight. Across the ocean in India, the first shipbuilding docks were being utilized by the Harappans around 2500 BC.
+While the Phoenicians, Greeks and Carthaginians were pretty good at shipbuilding, most of their knowledge was lost during the “Dark” Ages. Save for the Vikings, the Europeans weren’t particularly skilled or innovative. However, in China during the Song and Ming dynasties, shipbuilding reached its peak, building junks and warships that filled the greatest ports of the time. In the Islamic world shipbuilding thrived in Basra and Alexandria, producing the dhows and feluccas that plied trade routes from East Asia to the tip of Africa.
+The Age of Exploration, as the Europeans set out to conquer the world, demanded new approaches to shipbuilding. Shipyards became large industrial complexes (like the Arsenal in Venice), able to turn out ships of a standard design (like the carrack) in a matter of weeks or even days. By the Napoleonic Wars, ships were still being built to basic, standardized plans in expansive shipyards; the British in fact established Royal Dockyards across the globe to support their naval aspirations.
+Advances in ship design and materials during the Industrial Revolution for shipbuilding for the first time in centuries made new methods mandatory. Massive iron- and steel-hulled ships such as the Great Eastern and the Titanic and modern dreadnaughts meant that most ships now are constructed in expansive drydocks.
+“I cannot imagine any condition which would cause a ship to founder … Modern shipbuilding has gone beyond that.”
+– Capt. E.J. Smith, RMS Titanic
+“There is nothing but a plank between a sailor and eternity.”
+– Thomas Gibbons
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Sailing
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Own 2 Galleys.
+Progression
+Leads to Technologies
+Buttress
+Description
+Allows all land units to embark.
+Historical Context
+Shipbuilding is, of course, the building of ships. Shipwrights follow a profession that traces its roots back to an age before recorded history. Archaeological evidence indicates that humans sailed to Borneo from Asia 120 thousand years ago aboard constructed ships; and later to New Guinea and Australia some 50 thousand years ago. In the fourth millennium BC, the Egyptians were constructing boat hulls from planks of wood, using treenails to hold them together and pitch to make them watertight. Across the ocean in India, the first shipbuilding docks were being utilized by the Harappans around 2500 BC.
+While the Phoenicians, Greeks and Carthaginians were pretty good at shipbuilding, most of their knowledge was lost during the “Dark” Ages. Save for the Vikings, the Europeans weren’t particularly skilled or innovative. However, in China during the Song and Ming dynasties, shipbuilding reached its peak, building junks and warships that filled the greatest ports of the time. In the Islamic world shipbuilding thrived in Basra and Alexandria, producing the dhows and feluccas that plied trade routes from East Asia to the tip of Africa.
+The Age of Exploration, as the Europeans set out to conquer the world, demanded new approaches to shipbuilding. Shipyards became large industrial complexes (like the Arsenal in Venice), able to turn out ships of a standard design (like the carrack) in a matter of weeks or even days. By the Napoleonic Wars, ships were still being built to basic, standardized plans in expansive shipyards; the British in fact established Royal Dockyards across the globe to support their naval aspirations.
+Advances in ship design and materials during the Industrial Revolution for shipbuilding for the first time in centuries made new methods mandatory. Massive iron- and steel-hulled ships such as the Great Eastern and the Titanic and modern dreadnaughts meant that most ships now are constructed in expansive drydocks.
+“I cannot imagine any condition which would cause a ship to founder … Modern shipbuilding has gone beyond that.”
+– Capt. E.J. Smith, RMS Titanic
+“There is nothing but a plank between a sailor and eternity.”
+– Thomas Gibbons
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Sailing
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Own 2 Galleys.
+Progression
+Leads to Technologies
+Buttress

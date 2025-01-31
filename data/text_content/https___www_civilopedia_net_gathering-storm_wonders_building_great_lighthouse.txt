@@ -1,0 +1,62 @@
+Great Lighthouse - Wonders and Projects - Civilopedia - Civilization VI
+Great Lighthouse
+Description
++1
+Movement for all naval units
+Must be built on the Coast, and adjacent to land and a Harbor district with a Lighthouse.
+Historical Context
+The Great Lighthouse of Alexandria (one of the seventeen cities the egotistical young general named after himself), known to the ancients as the Pharos, was reputed to stand between 393 and 450 feet high – making it one of the tallest structures in civilization for many centuries. Begun in 280 BC by Ptolemy Sotor, one of Alexander’s Macedonian generals and successors, on a small island to help guide trade ships into the harbor of the thriving city, the Lighthouse was not completed until 247 at the phenomenal cost of 800 talents. Its light at the top of the massive tower was produced by a furnace reputedly made of solid blocks of limestone, and was visible for one hundred miles. Although badly damaged by three earthquakes between 956 and 1323 AD, it did not topple over – making it the third-longest surviving of the ancient wonders. Finally, the sultan of Egypt quarried the remaining stone (some had fallen into the harbor) to build the Citadel of Qaitbay in 1480 to protect Alexandria against the Ottoman Turks (didn’t work).
+“This Lighthouse was the cynosure of all eyes.”
+– Henry David Thoreau
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Celestial Navigation
+Building
+Lighthouse
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 290
+Production
+Description
++1
+Movement for all naval units
+Must be built on the Coast, and adjacent to land and a Harbor district with a Lighthouse.
+Historical Context
+The Great Lighthouse of Alexandria (one of the seventeen cities the egotistical young general named after himself), known to the ancients as the Pharos, was reputed to stand between 393 and 450 feet high – making it one of the tallest structures in civilization for many centuries. Begun in 280 BC by Ptolemy Sotor, one of Alexander’s Macedonian generals and successors, on a small island to help guide trade ships into the harbor of the thriving city, the Lighthouse was not completed until 247 at the phenomenal cost of 800 talents. Its light at the top of the massive tower was produced by a furnace reputedly made of solid blocks of limestone, and was visible for one hundred miles. Although badly damaged by three earthquakes between 956 and 1323 AD, it did not topple over – making it the third-longest surviving of the ancient wonders. Finally, the sultan of Egypt quarried the remaining stone (some had fallen into the harbor) to build the Citadel of Qaitbay in 1480 to protect Alexandria against the Ottoman Turks (didn’t work).
+“This Lighthouse was the cynosure of all eyes.”
+– Henry David Thoreau
+Traits
+Removed if game started after
+Renaissance Era
++3
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Celestial Navigation
+Building
+Lighthouse
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 290
+Production

@@ -1,0 +1,32 @@
+Naturalist - Units - Civilopedia - Civilization VI
+Naturalist
+Description
+A late-game civilian who can create a single National Park to attract
+Tourists. Must be purchased with
+Faith.
+Historical Context
+The conservation movement can be traced back to the Royal Society’s John Evelyn and his study 'Sylva,' published in 1662, advocating conservation of England’s forests. Although sometimes linked to environmentalism, it differs significantly in that conservation aims to preserve resources expressly for continued sustainable use by humans. Conservationists have focused primarily on the setting aside of natural areas for recreation and education, and the active protection of wildlife and plants for their inherent value. Near the end of the 19th Century, politicians took a hand in this valiant effort; American president Theodore Roosevelt became a leading (and powerful) conservationist, using his office to establish the U.S. Forest Service and to create five national parks, four game preserves, 51 bird sanctuaries, and 150 national forests – some 230 thousand acres in all.
+Traits
+4
+Movement Points
+Requirements
+Civic
+Conservation
+Purchase Cost
+Base Cost: 600
+Faith
+Description
+A late-game civilian who can create a single National Park to attract
+Tourists. Must be purchased with
+Faith.
+Historical Context
+The conservation movement can be traced back to the Royal Society’s John Evelyn and his study 'Sylva,' published in 1662, advocating conservation of England’s forests. Although sometimes linked to environmentalism, it differs significantly in that conservation aims to preserve resources expressly for continued sustainable use by humans. Conservationists have focused primarily on the setting aside of natural areas for recreation and education, and the active protection of wildlife and plants for their inherent value. Near the end of the 19th Century, politicians took a hand in this valiant effort; American president Theodore Roosevelt became a leading (and powerful) conservationist, using his office to establish the U.S. Forest Service and to create five national parks, four game preserves, 51 bird sanctuaries, and 150 national forests – some 230 thousand acres in all.
+Traits
+4
+Movement Points
+Requirements
+Civic
+Conservation
+Purchase Cost
+Base Cost: 600
+Faith

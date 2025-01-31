@@ -1,0 +1,66 @@
+Stock Exchange - Buildings - Civilopedia - Civilization VI
+Stock Exchange
+Historical Context
+Stock exchanges exist for people who like to gamble in a refined fashion, speculating on the rise and fall of the value of “stock” – shares of ownership in “publically traded” companies. With advice from stock brokers, who always get a fee, anyone can wheel and deal in stocks, bonds, or other securities. The practice has its genesis in the creation of tradable bonds by Italian banks in the Renaissance, a creditor stake in a company or enterprise (such as a trading voyage). The Dutch East Indies Company, formed in 1602 AD, was the first corporation to put up shares for sale, offering delayed dividends (a portion of its annual profits) for speculative investment by anyone who could afford to buy. All those new middle class folk couldn’t resist, and soon enough other companies were doing the same. In time, an Englishman of dubious repute named John Castaing, operating from Jonathan’s Coffee House, began posting a regular list of stock and commodity prices and serving as a broker in these for a fee; this marks the beginning of the London Stock Exchange. The practice, despite the South Seas Bubble and the Tulip Mania and all the other scams and scandals, has been around ever since.
+Traits
++4
+Gold
++7
+Gold additionally when
+Powered
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Citizen Yields (per citizen)
++2
+Gold
+Requirements
+District
+Commercial Hub
+Technology
+Economics
+Buildings (any)
+Bank
+Gilded Vault
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Power Cost
+Base Load: 3
+Power
+Historical Context
+Stock exchanges exist for people who like to gamble in a refined fashion, speculating on the rise and fall of the value of “stock” – shares of ownership in “publically traded” companies. With advice from stock brokers, who always get a fee, anyone can wheel and deal in stocks, bonds, or other securities. The practice has its genesis in the creation of tradable bonds by Italian banks in the Renaissance, a creditor stake in a company or enterprise (such as a trading voyage). The Dutch East Indies Company, formed in 1602 AD, was the first corporation to put up shares for sale, offering delayed dividends (a portion of its annual profits) for speculative investment by anyone who could afford to buy. All those new middle class folk couldn’t resist, and soon enough other companies were doing the same. In time, an Englishman of dubious repute named John Castaing, operating from Jonathan’s Coffee House, began posting a regular list of stock and commodity prices and serving as a broker in these for a fee; this marks the beginning of the London Stock Exchange. The practice, despite the South Seas Bubble and the Tulip Mania and all the other scams and scandals, has been around ever since.
+Traits
++4
+Gold
++7
+Gold additionally when
+Powered
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Citizen Yields (per citizen)
++2
+Gold
+Requirements
+District
+Commercial Hub
+Technology
+Economics
+Buildings (any)
+Bank
+Gilded Vault
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Power Cost
+Base Load: 3
+Power

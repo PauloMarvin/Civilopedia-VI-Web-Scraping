@@ -1,0 +1,56 @@
+Mahabodhi Temple - Wonders and Projects - Civilopedia - Civilization VI
+Mahabodhi Temple
+Description
++2 Diplomatic Victory Points and grants 2 Apostles when built.
+Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.
+Historical Context
+The Mahabodhi Temple (or “Great Awakening” Temple) in Bodh Gaya is one of the four sacred sites of the Lord Buddha’s (Siddhartha Gautama) life, and the very spot where he attained Enlightenment. On the western side of the temple is the sacred Bodhi Tree, the very fig tree under which the Buddha was sitting when he did so. Be that as it may, the first Mahabodhi Temple (there have been a couple) was built by the Emperor Ashoka c. 260 BC. The current temple complex – notably the great tower, one of the first brick structures in India – dates from the 5th and 6th centuries AD. A high wall around the temple grounds was added at a later, undocumented, date; the wall encompasses the Bodhi Tree and six other sacred sites of Buddha’s Enlightenment, since he spent seven weeks in seven different spots meditating on his own revelations, as well as numerous Votive stupas. In the 1880's the British Raj undertook a restoration effort; in 1949 control of the site passed to the state government of Bihar. Today, Buddhists from around the world over make pilgrimages to Bodh Gaya as the holiest place of their faith.
+“In a dusty, bustling corner of the Indian state of Bihar, there is a magical place that one might think of as the hub of Buddhism.”
+– Visitor’s Guide, Bodh Gaya
+Traits
+Removed if game started after
+Renaissance Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Theology
+Building
+Temple
+Must have founded a religion
+Adjacency
+Holy Site
+Placement
+Woods
+Production Cost
+Base Cost: 400
+Production
+Description
++2 Diplomatic Victory Points and grants 2 Apostles when built.
+Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.
+Historical Context
+The Mahabodhi Temple (or “Great Awakening” Temple) in Bodh Gaya is one of the four sacred sites of the Lord Buddha’s (Siddhartha Gautama) life, and the very spot where he attained Enlightenment. On the western side of the temple is the sacred Bodhi Tree, the very fig tree under which the Buddha was sitting when he did so. Be that as it may, the first Mahabodhi Temple (there have been a couple) was built by the Emperor Ashoka c. 260 BC. The current temple complex – notably the great tower, one of the first brick structures in India – dates from the 5th and 6th centuries AD. A high wall around the temple grounds was added at a later, undocumented, date; the wall encompasses the Bodhi Tree and six other sacred sites of Buddha’s Enlightenment, since he spent seven weeks in seven different spots meditating on his own revelations, as well as numerous Votive stupas. In the 1880's the British Raj undertook a restoration effort; in 1949 control of the site passed to the state government of Bihar. Today, Buddhists from around the world over make pilgrimages to Bodh Gaya as the holiest place of their faith.
+“In a dusty, bustling corner of the Indian state of Bihar, there is a magical place that one might think of as the hub of Buddhism.”
+– Visitor’s Guide, Bodh Gaya
+Traits
+Removed if game started after
+Renaissance Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Theology
+Building
+Temple
+Must have founded a religion
+Adjacency
+Holy Site
+Placement
+Woods
+Production Cost
+Base Cost: 400
+Production

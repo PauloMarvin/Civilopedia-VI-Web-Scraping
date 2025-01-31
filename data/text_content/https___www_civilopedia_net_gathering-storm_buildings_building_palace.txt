@@ -1,0 +1,46 @@
+Palace - Buildings - Civilopedia - Civilization VI
+Palace
+Historical Context
+As soon as some chieftain managed to become a king, he (or she) began to have delusions of grandeur; living in a hut like everyone else just wouldn’t do. A palace is the residence of a civilization's ruler. The term is somewhat anachronistic, since all sorts of things are called “palaces” nowadays, even gambling casinos. Currently most rulers live in ornate buildings called something like “the White House” or “Government House,” but the effect is the same. Palaces (and their modern equivalents) are designed to do three things: to provide the ruler with access to the people and communications necessary to rule, to defend the leader from attack, and to impress upon subjects and foreign visitors the leader's importance and staggering hubris.
+Traits
++1
+Culture
++5
+Gold
++2
+Production
++2
+Science
++1
+Housing
++2
+Amenities from entertainment
++1 Great Work slot (holds any type)
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 1
+Production
+Historical Context
+As soon as some chieftain managed to become a king, he (or she) began to have delusions of grandeur; living in a hut like everyone else just wouldn’t do. A palace is the residence of a civilization's ruler. The term is somewhat anachronistic, since all sorts of things are called “palaces” nowadays, even gambling casinos. Currently most rulers live in ornate buildings called something like “the White House” or “Government House,” but the effect is the same. Palaces (and their modern equivalents) are designed to do three things: to provide the ruler with access to the people and communications necessary to rule, to defend the leader from attack, and to impress upon subjects and foreign visitors the leader's importance and staggering hubris.
+Traits
++1
+Culture
++5
+Gold
++2
+Production
++2
+Science
++1
+Housing
++2
+Amenities from entertainment
++1 Great Work slot (holds any type)
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 1
+Production

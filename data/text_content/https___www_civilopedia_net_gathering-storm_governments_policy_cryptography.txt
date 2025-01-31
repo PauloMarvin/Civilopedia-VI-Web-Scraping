@@ -1,0 +1,16 @@
+Cryptography - Governments and Policies - Civilopedia - Civilization VI
+Cryptography
+Description
+Enemy Spy level reduced by 2 in your lands. Your Spy level is increased by 1 for offensive operations.
+Historical Context
+Cryptography prior to the modern age was primarily a matter of encryption, often simple transposition or substitution cyphers, making a message nonsense without a key. Like a game for bright children. By World War II, however, cryptography was mostly a matter of mathematical theory and computer science … hardly child’s play. Cryptographic algorithms were designed around computational assumptions and integer factorization. At England’s Bletchley Park facility during World War II, research culminated in Colossus – civilization’s first electronic, digital, programmable computer – built to decrypt the Lorenz cipher. Now nations, corporations, and hackers devote immense blocks of computing time and analysis to cryptosystems … creating them and breaking them.
+Requirements
+Civic
+Cold War
+Description
+Enemy Spy level reduced by 2 in your lands. Your Spy level is increased by 1 for offensive operations.
+Historical Context
+Cryptography prior to the modern age was primarily a matter of encryption, often simple transposition or substitution cyphers, making a message nonsense without a key. Like a game for bright children. By World War II, however, cryptography was mostly a matter of mathematical theory and computer science … hardly child’s play. Cryptographic algorithms were designed around computational assumptions and integer factorization. At England’s Bletchley Park facility during World War II, research culminated in Colossus – civilization’s first electronic, digital, programmable computer – built to decrypt the Lorenz cipher. Now nations, corporations, and hackers devote immense blocks of computing time and analysis to cryptosystems … creating them and breaking them.
+Requirements
+Civic
+Cold War

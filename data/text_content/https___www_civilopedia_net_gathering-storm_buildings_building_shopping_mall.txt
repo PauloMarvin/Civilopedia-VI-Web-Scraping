@@ -1,0 +1,76 @@
+Shopping Mall - Buildings - Civilopedia - Civilization VI
+Shopping Mall
+Description
++4
+Tourism. Can only be built once in a city, even if the city has multiple Neighborhoods.
+Historical Context
+The modern shopping mall is an extension of Ancient Rome's public markets—albeit with better access to fresh baked pretzel dogs.
+Malls, or shopping arcades, centralized collections of shops in one location. Some, like Damascus' Al-Hamidiyah Souq in the 19th Century, were essentially covered markets, while St. Petersburg's Great Gostiny Dvor would offer an earlier 'traditional' mall experience in 1785.
+By the mid-Twentieth Century, the enclosed shopping complex as we know it would arrive in 1955 with Appleton, Wisconsin's Valley Fair Shopping Center and the Ralph Erskine-designed mall in Lulea, Sweden. Frozen yogurt stands would follow not too long after.
+Traits
++2
+Gold
++2
+Gold additionally when
+Powered
++1
+Amenity from entertainment
++1
+Amenity from entertainment additionally when
+Powered
+Requirements
+District
+Neighborhood
+Civic
+Capitalism
+Mutually Exclusive With
+Food Market
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Power Cost
+Base Load: 1
+Power
+Description
++4
+Tourism. Can only be built once in a city, even if the city has multiple Neighborhoods.
+Historical Context
+The modern shopping mall is an extension of Ancient Rome's public markets—albeit with better access to fresh baked pretzel dogs.
+Malls, or shopping arcades, centralized collections of shops in one location. Some, like Damascus' Al-Hamidiyah Souq in the 19th Century, were essentially covered markets, while St. Petersburg's Great Gostiny Dvor would offer an earlier 'traditional' mall experience in 1785.
+By the mid-Twentieth Century, the enclosed shopping complex as we know it would arrive in 1955 with Appleton, Wisconsin's Valley Fair Shopping Center and the Ralph Erskine-designed mall in Lulea, Sweden. Frozen yogurt stands would follow not too long after.
+Traits
++2
+Gold
++2
+Gold additionally when
+Powered
++1
+Amenity from entertainment
++1
+Amenity from entertainment additionally when
+Powered
+Requirements
+District
+Neighborhood
+Civic
+Capitalism
+Mutually Exclusive With
+Food Market
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Power Cost
+Base Load: 1
+Power

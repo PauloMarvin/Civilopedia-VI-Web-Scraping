@@ -1,0 +1,56 @@
+Democracy - Governments and Policies - Civilopedia - Civilization VI
+Democracy
+Description
+Inherent effect
+Your
+Trade Routes to an Ally or Suzerain's city provide +4
+Food and +4
+Production for both cities. Alliance Points with all allies increase by an additional .25 per turn.
+Inherent effect
+15% Discount on Purchases with
+Gold.
+Historical Context
+Literally "rule by the ordinary people," a democratic government is one in which a large number - ideally all - of the population are involved in making policy decisions, either directly or through elected representatives. What constitutes "the people" is always a fraught issue - while states such as the USA extend voting rights to most, this has not always been the case, as African-Americans, indigenous groups, and women for long were barred from participation in civic life. Democracy is a "liberal" system, if by liberal here we mean the notion of a free individual exercising individual opinions and thus leading to a collective good (and not in its common use as "not conservative"). Ideally, such a system ensures civil liberties, active participation, human rights, and a rule of law. However, as Herodotus reminds us (and dictators ever since have reinforced), the majority may not have its own interest at heart. While freedom of speech, freedom of political expression, freedom of belief, and freedom of the press all sound wonderful, these can bring discord, instability, apathy, paralysis, and violence in the face of challenges. On the other hand, such individual freedoms can lead to bursts of artistic and scientific creativity, economic abundance, and free expression.
+Early democracies were generally “direct” democracies, in the sense that the franchised (i.e. those who could vote – generally excluding women, slaves, those without property, etc) voted on each important matter in assembly. But as the population grew, this proved impractical. Thus, most democracies evolved as did the Roman Republic, with the citizens (however determined) electing representatives to voice their collective views and guard their collective interests. Democracies have ranged from large-scale bureaucracies where the collective will of the people (i.e. the government) manages a great deal of society, to systems where enfranchisement is limited almost to the point of an oligarchy, but each shares the idea that the collective expression of individual will leads to a greater good.
+Traits
+3
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+3 Economic  Slots
+2 Diplomatic  Slots
+2 Wildcard  Slots
+Requirements
+Civic
+Suffrage
+Exclusive Policies
+Their Finest Hour
+New Deal
+Description
+Inherent effect
+Your
+Trade Routes to an Ally or Suzerain's city provide +4
+Food and +4
+Production for both cities. Alliance Points with all allies increase by an additional .25 per turn.
+Inherent effect
+15% Discount on Purchases with
+Gold.
+Historical Context
+Literally "rule by the ordinary people," a democratic government is one in which a large number - ideally all - of the population are involved in making policy decisions, either directly or through elected representatives. What constitutes "the people" is always a fraught issue - while states such as the USA extend voting rights to most, this has not always been the case, as African-Americans, indigenous groups, and women for long were barred from participation in civic life. Democracy is a "liberal" system, if by liberal here we mean the notion of a free individual exercising individual opinions and thus leading to a collective good (and not in its common use as "not conservative"). Ideally, such a system ensures civil liberties, active participation, human rights, and a rule of law. However, as Herodotus reminds us (and dictators ever since have reinforced), the majority may not have its own interest at heart. While freedom of speech, freedom of political expression, freedom of belief, and freedom of the press all sound wonderful, these can bring discord, instability, apathy, paralysis, and violence in the face of challenges. On the other hand, such individual freedoms can lead to bursts of artistic and scientific creativity, economic abundance, and free expression.
+Early democracies were generally “direct” democracies, in the sense that the franchised (i.e. those who could vote – generally excluding women, slaves, those without property, etc) voted on each important matter in assembly. But as the population grew, this proved impractical. Thus, most democracies evolved as did the Roman Republic, with the citizens (however determined) electing representatives to voice their collective views and guard their collective interests. Democracies have ranged from large-scale bureaucracies where the collective will of the people (i.e. the government) manages a great deal of society, to systems where enfranchisement is limited almost to the point of an oligarchy, but each shares the idea that the collective expression of individual will leads to a greater good.
+Traits
+3
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+3 Economic  Slots
+2 Diplomatic  Slots
+2 Wildcard  Slots
+Requirements
+Civic
+Suffrage
+Exclusive Policies
+Their Finest Hour
+New Deal

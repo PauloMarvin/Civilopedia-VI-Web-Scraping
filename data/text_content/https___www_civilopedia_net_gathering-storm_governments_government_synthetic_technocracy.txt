@@ -1,0 +1,52 @@
+Synthetic Technocracy - Governments and Policies - Civilopedia - Civilization VI
+Synthetic Technocracy
+Description
+Inherent effect
++3
+Power in all cities, and +30%
+Production towards all city projects.
+Inherent effect
+-10%
+Tourism.
+Historical Context
+Technocracy is government by experts in the technical details of specific issues, who presumably best understand both the problems at hand and how various technological redresses can improve the society at large. A synthetic technocracy is one where the experts in governance could include non-human agents. In this era, specialist AI seem the most likely candidates for non-human experts in a given domain (although one might define a World Cup-victory-choosing octopus as an example of a nonhuman expert in a highly specialized subfield.) Technocracy follows largely in the tradition of other meritocracy theories and assumes full state control over political and economic issues. Technocracy bills itself as dispassionate and rational, free of the strife of political parties and factions as it pursues its optimal ends. The degree to which any political system run by actual, flawed humans could achieve such lofty goals is, naturally, open to dispute.
+Here in the second decade of the twenty-first century, AI is regularly used to analyze behavior in a variety of domains. Consumer and economic behavior is probably the most-frequently studied area, but political preferences and law enforcement also use AI as a research tool. As AI becomes more sophisticated, the pattern of applying AI to social research is likely to increase in both scope and depth. AI does not dictate policy—yet.
+AI technocrats are assumed to have two major advantages over human technocrats: Fairness and comprehensiveness. The AI would be adjudicating on problems for which it has no (or limited) conflicts of interest, thus ensuring a fairer outcome for a wider swath of humanity. As computing power grows, the AI technocrats would presumably be able to take more factors into consideration, and consider a wider range of outcomes, thus improving their performance and giving better outcomes to more people.
+Fiction has touched on the problem of an AI directing the behavior of humans and expounded on some of the problems inherent in this idea: Wrong assumptions baked in to the AI's moral code, dispassionate policy that produces morally monstrous outcomes (e.g. solving world hunger through cannibalism), a lack of accountability —these are just some of the potential problems of the synthetic technocracy.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+3 Economic  Slots
+1 Diplomatic  Slot
+5 Wildcard  Slots
+Requirements
+Civic
+Optimization Imperative
+Description
+Inherent effect
++3
+Power in all cities, and +30%
+Production towards all city projects.
+Inherent effect
+-10%
+Tourism.
+Historical Context
+Technocracy is government by experts in the technical details of specific issues, who presumably best understand both the problems at hand and how various technological redresses can improve the society at large. A synthetic technocracy is one where the experts in governance could include non-human agents. In this era, specialist AI seem the most likely candidates for non-human experts in a given domain (although one might define a World Cup-victory-choosing octopus as an example of a nonhuman expert in a highly specialized subfield.) Technocracy follows largely in the tradition of other meritocracy theories and assumes full state control over political and economic issues. Technocracy bills itself as dispassionate and rational, free of the strife of political parties and factions as it pursues its optimal ends. The degree to which any political system run by actual, flawed humans could achieve such lofty goals is, naturally, open to dispute.
+Here in the second decade of the twenty-first century, AI is regularly used to analyze behavior in a variety of domains. Consumer and economic behavior is probably the most-frequently studied area, but political preferences and law enforcement also use AI as a research tool. As AI becomes more sophisticated, the pattern of applying AI to social research is likely to increase in both scope and depth. AI does not dictate policy—yet.
+AI technocrats are assumed to have two major advantages over human technocrats: Fairness and comprehensiveness. The AI would be adjudicating on problems for which it has no (or limited) conflicts of interest, thus ensuring a fairer outcome for a wider swath of humanity. As computing power grows, the AI technocrats would presumably be able to take more factors into consideration, and consider a wider range of outcomes, thus improving their performance and giving better outcomes to more people.
+Fiction has touched on the problem of an AI directing the behavior of humans and expounded on some of the problems inherent in this idea: Wrong assumptions baked in to the AI's moral code, dispassionate policy that produces morally monstrous outcomes (e.g. solving world hunger through cannibalism), a lack of accountability —these are just some of the potential problems of the synthetic technocracy.
+Traits
+4
+Diplomatic Favor per
+turn.
+-20 diplomatic modifier towards civilizations in other governments.
+1 Military  Slot
+3 Economic  Slots
+1 Diplomatic  Slot
+5 Wildcard  Slots
+Requirements
+Civic
+Optimization Imperative

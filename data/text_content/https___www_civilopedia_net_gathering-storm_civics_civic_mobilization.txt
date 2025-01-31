@@ -1,0 +1,50 @@
+Mobilization - Civics - Civilopedia - Civilization VI
+Mobilization
+Description
+Allows forming three identical units into an Army or Armada. Allows one new Casus Belli that can be used to justify wars: War of Territorial Expansion.
+Historical Context
+Since the first chieftain called upon all his able-bodied subjects to pick up their clubs and follow him, mobilization has been the prerogative of governments. But “mobilization” has been around only since the mass levy of forces by the Directory to defend the French Revolution. By the time of the American Civil War new technologies – notably the telegraph and the railroad – had moved nations towards a more efficient manner of conscripting and assembling troops. It is estimated that the Confederate States of America mobilized about 11% of its (free) population for the war, and that Prussia could mobilize 75% of its reservists quickly … which it did with great effect for the Second Schleswig War, Austro-Prussian War, and Franco-Prussian War.
+Two rapidly-industrializing nations – Great Britain and the United States – led the world in planning for mobilization. The British needed a way to get lots of Redcoats to distant places to maintain their empire; and the United States needed a way to get lots of Bluecoats to distant places to build theirs. Great Britain, when faced with the Boers in Africa, was quickly able to mobilize its troops and pound them into submission; America, spurred by a Cuban independence movement, was equally successful at bringing their might to bear on the hapless Spanish in the Caribbean and Philippines. The rest of Europe took note, and when first Austria and then Russia began mobilizing in the wake of the assassination of Archduke Ferdinand in July 1914, all the great powers did so as well.
+Two decades later they were all at it again, sparked when Poland instituted a partial mobilization on 24 August in the face of a German buildup along the borders. Within days the British and French had both mobilized … Germany, Italy and the Soviet Union were in a semi-permanent state of mobilization anyway. In the aftermath, most of the “Free World” powers followed America’s lead when it passed the National Security Act of 1947, an all-encompassing plan to implement rapid mobilization and deployment. Although as the Cold War progressed, such elaborate plans became moot under the shadow of the mushroom cloud.
+“When they are preparing for war, those who rule by force speak most copiously about peace until they have completed the mobilization process.”
+– Stefan Zweig
+“In order to rally people, governments need enemies … if they do not have a real enemy, they will invent one in order to mobilize us.”
+– Nhat Hanh
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Urbanization
+Scorched Earth
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Have 3 Corps in your military.
+Progression
+Leads to Civics
+Ideology
+Description
+Allows forming three identical units into an Army or Armada. Allows one new Casus Belli that can be used to justify wars: War of Territorial Expansion.
+Historical Context
+Since the first chieftain called upon all his able-bodied subjects to pick up their clubs and follow him, mobilization has been the prerogative of governments. But “mobilization” has been around only since the mass levy of forces by the Directory to defend the French Revolution. By the time of the American Civil War new technologies – notably the telegraph and the railroad – had moved nations towards a more efficient manner of conscripting and assembling troops. It is estimated that the Confederate States of America mobilized about 11% of its (free) population for the war, and that Prussia could mobilize 75% of its reservists quickly … which it did with great effect for the Second Schleswig War, Austro-Prussian War, and Franco-Prussian War.
+Two rapidly-industrializing nations – Great Britain and the United States – led the world in planning for mobilization. The British needed a way to get lots of Redcoats to distant places to maintain their empire; and the United States needed a way to get lots of Bluecoats to distant places to build theirs. Great Britain, when faced with the Boers in Africa, was quickly able to mobilize its troops and pound them into submission; America, spurred by a Cuban independence movement, was equally successful at bringing their might to bear on the hapless Spanish in the Caribbean and Philippines. The rest of Europe took note, and when first Austria and then Russia began mobilizing in the wake of the assassination of Archduke Ferdinand in July 1914, all the great powers did so as well.
+Two decades later they were all at it again, sparked when Poland instituted a partial mobilization on 24 August in the face of a German buildup along the borders. Within days the British and French had both mobilized … Germany, Italy and the Soviet Union were in a semi-permanent state of mobilization anyway. In the aftermath, most of the “Free World” powers followed America’s lead when it passed the National Security Act of 1947, an all-encompassing plan to implement rapid mobilization and deployment. Although as the Cold War progressed, such elaborate plans became moot under the shadow of the mushroom cloud.
+“When they are preparing for war, those who rule by force speak most copiously about peace until they have completed the mobilization process.”
+– Stefan Zweig
+“In order to rally people, governments need enemies … if they do not have a real enemy, they will invent one in order to mobilize us.”
+– Nhat Hanh
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Urbanization
+Scorched Earth
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Have 3 Corps in your military.
+Progression
+Leads to Civics
+Ideology

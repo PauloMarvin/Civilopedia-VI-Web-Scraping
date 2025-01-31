@@ -1,0 +1,50 @@
+Guilds - Civics - Civilopedia - Civilization VI
+Guilds
+Historical Context
+At their best from the 12th through the 15th centuries, the medieval merchant and craft guilds fostered a stable and productive economy, supported charities and social reforms, helped finance roads, schools and churches. And made possible the transition from feudalism to capitalism. Yet the guilds’ conservatism, exclusivity, monopolistic practices, and political meddling eventually eroded their benefit, dooming them to irrelevance and dissolution. By the time decrees abolishing craft associations were enacted in France (1791), Spain (1840), Germany (1859), and Italy (1864), the guilds’ authority had long been on the wane.
+Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. But by the early Middle Ages, most Roman craft organizations (the collegia), often mutated into Christian confraternities, had disappeared – with the exception of stonecutters and glassmakers, who were employed in building all those churches. The collegia did survive in the Byzantine Empire and figured heavily in the social order of the capital; the famous Book of the Prefect c. 900 AD provides insight into an elaborate guild structure whose primary purpose was imposition of rigid controls on every craft and trade in Byzantium. This concept of control of quality and quantity and price likely spread to Italy in the 10th Century, and then throughout Europe in the 11th Century.
+Medieval guilds were generally established by charters or letters patent issued by the governing body of a city or town, providing a monopoly on production or trade of a good or service there. The ruler was paid a tithe and the guild got to set standards and prices … so everyone was satisfied (save maybe the consumers). Records from the late 12th Century show over 100 guilds chartered by each of the cities of London and Paris. In places, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland, and Holland. But corruption, coupled with new technologies, proved their undoing.
+“Every man should make his son learn some useful trade or profession, so that in these days of changing fortunes … they may have something tangible to fall back upon.”
+– Phineas T. Barnum
+“You can’t go around arresting the Thieves’ Guild. I mean, we’d be at it all day!”
+– Terry Pratchett
+Unlocks
+Requirements
+Medieval Era
+Required Civics
+Feudalism
+Civil Service
+Culture Cost
+Base Cost: 420
+Culture
+Boosts
+Build 2 Markets.
+Progression
+Leads to Civics
+Humanism
+Diplomatic Service
+Reformed Church
+Historical Context
+At their best from the 12th through the 15th centuries, the medieval merchant and craft guilds fostered a stable and productive economy, supported charities and social reforms, helped finance roads, schools and churches. And made possible the transition from feudalism to capitalism. Yet the guilds’ conservatism, exclusivity, monopolistic practices, and political meddling eventually eroded their benefit, dooming them to irrelevance and dissolution. By the time decrees abolishing craft associations were enacted in France (1791), Spain (1840), Germany (1859), and Italy (1864), the guilds’ authority had long been on the wane.
+Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. But by the early Middle Ages, most Roman craft organizations (the collegia), often mutated into Christian confraternities, had disappeared – with the exception of stonecutters and glassmakers, who were employed in building all those churches. The collegia did survive in the Byzantine Empire and figured heavily in the social order of the capital; the famous Book of the Prefect c. 900 AD provides insight into an elaborate guild structure whose primary purpose was imposition of rigid controls on every craft and trade in Byzantium. This concept of control of quality and quantity and price likely spread to Italy in the 10th Century, and then throughout Europe in the 11th Century.
+Medieval guilds were generally established by charters or letters patent issued by the governing body of a city or town, providing a monopoly on production or trade of a good or service there. The ruler was paid a tithe and the guild got to set standards and prices … so everyone was satisfied (save maybe the consumers). Records from the late 12th Century show over 100 guilds chartered by each of the cities of London and Paris. In places, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland, and Holland. But corruption, coupled with new technologies, proved their undoing.
+“Every man should make his son learn some useful trade or profession, so that in these days of changing fortunes … they may have something tangible to fall back upon.”
+– Phineas T. Barnum
+“You can’t go around arresting the Thieves’ Guild. I mean, we’d be at it all day!”
+– Terry Pratchett
+Unlocks
+Requirements
+Medieval Era
+Required Civics
+Feudalism
+Civil Service
+Culture Cost
+Base Cost: 420
+Culture
+Boosts
+Build 2 Markets.
+Progression
+Leads to Civics
+Humanism
+Diplomatic Service
+Reformed Church

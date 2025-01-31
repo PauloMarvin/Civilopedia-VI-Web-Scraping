@@ -1,0 +1,24 @@
+Build Thermonuclear Device - Wonders and Projects - Civilopedia - Civilization VI
+Build Thermonuclear Device
+Description
+Adds a Thermonuclear Device to your nation's inventory. Requires
+Uranium. Maintenance is 16
+Gold.
+Requirements
+Resource
+Uranium
+Technology
+Nuclear Fusion
+Project(s)
+Operation Ivy
+Description
+Adds a Thermonuclear Device to your nation's inventory. Requires
+Uranium. Maintenance is 16
+Gold.
+Requirements
+Resource
+Uranium
+Technology
+Nuclear Fusion
+Project(s)
+Operation Ivy

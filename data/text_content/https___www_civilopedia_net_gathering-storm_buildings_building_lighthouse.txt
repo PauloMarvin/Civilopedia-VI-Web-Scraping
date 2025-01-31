@@ -1,0 +1,52 @@
+Lighthouse - Buildings - Civilopedia - Civilization VI
+Lighthouse
+Description
++25% combat experience for all naval units trained in this city. +1
+Food on all Coast tiles for this city. +2
+Housing if this city is adjacent to coast. +1
+Trade Route capacity, if this city does not yet have a Market building.
+Historical Context
+The sea is a dangerous place, filled with shoals, shallows, reefs, and rocks just waiting to bring the unwary ship to grief. And the weary crew might have a difficult time finding safe harbor. So, in antiquity, not long after men began sailing, signal fires were lit to guide the ship away from danger to port; since such signal fires would be even more visible if elevated, “lighthouses” began to be built by the first seafaring civilizations on promontories. The most famous of the ancient ones: the Pharos at Alexandria, of course, which guided ships into what was once the busiest seaport in the world. For two thousand years since, lighthouses were built wherever there was a need for sailors not to drown and cargos not to be lost. Stone, wood, and brick have given way to steel and concrete construction, and fire has given way to arc lamps, but the principle remains the same.
+Traits
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
+Requirements
+District
+Harbor
+Technology
+Celestial Navigation
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Description
++25% combat experience for all naval units trained in this city. +1
+Food on all Coast tiles for this city. +2
+Housing if this city is adjacent to coast. +1
+Trade Route capacity, if this city does not yet have a Market building.
+Historical Context
+The sea is a dangerous place, filled with shoals, shallows, reefs, and rocks just waiting to bring the unwary ship to grief. And the weary crew might have a difficult time finding safe harbor. So, in antiquity, not long after men began sailing, signal fires were lit to guide the ship away from danger to port; since such signal fires would be even more visible if elevated, “lighthouses” began to be built by the first seafaring civilizations on promontories. The most famous of the ancient ones: the Pharos at Alexandria, of course, which guided ships into what was once the busiest seaport in the world. For two thousand years since, lighthouses were built wherever there was a need for sailors not to drown and cargos not to be lost. Stone, wood, and brick have given way to steel and concrete construction, and fire has given way to arc lamps, but the principle remains the same.
+Traits
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
+Requirements
+District
+Harbor
+Technology
+Celestial Navigation
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold

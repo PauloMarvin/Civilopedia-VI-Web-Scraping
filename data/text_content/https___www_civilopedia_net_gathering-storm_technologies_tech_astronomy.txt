@@ -1,0 +1,44 @@
+Astronomy - Technologies - Civilopedia - Civilization VI
+Astronomy
+Historical Context
+If one stares into the night sky long enough, one discovers astronomy (or if none too bright, astrology – but that’s another topic). Up to the Renaissance, astronomy as the study of objects in space was neither a science nor particularly studious; until, that is, Nicholas Copernicus published his heliocentric theory of the solar system in 1543 AD. His work was defended, corrected and expanded by Galileo Galilei using that new wonder, the telescope. A key figure in the “Scientific Revolution,” Johannes Kepler next devised a mathematical system that detailed the motions of the planets; a few decades later, Newton worked out the mechanics with his development of celestial dynamics and the laws of gravitation, using the reflecting telescope he invented.
+Significant advances in astronomy have usually come with the introduction of new technology; it helps to be able to see things larger, farther away or in other spectrums when studying infinity. Better and better telescopes allowed William Herschel to create a detailed catalogue of nebulas and clusters, and to “discover” the planet Uranus in 1781. The German Friedrich Bessel managed to measure the distance to a star (61 Cygni) in 1838 for the first time. The spectroscope and photography thrust astronomical knowledge ahead, notably when scientists realized that other stars were similar to the sun in composition – just with a wide range of masses, temperatures and sizes.
+But it wasn’t until the early 20th Century that astronomers finally realized that our system was part of a galaxy, the “Milky Way,” and that there were lots of other galaxies floating about. And in between these galaxies were all sorts of exotic things – quasars, pulsars, blazers, radio galaxies, black holes, neutron stars, and such – discovered with esoteric types of telescopes, and even some that orbit the Earth in space where all that man-made pollution doesn’t interfere with studiously observing the night sky.
+“Astronomy compels the soul to look upwards and leads us from this world to another.”
+- Plato
+“Astronomy’s much more fun when you’re not an astronomer.”
+– Brian May
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Build a University adjacent to a Mountain.
+Progression
+Leads to Technologies
+Scientific Theory
+Historical Context
+If one stares into the night sky long enough, one discovers astronomy (or if none too bright, astrology – but that’s another topic). Up to the Renaissance, astronomy as the study of objects in space was neither a science nor particularly studious; until, that is, Nicholas Copernicus published his heliocentric theory of the solar system in 1543 AD. His work was defended, corrected and expanded by Galileo Galilei using that new wonder, the telescope. A key figure in the “Scientific Revolution,” Johannes Kepler next devised a mathematical system that detailed the motions of the planets; a few decades later, Newton worked out the mechanics with his development of celestial dynamics and the laws of gravitation, using the reflecting telescope he invented.
+Significant advances in astronomy have usually come with the introduction of new technology; it helps to be able to see things larger, farther away or in other spectrums when studying infinity. Better and better telescopes allowed William Herschel to create a detailed catalogue of nebulas and clusters, and to “discover” the planet Uranus in 1781. The German Friedrich Bessel managed to measure the distance to a star (61 Cygni) in 1838 for the first time. The spectroscope and photography thrust astronomical knowledge ahead, notably when scientists realized that other stars were similar to the sun in composition – just with a wide range of masses, temperatures and sizes.
+But it wasn’t until the early 20th Century that astronomers finally realized that our system was part of a galaxy, the “Milky Way,” and that there were lots of other galaxies floating about. And in between these galaxies were all sorts of exotic things – quasars, pulsars, blazers, radio galaxies, black holes, neutron stars, and such – discovered with esoteric types of telescopes, and even some that orbit the Earth in space where all that man-made pollution doesn’t interfere with studiously observing the night sky.
+“Astronomy compels the soul to look upwards and leads us from this world to another.”
+- Plato
+“Astronomy’s much more fun when you’re not an astronomer.”
+– Brian May
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Build a University adjacent to a Mountain.
+Progression
+Leads to Technologies
+Scientific Theory

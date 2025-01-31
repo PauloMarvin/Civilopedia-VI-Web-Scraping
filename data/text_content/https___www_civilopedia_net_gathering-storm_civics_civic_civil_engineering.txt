@@ -1,0 +1,48 @@
+Civil Engineering - Civics - Civilopedia - Civilization VI
+Civil Engineering
+Description
+Can build Farms on Grassland Hills and Plains Hills.
+Historical Context
+Around 2550 BC, Imhotep built a stepped pyramid for Dioser at the Saqqara necropolis; thus was founded “civil” (as opposed to military) engineering, the construction of things for the good (loosely defined) of the public. Although the combination of mathematics, physics and management wasn’t labelled as such yet, civil engineering projects of the ancients were legendary – the Qanat water system, the Parthenon, the Appian Way, the Great Wall, the Jetavanaramaya stupas. The busy Roman civil engineers were particularly skilled building the physical infrastructure that made Rome an empire: roads, aqueducts (such as the Pont du Gard at Nimes), bridges (the pons Fabricius in Rome for example), dams, docks, and irrigation systems. The treatise De Architectura libri decem by Marcus Vitruvius, written around 15 BC, was the first work on civil engineering, and served throughout the Middle Ages as the standard for the construction of public works … there not being much original thought in Europe for many years.
+But things picked up with the Industrial Revolution and the discovery of new building materials, tools and needs. In the early 18th Century the term “civil engineering” was first used. And in 1747 civilization’s first civil engineering school opened: the École Nationale des Ponts et Chaussées (“National School of Bridges and Highways”). Soon those busy civil engineers were putting things up all over the landscape, changing city skylines and cluttering the countryside. The first self-proclaimed civil engineer was John Smeaton (who built the Eddystone Lighthouse), and in 1818 the world’s first engineering society – the Institution of Civil Engineers – was founded in London, mostly as an excuse to get together to drink and argue. The first degree in civil engineering in the United States was awarded in 1835 by the Rensselaer Polytechnic Institute. And in 1905 the first civil engineering degree to a woman was granted by Cornell University to one Nora Stanton Blatch Barney.
+The genie of progress was now surely out of the bottle …
+“Improvement makes straight roads; but the crooked roads without improvement are roads of Genius.”
+– William Blake
+“A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
+– Douglas Adams
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Mercantilism
+Culture Cost
+Base Cost: 1010
+Culture
+Boosts
+Build 7 different specialty districts.
+Progression
+Leads to Civics
+Urbanization
+Description
+Can build Farms on Grassland Hills and Plains Hills.
+Historical Context
+Around 2550 BC, Imhotep built a stepped pyramid for Dioser at the Saqqara necropolis; thus was founded “civil” (as opposed to military) engineering, the construction of things for the good (loosely defined) of the public. Although the combination of mathematics, physics and management wasn’t labelled as such yet, civil engineering projects of the ancients were legendary – the Qanat water system, the Parthenon, the Appian Way, the Great Wall, the Jetavanaramaya stupas. The busy Roman civil engineers were particularly skilled building the physical infrastructure that made Rome an empire: roads, aqueducts (such as the Pont du Gard at Nimes), bridges (the pons Fabricius in Rome for example), dams, docks, and irrigation systems. The treatise De Architectura libri decem by Marcus Vitruvius, written around 15 BC, was the first work on civil engineering, and served throughout the Middle Ages as the standard for the construction of public works … there not being much original thought in Europe for many years.
+But things picked up with the Industrial Revolution and the discovery of new building materials, tools and needs. In the early 18th Century the term “civil engineering” was first used. And in 1747 civilization’s first civil engineering school opened: the École Nationale des Ponts et Chaussées (“National School of Bridges and Highways”). Soon those busy civil engineers were putting things up all over the landscape, changing city skylines and cluttering the countryside. The first self-proclaimed civil engineer was John Smeaton (who built the Eddystone Lighthouse), and in 1818 the world’s first engineering society – the Institution of Civil Engineers – was founded in London, mostly as an excuse to get together to drink and argue. The first degree in civil engineering in the United States was awarded in 1835 by the Rensselaer Polytechnic Institute. And in 1905 the first civil engineering degree to a woman was granted by Cornell University to one Nora Stanton Blatch Barney.
+The genie of progress was now surely out of the bottle …
+“Improvement makes straight roads; but the crooked roads without improvement are roads of Genius.”
+– William Blake
+“A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
+– Douglas Adams
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Mercantilism
+Culture Cost
+Base Cost: 1010
+Culture
+Boosts
+Build 7 different specialty districts.
+Progression
+Leads to Civics
+Urbanization

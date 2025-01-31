@@ -1,0 +1,68 @@
+Barracks - Buildings - Civilopedia - Civilization VI
+Barracks
+Description
++25% combat experience for all melee and ranged land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Stable.
+Historical Context
+Militiamen had homes, had jobs, and fed and clothed themselves, waging war only when called out by the government; professional soldiers had no homes, war was their occupation, and they got their victuals and spiffy uniforms from the government. Once writing was invented, professional armies were possible (along with most everything else, including kings and civilizations). Since they didn’t have homes as such, the barracks housed them … usually near the center of town so the soldiers could react to any threat, external or internal. Effectively, the barracks were permanent camps, with such amenities as training grounds, bath rooms, medical facilities, mess halls and gymnasia added. Often these barracks were at least minimally fortified, just in case of trouble. Be it ever so humble, home is where the heart is … in this case, war.
+Traits
+Replaced By
+Basilikoi Paides
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Bronze Working
+Mutually Exclusive With
+Stable
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
++25% combat experience for all melee and ranged land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Stable.
+Historical Context
+Militiamen had homes, had jobs, and fed and clothed themselves, waging war only when called out by the government; professional soldiers had no homes, war was their occupation, and they got their victuals and spiffy uniforms from the government. Once writing was invented, professional armies were possible (along with most everything else, including kings and civilizations). Since they didn’t have homes as such, the barracks housed them … usually near the center of town so the soldiers could react to any threat, external or internal. Effectively, the barracks were permanent camps, with such amenities as training grounds, bath rooms, medical facilities, mess halls and gymnasia added. Often these barracks were at least minimally fortified, just in case of trouble. Be it ever so humble, home is where the heart is … in this case, war.
+Traits
+Replaced By
+Basilikoi Paides
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Bronze Working
+Mutually Exclusive With
+Stable
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

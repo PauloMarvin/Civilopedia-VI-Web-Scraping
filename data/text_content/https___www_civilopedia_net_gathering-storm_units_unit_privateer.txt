@@ -1,0 +1,60 @@
+Privateer - Units - Civilopedia - Civilization VI
+Privateer
+Description
+Renaissance era ranged naval unit with the ability to coastal raid.Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+“Plausible deniability.” That principle of avoiding responsibility operated as well in the Age of Sail as it does today. The only difference – and it was a cutlass-edge thin one – between a pirate and a privateer was having a piece of paper, a letter of marque in hand granted by a sovereign. Privateers were privately-owned ships (anything from simple sloops to brigs and caravels) commissioned by a government to “gain reparations for the crown for specific offenses [by other nations] during time of peace” … or prey upon enemy shipping in time of war. After the crown took its share of the spoils from the privateer’s raids, the rest – the larger half – went to the owner and crew. Since just about everyone in Europe had a grievance against the Spanish during the colonial era, the 17th and 18th centuries were the heyday of privateering, especially by those English sea dogs coddled by Elizabeth I and by the French Protestant corsairs (who attacked just about everybody).
+Traits
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+50
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 280
+Production
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Renaissance era ranged naval unit with the ability to coastal raid.Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+“Plausible deniability.” That principle of avoiding responsibility operated as well in the Age of Sail as it does today. The only difference – and it was a cutlass-edge thin one – between a pirate and a privateer was having a piece of paper, a letter of marque in hand granted by a sovereign. Privateers were privately-owned ships (anything from simple sloops to brigs and caravels) commissioned by a government to “gain reparations for the crown for specific offenses [by other nations] during time of peace” … or prey upon enemy shipping in time of war. After the crown took its share of the spoils from the privateer’s raids, the rest – the larger half – went to the owner and crew. Since just about everyone in Europe had a grievance against the Spanish during the colonial era, the 17th and 18th centuries were the heyday of privateering, especially by those English sea dogs coddled by Elizabeth I and by the French Protestant corsairs (who attacked just about everybody).
+Traits
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+50
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Mercantilism
+Production Cost
+Base Cost: 280
+Production
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

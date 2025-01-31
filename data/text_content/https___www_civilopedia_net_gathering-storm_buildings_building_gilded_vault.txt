@@ -1,0 +1,60 @@
+Gilded Vault - Buildings - Civilopedia - Civilization VI
+Gilded Vault
+Description
+Unique to the Owls of Minerva, replaces the Bank. This Commercial Hub generates
+Culture equal to its
+Gold adjacency bonus.  Having a Harbor in this city provides you with +1
+Trade Route capacity.
+Historical Context
+The secret societies of the 18th and 19th centuries always had a secret base – a place where the members could gather in robes and masks for clandestine ceremonies (or, more likely, gather in funny hats for watered-down beer). Here, around a sumptuous table, decisions were alleged to be made about what countries rose and fell, and who would hold the reins of power. This is an image cribbed from popular culture, but certain societies did and still do play upon such tropes for fun or to expand their own mystique. Yale’s secret societies, for instance, still meet in elaborate, Orientalist-themed vaults for what outsiders would have you believe to be world-defining meetings (but which are more likely the wearing of funny hats and drinking of watered-down beer). In these “gilded vaults,” money and power, noble titles and authority, are traded freely. Or so they say.
+Traits
+Replaces
+Bank
++5
+Gold
++1
+Citizen slot
++2
+Great Merchant points per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Banking
+Building
+Market
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Description
+Unique to the Owls of Minerva, replaces the Bank. This Commercial Hub generates
+Culture equal to its
+Gold adjacency bonus.  Having a Harbor in this city provides you with +1
+Trade Route capacity.
+Historical Context
+The secret societies of the 18th and 19th centuries always had a secret base – a place where the members could gather in robes and masks for clandestine ceremonies (or, more likely, gather in funny hats for watered-down beer). Here, around a sumptuous table, decisions were alleged to be made about what countries rose and fell, and who would hold the reins of power. This is an image cribbed from popular culture, but certain societies did and still do play upon such tropes for fun or to expand their own mystique. Yale’s secret societies, for instance, still meet in elaborate, Orientalist-themed vaults for what outsiders would have you believe to be world-defining meetings (but which are more likely the wearing of funny hats and drinking of watered-down beer). In these “gilded vaults,” money and power, noble titles and authority, are traded freely. Or so they say.
+Traits
+Replaces
+Bank
++5
+Gold
++1
+Citizen slot
++2
+Great Merchant points per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Banking
+Building
+Market
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold

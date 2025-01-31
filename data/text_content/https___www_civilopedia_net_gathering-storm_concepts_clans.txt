@@ -1,0 +1,72 @@
+Barbarian Clans - Concepts - Civilopedia - Civilization VI
+Barbarian Clans
+Welcome
+In game setup, players can turn on the Barbarian Clans game mode, introducing greater diversity to Barbarians and new player interactions with them.
+Types of Clans
+Replacing the melee, cavalry, and naval tribes in standard rules, this mode includes seven types of Barbarian clans. Each clan type has its own preferred range of units to field and requires a different set of map conditions in order to appear.
+Melee tribes are represented by Woodland clans that favor ranged units, Hills clans that favor melee and anti-cavalry units, and a Flatland clan with a balanced approach.
+Cavalry tribes are represented by Rover clans that favor a diversity of mounted units, Chariot clans that favor vehicles as well as mounted units, and Jungle clans that favor a mixture of cavalry and foot soldiers.
+Naval tribes are represented by the Seafaring clan with a balanced approach to naval units.
+Clans and Unique Units
+In addition to their normal units, clans also have the ability to field Unique Units from around the world.
+In any game with Clans Mode active, the Unique Units associated with civilizations not present in that game are made available for Barbarian clans to claim and use. Clans will periodically claim an available unique unit from among those that match its playstyle and are close in power to the clan's current best unit. Once any clan claims a Unique Unit, it will have exclusive access to it while the clan exists. If the clan is destroyed, the claim is cleared and another clan could claim the same unit on a subsequent turn.
+Clan Conversions to City-States
+In this mode, clans that successfully remain in play long enough can convert into City-States.
+Every clan makes progress towards conversion each turn based on the
+Food yield of unowned tiles around their Outpost. Beneficial player activies such as hiring or bribing the clan can speed up their progress, while violent activities like raiding and inciting can slow it down. When the clan has made enough progress, they become a candidate to convert on that or any subsequent turn.
+When a Barbarian Clan converts into a City-State, their Outpost is immediately replaced by the new city under its new name, and all existing clan units become units of the new City-State. The City-State will also be immediately introduced to any civilizations that had discovered the clan.
+Based on the game's settings, only a certain number of clan conversions can occur. Once all possible conversions have occurred, all current and future clans will remain Barbarians for the duration of the game.
+Raiding and Dispersing Clans
+Combat units that enter a Barbarian Outpost do not automatically destroy it. Instead, they can choose from two new unit commands to deal with the clan: Raid and Disperse.
+Raiding an Outpost rewards
+Gold to the player and reduces the clan's progress towards City-State conversion, but does not destroy the Outpost. When a clan is raided, it gains immunity to raids for a short duration. Raided clans will also spawn a defender unit in reprisal the same turn they are raided, ejecting any foreign unit in their Outpost in the process.
+Dispersing an Outpost will destroy the clan completely and earn a substantial amount of Experience Points for the dispersing unit.
+Advanced Interactions with Clans
+Besides the options for combat with clan units and Outposts, players can take peaceful or diplomatic actions with clans. These include Hiring, Bribing, Inciting, and Ransoming units from the clan. To initiate one of these interactions, click on the map banner over the Outpost. If the Outpost's location is not revealed to you, these interactions will be unavailable as well.
+HIRING a clan: spend
+Gold to purchase a military unit from the clan. The unit provided will be the best the clan can currently train -- it could even be a Unique Unit!  Unlike levying a City-State, hired units are permanently under your control. They appear the same turn on a plot near to your closest city. Clans that are hired cannot be hired again for a short duration. Hiring a clan increases their City-State conversion progress.
+BRIBING a clan: spend
+Gold to expel clan units from your territory and prevent them from targeting your cities for a set number of turns. Bribe costs start low but scale up the more cities you have. Clans that are bribed cannot be bribed again by the same player until the bribe expires, but they can be bribed by more than one player at a time. Bribing a clan increases their City-State conversion progress.
+INCITING a clan: spend
+Gold to encourage the clan to raid and attack the cities of another civilization. You and the clan must share knowledge of at least one other civilization or City-State to be able to incite them. Incite costs are high, but the incitement has no expiration. However, clans can only be incited against one civilization at a time. Inciting a clan reduces its progress towards City-State conversion.
+RANSOMING a unit from a clan: if a clan has captured one of your civilian units, you can spend
+Gold to recover it. The cost to ransom a unit is always slightly less than the cost to purchase it new in one of your cities. Ransomed units appear the same turn at your closest City Center. Clans that ransom units lose progress towards City-State conversion.
+Bribing a clan and ransoming a unit from them are exclusive: while a clan has one of your units held hostage, they will not listen to your bribe offers! You must recapture or ransom all units from a clan before you can bribe them again.
+History
+The word "barbarian" comes from Greek (with a related term, "barbara", in Sanskrit), where it refers to people who could not speak the language (and sounded like they were saying "bar bar bar"). So what "barbarians" had in common was not being of a different race or ethnicity, but being on the outside of what people thought of as the cultural center. Whether we are talking about the Gauls (barbarians to the Greeks), or the Sakas ("mleccha" to the ancient Indians), or the Xiongnu (one of the "Five Hu," or Five Barbarians who plagued Han Dynasty China), empires and states had a way of determining who was "in," and who was "out."
+But despite the best propaganda efforts of empires, historical barbarians were not the savages that their settled rivals thought them to be. They were neither backwards people who had yet to progress to settled life, nor were they people that existed uncontacted by nation-states. Rather, non-state peoples existed in tandem with nations. As the geographer James C. Scott writes, early states made great efforts to control (often coercively) populations into living in close-clustered and unhealthy communities where their surplus production could be controlled and appropriated. Barbarian life, on the other hand, offered an option for freedom, and barbarian groups became both a source of raiders and pirates that preyed on the states, but also a means through which states could extend trade and diplomatic networks across territory that they did not have to control directly. Barbarian and civilized – the two are interdependent.
+Welcome
+In game setup, players can turn on the Barbarian Clans game mode, introducing greater diversity to Barbarians and new player interactions with them.
+Types of Clans
+Replacing the melee, cavalry, and naval tribes in standard rules, this mode includes seven types of Barbarian clans. Each clan type has its own preferred range of units to field and requires a different set of map conditions in order to appear.
+Melee tribes are represented by Woodland clans that favor ranged units, Hills clans that favor melee and anti-cavalry units, and a Flatland clan with a balanced approach.
+Cavalry tribes are represented by Rover clans that favor a diversity of mounted units, Chariot clans that favor vehicles as well as mounted units, and Jungle clans that favor a mixture of cavalry and foot soldiers.
+Naval tribes are represented by the Seafaring clan with a balanced approach to naval units.
+Clans and Unique Units
+In addition to their normal units, clans also have the ability to field Unique Units from around the world.
+In any game with Clans Mode active, the Unique Units associated with civilizations not present in that game are made available for Barbarian clans to claim and use. Clans will periodically claim an available unique unit from among those that match its playstyle and are close in power to the clan's current best unit. Once any clan claims a Unique Unit, it will have exclusive access to it while the clan exists. If the clan is destroyed, the claim is cleared and another clan could claim the same unit on a subsequent turn.
+Clan Conversions to City-States
+In this mode, clans that successfully remain in play long enough can convert into City-States.
+Every clan makes progress towards conversion each turn based on the
+Food yield of unowned tiles around their Outpost. Beneficial player activies such as hiring or bribing the clan can speed up their progress, while violent activities like raiding and inciting can slow it down. When the clan has made enough progress, they become a candidate to convert on that or any subsequent turn.
+When a Barbarian Clan converts into a City-State, their Outpost is immediately replaced by the new city under its new name, and all existing clan units become units of the new City-State. The City-State will also be immediately introduced to any civilizations that had discovered the clan.
+Based on the game's settings, only a certain number of clan conversions can occur. Once all possible conversions have occurred, all current and future clans will remain Barbarians for the duration of the game.
+Raiding and Dispersing Clans
+Combat units that enter a Barbarian Outpost do not automatically destroy it. Instead, they can choose from two new unit commands to deal with the clan: Raid and Disperse.
+Raiding an Outpost rewards
+Gold to the player and reduces the clan's progress towards City-State conversion, but does not destroy the Outpost. When a clan is raided, it gains immunity to raids for a short duration. Raided clans will also spawn a defender unit in reprisal the same turn they are raided, ejecting any foreign unit in their Outpost in the process.
+Dispersing an Outpost will destroy the clan completely and earn a substantial amount of Experience Points for the dispersing unit.
+Advanced Interactions with Clans
+Besides the options for combat with clan units and Outposts, players can take peaceful or diplomatic actions with clans. These include Hiring, Bribing, Inciting, and Ransoming units from the clan. To initiate one of these interactions, click on the map banner over the Outpost. If the Outpost's location is not revealed to you, these interactions will be unavailable as well.
+HIRING a clan: spend
+Gold to purchase a military unit from the clan. The unit provided will be the best the clan can currently train -- it could even be a Unique Unit!  Unlike levying a City-State, hired units are permanently under your control. They appear the same turn on a plot near to your closest city. Clans that are hired cannot be hired again for a short duration. Hiring a clan increases their City-State conversion progress.
+BRIBING a clan: spend
+Gold to expel clan units from your territory and prevent them from targeting your cities for a set number of turns. Bribe costs start low but scale up the more cities you have. Clans that are bribed cannot be bribed again by the same player until the bribe expires, but they can be bribed by more than one player at a time. Bribing a clan increases their City-State conversion progress.
+INCITING a clan: spend
+Gold to encourage the clan to raid and attack the cities of another civilization. You and the clan must share knowledge of at least one other civilization or City-State to be able to incite them. Incite costs are high, but the incitement has no expiration. However, clans can only be incited against one civilization at a time. Inciting a clan reduces its progress towards City-State conversion.
+RANSOMING a unit from a clan: if a clan has captured one of your civilian units, you can spend
+Gold to recover it. The cost to ransom a unit is always slightly less than the cost to purchase it new in one of your cities. Ransomed units appear the same turn at your closest City Center. Clans that ransom units lose progress towards City-State conversion.
+Bribing a clan and ransoming a unit from them are exclusive: while a clan has one of your units held hostage, they will not listen to your bribe offers! You must recapture or ransom all units from a clan before you can bribe them again.
+History
+The word "barbarian" comes from Greek (with a related term, "barbara", in Sanskrit), where it refers to people who could not speak the language (and sounded like they were saying "bar bar bar"). So what "barbarians" had in common was not being of a different race or ethnicity, but being on the outside of what people thought of as the cultural center. Whether we are talking about the Gauls (barbarians to the Greeks), or the Sakas ("mleccha" to the ancient Indians), or the Xiongnu (one of the "Five Hu," or Five Barbarians who plagued Han Dynasty China), empires and states had a way of determining who was "in," and who was "out."
+But despite the best propaganda efforts of empires, historical barbarians were not the savages that their settled rivals thought them to be. They were neither backwards people who had yet to progress to settled life, nor were they people that existed uncontacted by nation-states. Rather, non-state peoples existed in tandem with nations. As the geographer James C. Scott writes, early states made great efforts to control (often coercively) populations into living in close-clustered and unhealthy communities where their surplus production could be controlled and appropriated. Barbarian life, on the other hand, offered an option for freedom, and barbarian groups became both a source of raiders and pirates that preyed on the states, but also a means through which states could extend trade and diplomatic networks across territory that they did not have to control directly. Barbarian and civilized – the two are interdependent.

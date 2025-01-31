@@ -1,0 +1,66 @@
+Maryannu Chariot Archer - Units - Civilopedia - Civilization VI
+Maryannu Chariot Archer
+Description
+Egyptian unique Ancient era ranged unit. 4
+Movement when starting in open terrain.
+Historical Context
+The maryannu (the singular form marya, meaning “young warrior” or “youthful hero”) was a hereditary caste of chariot-mounted nobility, found in several societies in Bronze Age Middle East. In Egypt, they rode in two-man light chariots, which offered a more stable base for archery than did horseback, given the length of the bows common at the time. And the marya could carry more ammunition. But there were some significant disadvantages for the young heroes such as the limitations of terrain and the maintenance of the vehicle and horses on long campaigns. Nonetheless, the maryannu were a powerful elite in the pharaoh’s army; the best record of their effectiveness in battle is at Kadesh, c. 1274 BC, where they carried the day for Ramesses II. There are lots of images left behind depicting the ancient Egyptian maryannu chariots (one of the indelible images of that civilization), and six well-preserved specimens were found in the tomb of Tutankhamun (who passed over around 1323 BC).
+Traits
+Unique To
+Egypt
+Upgrades To
+Crossbowman
+Voi Chiến
+Promotion Class: Ranged
+2
+Movement Points
+25
+Melee Strength
+35
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Wheel
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Egyptian unique Ancient era ranged unit. 4
+Movement when starting in open terrain.
+Historical Context
+The maryannu (the singular form marya, meaning “young warrior” or “youthful hero”) was a hereditary caste of chariot-mounted nobility, found in several societies in Bronze Age Middle East. In Egypt, they rode in two-man light chariots, which offered a more stable base for archery than did horseback, given the length of the bows common at the time. And the marya could carry more ammunition. But there were some significant disadvantages for the young heroes such as the limitations of terrain and the maintenance of the vehicle and horses on long campaigns. Nonetheless, the maryannu were a powerful elite in the pharaoh’s army; the best record of their effectiveness in battle is at Kadesh, c. 1274 BC, where they carried the day for Ramesses II. There are lots of images left behind depicting the ancient Egyptian maryannu chariots (one of the indelible images of that civilization), and six well-preserved specimens were found in the tomb of Tutankhamun (who passed over around 1323 BC).
+Traits
+Unique To
+Egypt
+Upgrades To
+Crossbowman
+Voi Chiến
+Promotion Class: Ranged
+2
+Movement Points
+25
+Melee Strength
+35
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Wheel
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

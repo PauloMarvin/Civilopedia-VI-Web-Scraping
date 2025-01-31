@@ -1,0 +1,52 @@
+Wat - Buildings - Civilopedia - Civilization VI
+Wat
+Historical Context
+Buddhist monasteries in Cambodia, Thailand and Laos are termed “wats” (Sanskrit for “enclosure”). The wat often encompassed a school, and hence were both holy and educational. A wat generally consists of a temple containing statues of the Buddha, a prayer room, a room containing religious texts, a pavilion for relaxation, a library, study hall, bell towers, drum towers, and living quarters. Wats come in two types: those granted wisungkhamasima (royal patronage) and those not (samnak song). They abound across Southeast Asia, and architectural styles are as varied as the peoples – although the living quarters for the monks and novices are invariably separate from the sacred structures. Often ornately decorated and gilded, wats are some of the most distinctive and historic structures in the region, including the famous one at Angkor, Cambodia, constructed in the early 12th Century under the patronage of King Suryavarman II.
+Traits
+Unique To
+Wat
++3
+Faith
++2
+Science
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+Buddhist monasteries in Cambodia, Thailand and Laos are termed “wats” (Sanskrit for “enclosure”). The wat often encompassed a school, and hence were both holy and educational. A wat generally consists of a temple containing statues of the Buddha, a prayer room, a room containing religious texts, a pavilion for relaxation, a library, study hall, bell towers, drum towers, and living quarters. Wats come in two types: those granted wisungkhamasima (royal patronage) and those not (samnak song). They abound across Southeast Asia, and architectural styles are as varied as the peoples – although the living quarters for the monks and novices are invariably separate from the sacred structures. Often ornately decorated and gilded, wats are some of the most distinctive and historic structures in the region, including the famous one at Angkor, Cambodia, constructed in the early 12th Century under the patronage of King Suryavarman II.
+Traits
+Unique To
+Wat
++3
+Faith
++2
+Science
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

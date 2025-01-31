@@ -1,0 +1,74 @@
+Maya - Civilizations/Leaders - Civilopedia - Civilization VI
+Maya
+Unique Ability
+Mayab
+Settling adjacent to Fresh Water and Coast does not provide extra
+Housing, instead each Farm provides an additional +1
+Housing, +1
+Production for every adjacent Observatory, and +1
+Gold. +1
+Amenity for every Luxury adjacent to the City Center.
+Historical Context
+The early Mayas rose in the Yucatán Peninsula and established city-states between 2000 BC and 250 AD. These city-states were governed and ruled by divinely-blessed rulers, and ranged from both small settlements to metropolises, such as the city-state known today as El Mirador. The city-states were never united politically in the same way as other Mesoamerican cultures, but they still shared a common language and culture. They competed with as much as they relied on each other for growth and the projection of power.
+The Mayas chose a unique (and rather brave) place to settle. The Yucatán Peninsula wasn’t good for the kind of agriculture that most other civilizations practiced. Rather than settling around river valleys, the Maya built in tropical rainforests, with thin soil atop limestone foundations. A lack of a river meant that transportation was difficult, and finding drinking water problematic. But adversity can often lead to innovation. Where the water was too saline, the early Maya learned how to filter water through the limestone to make it drinkable, and where the jungle was too dense, they created raised earthen mounds on which to grow crops. One of the most important developments the Maya made was the creation of their written language, which consisted of glyphs.
+Maya glyphs were designed to fit within individual blocks and read almost like comic panels, going left, right, then down below the first left one, and so on. These glyphs were a mixture of pictographic and phonetic characters, rather like modern-day Japanese.  The Maya were avid record keepers, and their script remained in use up until the arrival of the Europeans in Mesoamerica.
+While most of their books (codices made of tree-bark) were burned during the Spanish conquest, their monuments, or “stelae,” survive. As the Maya dated their stelae with their Long Count calendar, we can use them to identify historical dates from quite far back.
+By 250 AD, the Maya began strengthening their power in major cities such as Calakmul, Palenque, Tikal, Bonampak, Kaminaljuyu, and Copán. In this era, there were over 40 Maya cities, with populations between 5,000 and 50,000 people. As these cities grew, the Maya thrived. They built ball courts for popular games, constructed massive pyramids (which grew ever more massive thanks to the Maya’s layered building methods), and educated a scholarly elite.
+Maya pyramids were created differently from Egyptian ones. Rather than using only bricks, they started with a base foundation of limestone and mortar. They then covered this with plaster, which was then painted. Any time they wanted to make improvements, they simply had to throw on some more limestone, cover it again, and paint it. There was no need for lengthy, complicated renovations, and they didn’t have to worry about structural issues. These pyramids were usually places of worship. These temples, known as “k’uh nah’, had multiple rooms, each dedicated to a deity.
+Maya cities were sprawling and made up of these temples, palaces, and ball courts, all of which were set around central plazas. The cities could have multiple plazas and then the other structures grew outward from them. Art frescos and sculptures adorned the wealthier areas. Art was created for the royal court, or at least, created to be about them. Art was also used to commemorate important moments in their history. Recent advances in radar technology has revealed the extent of these cities; whereas before archaeologists assumed that the Maya were a largely dispersed people, coming together only at temple complexes, new studies have revealed strikingly large settlements, sprawled out over the jungle.
+Maya life wasn’t all monuments, math, sports, and science. Military campaigns were frequent, whether it be to establish rule, to take control over trade routes, or to send a message to an enemy city-state. Combat and the subsequent battles were important enough to be memorialized and glorified in art and hieroglyphic engravings. To be a good ruler, a Maya also had to be a good warrior. They were expected to lead battles and be good tacticians. The kings and societal elites who were defeated were captured and subsequently sacrificed. Such sacrifices were rare, though, and for the most part, the Maya focused on other kinds of sacrifices: drops of blood on paper burned as an offering, for instance.
+By the 900s, the Maya declined in both power and population, and some cities were entirely abandoned. But this decline turned out to be just another revolution in the cycle of rise and fall, and, by the 1100s, new cities were forming, particularly along the Caribbean and Gulf coast.
+One of the most powerful of these cities, Mayapan, was, when the Spanish arrived by accident (literally – they were shipwrecked) in 1511, in yet another state of collapse. Following the first contact, the Spanish sent three more expeditions to the Yucatán and took over the Aztec capital in Tenochtitlan in 1521. From there, they turned south to modern-day Guatemala and began their conquest of Central America. By 1697, the Spanish defeated the last Maya city, Nojpeté.
+Although the Maya cities were gone and the Spanish tried to erase elements of the Maya culture, the Maya continued to persist in small villages, where they maintained their traditional life. Even after the conquest, some of these practices continued, especially food culture and crafts. Today, the Maya are still around, and the language, tzolk’in ritual calendar, and other elements of Maya society thrive.
+Traits
+Leaders
+Lady Six Sky
+Special Units
+Hul'che
+Special Infrastructure
+Observatory
+Geography & Social Data
+Location
+Central America, including parts of present-day Mexico, Guatemala, Honduras, Belize, and El Salvador.
+Size
+120,000 square miles at its peak (about 200 thousand square km). For comparison, this is about twice the size of medieval England.
+Population
+Generally assumed to be about 5 million at its height, but new archaeological discoveries suggest that the real number might be closer to 10 or 15 million. There are about 5 million present-day Maya speakers.
+Capital
+Never unified into one empire, the Maya had a series of important cities, including Tikal, Caracol, Mayapan, Calakmul, and, later, Chichen Itza.
+Traits
+Leaders
+Lady Six Sky
+Special Units
+Hul'che
+Special Infrastructure
+Observatory
+Geography & Social Data
+Location
+Central America, including parts of present-day Mexico, Guatemala, Honduras, Belize, and El Salvador.
+Size
+120,000 square miles at its peak (about 200 thousand square km). For comparison, this is about twice the size of medieval England.
+Population
+Generally assumed to be about 5 million at its height, but new archaeological discoveries suggest that the real number might be closer to 10 or 15 million. There are about 5 million present-day Maya speakers.
+Capital
+Never unified into one empire, the Maya had a series of important cities, including Tikal, Caracol, Mayapan, Calakmul, and, later, Chichen Itza.
+Unique Ability
+Mayab
+Settling adjacent to Fresh Water and Coast does not provide extra
+Housing, instead each Farm provides an additional +1
+Housing, +1
+Production for every adjacent Observatory, and +1
+Gold. +1
+Amenity for every Luxury adjacent to the City Center.
+Historical Context
+The early Mayas rose in the Yucatán Peninsula and established city-states between 2000 BC and 250 AD. These city-states were governed and ruled by divinely-blessed rulers, and ranged from both small settlements to metropolises, such as the city-state known today as El Mirador. The city-states were never united politically in the same way as other Mesoamerican cultures, but they still shared a common language and culture. They competed with as much as they relied on each other for growth and the projection of power.
+The Mayas chose a unique (and rather brave) place to settle. The Yucatán Peninsula wasn’t good for the kind of agriculture that most other civilizations practiced. Rather than settling around river valleys, the Maya built in tropical rainforests, with thin soil atop limestone foundations. A lack of a river meant that transportation was difficult, and finding drinking water problematic. But adversity can often lead to innovation. Where the water was too saline, the early Maya learned how to filter water through the limestone to make it drinkable, and where the jungle was too dense, they created raised earthen mounds on which to grow crops. One of the most important developments the Maya made was the creation of their written language, which consisted of glyphs.
+Maya glyphs were designed to fit within individual blocks and read almost like comic panels, going left, right, then down below the first left one, and so on. These glyphs were a mixture of pictographic and phonetic characters, rather like modern-day Japanese.  The Maya were avid record keepers, and their script remained in use up until the arrival of the Europeans in Mesoamerica.
+While most of their books (codices made of tree-bark) were burned during the Spanish conquest, their monuments, or “stelae,” survive. As the Maya dated their stelae with their Long Count calendar, we can use them to identify historical dates from quite far back.
+By 250 AD, the Maya began strengthening their power in major cities such as Calakmul, Palenque, Tikal, Bonampak, Kaminaljuyu, and Copán. In this era, there were over 40 Maya cities, with populations between 5,000 and 50,000 people. As these cities grew, the Maya thrived. They built ball courts for popular games, constructed massive pyramids (which grew ever more massive thanks to the Maya’s layered building methods), and educated a scholarly elite.
+Maya pyramids were created differently from Egyptian ones. Rather than using only bricks, they started with a base foundation of limestone and mortar. They then covered this with plaster, which was then painted. Any time they wanted to make improvements, they simply had to throw on some more limestone, cover it again, and paint it. There was no need for lengthy, complicated renovations, and they didn’t have to worry about structural issues. These pyramids were usually places of worship. These temples, known as “k’uh nah’, had multiple rooms, each dedicated to a deity.
+Maya cities were sprawling and made up of these temples, palaces, and ball courts, all of which were set around central plazas. The cities could have multiple plazas and then the other structures grew outward from them. Art frescos and sculptures adorned the wealthier areas. Art was created for the royal court, or at least, created to be about them. Art was also used to commemorate important moments in their history. Recent advances in radar technology has revealed the extent of these cities; whereas before archaeologists assumed that the Maya were a largely dispersed people, coming together only at temple complexes, new studies have revealed strikingly large settlements, sprawled out over the jungle.
+Maya life wasn’t all monuments, math, sports, and science. Military campaigns were frequent, whether it be to establish rule, to take control over trade routes, or to send a message to an enemy city-state. Combat and the subsequent battles were important enough to be memorialized and glorified in art and hieroglyphic engravings. To be a good ruler, a Maya also had to be a good warrior. They were expected to lead battles and be good tacticians. The kings and societal elites who were defeated were captured and subsequently sacrificed. Such sacrifices were rare, though, and for the most part, the Maya focused on other kinds of sacrifices: drops of blood on paper burned as an offering, for instance.
+By the 900s, the Maya declined in both power and population, and some cities were entirely abandoned. But this decline turned out to be just another revolution in the cycle of rise and fall, and, by the 1100s, new cities were forming, particularly along the Caribbean and Gulf coast.
+One of the most powerful of these cities, Mayapan, was, when the Spanish arrived by accident (literally – they were shipwrecked) in 1511, in yet another state of collapse. Following the first contact, the Spanish sent three more expeditions to the Yucatán and took over the Aztec capital in Tenochtitlan in 1521. From there, they turned south to modern-day Guatemala and began their conquest of Central America. By 1697, the Spanish defeated the last Maya city, Nojpeté.
+Although the Maya cities were gone and the Spanish tried to erase elements of the Maya culture, the Maya continued to persist in small villages, where they maintained their traditional life. Even after the conquest, some of these practices continued, especially food culture and crafts. Today, the Maya are still around, and the language, tzolk’in ritual calendar, and other elements of Maya society thrive.

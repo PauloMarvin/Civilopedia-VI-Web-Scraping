@@ -1,0 +1,40 @@
+Nanotechnology - Technologies - Civilopedia - Civilization VI
+Nanotechnology
+Historical Context
+Tiny machines inside animals and humans snipping, slicing, splicing, melding or mutating cells. Tiny machines creating new materials on the molecular level. Or tiny machines making more tiny machines. Whatever use it may be put to, nanotechnology is just beyond the edge of science fiction.
+The theoretical foundations of nanotech date back to December 29, 1959 AD, when the American physicist Richard Feynman introduced it in a Physical Science conference at CalTech. Norio Taniguchi first used the term “nanotechnology” in 1974 to describe the “process of separation, consolidation, and deformation of materials by one atom or one molecule.” In 1985, fullerenes were discovered by a trio of chemists, who were able to form semiconductor clusters using pulsed molecular beams. In 1991 K. Eric Drexler gained his PhD degree with his work on nanotechnology and the following year published his dissertation, laying the basis for practical applications of the technology. Meanwhile, in 1989 IBM researchers became the first to manipulate atoms using a tunneling microscope.
+The first decade of the 21st Century saw the initial uses of nanotech in commercial manufacturing, although mostly limited to the use of passive nanoparticles such as titanium dioxide and zinc-oxide in cosmetics and food products, silver nanoparticles in food packaging and disinfectants, and carbon nanotubes in textiles. In March 2011, the Project on Emerging Nanotechnologies identified some 1300 nanotech products, with new applications being made available at the rate of three or four each week. Meanwhile, the National Nanotechnology Initiative was created by the American government for research to “foster the transfer of new technologies for public benefit … and support responsible development of nanotechnology.”
+Despite dystopian scenarios (such as in Crichton’s novel Prey) and the “polite” debate between leading theorists Richard Smalley (the discoverer of the “buckyball” molecule) and pioneer Eric Drexler over the advent of molecular assemblers, along with some concerns about DNA nanotechnology (the first DNA nanomachine which could change its structure via an input was demonstrated in 1999 by Nadrian Seeman), it seems civilization is on the cusp of a “nanotech revolution.”
+“If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.”
+– Natasha Vita-More
+“Many, many rules had begun to bend at the hand of nanotechnology … This produced a lot of good, and a lot of bad.”
+– Matt Spire
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Composites
+Research Cost
+Base Cost: 2155
+Science
+Boosts
+Build an Aluminum Mine.
+Historical Context
+Tiny machines inside animals and humans snipping, slicing, splicing, melding or mutating cells. Tiny machines creating new materials on the molecular level. Or tiny machines making more tiny machines. Whatever use it may be put to, nanotechnology is just beyond the edge of science fiction.
+The theoretical foundations of nanotech date back to December 29, 1959 AD, when the American physicist Richard Feynman introduced it in a Physical Science conference at CalTech. Norio Taniguchi first used the term “nanotechnology” in 1974 to describe the “process of separation, consolidation, and deformation of materials by one atom or one molecule.” In 1985, fullerenes were discovered by a trio of chemists, who were able to form semiconductor clusters using pulsed molecular beams. In 1991 K. Eric Drexler gained his PhD degree with his work on nanotechnology and the following year published his dissertation, laying the basis for practical applications of the technology. Meanwhile, in 1989 IBM researchers became the first to manipulate atoms using a tunneling microscope.
+The first decade of the 21st Century saw the initial uses of nanotech in commercial manufacturing, although mostly limited to the use of passive nanoparticles such as titanium dioxide and zinc-oxide in cosmetics and food products, silver nanoparticles in food packaging and disinfectants, and carbon nanotubes in textiles. In March 2011, the Project on Emerging Nanotechnologies identified some 1300 nanotech products, with new applications being made available at the rate of three or four each week. Meanwhile, the National Nanotechnology Initiative was created by the American government for research to “foster the transfer of new technologies for public benefit … and support responsible development of nanotechnology.”
+Despite dystopian scenarios (such as in Crichton’s novel Prey) and the “polite” debate between leading theorists Richard Smalley (the discoverer of the “buckyball” molecule) and pioneer Eric Drexler over the advent of molecular assemblers, along with some concerns about DNA nanotechnology (the first DNA nanomachine which could change its structure via an input was demonstrated in 1999 by Nadrian Seeman), it seems civilization is on the cusp of a “nanotech revolution.”
+“If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.”
+– Natasha Vita-More
+“Many, many rules had begun to bend at the hand of nanotechnology … This produced a lot of good, and a lot of bad.”
+– Matt Spire
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Composites
+Research Cost
+Base Cost: 2155
+Science
+Boosts
+Build an Aluminum Mine.

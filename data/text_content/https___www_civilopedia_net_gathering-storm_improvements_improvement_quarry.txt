@@ -1,0 +1,54 @@
+Quarry - Improvements and Routes - Civilopedia - Civilization VI
+Quarry
+Description
+Unlocks the Builder ability to construct Quarries.
++1
+Production. -1 Appeal. Can only be built on valid resources.
+If built on a Luxury resource, the city will gain use of that resource.
+Historical Context
+Once people started building structures out of stone rather than sticks and mud, the need for stone and rock increased. Those came from quarries, an open pit where picks and hammers and chisels (and later dynamite and bulldozers) were used to hack out chunks of marble, limestone, granite, slate, sandstone, or whatever else was useful. As the tools became more sophisticated, slabs could be cut away, and then polished on the site. The oldest known quarries have been located in the Aswan region of Egypt, and the lands of the once Roman Empire are dotted with marble quarries (they needed a lot for all those grand buildings). Whereas the Egyptians and Romans and other civilized ancients mostly used slaves and condemned criminals (life expectancy in quarries not being long), on Easter Island the entire community chipped moai out of quarries. Today, quarry miners are considered skilled professionals.
+Traits
++1
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Rocketry)
++1
+Production (requires Gunpowder)
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Mining
+Gypsum
+Marble
+Stone
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Quarries.
++1
+Production. -1 Appeal. Can only be built on valid resources.
+If built on a Luxury resource, the city will gain use of that resource.
+Historical Context
+Once people started building structures out of stone rather than sticks and mud, the need for stone and rock increased. Those came from quarries, an open pit where picks and hammers and chisels (and later dynamite and bulldozers) were used to hack out chunks of marble, limestone, granite, slate, sandstone, or whatever else was useful. As the tools became more sophisticated, slabs could be cut away, and then polished on the site. The oldest known quarries have been located in the Aswan region of Egypt, and the lands of the once Roman Empire are dotted with marble quarries (they needed a lot for all those grand buildings). Whereas the Egyptians and Romans and other civilized ancients mostly used slaves and condemned criminals (life expectancy in quarries not being long), on Easter Island the entire community chipped moai out of quarries. Today, quarry miners are considered skilled professionals.
+Traits
++1
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Rocketry)
++1
+Production (requires Gunpowder)
++1
+Production (requires Predictive Systems)
+Requirements
+Technology
+Mining
+Gypsum
+Marble
+Stone
+Usage
+Built By
+Builder

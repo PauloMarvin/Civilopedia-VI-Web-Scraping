@@ -1,0 +1,84 @@
+Mission - Improvements and Routes - Civilopedia - Civilization VI
+Mission
+Description
+Unlocks the Builder ability to construct a Mission, unique to Spain.
++2
+Faith. +2
+Faith, +1
+Production, and +1
+Food if on a different continent than your
+Capital. +1
+Science for every adjacent Campus and Holy Site district. Additional
+Science once Cultural Heritage is discovered. +2 Loyalty per turn for cities with a Mission improvement adjacent to the City Center and not on your original
+Capital's continent.
+Historical Context
+According to the Catholic Church, missions are religious communities devoted to teaching, tending, and helping the local populace, thus supporting Christ’s ideals. Of course, the Spanish, Portuguese and French missions were also devoted to converting the locals and then “civilizing” them through cultural assimilation. The Spanish missions serve as the traditional template, self-supporting enclaves with churches, dormitories, fields and pastures, gardens, barns, workrooms, hospitals and schools. In places these were even fortified, ready to defend themselves from opposition. Most of the missions in the Americas, Asia, and Africa were administered by religious orders such as the Franciscans, Jesuits, Dominicans, and Augustinians rather than the Church itself, but the effects were the same. Nonetheless, the missions often served as a nucleus around which European colonizing efforts could coalesce.
+Traits
+Unique To
+Spain
++2
+Faith
++2
+Science (requires Cultural Heritage)
+Adjacency Bonus
++1
+Science from each adjacent Holy Site tile.
++1
+Science from each adjacent Campus tile.
+Requirements
+Technology
+Education
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Mission, unique to Spain.
++2
+Faith. +2
+Faith, +1
+Production, and +1
+Food if on a different continent than your
+Capital. +1
+Science for every adjacent Campus and Holy Site district. Additional
+Science once Cultural Heritage is discovered. +2 Loyalty per turn for cities with a Mission improvement adjacent to the City Center and not on your original
+Capital's continent.
+Historical Context
+According to the Catholic Church, missions are religious communities devoted to teaching, tending, and helping the local populace, thus supporting Christ’s ideals. Of course, the Spanish, Portuguese and French missions were also devoted to converting the locals and then “civilizing” them through cultural assimilation. The Spanish missions serve as the traditional template, self-supporting enclaves with churches, dormitories, fields and pastures, gardens, barns, workrooms, hospitals and schools. In places these were even fortified, ready to defend themselves from opposition. Most of the missions in the Americas, Asia, and Africa were administered by religious orders such as the Franciscans, Jesuits, Dominicans, and Augustinians rather than the Church itself, but the effects were the same. Nonetheless, the missions often served as a nucleus around which European colonizing efforts could coalesce.
+Traits
+Unique To
+Spain
++2
+Faith
++2
+Science (requires Cultural Heritage)
+Adjacency Bonus
++1
+Science from each adjacent Holy Site tile.
++1
+Science from each adjacent Campus tile.
+Requirements
+Technology
+Education
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

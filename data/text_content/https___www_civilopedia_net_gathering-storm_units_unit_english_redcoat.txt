@@ -1,0 +1,66 @@
+Redcoat - Units - Civilopedia - Civilization VI
+Redcoat
+Description
+English unique Industrial era unit when Victoria is their leader that replaces the Line Infantry. +10
+Combat Strength when fighting on a continent other than that of your capital's. No disembark cost.
+Historical Context
+The red (or, more accurately, the shade rose madder) coat of the British infantry evolved from the ceremonial uniforms of the early 1600s; it was officially adopted in February 1645 AD when Parliament drafted the regulations for the New Model Army, with the 12 regiments of foot all wearing red coats with different colored facings to distinguish between them. For the next quarter-millennia most of the British infantry wore such, making them splendid targets among the trees, dunes, jungles and hills of the Empire. The rationale for such a choice was that, despite the fiction it was because bloodstains were disheartening for the men, red coats were instantly identifiable on the field, and hence helped maintain order and morale. The term “redcoat” became a source of pride for the British, and a curse word for just about everyone else.
+Traits
+Unique To
+Victoria (Age of Empire)
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Promotion Class: Melee
+2
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+English unique Industrial era unit when Victoria is their leader that replaces the Line Infantry. +10
+Combat Strength when fighting on a continent other than that of your capital's. No disembark cost.
+Historical Context
+The red (or, more accurately, the shade rose madder) coat of the British infantry evolved from the ceremonial uniforms of the early 1600s; it was officially adopted in February 1645 AD when Parliament drafted the regulations for the New Model Army, with the 12 regiments of foot all wearing red coats with different colored facings to distinguish between them. For the next quarter-millennia most of the British infantry wore such, making them splendid targets among the trees, dunes, jungles and hills of the Empire. The rationale for such a choice was that, despite the fiction it was because bloodstains were disheartening for the men, red coats were instantly identifiable on the field, and hence helped maintain order and morale. The term “redcoat” became a source of pride for the British, and a curse word for just about everyone else.
+Traits
+Unique To
+Victoria (Age of Empire)
+Upgrades To
+Infantry
+Digger
+Upgrade From
+Musketman
+Promotion Class: Melee
+2
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 360
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

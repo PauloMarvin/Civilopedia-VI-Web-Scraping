@@ -1,0 +1,88 @@
+Plantation - Improvements and Routes - Civilopedia - Civilization VI
+Plantation
+Description
+Unlocks the Builder ability to construct Plantations.
++2
+Gold. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+Not just a fancy sort of farm (although some of them have really nice houses), a plantation is a large agrarian enterprise generally devoted to a single valuable “cash” crop – cotton, tobacco, tea, sugar cane, rubber, coffee and such – tended by resident laborers. The crops are usually, but not always, indigenous to the region, and most of the plantations in history were in tropical or semi-tropical climes. The crops did well with all the rain and heat, and it meant the plantation owner didn’t have to waste money keeping the workers warm. As Europeans spread their empires around the globe, they took the plantation formula with them to the Americas, India and Africa. The produce was not meant for local consumption, but was shipped out to the markets of Europe where the civilized folk could appreciate this rich bounty.
+Traits
++2
+Gold
++0.5
+Housing
++1
+Food (requires Scientific Theory)
++2
+Gold (requires Globalization)
++1
+Food (requires Feudalism)
+Adjacency Bonus
++1
+Production from every 2 adjacent Hacienda tiles.Becomes obsolete with Rapid Deployment.
++1
+Production from each adjacent Hacienda tile.Requires Rapid Deployment.
+Requirements
+Technology
+Irrigation
+Bananas
+Citrus
+Cocoa
+Coffee
+Cotton
+Dyes
+Incense
+Silk
+Spices
+Sugar
+Tea
+Tobacco
+Wine
+Olives
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Plantations.
++2
+Gold. Can only be built on valid resources.
+If built on Luxury resources, the city will gain use of that resource.
+Historical Context
+Not just a fancy sort of farm (although some of them have really nice houses), a plantation is a large agrarian enterprise generally devoted to a single valuable “cash” crop – cotton, tobacco, tea, sugar cane, rubber, coffee and such – tended by resident laborers. The crops are usually, but not always, indigenous to the region, and most of the plantations in history were in tropical or semi-tropical climes. The crops did well with all the rain and heat, and it meant the plantation owner didn’t have to waste money keeping the workers warm. As Europeans spread their empires around the globe, they took the plantation formula with them to the Americas, India and Africa. The produce was not meant for local consumption, but was shipped out to the markets of Europe where the civilized folk could appreciate this rich bounty.
+Traits
++2
+Gold
++0.5
+Housing
++1
+Food (requires Scientific Theory)
++2
+Gold (requires Globalization)
++1
+Food (requires Feudalism)
+Adjacency Bonus
++1
+Production from every 2 adjacent Hacienda tiles.Becomes obsolete with Rapid Deployment.
++1
+Production from each adjacent Hacienda tile.Requires Rapid Deployment.
+Requirements
+Technology
+Irrigation
+Bananas
+Citrus
+Cocoa
+Coffee
+Cotton
+Dyes
+Incense
+Silk
+Spices
+Sugar
+Tea
+Tobacco
+Wine
+Olives
+Usage
+Built By
+Builder

@@ -1,0 +1,92 @@
+Château - Improvements and Routes - Civilopedia - Civilization VI
+Château
+Description
+Unlocks the Builder ability to construct a Château, unique to France.
++2
+Culture and +1
+Gold. +1 Appeal. +1
+Culture for every adjacent wonder (becomes +2 after researching Flight). +2
+Gold if on a tile containing a River edge. Provides
+Tourism from
+Culture after researching Flight. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Château.
+Historical Context
+If one must ask, one cannot afford it. A château is a manor house or country home of landed gentry, usually without fortifications. In the Middle Ages, a château was largely self-sufficient, being supported by the lord's demesne (hereditary lands). In the 1600s, the wealthy and aristocratic French lords dotted the countryside with elegant, luxuriant, architecturally refined mansions such as the Château de Maisons. But many of these stately homes were burned during peasant revolts and populist revolutions. But a few remain as tourist attractions. Today, the term château is loosely used; for instance, it is common for any winery or inn, no matter how humble, to prefix its name with "Château.”
+Traits
+Unique To
+France
++2
+Culture
++1
+Gold
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Culture from each adjacent wonder tile.Becomes obsolete with Flight.
++2
+Culture from each adjacent wonder tile.Requires Flight.
++2
+Gold from each adjacent river tile.
+Requirements
+Civic
+Humanism
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Château, unique to France.
++2
+Culture and +1
+Gold. +1 Appeal. +1
+Culture for every adjacent wonder (becomes +2 after researching Flight). +2
+Gold if on a tile containing a River edge. Provides
+Tourism from
+Culture after researching Flight. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Château.
+Historical Context
+If one must ask, one cannot afford it. A château is a manor house or country home of landed gentry, usually without fortifications. In the Middle Ages, a château was largely self-sufficient, being supported by the lord's demesne (hereditary lands). In the 1600s, the wealthy and aristocratic French lords dotted the countryside with elegant, luxuriant, architecturally refined mansions such as the Château de Maisons. But many of these stately homes were burned during peasant revolts and populist revolutions. But a few remain as tourist attractions. Today, the term château is loosely used; for instance, it is common for any winery or inn, no matter how humble, to prefix its name with "Château.”
+Traits
+Unique To
+France
++2
+Culture
++1
+Gold
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Culture from each adjacent wonder tile.Becomes obsolete with Flight.
++2
+Culture from each adjacent wonder tile.Requires Flight.
++2
+Gold from each adjacent river tile.
+Requirements
+Civic
+Humanism
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,42 @@
+Hydroelectric Dam - Buildings - Civilopedia - Civilization VI
+Hydroelectric Dam
+Description
+Provides the city +6
+Power from renewable water sources.
+Historical Context
+A hydroelectric power plant uses moving water to drive turbines connected to dynamos to produce electricity. The faster the water moves through the plant, the faster the dynamo can turn, and the more electricity that can be produced. Consequently, hydroelectric power plants are usually incorporated into dams where the height differential between the reservoir and the outflow can be used to boost the flow speed through the turbine. Compared to fossil fuel plants, hydroelectric plants produce far less emissions and waste, and are far more efficient in converting energy into electricity.
+Nonetheless, hydroelectric plants do have environmental costs. Damming rivers changes their ecology drastically, and large-scale hydroelectric projects affect the culture and history of a people. The Tennessee Valley Authority resulted in the displacement of thousands of small communities. The Three Gorges Dam destroyed archaeological and cultural sites.
+Requirements
+District
+Dam
+Technology
+Electricity
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Provides the city +6
+Power from renewable water sources.
+Historical Context
+A hydroelectric power plant uses moving water to drive turbines connected to dynamos to produce electricity. The faster the water moves through the plant, the faster the dynamo can turn, and the more electricity that can be produced. Consequently, hydroelectric power plants are usually incorporated into dams where the height differential between the reservoir and the outflow can be used to boost the flow speed through the turbine. Compared to fossil fuel plants, hydroelectric plants produce far less emissions and waste, and are far more efficient in converting energy into electricity.
+Nonetheless, hydroelectric plants do have environmental costs. Damming rivers changes their ecology drastically, and large-scale hydroelectric projects affect the culture and history of a people. The Tennessee Valley Authority resulted in the displacement of thousands of small communities. The Three Gorges Dam destroyed archaeological and cultural sites.
+Requirements
+District
+Dam
+Technology
+Electricity
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

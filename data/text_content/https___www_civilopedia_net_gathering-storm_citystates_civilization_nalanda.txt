@@ -1,0 +1,54 @@
+Nalanda - City-States - Civilopedia - Civilization VI
+Nalanda
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Nalanda Suzerain Bonus
+Your Builders can now make Mahavihara improvements.
++2
+Science and +1
+Housing. +1
+Faith for every adjacent Holy Site district and +1
+Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1
+Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.
+Historical Context
+Nalanda – literally “the gift of the lotus” - was a city in eastern India that achieved fame during the late first millennium AD for being a center for Buddhist learning. Scholars came from all around India, as well as China and Tibet, to learn from Buddhist scholars such as Nagarjuna, Dignaga, and Santaraksita. Buddhism today is broadly split into three main schools of thought: one common in Nepal and Tibet (Vajrayana), one common in Sri Lanka and Southeast Asia (Theravada), and another spread across East Asia (Mahayana). In Nalanda, scholars debated all of these schools of thought, and Buddhist schools named for the great city now exist in places as far-flung as Bhutan, Sri Lanka, and Indonesia.
+The city was a part of the Magadha kingdom, a place mentioned in the Indian epics Ramayana and Mahabharata and in histories dating back to 7th century BC. Alexander the Great, approaching the kingdom, reportedly saw the walls and decided that he’d had enough movement eastward, and turned away. Nearly a thousand years later, in 629 AD, the Chinese monk Xuanzang visited Nalanda and brought Buddhist knowledge back to China. His travels were given a fanciful gloss in the famous Chinese epic “The Journey to the West,” one of the most beloved Chinese epics. Xuanzang described Nalanda thusly: "an azure pool winds around the monasteries, adorned with the full-blown cups of the blue lotus; the dazzling red flowers of the lovely kanaka hang here and there, and outside groves of mango trees offer the inhabitants their dense and protective shade.”
+Not all visitors were as gentle. In 1193, the army of Bhaktiyar Khijili, a Turkic military general in the service of the Delhi Sultanate, conquered eastern India and Nalanda with it. The city and the monastery were sacked, and Buddhism waned – though is still present – in India (although it continues to flourish elsewhere in Asia). Nalanda lay in ruins and has only centuries later become reborn as a center for learning.
+City-State Type
+Scientific
+City-State Type
+Scientific
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Nalanda Suzerain Bonus
+Your Builders can now make Mahavihara improvements.
++2
+Science and +1
+Housing. +1
+Faith for every adjacent Holy Site district and +1
+Science for every adjacent Campus district. After researching Scientific Theory receive an additional +1
+Science for every adjacent Campus. When a player constructs their first Mahavihara receive a random technology. Must be built on flat terrain not adjacent to another Mahavihara.
+Historical Context
+Nalanda – literally “the gift of the lotus” - was a city in eastern India that achieved fame during the late first millennium AD for being a center for Buddhist learning. Scholars came from all around India, as well as China and Tibet, to learn from Buddhist scholars such as Nagarjuna, Dignaga, and Santaraksita. Buddhism today is broadly split into three main schools of thought: one common in Nepal and Tibet (Vajrayana), one common in Sri Lanka and Southeast Asia (Theravada), and another spread across East Asia (Mahayana). In Nalanda, scholars debated all of these schools of thought, and Buddhist schools named for the great city now exist in places as far-flung as Bhutan, Sri Lanka, and Indonesia.
+The city was a part of the Magadha kingdom, a place mentioned in the Indian epics Ramayana and Mahabharata and in histories dating back to 7th century BC. Alexander the Great, approaching the kingdom, reportedly saw the walls and decided that he’d had enough movement eastward, and turned away. Nearly a thousand years later, in 629 AD, the Chinese monk Xuanzang visited Nalanda and brought Buddhist knowledge back to China. His travels were given a fanciful gloss in the famous Chinese epic “The Journey to the West,” one of the most beloved Chinese epics. Xuanzang described Nalanda thusly: "an azure pool winds around the monasteries, adorned with the full-blown cups of the blue lotus; the dazzling red flowers of the lovely kanaka hang here and there, and outside groves of mango trees offer the inhabitants their dense and protective shade.”
+Not all visitors were as gentle. In 1193, the army of Bhaktiyar Khijili, a Turkic military general in the service of the Delhi Sultanate, conquered eastern India and Nalanda with it. The city and the monastery were sacked, and Buddhism waned – though is still present – in India (although it continues to flourish elsewhere in Asia). Nalanda lay in ruins and has only centuries later become reborn as a center for learning.

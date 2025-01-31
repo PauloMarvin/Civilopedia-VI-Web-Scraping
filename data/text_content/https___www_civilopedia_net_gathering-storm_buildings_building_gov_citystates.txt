@@ -1,0 +1,58 @@
+Foreign Ministry - Buildings - Civilopedia - Civilization VI
+Foreign Ministry
+Description
++3
+Diplomatic Favor. Leveraging City States costs half
+Gold.
+City State units gain +4
+Combat Strength if you are the City State's Suzerain (including Leveraged Units).
+Awards +1
+Governor Title.
+Historical Context
+Relations between civilizations and nations have long been defined by formality, as good manners help soothe misunderstandings and prevent wars from breaking out. This naturally leads to civilizations recruiting people to serve as diplomats, and for other civilizations to receive these diplomats, and as things get more and more complex, adding an entire class of people to the civic system who are responsible for engaging with the diplomats on behalf of the government.
+The Foreign Ministry handles all matters of diplomats, ambassadors, credentialing, and recognition of other governments and their ministers. It is frequently viewed as one of, if not the most, important offices of the head of state, as it serves as the agency that represents the nation or civilization on the world stage. Ministers and Foreign Officers are usually rigorously tested and vetted, because the importance of good relations between peoples today is just as important as it was when Egypt and Babylon exchanged diplomatic greetings in antiquity.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++3
+Diplomatic Favor. Leveraging City States costs half
+Gold.
+City State units gain +4
+Combat Strength if you are the City State's Suzerain (including Leveraged Units).
+Awards +1
+Governor Title.
+Historical Context
+Relations between civilizations and nations have long been defined by formality, as good manners help soothe misunderstandings and prevent wars from breaking out. This naturally leads to civilizations recruiting people to serve as diplomats, and for other civilizations to receive these diplomats, and as things get more and more complex, adding an entire class of people to the civic system who are responsible for engaging with the diplomats on behalf of the government.
+The Foreign Ministry handles all matters of diplomats, ambassadors, credentialing, and recognition of other governments and their ministers. It is frequently viewed as one of, if not the most, important offices of the head of state, as it serves as the agency that represents the nation or civilization on the world stage. Ministers and Foreign Officers are usually rigorously tested and vetted, because the importance of good relations between peoples today is just as important as it was when Egypt and Babylon exchanged diplomatic greetings in antiquity.
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold

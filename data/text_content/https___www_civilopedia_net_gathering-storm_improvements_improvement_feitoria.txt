@@ -1,0 +1,46 @@
+Feitoria - Improvements and Routes - Civilopedia - Civilization VI
+Feitoria
+Description
+Unlocks the Nau ability to construct a Feitoria, unique to Portugal.
+Provides +4
+Gold and +1
+Production. Trade routes sent to this city from Portugal gain +4
+Gold and +1
+Production. Can only be built adjacent to Luxury or Bonus resources in territory belonging to other Civilizations or City-States that you have Open Borders with. Must be built on a Coast or Lake tile adjacent to land and not adjacent to another Feitoria. Feitorias cannot be removed.
+Historical Context
+The feitoria – literally “factory” – was a trade depot set up overseas to facilitate trade, and, as such, it was a key institution of early mercantilist projects, especially the Portuguese networks of the early modern period (1300s-1600s). Here, European merchants could exchange goods in a space protected by European arms, operating with some degree of independence from the local ruler – and local pirates. Feitoria had a dark side, however: non-Europeans were not allowed to own land within one, and, later, they were key outposts of European colonization. Worse, the feitorias were key outposts in the trafficking of enslaved people.
+The first Portuguese feitoria was in the North African country of Mauritania, but later outposts were in Goa (in India), Malacca (in present-day Malaysia), Ternate (present-day Indonesia), Macau (in China), and Nagasaki (in Japan). In each spot, the Portuguese left their mark: Malacca and Goa have sizeable Catholic populations, Macau has impressive architecture left over from the Portuguese period, and bakers in Nagasaki still make Portuguese-style castella (kasutera, in Japanese) cakes.
+Traits
+Unique To
+Portugal
++4
+Gold
++1
+Production
+Requirements
+Coast and Lake
+Usage
+Built By
+Nau
+Description
+Unlocks the Nau ability to construct a Feitoria, unique to Portugal.
+Provides +4
+Gold and +1
+Production. Trade routes sent to this city from Portugal gain +4
+Gold and +1
+Production. Can only be built adjacent to Luxury or Bonus resources in territory belonging to other Civilizations or City-States that you have Open Borders with. Must be built on a Coast or Lake tile adjacent to land and not adjacent to another Feitoria. Feitorias cannot be removed.
+Historical Context
+The feitoria – literally “factory” – was a trade depot set up overseas to facilitate trade, and, as such, it was a key institution of early mercantilist projects, especially the Portuguese networks of the early modern period (1300s-1600s). Here, European merchants could exchange goods in a space protected by European arms, operating with some degree of independence from the local ruler – and local pirates. Feitoria had a dark side, however: non-Europeans were not allowed to own land within one, and, later, they were key outposts of European colonization. Worse, the feitorias were key outposts in the trafficking of enslaved people.
+The first Portuguese feitoria was in the North African country of Mauritania, but later outposts were in Goa (in India), Malacca (in present-day Malaysia), Ternate (present-day Indonesia), Macau (in China), and Nagasaki (in Japan). In each spot, the Portuguese left their mark: Malacca and Goa have sizeable Catholic populations, Macau has impressive architecture left over from the Portuguese period, and bakers in Nagasaki still make Portuguese-style castella (kasutera, in Japanese) cakes.
+Traits
+Unique To
+Portugal
++4
+Gold
++1
+Production
+Requirements
+Coast and Lake
+Usage
+Built By
+Nau

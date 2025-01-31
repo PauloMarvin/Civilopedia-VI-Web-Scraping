@@ -1,0 +1,64 @@
+Introduction - Governors - Civilopedia - Civilization VI
+Introduction
+Governors
+Governors
+allow players to manage cities in their civilization in the following ways:
+Appointing Governors with unique strengths and abilities to serve in their civilization.
+Promoting appointed Governors to unlock new abilities and effects.
+Assigning an appointed Governor to a specific city within their civilization.
+Using assigned Governors special abilities to gain various unique effects in that city.
+Using assigned Governors to increase the process of establishing a stronger Loyalty in the city.
+There are 8 different Governors that may be recruited and promoted:
+Amani  'The Diplomat'
+Liang  'The Surveyor'
+Magnus  'The Steward'
+Moksha  'The Cardinal'
+Pingala  'The Educator'
+Reyna  'The Financier'
+Victor  'The Castellan'
+Ibrahim  'The Grand Vizier' (Suleiman's unique Governor)
+Appointing a Governor:
+Governors and their promotions are obtained by using Governor Titles. Governor Titles are unlocked throughout the game, primarily through the Civics tree, but also through building the Government Plaza district and its buildings, and building the Casa de Contratación Wonder. Once a Governor is appointed, they can be assigned to a city to perform their duties. Players can only have one Governor of each type in their civilization, and only one Governor can be assigned to a city at a time.
+Promoting a Governor:
+Players can also use Governor Titles to promote Governors that they have previously appointed. Each Governor type has a unique promotion tree. Choosing a promotion unlocks a new ability that the Governor can implement once they become established in the city they have been assigned.
+Governor Effects:
+There are various ways Governors can affect a city in which they are assigned:
+Gaining identity in the city toward their civilization, thereby increasing the Loyalty of its
+Citizens.
+Applying the Governor's special abilities in that city by becoming established there.
+Becoming Established:
+When a Governor is first placed in a city, there is an amount of time before they come into power in that city. This time period represents the amount of time a Governor would take in order to create policies and laws, propose changes, and establish their power and influence on that city. The amount of 'transition' time is dependent upon the Governor. Once a particular Governor has established themselves in a city and then leaves, their established time there will start to decay over time. After the requisite amount of time, the Governor's special abilities come into effect. This includes their base ability, as well as any promotions they have been given. These abilities are passive, in that they are not required to be activated by the player, nor are they one-time single use effects.
+Changing Governor Assignments:
+Sometimes during gameplay it is necessary to change the location in which your Governors are assigned. Governors can be reassigned to a different city at any time, but keep in mind that once assigned to a different city it will take time for them to become established there. If a Governor is assigned to a city that already contains a Governor, the existing Governor is taken out of the city and is put back into your Governor pool, ready to be assigned to a new location.
+Governors can only be assigned to cities within their civilization with two exceptions. The 'Diplomat' Governor is unique in that she can be assigned to a city-state as well as any of the cities within her civilization. The Ottoman leader Suleiman has The 'Grand Visier' unique Governor which can be assigned to the capital city of another major civilization as well as any domestic city. Both The 'Diplomat' and 'Grand Visier' cannot be assigned to a city the player is currently at war with.
+Governors
+Governors
+allow players to manage cities in their civilization in the following ways:
+Appointing Governors with unique strengths and abilities to serve in their civilization.
+Promoting appointed Governors to unlock new abilities and effects.
+Assigning an appointed Governor to a specific city within their civilization.
+Using assigned Governors special abilities to gain various unique effects in that city.
+Using assigned Governors to increase the process of establishing a stronger Loyalty in the city.
+There are 8 different Governors that may be recruited and promoted:
+Amani  'The Diplomat'
+Liang  'The Surveyor'
+Magnus  'The Steward'
+Moksha  'The Cardinal'
+Pingala  'The Educator'
+Reyna  'The Financier'
+Victor  'The Castellan'
+Ibrahim  'The Grand Vizier' (Suleiman's unique Governor)
+Appointing a Governor:
+Governors and their promotions are obtained by using Governor Titles. Governor Titles are unlocked throughout the game, primarily through the Civics tree, but also through building the Government Plaza district and its buildings, and building the Casa de Contratación Wonder. Once a Governor is appointed, they can be assigned to a city to perform their duties. Players can only have one Governor of each type in their civilization, and only one Governor can be assigned to a city at a time.
+Promoting a Governor:
+Players can also use Governor Titles to promote Governors that they have previously appointed. Each Governor type has a unique promotion tree. Choosing a promotion unlocks a new ability that the Governor can implement once they become established in the city they have been assigned.
+Governor Effects:
+There are various ways Governors can affect a city in which they are assigned:
+Gaining identity in the city toward their civilization, thereby increasing the Loyalty of its
+Citizens.
+Applying the Governor's special abilities in that city by becoming established there.
+Becoming Established:
+When a Governor is first placed in a city, there is an amount of time before they come into power in that city. This time period represents the amount of time a Governor would take in order to create policies and laws, propose changes, and establish their power and influence on that city. The amount of 'transition' time is dependent upon the Governor. Once a particular Governor has established themselves in a city and then leaves, their established time there will start to decay over time. After the requisite amount of time, the Governor's special abilities come into effect. This includes their base ability, as well as any promotions they have been given. These abilities are passive, in that they are not required to be activated by the player, nor are they one-time single use effects.
+Changing Governor Assignments:
+Sometimes during gameplay it is necessary to change the location in which your Governors are assigned. Governors can be reassigned to a different city at any time, but keep in mind that once assigned to a different city it will take time for them to become established there. If a Governor is assigned to a city that already contains a Governor, the existing Governor is taken out of the city and is put back into your Governor pool, ready to be assigned to a new location.
+Governors can only be assigned to cities within their civilization with two exceptions. The 'Diplomat' Governor is unique in that she can be assigned to a city-state as well as any of the cities within her civilization. The Ottoman leader Suleiman has The 'Grand Visier' unique Governor which can be assigned to the capital city of another major civilization as well as any domestic city. Both The 'Diplomat' and 'Grand Visier' cannot be assigned to a city the player is currently at war with.

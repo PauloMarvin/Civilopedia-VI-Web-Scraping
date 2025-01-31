@@ -1,0 +1,72 @@
+Oromo Cavalry - Units - Civilopedia - Civilization VI
+Oromo Cavalry
+Description
+Ethiopian unique Medieval era light cavalry unit. Stronger and greater sight than the Courser that it replaces. Receives no
+Movement penalty from moving in Hills.
+Historical Context
+The word “Oromo” refers to the dominant ethnic group in Ethiopia, making up about a third of the total population. The Oromo at times had their own kingdom, language and religion (although in present-day Ethiopia they are evenly split between Muslims and Christians). During the First Italo-Ethiopian War, when Italy attempted to seize Ethiopia as a colonial possession, the Ethiopian emperor Menelik used Oromo cavalrymen to devastating effect, especially in the decisive Battle of Adwa.
+The Oromo cavalry were not true cavalry, but mounted infantrymen, meaning that they did not fire weapons from horseback, but would gallop towards the Italians, dismount, and then fire. With their lion’s-mane headdresses and fierce reputation, they became one of the most feared military units of the era. During the Italian invasion, a rumor spread around the Italian camps that Oromo cavalry (whom the Italians called “Galla” – a word that was seen as offensive by the Oromo) would castrate the bodies of enemies that held weapons – a rumor that caused many Italians to toss aside their guns the moment that the Oromo began their charge. Italian soldiers reported their compatriots turning their guns on themselves rather than facing the Oromo. One report depicts a lone Italian survivor of an Oromo attack, dazed out of his mind, unable to say anything but “Galla cavalry. Galla cavalry. Horror. Horror.”
+Traits
+Unique To
+Ethiopia
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Upgrade From
+Horseman
+Promotion Class: Light Cavalry
+5
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Castles
+Production Cost
+Base Cost: 200
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Ethiopian unique Medieval era light cavalry unit. Stronger and greater sight than the Courser that it replaces. Receives no
+Movement penalty from moving in Hills.
+Historical Context
+The word “Oromo” refers to the dominant ethnic group in Ethiopia, making up about a third of the total population. The Oromo at times had their own kingdom, language and religion (although in present-day Ethiopia they are evenly split between Muslims and Christians). During the First Italo-Ethiopian War, when Italy attempted to seize Ethiopia as a colonial possession, the Ethiopian emperor Menelik used Oromo cavalrymen to devastating effect, especially in the decisive Battle of Adwa.
+The Oromo cavalry were not true cavalry, but mounted infantrymen, meaning that they did not fire weapons from horseback, but would gallop towards the Italians, dismount, and then fire. With their lion’s-mane headdresses and fierce reputation, they became one of the most feared military units of the era. During the Italian invasion, a rumor spread around the Italian camps that Oromo cavalry (whom the Italians called “Galla” – a word that was seen as offensive by the Oromo) would castrate the bodies of enemies that held weapons – a rumor that caused many Italians to toss aside their guns the moment that the Oromo began their charge. Italian soldiers reported their compatriots turning their guns on themselves rather than facing the Oromo. One report depicts a lone Italian survivor of an Oromo attack, dazed out of his mind, unable to say anything but “Galla cavalry. Galla cavalry. Horror. Horror.”
+Traits
+Unique To
+Ethiopia
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Upgrade From
+Horseman
+Promotion Class: Light Cavalry
+5
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Castles
+Production Cost
+Base Cost: 200
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

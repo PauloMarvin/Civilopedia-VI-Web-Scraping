@@ -1,0 +1,106 @@
+Cothon - Districts - Civilopedia - Civilization VI
+Cothon
+Description
+A district unique to Phoenicia for naval activity in your city. Replaces the Harbor district and cheaper to build. Must be built on Coast or Lake Terrain adjacent to land.
++50%
+Production towards naval units and Settlers in this city. All wounded naval units in this city’s borders heal +100 HP each turn.
+Historical Context
+The word “cothon” is Greek for “drinking vessel,” and describes the circular shape of the artificial harbors created by the Phoenicians. There are surviving examples of these today in Sicily, Tunisia, and Cyprus. The best-known example may have been the one at Carthage.
+The cothon consisted of two sections: A long, rectangular outer harbor for merchant traffic, which led to a circular inner harbor for warships. The outer harbor's quays would have been busy places, and the cothon at Carthage was reputedly capable of supporting hundreds of ships at a time. Each night, the mouth of the harbor would have been secured with an iron chain for security.
+The inner, military harbor, was a protected and secure facility to build, repair, and outfit the Phoenician naval vessels for war. The inner harbor had an artificial island at the center for the commanding admiral. The outer ring of the military harbor would have contained slipways for ships, as well as naval stores and material for the repair and construction of new ships. The ancient writer Appian describes the Carthaginian military harbor as ringed by Ionic columns, “giving it the appearance of a continuous portico to both the harbor and the island.”
+The cothon was an integral part of the Phoenician dominance of the Mediterranean. Ships are expensive to build and maintain, and the construction of these specialized, sophisticated facilities demonstrate the Phoenician's commitment to ruling the seas.
+Traits
+Unique To
+Phoenicia
+Replaces
+Harbor
++1
+Great Admiral point per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard
+Description
+A district unique to Phoenicia for naval activity in your city. Replaces the Harbor district and cheaper to build. Must be built on Coast or Lake Terrain adjacent to land.
++50%
+Production towards naval units and Settlers in this city. All wounded naval units in this city’s borders heal +100 HP each turn.
+Historical Context
+The word “cothon” is Greek for “drinking vessel,” and describes the circular shape of the artificial harbors created by the Phoenicians. There are surviving examples of these today in Sicily, Tunisia, and Cyprus. The best-known example may have been the one at Carthage.
+The cothon consisted of two sections: A long, rectangular outer harbor for merchant traffic, which led to a circular inner harbor for warships. The outer harbor's quays would have been busy places, and the cothon at Carthage was reputedly capable of supporting hundreds of ships at a time. Each night, the mouth of the harbor would have been secured with an iron chain for security.
+The inner, military harbor, was a protected and secure facility to build, repair, and outfit the Phoenician naval vessels for war. The inner harbor had an artificial island at the center for the commanding admiral. The outer ring of the military harbor would have contained slipways for ships, as well as naval stores and material for the repair and construction of new ships. The ancient writer Appian describes the Carthaginian military harbor as ringed by Ionic columns, “giving it the appearance of a continuous portico to both the harbor and the island.”
+The cothon was an integral part of the Phoenician dominance of the Mediterranean. Ships are expensive to build and maintain, and the construction of these specialized, sophisticated facilities demonstrate the Phoenician's commitment to ruling the seas.
+Traits
+Unique To
+Phoenicia
+Replaces
+Harbor
++1
+Great Admiral point per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard

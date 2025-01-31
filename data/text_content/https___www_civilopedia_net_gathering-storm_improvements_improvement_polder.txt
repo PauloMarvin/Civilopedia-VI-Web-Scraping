@@ -1,0 +1,80 @@
+Polder - Improvements and Routes - Civilopedia - Civilization VI
+Polder
+Description
+Unlocks the Builder ability to construct a Polder, unique to Netherlands.
++1
+Food, +1
+Production, and +0.5
+Housing. +1
+Food if adjacent to a Polder improvement. Additional
+Production,
+Gold, and
+Food  as you advance through the Civics and Technology Tree. Must be placed on a Coast or Lake tile adjacent to 3 or more passable land tiles. Increases
+Movement Cost of tile to 3.
+Historical Context
+Most see the shoreline as an end. For the Dutch, the coastline was a challenge and an opportunity. The Netherlands spent 800 years reclaiming a country from the sea, using dikes, canals, levees, and pumps. Polders are the low-lying bits of land revealed when the water recedes.
+The Dutch constantly maintained their polders to prevent the sea from reclaiming the land. Over the centuries, they mastered the art of keeping water out and reversing the effects of erosion. Today, more than a quarter of the Netherlands remains below sea level, leaving the country in a continuous game of tug-of-war with the North Sea.
+Traits
+Unique To
+Netherlands
++1
+Food
++1
+Production
++0.5
+Housing
++4
+Gold (requires Civil Engineering)
+Adjacency Bonus
++1
+Food from each adjacent Polder tile.Becomes obsolete with Replaceable Parts.
++2
+Food from each adjacent Polder tile.Requires Replaceable Parts.
++1
+Production from each adjacent Polder tile.Requires Replaceable Parts.
+Requirements
+Civic
+Guilds
+Coast and Lake
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Polder, unique to Netherlands.
++1
+Food, +1
+Production, and +0.5
+Housing. +1
+Food if adjacent to a Polder improvement. Additional
+Production,
+Gold, and
+Food  as you advance through the Civics and Technology Tree. Must be placed on a Coast or Lake tile adjacent to 3 or more passable land tiles. Increases
+Movement Cost of tile to 3.
+Historical Context
+Most see the shoreline as an end. For the Dutch, the coastline was a challenge and an opportunity. The Netherlands spent 800 years reclaiming a country from the sea, using dikes, canals, levees, and pumps. Polders are the low-lying bits of land revealed when the water recedes.
+The Dutch constantly maintained their polders to prevent the sea from reclaiming the land. Over the centuries, they mastered the art of keeping water out and reversing the effects of erosion. Today, more than a quarter of the Netherlands remains below sea level, leaving the country in a continuous game of tug-of-war with the North Sea.
+Traits
+Unique To
+Netherlands
++1
+Food
++1
+Production
++0.5
+Housing
++4
+Gold (requires Civil Engineering)
+Adjacency Bonus
++1
+Food from each adjacent Polder tile.Becomes obsolete with Replaceable Parts.
++2
+Food from each adjacent Polder tile.Requires Replaceable Parts.
++1
+Production from each adjacent Polder tile.Requires Replaceable Parts.
+Requirements
+Civic
+Guilds
+Coast and Lake
+Usage
+Built By
+Builder

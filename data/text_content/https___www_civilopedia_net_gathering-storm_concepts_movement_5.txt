@@ -1,0 +1,8 @@
+Embarking Units - Concepts - Civilopedia - Civilization VI
+Embarking Units
+Embarking Units
+At the start of the game, your land units cannot enter any water tiles. However, once you've learned the Sailing technology, Builders will be able to move into coastal water tiles. After Celestial Navigation, Traders will be able to embark. And after Shipbuilding, all units will be able to embark. To embark a unit, move the unit to a coastal tile and then click on the "Move To" Action. Once embarked, the unit must move into water.
+Land units that embark are considered to be in a transport ship, and do not have the same combat abilities as they do on land. Embarked land units also suffer a reduced combat strength, and can only heal in friendly waters, making them much more vulnerable to attack from enemy naval units.
+Embarking Units
+At the start of the game, your land units cannot enter any water tiles. However, once you've learned the Sailing technology, Builders will be able to move into coastal water tiles. After Celestial Navigation, Traders will be able to embark. And after Shipbuilding, all units will be able to embark. To embark a unit, move the unit to a coastal tile and then click on the "Move To" Action. Once embarked, the unit must move into water.
+Land units that embark are considered to be in a transport ship, and do not have the same combat abilities as they do on land. Embarked land units also suffer a reduced combat strength, and can only heal in friendly waters, making them much more vulnerable to attack from enemy naval units.

@@ -1,0 +1,64 @@
+Ironclad - Units - Civilopedia - Civilization VI
+Ironclad
+Description
+Powerful Industrial era armored melee naval unit.
+Historical Context
+The best-known clash between ironclads – those steam-propelled, lumbering behemoths covered by iron or steel plating – at Hampton Roads in May 1862 AD ended in a draw. The CSS Virginia had earlier wreaked havoc on the Union’s traditional warships there, and while there was a lot of fighting still to come, the age of wood and sail in warfare was doomed. But the American ironclads weren’t very seaworthy, and tended to sink in open water. The British Royal Navy built the first classes of “seagoing ironclads” (actually armored, iron-hulled frigates) in the early 1860s, and soon enough they added steam-engine driven screws to the designs. Seeing how the Virginia had handled wooden warships far larger, every nation scrambled to build ironclads. The first fleet action fought on the open water between ironclads was near the island of Lissa in the Adriatic between the Austrian and Italian navies; of the 19 ironclads involved, two went to the bottom. But, like that battle, the age of the ironclad didn’t last long.
+Traits
+Upgrades To
+Destroyer
+Upgrade From
+Caravel
+Nau
+Promotion Class: Naval Melee
+5
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Steam Power
+Production Cost
+Base Cost: 380
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Consumes: 1
+Coal per turn
+Description
+Powerful Industrial era armored melee naval unit.
+Historical Context
+The best-known clash between ironclads – those steam-propelled, lumbering behemoths covered by iron or steel plating – at Hampton Roads in May 1862 AD ended in a draw. The CSS Virginia had earlier wreaked havoc on the Union’s traditional warships there, and while there was a lot of fighting still to come, the age of wood and sail in warfare was doomed. But the American ironclads weren’t very seaworthy, and tended to sink in open water. The British Royal Navy built the first classes of “seagoing ironclads” (actually armored, iron-hulled frigates) in the early 1860s, and soon enough they added steam-engine driven screws to the designs. Seeing how the Virginia had handled wooden warships far larger, every nation scrambled to build ironclads. The first fleet action fought on the open water between ironclads was near the island of Lissa in the Adriatic between the Austrian and Italian navies; of the 19 ironclads involved, two went to the bottom. But, like that battle, the age of the ironclad didn’t last long.
+Traits
+Upgrades To
+Destroyer
+Upgrade From
+Caravel
+Nau
+Promotion Class: Naval Melee
+5
+Movement Points
+70
+Melee Strength
+Requirements
+Technology
+Steam Power
+Production Cost
+Base Cost: 380
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Consumes: 1
+Coal per turn

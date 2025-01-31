@@ -1,0 +1,44 @@
+Military Engineering - Technologies - Civilopedia - Civilization VI
+Military Engineering
+Historical Context
+Loosely defined as “the art and practice of designing and building military works and maintaining lines of military transport and communications,” military engineering dates back to the Roman legions, which each had a small, specialized corps devoted to overseeing the building of fortifications and roads. They were also the ones to build the catapults, battering rams and siege towers when needed to stamp out some unruly town. But for over five centuries after the fall of Rome in the west military engineering barely progressed; it wasn’t until late in the Middle Ages that the need for siege warfare again spurred the advance of military engineering.
+With the development of gunpowder, military engineers became vital, both in designing fortifications to withstand cannon (one of the first innovations: earthen walls worked better than stone ones, since the cannonballs just went thunk and sank into the dirt) and devising ways to get the cannon close enough to the fortifications to be effective. Military engineers became specialized. Sappers, for instance, first appeared in the French army; their task was to excavate zig-zag trenches towards the enemy walls to protect infantry and artillery, all while under musket and cannon fire. In the British army, miners tunneled under enemy walls to place explosive charges … not a long-term career.
+Meanwhile Renaissance engineers were devising new types of forts and weapons; even da Vinci got into the act with his flights of military fancy. More practical engineers, such as French Marshal Sébastien Le Prestre de Vauban (1633-1707), developed new types of forts and new tactics to use against them during the wars of Louis XIV. During the brief times of peace, military engineers turned their attentions to fortifying the borders and building and maintaining roads and bridges to facilitate the movement of troops. With the coming of the telegraph in the 1800s, they also got stuck with maintaining the lines of communication and command. By the time of the First World War, military engineers were indispensable in modern warfare.
+“Blast – Build – Battle”
+– Motto of the U.S. 16th Engineer Brigade
+“The more science intervenes in warfare, the more will be the need for engineers in the field armies; in the late war there were never enough sappers at any time.”
+– Bernard Montgomery
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Construction
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Build an Aqueduct.
+Progression
+Leads to Technologies
+Gunpowder
+Historical Context
+Loosely defined as “the art and practice of designing and building military works and maintaining lines of military transport and communications,” military engineering dates back to the Roman legions, which each had a small, specialized corps devoted to overseeing the building of fortifications and roads. They were also the ones to build the catapults, battering rams and siege towers when needed to stamp out some unruly town. But for over five centuries after the fall of Rome in the west military engineering barely progressed; it wasn’t until late in the Middle Ages that the need for siege warfare again spurred the advance of military engineering.
+With the development of gunpowder, military engineers became vital, both in designing fortifications to withstand cannon (one of the first innovations: earthen walls worked better than stone ones, since the cannonballs just went thunk and sank into the dirt) and devising ways to get the cannon close enough to the fortifications to be effective. Military engineers became specialized. Sappers, for instance, first appeared in the French army; their task was to excavate zig-zag trenches towards the enemy walls to protect infantry and artillery, all while under musket and cannon fire. In the British army, miners tunneled under enemy walls to place explosive charges … not a long-term career.
+Meanwhile Renaissance engineers were devising new types of forts and weapons; even da Vinci got into the act with his flights of military fancy. More practical engineers, such as French Marshal Sébastien Le Prestre de Vauban (1633-1707), developed new types of forts and new tactics to use against them during the wars of Louis XIV. During the brief times of peace, military engineers turned their attentions to fortifying the borders and building and maintaining roads and bridges to facilitate the movement of troops. With the coming of the telegraph in the 1800s, they also got stuck with maintaining the lines of communication and command. By the time of the First World War, military engineers were indispensable in modern warfare.
+“Blast – Build – Battle”
+– Motto of the U.S. 16th Engineer Brigade
+“The more science intervenes in warfare, the more will be the need for engineers in the field armies; in the late war there were never enough sappers at any time.”
+– Bernard Montgomery
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Construction
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Build an Aqueduct.
+Progression
+Leads to Technologies
+Gunpowder

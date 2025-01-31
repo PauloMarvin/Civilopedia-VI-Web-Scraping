@@ -1,0 +1,20 @@
+Launch Mars Colony - Wonders and Projects - Civilopedia - Civilization VI
+Launch Mars Colony
+Description
+Space Race project which establishes a small human base on the surface of Mars. Marks the third step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Nanotechnology
+Project(s)
+Launch Moon Landing
+Description
+Space Race project which establishes a small human base on the surface of Mars. Marks the third step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Nanotechnology
+Project(s)
+Launch Moon Landing

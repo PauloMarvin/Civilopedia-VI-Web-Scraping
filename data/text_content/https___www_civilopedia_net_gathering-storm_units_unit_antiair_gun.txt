@@ -1,0 +1,54 @@
+Anti-Air Gun - Units - Civilopedia - Civilization VI
+Anti-Air Gun
+Description
+Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.
+Historical Context
+The minute generals started using aircraft, other generals started shooting at them, usually with artillery. The unsporting use of balloons by the Union army to gather intelligence in the American Civil War compelled the Confederates to develop methods to bring them down to earth. Nothing very practical was developed for anti-aircraft purposes until WW1, when the British decided a few weeks into the conflict that something was needed to dissuade the Germans from flying over their coasts with Zeppelins; the QF 1-pounder “pom-pom” was the first artillery piece designed as a dedicated anti-aircraft (AA) gun. Soon, everyone had some type of “ack-ack” to fire at the growing number of warplanes buzzing about, both on the battlefield and on the home front. During WW2, there were lots of AA guns deployed, but they weren’t very effective against the new breed of fast aircraft; post-war studies showed that the vast majority of bombers still reached their targets (on the order of 90%). And thus, as jet aircraft made an appearance, so too did AA missiles.
+Traits
+Upgrades To
+Mobile SAM
+Promotion Class: Support
+2
+Movement Points
+90
+Anti-air Strength
+1
+Range
+Requirements
+Technology
+Advanced Ballistics
+Production Cost
+Base Cost: 455
+Production
+Purchase Cost
+Base Cost: 1820
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Atomic era anti-air support unit. Provides cover from air attacks up to 1 hex away from the weapon.
+Historical Context
+The minute generals started using aircraft, other generals started shooting at them, usually with artillery. The unsporting use of balloons by the Union army to gather intelligence in the American Civil War compelled the Confederates to develop methods to bring them down to earth. Nothing very practical was developed for anti-aircraft purposes until WW1, when the British decided a few weeks into the conflict that something was needed to dissuade the Germans from flying over their coasts with Zeppelins; the QF 1-pounder “pom-pom” was the first artillery piece designed as a dedicated anti-aircraft (AA) gun. Soon, everyone had some type of “ack-ack” to fire at the growing number of warplanes buzzing about, both on the battlefield and on the home front. During WW2, there were lots of AA guns deployed, but they weren’t very effective against the new breed of fast aircraft; post-war studies showed that the vast majority of bombers still reached their targets (on the order of 90%). And thus, as jet aircraft made an appearance, so too did AA missiles.
+Traits
+Upgrades To
+Mobile SAM
+Promotion Class: Support
+2
+Movement Points
+90
+Anti-air Strength
+1
+Range
+Requirements
+Technology
+Advanced Ballistics
+Production Cost
+Base Cost: 455
+Production
+Purchase Cost
+Base Cost: 1820
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

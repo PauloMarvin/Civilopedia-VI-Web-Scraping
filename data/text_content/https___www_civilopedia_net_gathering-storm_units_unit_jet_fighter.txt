@@ -1,0 +1,72 @@
+Jet Fighter - Units - Civilopedia - Civilization VI
+Jet Fighter
+Description
+Information era Fighter upgrade.
+Historical Context
+The best propeller-driven fighters of the World War II era could fly about (at best) 650 kilometers per hour (400 mph) and could carry one or two machine guns, and perhaps a small bomb or rocket or two. The Germans decided this wasn’t enough to stop the Allied bomber fleets, and so they developed the first operational “jet” – the Messerschmitt 262. While it didn’t change the course of this war, it did for all those afterward. With the obvious success of the Me-262 (although it did tend to occasionally blow up), after the war everyone started designing and building new fighter jets: British Meteor, American F-86, Russian MiG-15. By the end of the Korean War, jet fighters formed the backbone of every major air force. At the time of the Vietnam War, jet fighters could carry a couple 20mm cannon, ten or so missiles, and dozens of rockets and bombs, as well as reach supersonic speeds.
+Traits
+Upgrade From
+Fighter
+P-51 Mustang
+Promotion Class: Air Fighter
+10
+Movement Points
+110
+Melee Strength
+110
+Ranged Strength
+6
+Range
+Requirements
+District
+Aerodrome
+Technology
+Lasers
+Production Cost
+Base Cost: 650
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2600
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+Information era Fighter upgrade.
+Historical Context
+The best propeller-driven fighters of the World War II era could fly about (at best) 650 kilometers per hour (400 mph) and could carry one or two machine guns, and perhaps a small bomb or rocket or two. The Germans decided this wasn’t enough to stop the Allied bomber fleets, and so they developed the first operational “jet” – the Messerschmitt 262. While it didn’t change the course of this war, it did for all those afterward. With the obvious success of the Me-262 (although it did tend to occasionally blow up), after the war everyone started designing and building new fighter jets: British Meteor, American F-86, Russian MiG-15. By the end of the Korean War, jet fighters formed the backbone of every major air force. At the time of the Vietnam War, jet fighters could carry a couple 20mm cannon, ten or so missiles, and dozens of rockets and bombs, as well as reach supersonic speeds.
+Traits
+Upgrade From
+Fighter
+P-51 Mustang
+Promotion Class: Air Fighter
+10
+Movement Points
+110
+Melee Strength
+110
+Ranged Strength
+6
+Range
+Requirements
+District
+Aerodrome
+Technology
+Lasers
+Production Cost
+Base Cost: 650
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2600
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Aluminum per turn

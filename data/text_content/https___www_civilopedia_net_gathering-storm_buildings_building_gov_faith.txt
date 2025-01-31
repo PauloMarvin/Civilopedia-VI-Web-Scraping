@@ -1,0 +1,62 @@
+Grand Master's Chapel - Buildings - Civilopedia - Civilization VI
+Grand Master's Chapel
+Description
+Grants the ability to buy land units with
+Faith.
+Pillaging Improvements and Districts provides bonus
+Faith.
+Awards +1
+Governor Title.
+Historical Context
+Although rare, religious military orders are an interesting intersection of the spiritual and the earthly. The best have been elite soldiers, and have gone on to occupy a place in the cultural imagination well beyond their historical impact. In the west, there were Crusader orders like the Knights Templar, Knights Hospitalier, and Teutonic Order. Japan produced the sohei, an order of military Buddhist monks.
+In the West, the leader of a religious military order is usually called the Grand Master, and he combined the spiritual and military leadership in his person and role. A Grand Master was expected to serve as a paragon for the ideals of his followers, but was also given certain privileges and prerogatives. This may have included the privilege of a private place of worship and prayer, to which he may retire for contemplation, and to gain the strength needed to bring victory to the forces of heaven on earth.
+Traits
++5
+Faith
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Foreign Ministry
+Intelligence Agency
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Grants the ability to buy land units with
+Faith.
+Pillaging Improvements and Districts provides bonus
+Faith.
+Awards +1
+Governor Title.
+Historical Context
+Although rare, religious military orders are an interesting intersection of the spiritual and the earthly. The best have been elite soldiers, and have gone on to occupy a place in the cultural imagination well beyond their historical impact. In the west, there were Crusader orders like the Knights Templar, Knights Hospitalier, and Teutonic Order. Japan produced the sohei, an order of military Buddhist monks.
+In the West, the leader of a religious military order is usually called the Grand Master, and he combined the spiritual and military leadership in his person and role. A Grand Master was expected to serve as a paragon for the ideals of his followers, but was also given certain privileges and prerogatives. This may have included the privilege of a private place of worship and prayer, to which he may retire for contemplation, and to gain the strength needed to bring victory to the forces of heaven on earth.
+Traits
++5
+Faith
+Requirements
+District
+Government Plaza
+Buildings (any)
+Audience Chamber
+Ancestral Hall
+Warlord's Throne
+Mutually Exclusive With
+Foreign Ministry
+Intelligence Agency
+Queen's Bibliotheque
+Production Cost
+Base Cost: 290
+Production
+Maintenance Cost
+Base Cost: 2
+Gold

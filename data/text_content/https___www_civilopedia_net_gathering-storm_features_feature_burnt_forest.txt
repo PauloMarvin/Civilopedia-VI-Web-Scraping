@@ -1,0 +1,16 @@
+Burnt Woods - Terrains and Features - Civilopedia - Civilization VI
+Burnt Woods
+Description
+Woods regrowing after a fire.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
+Description
+Woods regrowing after a fire.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3

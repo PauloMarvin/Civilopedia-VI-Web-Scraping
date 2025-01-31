@@ -1,0 +1,22 @@
+Lagrange Laser Station - Wonders and Projects - Civilopedia - Civilization VI
+Lagrange Laser Station
+Description
+Requires 30
+Aluminum to begin construction. (on Standard Speed) Space Race project which speeds up your Exoplanet Expedition by +1 Light Year per turn, accelerating your progress towards a Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Offworld Mission
+Project(s)
+Exoplanet Expedition
+Description
+Requires 30
+Aluminum to begin construction. (on Standard Speed) Space Race project which speeds up your Exoplanet Expedition by +1 Light Year per turn, accelerating your progress towards a Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Offworld Mission
+Project(s)
+Exoplanet Expedition

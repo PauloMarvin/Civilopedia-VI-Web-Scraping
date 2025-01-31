@@ -1,0 +1,58 @@
+Arena - Buildings - Civilopedia - Civilization VI
+Arena
+Description
+Provides 1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+An indoor amphitheater … an “arena,” from the Latin harena, a fine sand that was very good at absorbing blood in colosseums across the Roman Empire. These days, that has been forgotten by all those who go to arenas to watch sporting events, concerts, and other performances (such as political speeches). The most distinguishing feature of an arena is that the performance area is the lowest point in the main space, with seating for spectators banked up around it. Since the ancients had some difficulty roofing over large areas, it is unknown what might be termed civilization’s first indoor arena, although the famed Colosseum had retractable awnings to cover the spectators’ area. Currently the largest arena in the world is the Philippine Arena in Bocaue, seating about 55 thousand. But likely the best known is Madison Square Garden in Manhattan, fourth of that name, the first opening in 1879 AD under lease to P.T. Barnum. The current Garden, seating between 18 and 20 thousand depending on event, opened in 1968 and has been home to heartache and history ever since.
+Traits
+Replaced By
+Tlachtli
++1
+Culture
++2
+Amenities from entertainment
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Entertainment Complex
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Provides 1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+An indoor amphitheater … an “arena,” from the Latin harena, a fine sand that was very good at absorbing blood in colosseums across the Roman Empire. These days, that has been forgotten by all those who go to arenas to watch sporting events, concerts, and other performances (such as political speeches). The most distinguishing feature of an arena is that the performance area is the lowest point in the main space, with seating for spectators banked up around it. Since the ancients had some difficulty roofing over large areas, it is unknown what might be termed civilization’s first indoor arena, although the famed Colosseum had retractable awnings to cover the spectators’ area. Currently the largest arena in the world is the Philippine Arena in Bocaue, seating about 55 thousand. But likely the best known is Madison Square Garden in Manhattan, fourth of that name, the first opening in 1879 AD under lease to P.T. Barnum. The current Garden, seating between 18 and 20 thousand depending on event, opened in 1968 and has been home to heartache and history ever since.
+Traits
+Replaced By
+Tlachtli
++1
+Culture
++2
+Amenities from entertainment
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Entertainment Complex
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

@@ -1,0 +1,56 @@
+Feudalism - Civics - Civilopedia - Civilization VI
+Feudalism
+Description
+Farm improvements now gain +1
+Food from every 2 adjacent Farm improvements. Plantation improvements receive +1
+Food.
+Historical Context
+Although decentralization of the Carolingian Empire was the impetus, the feudal system came into focus during the 8th Century AD. (“Feudalism” is simply a term historians invented around the 17th Century to label a social structure they otherwise couldn’t define in one word.) To promote the expansion of his holdings, Charlemagne began granting his nobles certain rights over tracts of land to yield the income necessary for them to provide soldiers for his adventures. In return for this largess, each noble swore an oath of loyalty to the crown. In time, this social, economic, political and judicial control of the allocated lands became hereditary, with these lords now giving fiefs to their own favored underlings who swore oaths of fealty … hence, feudalism.
+The classic version of feudalism was a mish-mash of reciprocal legal and military obligations among a warrior nobility, revolving around the concepts of lords, vassals and fiefs. (There were, of course, peasants tied to the land, but lords and vassals didn’t concern themselves with such much.) For the next 500 years, power and wealth passed about between the favored few as if in a vast game; the rules were complex, often mysterious, in which the Catholic Pope had special privileges and powers as God’s representative on Earth. Not only did aristocrats partake of feudalism, but so too did bishops and abbots (bishops at times could be found on the battlefields, hacking away with the best of secular lords).
+Feudalism, with the rise of nationalism and absolute monarchy, decayed and effectively disappeared in most of Europe by about 1500. It lingered on in Central and Eastern Europe as late as the 1850s; a form did survive in Japan until the kingdom was forced open to the West. And Russia finally abolished serfdom in 1861.
+“In democracy it’s your vote that counts; in feudalism it’s your count that votes.”
+– Mogens Jallberg
+“With the advance of feudalism came the growth of iron armor, until, at last, a fighting-man resembled an armadillo.”
+– John Boyle O’Reilly
+Unlocks
+Requirements
+Medieval Era
+Required Civics
+Defensive Tactics
+Culture Cost
+Base Cost: 300
+Culture
+Boosts
+Build 6 Farms.
+Progression
+Leads to Civics
+Mercenaries
+Medieval Faires
+Guilds
+Description
+Farm improvements now gain +1
+Food from every 2 adjacent Farm improvements. Plantation improvements receive +1
+Food.
+Historical Context
+Although decentralization of the Carolingian Empire was the impetus, the feudal system came into focus during the 8th Century AD. (“Feudalism” is simply a term historians invented around the 17th Century to label a social structure they otherwise couldn’t define in one word.) To promote the expansion of his holdings, Charlemagne began granting his nobles certain rights over tracts of land to yield the income necessary for them to provide soldiers for his adventures. In return for this largess, each noble swore an oath of loyalty to the crown. In time, this social, economic, political and judicial control of the allocated lands became hereditary, with these lords now giving fiefs to their own favored underlings who swore oaths of fealty … hence, feudalism.
+The classic version of feudalism was a mish-mash of reciprocal legal and military obligations among a warrior nobility, revolving around the concepts of lords, vassals and fiefs. (There were, of course, peasants tied to the land, but lords and vassals didn’t concern themselves with such much.) For the next 500 years, power and wealth passed about between the favored few as if in a vast game; the rules were complex, often mysterious, in which the Catholic Pope had special privileges and powers as God’s representative on Earth. Not only did aristocrats partake of feudalism, but so too did bishops and abbots (bishops at times could be found on the battlefields, hacking away with the best of secular lords).
+Feudalism, with the rise of nationalism and absolute monarchy, decayed and effectively disappeared in most of Europe by about 1500. It lingered on in Central and Eastern Europe as late as the 1850s; a form did survive in Japan until the kingdom was forced open to the West. And Russia finally abolished serfdom in 1861.
+“In democracy it’s your vote that counts; in feudalism it’s your count that votes.”
+– Mogens Jallberg
+“With the advance of feudalism came the growth of iron armor, until, at last, a fighting-man resembled an armadillo.”
+– John Boyle O’Reilly
+Unlocks
+Requirements
+Medieval Era
+Required Civics
+Defensive Tactics
+Culture Cost
+Base Cost: 300
+Culture
+Boosts
+Build 6 Farms.
+Progression
+Leads to Civics
+Mercenaries
+Medieval Faires
+Guilds

@@ -1,0 +1,56 @@
+Cristo Redentor - Wonders and Projects - Civilopedia - Civilization VI
+Cristo Redentor
+Description
+Tourism output from
+Relics and Holy Cities is not diminished by other civilizations who have researched The Enlightenment civic. +100%
+Tourism from Seaside Resorts across your civilization. Must be built on Hills.
+Historical Context
+The largest art deco statue in the world, Cristo Redentor (“Christ the Redeemer”) stands atop Corcovado Mountain 2300 feet above Rio de Janeiro, keeping a watchful eye on the sinners of that city. With arms spread wide to embrace the city sprawling below in spectacular disorder, this statue of Christ stands 98 feet tall, with the arms measuring 92 feet from fingertip to fingertip. It was sculpted by the Frenchman Paul Landowski, and built of reinforced concrete and soapstone. The idea of putting a giant statue of Christ above the city was first proposed by the Catholic priest Pedro Boss; proposed again in 1920 by the “Catholic Circle” of Rio, the group raised the necessary funds from donations, mostly from devout Brazilian Catholics (of course). Construction began in 1922, and the monument opened to the public in October 1931.
+“Thus, the sculpture serves to give people one thought – ‘Everything is in God’s hands.’”
+– Sergey Semenov
+Traits
+Removed if game started after
+Information Era
++4
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mass Media
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 1620
+Production
+Description
+Tourism output from
+Relics and Holy Cities is not diminished by other civilizations who have researched The Enlightenment civic. +100%
+Tourism from Seaside Resorts across your civilization. Must be built on Hills.
+Historical Context
+The largest art deco statue in the world, Cristo Redentor (“Christ the Redeemer”) stands atop Corcovado Mountain 2300 feet above Rio de Janeiro, keeping a watchful eye on the sinners of that city. With arms spread wide to embrace the city sprawling below in spectacular disorder, this statue of Christ stands 98 feet tall, with the arms measuring 92 feet from fingertip to fingertip. It was sculpted by the Frenchman Paul Landowski, and built of reinforced concrete and soapstone. The idea of putting a giant statue of Christ above the city was first proposed by the Catholic priest Pedro Boss; proposed again in 1920 by the “Catholic Circle” of Rio, the group raised the necessary funds from donations, mostly from devout Brazilian Catholics (of course). Construction began in 1922, and the monument opened to the public in October 1931.
+“Thus, the sculpture serves to give people one thought – ‘Everything is in God’s hands.’”
+– Sergey Semenov
+Traits
+Removed if game started after
+Information Era
++4
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mass Media
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 1620
+Production

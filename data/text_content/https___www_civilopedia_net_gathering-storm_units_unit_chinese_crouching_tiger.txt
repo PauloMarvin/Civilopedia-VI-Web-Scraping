@@ -1,0 +1,66 @@
+Crouching Tiger - Units - Civilopedia - Civilization VI
+Crouching Tiger
+Description
+Chinese unique Medieval era unit. Ranged unit with a
+Range of 1 and high combat strength.
+Historical Context
+After the Chinese discovered gunpowder c. 9th Century AD, they used it just for fireworks and making pretty, colorful explosions. But eventually someone figured out it was pretty useful in warfare too, and soon enough flintlocks and cannon were all the rage in Asia. According to Dr. Yongxiang Lu, the little-known Chinese “Crouching Tiger” lay somewhere between a bombard and a cannon, one of the earliest uses of gunpowder in warfare. A crude device, it was basically an iron tube, sealed at one end, wrapped with thick ropes to reinforce it and with two short legs at the front to elevate the barrel slightly (so the shot didn’t plow up the ground instead of smashing the enemy). It is known that the Crouching Tiger saw action c. 1368 at the beginning of the Ming dynasty, and was still being used as late as 1592 against the Japanese in Korea. When fired, it is reported to have had a range of about 800 paces, which no doubt made the enemy very uncomfortable since it outranged anything else at the time.
+Traits
+Unique To
+China
+Upgrades To
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+2
+Movement Points
+30
+Melee Strength
+50
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 140
+Production
+Purchase Cost
+Base Cost: 560
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Chinese unique Medieval era unit. Ranged unit with a
+Range of 1 and high combat strength.
+Historical Context
+After the Chinese discovered gunpowder c. 9th Century AD, they used it just for fireworks and making pretty, colorful explosions. But eventually someone figured out it was pretty useful in warfare too, and soon enough flintlocks and cannon were all the rage in Asia. According to Dr. Yongxiang Lu, the little-known Chinese “Crouching Tiger” lay somewhere between a bombard and a cannon, one of the earliest uses of gunpowder in warfare. A crude device, it was basically an iron tube, sealed at one end, wrapped with thick ropes to reinforce it and with two short legs at the front to elevate the barrel slightly (so the shot didn’t plow up the ground instead of smashing the enemy). It is known that the Crouching Tiger saw action c. 1368 at the beginning of the Ming dynasty, and was still being used as late as 1592 against the Japanese in Korea. When fired, it is reported to have had a range of about 800 paces, which no doubt made the enemy very uncomfortable since it outranged anything else at the time.
+Traits
+Unique To
+China
+Upgrades To
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+2
+Movement Points
+30
+Melee Strength
+50
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 140
+Production
+Purchase Cost
+Base Cost: 560
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

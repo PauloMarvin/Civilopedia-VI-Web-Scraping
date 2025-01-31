@@ -1,0 +1,54 @@
+Eagle Warrior - Units - Civilopedia - Civilization VI
+Eagle Warrior
+Description
+Aztec unique Ancient era unit that replaces the Warrior.  Has a chance to capture other civilization's military units by turning them into Builders.
+Historical Context
+One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.
+Traits
+Unique To
+Aztec
+Upgrades To
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Promotion Class: Melee
+2
+Movement Points
+28
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Description
+Aztec unique Ancient era unit that replaces the Warrior.  Has a chance to capture other civilization's military units by turning them into Builders.
+Historical Context
+One of the two elite class of infantry (the other being the Jaguar Warriors) in the Aztec army, the Eagle Warriors were the bravest young men of noble birth and/or those who had taken the most prisoners in battle. Like the Jaguars, the Eagles used the atlatl, bow, spear and macuahuitl (wooden swords set with obsidian shards); unlike the Jaguars, the Eagles decorated their armor with eagle feathers and wore a headdress shaped like the head of an eagle with the beak wide open. And they had a hilltop temple in Malinalco. Upon taking 20 prisoners – intact enough to serve as human sacrifice – a young warrior was eligible to become an Eagle Warrior, no doubt making his family very proud. Until the Spanish arrived with their cannons, muskets, and horses, the Eagle and Jaguar warriors were the toughest bullies on the Mesoamerican block.
+Traits
+Unique To
+Aztec
+Upgrades To
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Promotion Class: Melee
+2
+Movement Points
+28
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold

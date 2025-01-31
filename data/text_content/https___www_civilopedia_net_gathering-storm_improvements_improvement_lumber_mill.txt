@@ -1,0 +1,44 @@
+Lumber Mill - Improvements and Routes - Civilopedia - Civilization VI
+Lumber Mill
+Description
+Unlocks the Builder ability to construct a Lumber Mill.
++2
+Production. Can only be built on Woods. Once Mercantilism is unlocked it can also be built on Rainforest.
+Historical Context
+For centuries the purpose of a lumber mill has not changed: logs go in one end, and cut beams, boards, posts, and shingles come out the other. The earliest known sawmill that can be reliably dated is a Roman water-powered mill uncovered at Hierapolis dating to the 3rd Century AD. Small, water-powered mills were common throughout Europe and the Middle East where trees were plentiful, and the designs later went with European colonists so they could start chopping down the virgin forests everywhere else as well. The Industrial Revolution speeded the whole process, as steam railroads could transport the logs to steam lumber mills, and then haul the “finished” (in more ways than one) wood products to market in the booming cities. In time, even the byproducts of the trimming and cutting were used – for paper, fuel, and packing.
+Traits
++2
+Production
++1
+Production (requires Steel)
++1
+Production (requires Cybernetics)
+Requirements
+Technology
+Construction
+Woods
+Rainforest
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Lumber Mill.
++2
+Production. Can only be built on Woods. Once Mercantilism is unlocked it can also be built on Rainforest.
+Historical Context
+For centuries the purpose of a lumber mill has not changed: logs go in one end, and cut beams, boards, posts, and shingles come out the other. The earliest known sawmill that can be reliably dated is a Roman water-powered mill uncovered at Hierapolis dating to the 3rd Century AD. Small, water-powered mills were common throughout Europe and the Middle East where trees were plentiful, and the designs later went with European colonists so they could start chopping down the virgin forests everywhere else as well. The Industrial Revolution speeded the whole process, as steam railroads could transport the logs to steam lumber mills, and then haul the “finished” (in more ways than one) wood products to market in the booming cities. In time, even the byproducts of the trimming and cutting were used – for paper, fuel, and packing.
+Traits
++2
+Production
++1
+Production (requires Steel)
++1
+Production (requires Cybernetics)
+Requirements
+Technology
+Construction
+Woods
+Rainforest
+Usage
+Built By
+Builder

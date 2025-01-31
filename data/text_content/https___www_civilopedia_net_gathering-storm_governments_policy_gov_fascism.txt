@@ -1,0 +1,22 @@
+Fascist Legacy - Governments and Policies - Civilopedia - Civilization VI
+Fascist Legacy
+Description
+All units gain +5
+Combat Strength.  War Weariness reduced by 15%.
+Historical Context
+Fascism – authoritarian nationalism – evolved in the chaos caused by the First World War and the world-wide Great Depression. While it technically refers to the Fascist Party, a political group in Italy, we use the term to refer to governments such as Imperial Japan, Mussolini's Italy, Franco's Spain, and Nazi Germany. While in its focus upon the figure of the leader, fascism resembles an extreme form of modernity, it is ultimately a futurist ideology, seeking to reshape society anew. In the early 20th century, the nature of war, society and technology underwent such extreme changes that fascist movements sprang up in many countries (including democracies such as Great Britain, the United States, France, Italy, Germany and others) around the globe. In some, fascist political parties managed to seize power through guile, bloodshed or even elections: Italy, Germany, Spain, Portugal, Hungary, and Nationalist China, where Chiang Kai-shek considered fascism to be the “practical” solution to rapid modernization. Other nations, notably several across South America and Asia, embraced varieties of fascist ideology.
+Marked by militarism, nationalism, modernism, repression, and opposition to Communism, fascist governments embody totalitarianism, in which the state seeks to control the hearts and minds of its citizens via propaganda or outright repression. In terms of economics, fascist systems incorporate elements of both capitalist and socialist systems, in that they mobilize private industry for state (read: military) might. With the defeat of the Axis in World War II, fascism ceased to be a present danger to the world order, but fascist regimes and tendencies continued elsewhere (and continue in places today that emphasize a strong leader and military might), and fascist political movements can be found nearly every place, waving the flag of racist ethno-nationalism, monarchy, or rabid national pride.
+Requirements
+Government
+Cannot be slotted while in and unlocked by
+Fascism
+Description
+All units gain +5
+Combat Strength.  War Weariness reduced by 15%.
+Requirements
+Government
+Cannot be slotted while in and unlocked by
+Fascism
+Historical Context
+Fascism – authoritarian nationalism – evolved in the chaos caused by the First World War and the world-wide Great Depression. While it technically refers to the Fascist Party, a political group in Italy, we use the term to refer to governments such as Imperial Japan, Mussolini's Italy, Franco's Spain, and Nazi Germany. While in its focus upon the figure of the leader, fascism resembles an extreme form of modernity, it is ultimately a futurist ideology, seeking to reshape society anew. In the early 20th century, the nature of war, society and technology underwent such extreme changes that fascist movements sprang up in many countries (including democracies such as Great Britain, the United States, France, Italy, Germany and others) around the globe. In some, fascist political parties managed to seize power through guile, bloodshed or even elections: Italy, Germany, Spain, Portugal, Hungary, and Nationalist China, where Chiang Kai-shek considered fascism to be the “practical” solution to rapid modernization. Other nations, notably several across South America and Asia, embraced varieties of fascist ideology.
+Marked by militarism, nationalism, modernism, repression, and opposition to Communism, fascist governments embody totalitarianism, in which the state seeks to control the hearts and minds of its citizens via propaganda or outright repression. In terms of economics, fascist systems incorporate elements of both capitalist and socialist systems, in that they mobilize private industry for state (read: military) might. With the defeat of the Axis in World War II, fascism ceased to be a present danger to the world order, but fascist regimes and tendencies continued elsewhere (and continue in places today that emphasize a strong leader and military might), and fascist political movements can be found nearly every place, waving the flag of racist ethno-nationalism, monarchy, or rabid national pride.

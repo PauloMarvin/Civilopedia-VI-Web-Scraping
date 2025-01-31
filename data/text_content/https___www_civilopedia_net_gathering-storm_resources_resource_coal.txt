@@ -1,0 +1,44 @@
+Coal - Resources - Civilopedia - Civilization VI
+Coal
+Historical Context
+From the Old English term col, meaning “mineral of fossilized carbon,” coal has been civilization’s primary source of heat for millennia – of homes, forges, smelters, electrical plants and such. Decomposed plant matter that has been compressed over millennia, coal was first used for carved ornaments dating back to c. 4000 BC found in the Shenyang region of China. Men have been stripping it out of the ground ever since.
+Traits
+Strategic
++2
+Production
+Produces +3
+Coal per turn when improved.
+Requirements
+Unlocked By
+Industrialization
+Placement
+Grassland (Hills)
+Plains (Hills)
+Woods
+Usage
+Improved By
+Mine
+Building
+Projects
+Route
+Historical Context
+From the Old English term col, meaning “mineral of fossilized carbon,” coal has been civilization’s primary source of heat for millennia – of homes, forges, smelters, electrical plants and such. Decomposed plant matter that has been compressed over millennia, coal was first used for carved ornaments dating back to c. 4000 BC found in the Shenyang region of China. Men have been stripping it out of the ground ever since.
+Traits
+Strategic
++2
+Production
+Produces +3
+Coal per turn when improved.
+Requirements
+Unlocked By
+Industrialization
+Placement
+Grassland (Hills)
+Plains (Hills)
+Woods
+Usage
+Improved By
+Mine
+Building
+Projects
+Route

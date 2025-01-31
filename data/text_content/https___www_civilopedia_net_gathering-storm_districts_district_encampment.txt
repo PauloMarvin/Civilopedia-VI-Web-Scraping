@@ -1,0 +1,86 @@
+Encampment - Districts - Civilopedia - Civilization VI
+Encampment
+Description
+A district in your city for military facilities.
+Historical Context
+When an ancient ruler decided he needed a professional army – rather than a bunch of well-meaning farmers armed with pointed sticks – there needed to be someplace to put it when it wasn’t out dealing death and mayhem. Since it wouldn’t do to have the soldiers mingle with average folk, encampments were established to lodge and train the troops. Often fortified, containing all that was necessary for the well-being of the army – barracks, stables, stores, training grounds, and so forth – these encampments could be quite impressive; at the height of the Roman Empire, a standardized military camp could house and care for an entire legion. Indeed, Roman law and tradition forbade any legion from even entering the city – not a bad idea, until Lucius Sulla marched his legions in and declared himself dictator in 87 BC.
+Traits
+Replaced By
+Ikanda
+Thành
++1
+Great General point per turn.
+Appeal to Adjacent Tiles: -1
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Basilikoi Paides
+Military Academy
+Ordu
+Stable
+Description
+A district in your city for military facilities.
+Historical Context
+When an ancient ruler decided he needed a professional army – rather than a bunch of well-meaning farmers armed with pointed sticks – there needed to be someplace to put it when it wasn’t out dealing death and mayhem. Since it wouldn’t do to have the soldiers mingle with average folk, encampments were established to lodge and train the troops. Often fortified, containing all that was necessary for the well-being of the army – barracks, stables, stores, training grounds, and so forth – these encampments could be quite impressive; at the height of the Roman Empire, a standardized military camp could house and care for an entire legion. Indeed, Roman law and tradition forbade any legion from even entering the city – not a bad idea, until Lucius Sulla marched his legions in and declared himself dictator in 87 BC.
+Traits
+Replaced By
+Ikanda
+Thành
++1
+Great General point per turn.
+Appeal to Adjacent Tiles: -1
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Basilikoi Paides
+Military Academy
+Ordu
+Stable

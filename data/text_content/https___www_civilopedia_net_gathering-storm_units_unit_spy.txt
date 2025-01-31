@@ -1,0 +1,126 @@
+Spy - Units - Civilopedia - Civilization VI
+Spy
+Description
+Performs secret missions in foreign cities and protects your cities from enemy Spies.
+Historical Context
+Despite the scribblings of Ian Fleming, Alistair MacLean, and Tom Clancy, the doings of most spies are far less glamorous – in fact, downright grim – or rewarding than most think. While employed in various times and places throughout history with more or less success, espionage has been a useful policy of the state only since Francis Walsingham in Elizabethan England developed most modern methods of uncovering or concealing state secrets (such as cryptography, forgery, seduction, blackmail, assassination, and more). And it is rare that spies do so for noble reasons; most are either well-paid or blackmailed into undertaking such a dangerous career. Although there have been some notable periods when spy-craft was rampant, none matched the era of the Cold War in methods or activities across the globe. But the “romance” was drained from the spy business with the advent of electronic and satellite information gathering that the superpowers seized upon in the 1990s. Bond would be terribly disappointed.
+Traits
+Promotion Class: Espionage
+Maximum Number of Promotions: 3
+Requirements
+Production Cost
+Base Cost: 225
+Production
+Maintenance Cost
+Base Cost: 4
+Gold
+Espionage Missions
+Counterspy
+Turns: 16 (Standard Speed)
+Disrupt Rocketry
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Spaceport
+Gain Sources
+Turns: 8 (Standard Speed)
+Great Work Heist
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Theater Square
+Listening Post
+Turns: 8 (Standard Speed)
+Recruit Partisans
+Turns: 8 (Standard Speed)
+Base Probability: 10%
+Target District: Neighborhood
+Sabotage Production
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Target District: Industrial Zone
+Siphon Funds
+Turns: 8 (Standard Speed)
+Base Probability: 56%
+Target District: Commercial Hub
+Steal Tech Boost
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Target District: Campus
+Fabricate Scandal
+Turns: 16 (Standard Speed)
+Base Probability: 56%
+Foment Unrest
+Turns: 8 (Standard Speed)
+Base Probability: 56%
+Neutralize Governor
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Breach Dam
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Dam
+Zombie Outbreak
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: City Center
+Description
+Performs secret missions in foreign cities and protects your cities from enemy Spies.
+Historical Context
+Despite the scribblings of Ian Fleming, Alistair MacLean, and Tom Clancy, the doings of most spies are far less glamorous – in fact, downright grim – or rewarding than most think. While employed in various times and places throughout history with more or less success, espionage has been a useful policy of the state only since Francis Walsingham in Elizabethan England developed most modern methods of uncovering or concealing state secrets (such as cryptography, forgery, seduction, blackmail, assassination, and more). And it is rare that spies do so for noble reasons; most are either well-paid or blackmailed into undertaking such a dangerous career. Although there have been some notable periods when spy-craft was rampant, none matched the era of the Cold War in methods or activities across the globe. But the “romance” was drained from the spy business with the advent of electronic and satellite information gathering that the superpowers seized upon in the 1990s. Bond would be terribly disappointed.
+Traits
+Promotion Class: Espionage
+Maximum Number of Promotions: 3
+Requirements
+Production Cost
+Base Cost: 225
+Production
+Maintenance Cost
+Base Cost: 4
+Gold
+Espionage Missions
+Counterspy
+Turns: 16 (Standard Speed)
+Disrupt Rocketry
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Spaceport
+Gain Sources
+Turns: 8 (Standard Speed)
+Great Work Heist
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Theater Square
+Listening Post
+Turns: 8 (Standard Speed)
+Recruit Partisans
+Turns: 8 (Standard Speed)
+Base Probability: 10%
+Target District: Neighborhood
+Sabotage Production
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Target District: Industrial Zone
+Siphon Funds
+Turns: 8 (Standard Speed)
+Base Probability: 56%
+Target District: Commercial Hub
+Steal Tech Boost
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Target District: Campus
+Fabricate Scandal
+Turns: 16 (Standard Speed)
+Base Probability: 56%
+Foment Unrest
+Turns: 8 (Standard Speed)
+Base Probability: 56%
+Neutralize Governor
+Turns: 8 (Standard Speed)
+Base Probability: 35%
+Breach Dam
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: Dam
+Zombie Outbreak
+Turns: 8 (Standard Speed)
+Base Probability: 20%
+Target District: City Center

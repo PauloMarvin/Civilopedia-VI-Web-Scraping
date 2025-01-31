@@ -1,0 +1,46 @@
+Pyramids - Wonders and Projects - Civilopedia - Civilization VI
+Pyramids
+Description
+Grants a free Builder. All Builders can build 1 extra improvement. Must be built on Desert (including Desert Floodplains) without Hills.
+Historical Context
+Though pyramids were built from the beginning of the Old Kingdom to the close of the Ptolemaic dynasty, the really big heaps of stone along the Nile were piled up commencing in the late third dynasty and continuing through the sixth (roughly 500 years). The Great Pyramid of Giza that is virtually synonymous with the “glory”  of ancient Egypt went up around 2560 BC to serve as the tomb of Pharaoh Khufu (who is unremarkable for anything else save the length of his reign). It is considered one of the Seven Wonders of the Ancient World. Built by tens of thousands of workers, including skilled masons, and covered with “casing stones” (slabs of polished limestone), the Pyramids of Giza were a testament to Egypt’s power and the natives’ conviction of the afterlife – at least for the elite. To date, some 135 pyramids have been found in what was once the greatest empire in the world.
+“From the heights of these pyramids, forty centuries look down on us.”
+– Napoleon Bonaparte
+Traits
+Removed if game started after
+Medieval Era
++2
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Masonry
+Placement
+Desert Floodplains
+Desert
+Production Cost
+Base Cost: 220
+Production
+Description
+Grants a free Builder. All Builders can build 1 extra improvement. Must be built on Desert (including Desert Floodplains) without Hills.
+Historical Context
+Though pyramids were built from the beginning of the Old Kingdom to the close of the Ptolemaic dynasty, the really big heaps of stone along the Nile were piled up commencing in the late third dynasty and continuing through the sixth (roughly 500 years). The Great Pyramid of Giza that is virtually synonymous with the “glory”  of ancient Egypt went up around 2560 BC to serve as the tomb of Pharaoh Khufu (who is unremarkable for anything else save the length of his reign). It is considered one of the Seven Wonders of the Ancient World. Built by tens of thousands of workers, including skilled masons, and covered with “casing stones” (slabs of polished limestone), the Pyramids of Giza were a testament to Egypt’s power and the natives’ conviction of the afterlife – at least for the elite. To date, some 135 pyramids have been found in what was once the greatest empire in the world.
+“From the heights of these pyramids, forty centuries look down on us.”
+– Napoleon Bonaparte
+Traits
+Removed if game started after
+Medieval Era
++2
+Culture
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Masonry
+Placement
+Desert Floodplains
+Desert
+Production Cost
+Base Cost: 220
+Production

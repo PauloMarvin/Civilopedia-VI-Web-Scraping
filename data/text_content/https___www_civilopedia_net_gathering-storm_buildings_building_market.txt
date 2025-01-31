@@ -1,0 +1,52 @@
+Market - Buildings - Civilopedia - Civilization VI
+Market
+Description
++1
+Trade Route capacity, if this city does not yet have a Lighthouse building.
+Historical Context
+Whether called a souk (Arabic), bazaar (Persian), mercado (Spanish) or palengke (Filipino), markets have been around since farmers had surpluses and tradesmen had wares to sell to townsfolk. While primitive markets may have operated on a barter system, it was the coming of writing and coinage that made markets profitable and, indeed, indispensable to civilization. Markets were located in towns, both transport hubs and centers of consumption, even when the latter were off the beaten track. Marketplaces in Thebes, Babylon, Athens, Rome, Bangkok, Marrakech, London, Delhi, in all places and all times, offered the exotic, innovative and everyday for sale. Their shape and style may differ dramatically – floating markets, indoor markets, street markets, night markets, market squares, ad infinitum – but the intent is the same: to make a profit for the stallholders.
+Traits
+Replaced By
+Sukiennice
++2
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Currency
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Description
++1
+Trade Route capacity, if this city does not yet have a Lighthouse building.
+Historical Context
+Whether called a souk (Arabic), bazaar (Persian), mercado (Spanish) or palengke (Filipino), markets have been around since farmers had surpluses and tradesmen had wares to sell to townsfolk. While primitive markets may have operated on a barter system, it was the coming of writing and coinage that made markets profitable and, indeed, indispensable to civilization. Markets were located in towns, both transport hubs and centers of consumption, even when the latter were off the beaten track. Marketplaces in Thebes, Babylon, Athens, Rome, Bangkok, Marrakech, London, Delhi, in all places and all times, offered the exotic, innovative and everyday for sale. Their shape and style may differ dramatically – floating markets, indoor markets, street markets, night markets, market squares, ad infinitum – but the intent is the same: to make a profit for the stallholders.
+Traits
+Replaced By
+Sukiennice
++2
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Currency
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold

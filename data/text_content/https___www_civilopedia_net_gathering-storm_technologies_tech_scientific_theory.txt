@@ -1,0 +1,58 @@
+Scientific Theory - Technologies - Civilopedia - Civilization VI
+Scientific Theory
+Description
++1
+Food from the Plantation improvement.
+Historical Context
+Scientific theories work well to explain how the natural (and unnatural) world works, being based on well-substantiated and oft-observed phenomena that can be replicated. Thus, empirical scientific theories are predictive, universal and testable. Scientific laws, by contrast, offer no explanation of the mechanics of a phenomenon, merely unvarying observation of something occurring. Obsolete theories, such as the phlogiston theory of combustion, are tossed aside once research or instrumentation uncovers new empirical data about the phenomenon.
+Scientific theory is based upon the evolution of the scientific method, beginning with Aristotle’s inductive-deductive approach to scientific observation as laid out in his Organon. But Aristotle’s was not the only approach to formulating theories; Epicurus laid out his own rules for “inferring” how and why nature functions. Europeans didn’t pay much attention to science during the Dark Ages (being rather more concerned with surviving all the wars, plagues and famines), but in 1021 AD the Arab physicist ibn al-Haytham, known in the West as Alhazen, laid out his method of proposing scientific theories: observation, experimentation and rational logic.
+Once Europe emerged from its troubles, Renaissance humanists added their own thoughts on how scientific theories should be generated. Francisco Sanches in his writings, 1571 through 1573, argued that the only true method for knowing was based on skepticism, and Francis Bacon thus developed eliminative induction as the basis for proposing scientific theories. Descartes, Galilei and Newton refined his methods. In the 20th Century, Charles Peirce, Karl Popper and Thomas Kuhn debated and advanced the notion of what the scientific method should be, a standard for all inquiry in all the research disciplines.
+There are, of course, other, less-empirical ways of understanding the universe, but scientific theories remain grounded in reality … and have brought civilization insights and technologies to make human life much more comfortable.
+“Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or exciting our sense of wonder.”
+– Carl Sagan
+“If facts don’t fit the theory, change the facts.”
+– Albert Einstein
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Astronomy
+Banking
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Have The Enlightenment civic.
+Progression
+Leads to Technologies
+Economics
+Sanitation
+Flight
+Description
++1
+Food from the Plantation improvement.
+Historical Context
+Scientific theories work well to explain how the natural (and unnatural) world works, being based on well-substantiated and oft-observed phenomena that can be replicated. Thus, empirical scientific theories are predictive, universal and testable. Scientific laws, by contrast, offer no explanation of the mechanics of a phenomenon, merely unvarying observation of something occurring. Obsolete theories, such as the phlogiston theory of combustion, are tossed aside once research or instrumentation uncovers new empirical data about the phenomenon.
+Scientific theory is based upon the evolution of the scientific method, beginning with Aristotle’s inductive-deductive approach to scientific observation as laid out in his Organon. But Aristotle’s was not the only approach to formulating theories; Epicurus laid out his own rules for “inferring” how and why nature functions. Europeans didn’t pay much attention to science during the Dark Ages (being rather more concerned with surviving all the wars, plagues and famines), but in 1021 AD the Arab physicist ibn al-Haytham, known in the West as Alhazen, laid out his method of proposing scientific theories: observation, experimentation and rational logic.
+Once Europe emerged from its troubles, Renaissance humanists added their own thoughts on how scientific theories should be generated. Francisco Sanches in his writings, 1571 through 1573, argued that the only true method for knowing was based on skepticism, and Francis Bacon thus developed eliminative induction as the basis for proposing scientific theories. Descartes, Galilei and Newton refined his methods. In the 20th Century, Charles Peirce, Karl Popper and Thomas Kuhn debated and advanced the notion of what the scientific method should be, a standard for all inquiry in all the research disciplines.
+There are, of course, other, less-empirical ways of understanding the universe, but scientific theories remain grounded in reality … and have brought civilization insights and technologies to make human life much more comfortable.
+“Claims that cannot be tested, assertions immune to disproof are veridically worthless, whatever value they may have in inspiring us or exciting our sense of wonder.”
+– Carl Sagan
+“If facts don’t fit the theory, change the facts.”
+– Albert Einstein
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Astronomy
+Banking
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Have The Enlightenment civic.
+Progression
+Leads to Technologies
+Economics
+Sanitation
+Flight

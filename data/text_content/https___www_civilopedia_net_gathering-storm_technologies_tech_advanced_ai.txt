@@ -1,0 +1,36 @@
+Advanced AI - Technologies - Civilopedia - Civilization VI
+Advanced AI
+Description
+Unlocks Giant Death Robot upgrade: Drone Air Defense
++100
+Anti-Air Strength.
+Historical Context
+One of the projected developments of the digital computer has been a device capable of replicating human-level intelligent behavior while relying entirely on a synthetic implementation. One of the first great thought experiments of the digital age was Alan Turing's proposed test of AI intelligence: Any AI which could not be distinguished from a human respondent would be judged to be “thinking.” This important milestone in the development of a philosophy of artificial intelligence continues to be debated hotly.
+In the ensuing decades since the Turing Test was proposed, artificial intelligence has become more widespread and more robust in terms of its capabilities, particularly in the analysis of large data sets. An AI in these cases often “studies” a problem through developing and testing hypotheses about underlying patterns in the data, matching them against the data, and creating iteratively refined models with considerable explanatory power. As AI continues to improve, it will probably be applied to more and more problems, with solution algorithms being treated as a “black box”—meaningful only to the AI and irrelevant to the humans interest in the model outputs.
+As to whether AI will ever be mistaken for a human, it is hard to imagine a future where frustrated people dealing with computerized phone systems do not continually mash the “0” button in search of a human operator.
+“Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?”
+– Mary Shelley
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.
+Description
+Unlocks Giant Death Robot upgrade: Drone Air Defense
++100
+Anti-Air Strength.
+Historical Context
+One of the projected developments of the digital computer has been a device capable of replicating human-level intelligent behavior while relying entirely on a synthetic implementation. One of the first great thought experiments of the digital age was Alan Turing's proposed test of AI intelligence: Any AI which could not be distinguished from a human respondent would be judged to be “thinking.” This important milestone in the development of a philosophy of artificial intelligence continues to be debated hotly.
+In the ensuing decades since the Turing Test was proposed, artificial intelligence has become more widespread and more robust in terms of its capabilities, particularly in the analysis of large data sets. An AI in these cases often “studies” a problem through developing and testing hypotheses about underlying patterns in the data, matching them against the data, and creating iteratively refined models with considerable explanatory power. As AI continues to improve, it will probably be applied to more and more problems, with solution algorithms being treated as a “black box”—meaningful only to the AI and irrelevant to the humans interest in the model outputs.
+As to whether AI will ever be mistaken for a human, it is hard to imagine a future where frustrated people dealing with computerized phone systems do not continually mash the “0” button in search of a human operator.
+“Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?”
+– Mary Shelley
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.

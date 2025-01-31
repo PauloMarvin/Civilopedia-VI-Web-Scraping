@@ -1,0 +1,96 @@
+Ikanda - Districts - Civilopedia - Civilization VI
+Ikanda
+Description
+A district unique to Zulu which replaces the Encampment. Provides +1
+Housing. Once the Civic or Technology prerequisite is met, Corps and Armies can be built outright. Buildings in the Ikanda receive +2
+Gold and +1
+Science. Faster Corps and Army creation.
+Historical Context
+The ikanda (also known as a “kraal” or “umuzi”) were self-sufficient, fortified Zulu homesteads. A double palisade protected its residents—the inner wall kept livestock in and the outer wall kept interlopers out. Ikanda were ideally placed uphill for reasons both practical and strategic: rainwater flowed downhill to clean the ikanda, while opponents were forced to attack an elevated position.
+Shaka’s revolutionary changes to the military capitalized on the traditional Zulu age-grade system. Young men of the same age lived, trained, and fought together in regiments, relying on the ikanda’s bounty to provide their food, arms, and armor.
+Traits
+Unique To
+Zulu
+Replaces
+Encampment
++1
+Great General point per turn.
++1
+Housing
+Appeal to Adjacent Tiles: -1
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Military Academy
+Stable
+Description
+A district unique to Zulu which replaces the Encampment. Provides +1
+Housing. Once the Civic or Technology prerequisite is met, Corps and Armies can be built outright. Buildings in the Ikanda receive +2
+Gold and +1
+Science. Faster Corps and Army creation.
+Historical Context
+The ikanda (also known as a “kraal” or “umuzi”) were self-sufficient, fortified Zulu homesteads. A double palisade protected its residents—the inner wall kept livestock in and the outer wall kept interlopers out. Ikanda were ideally placed uphill for reasons both practical and strategic: rainwater flowed downhill to clean the ikanda, while opponents were forced to attack an elevated position.
+Shaka’s revolutionary changes to the military capitalized on the traditional Zulu age-grade system. Young men of the same age lived, trained, and fought together in regiments, relying on the ikanda’s bounty to provide their food, arms, and armor.
+Traits
+Unique To
+Zulu
+Replaces
+Encampment
++1
+Great General point per turn.
++1
+Housing
+Appeal to Adjacent Tiles: -1
+Citizen Yields (per citizen)
++2
+Gold
++1
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Bronze Working
+Placement
+Cannot be adjacent to the City Center
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Armory
+Barracks
+Military Academy
+Stable

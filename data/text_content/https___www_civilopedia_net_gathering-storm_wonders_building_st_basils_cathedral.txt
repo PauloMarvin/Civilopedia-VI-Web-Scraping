@@ -1,0 +1,54 @@
+St. Basil's Cathedral - Wonders and Projects - Civilopedia - Civilization VI
+St. Basil's Cathedral
+Description
++100%
+Religious Tourism from this city. +1
+Food, +1
+Production, and +1
+Culture on all Tundra tiles for this city. Must be built adjacent to a City Center.
+Historical Context
+The large, dramatically colored cathedral near Moscow’s Moskva River officially bore the name “Cathedral of the Intercession of the Virgin by the Moat,” but most people referred to it as “St. Basil’s.” Also, the shorter name fits better on maps. Ivan the Terrible commissioned its construction in 1555 to commemorate victories achieved during his reign.
+Despite Ivan’s namesake, the cathedral turned out to be anything but terrible. The cathedral is reminiscent of a Russian nesting doll, consisting of eight separate clustered churches rather than a single one. Though St. Basil’s was originally a drab white, it received a fresh coat of bold, patterned paint in 1860 that has defined it since.
+“One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a forth was in quarters like a melon.”
+– Katharine Blanche Guthrie
+Traits
+Removed if game started after
+Modern Era
++3
+Relic slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Reformed Church
+Adjacency
+City Center
+Production Cost
+Base Cost: 920
+Production
+Description
++100%
+Religious Tourism from this city. +1
+Food, +1
+Production, and +1
+Culture on all Tundra tiles for this city. Must be built adjacent to a City Center.
+Historical Context
+The large, dramatically colored cathedral near Moscow’s Moskva River officially bore the name “Cathedral of the Intercession of the Virgin by the Moat,” but most people referred to it as “St. Basil’s.” Also, the shorter name fits better on maps. Ivan the Terrible commissioned its construction in 1555 to commemorate victories achieved during his reign.
+Despite Ivan’s namesake, the cathedral turned out to be anything but terrible. The cathedral is reminiscent of a Russian nesting doll, consisting of eight separate clustered churches rather than a single one. Though St. Basil’s was originally a drab white, it received a fresh coat of bold, patterned paint in 1860 that has defined it since.
+“One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a forth was in quarters like a melon.”
+– Katharine Blanche Guthrie
+Traits
+Removed if game started after
+Modern Era
++3
+Relic slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Reformed Church
+Adjacency
+City Center
+Production Cost
+Base Cost: 920
+Production

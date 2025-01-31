@@ -1,0 +1,60 @@
+Amphitheater - Buildings - Civilopedia - Civilization VI
+Amphitheater
+Historical Context
+When bread and circuses didn’t keep the masses happy, there was always the theater to distract them. An amphitheater is an outdoor arena (modern usage of the term is rather lax) that serves as a venue for performances, sporting events and public speeches. Although there had certainly been public spectacles in various places before, these tended to be staged ad hoc. But when the Greeks began writing plays around 532 BC, they built small, open-air structures (called theatrons) in which to perform these; the Romans, always looking to build bigger and better, created the amphitheater. The Romans built them all over their conquered lands, for every frontier outpost wanted to be civilized. The practice spread outward from the empire to other places, for amphitheaters were great places to stage plays, gladiatorial and Olympic Games, religious spectacles, executions, political debates, concerts, and all manner of other entertainments.
+Traits
+Replaced By
+Marae
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Works of Writing slots
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Theater Square
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Historical Context
+When bread and circuses didn’t keep the masses happy, there was always the theater to distract them. An amphitheater is an outdoor arena (modern usage of the term is rather lax) that serves as a venue for performances, sporting events and public speeches. Although there had certainly been public spectacles in various places before, these tended to be staged ad hoc. But when the Greeks began writing plays around 532 BC, they built small, open-air structures (called theatrons) in which to perform these; the Romans, always looking to build bigger and better, created the amphitheater. The Romans built them all over their conquered lands, for every frontier outpost wanted to be civilized. The practice spread outward from the empire to other places, for amphitheaters were great places to stage plays, gladiatorial and Olympic Games, religious spectacles, executions, political debates, concerts, and all manner of other entertainments.
+Traits
+Replaced By
+Marae
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Works of Writing slots
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Theater Square
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

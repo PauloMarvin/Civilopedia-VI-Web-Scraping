@@ -1,0 +1,56 @@
+Gunpowder - Technologies - Civilopedia - Civilization VI
+Gunpowder
+Description
+Quarry improvements receive +1
+Production. Unlocks a
+Governor title for Suleiman (Kanuni).
+Historical Context
+The invention of gunpowder is usually attributed to Chinese alchemists during the Tang dynasty, one of the “Four Great Inventions of China.” The earliest written record of it – a formula composed of sulfur, charcoal and potassium nitrate dating to the later Song dynasty – was supposed to be an elixir for immortality … it was anything but. But the Chinese did discover that it burned explosively and the resultant gases expanded rapidly when exposed to heat; so it was useful for making fireworks. The Chinese found a more practical use for gunpowder in crude bombs and rockets which they used against the Mongols … until the Mongols overran China and then used the new weapon against everyone else on their path westward.
+While the Mongols were using gunpowder to intimidate the Europeans they encountered, the Arabs sometime between 1240 and 1280 AD developed better recipes, purer niter, and more deadly weapons – notably cannon and a primitive arquebus. Some historical texts state that the Mamluks used the first cannon in history against the Mongols during the battle at Ain Jalut in 1260, but this is open to debate. The earliest description of a “portable hand cannon,” however, does appear in an Arabic manuscript from the 14th Century. Once they’d turned back the Mongols, the Arabs put these to use elsewhere.
+But it was the Europeans who really took to gunpowder as a means of wholesale slaughter. Not only did they improve the formula and add touches such as “corning” – using liquid to increase granularity and hence stability – and “smokeless” powder, but they created all sorts of toys that used it to hurl small and large bits of lead and iron at people. From the days of the Renaissance, military history in Europe was shaped by gunpowder, as it came to dominate the battlefield like no technology before.
+“The real use of gunpowder is to make all men tall.”
+– Thomas Carlyle
+“Man is a military animal, glories in gunpowder, and loves parades.”
+– Philip Bailey
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Apprenticeship
+Stirrups
+Military Engineering
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build an Armory.
+Progression
+Leads to Technologies
+Metal Casting
+Description
+Quarry improvements receive +1
+Production. Unlocks a
+Governor title for Suleiman (Kanuni).
+Historical Context
+The invention of gunpowder is usually attributed to Chinese alchemists during the Tang dynasty, one of the “Four Great Inventions of China.” The earliest written record of it – a formula composed of sulfur, charcoal and potassium nitrate dating to the later Song dynasty – was supposed to be an elixir for immortality … it was anything but. But the Chinese did discover that it burned explosively and the resultant gases expanded rapidly when exposed to heat; so it was useful for making fireworks. The Chinese found a more practical use for gunpowder in crude bombs and rockets which they used against the Mongols … until the Mongols overran China and then used the new weapon against everyone else on their path westward.
+While the Mongols were using gunpowder to intimidate the Europeans they encountered, the Arabs sometime between 1240 and 1280 AD developed better recipes, purer niter, and more deadly weapons – notably cannon and a primitive arquebus. Some historical texts state that the Mamluks used the first cannon in history against the Mongols during the battle at Ain Jalut in 1260, but this is open to debate. The earliest description of a “portable hand cannon,” however, does appear in an Arabic manuscript from the 14th Century. Once they’d turned back the Mongols, the Arabs put these to use elsewhere.
+But it was the Europeans who really took to gunpowder as a means of wholesale slaughter. Not only did they improve the formula and add touches such as “corning” – using liquid to increase granularity and hence stability – and “smokeless” powder, but they created all sorts of toys that used it to hurl small and large bits of lead and iron at people. From the days of the Renaissance, military history in Europe was shaped by gunpowder, as it came to dominate the battlefield like no technology before.
+“The real use of gunpowder is to make all men tall.”
+– Thomas Carlyle
+“Man is a military animal, glories in gunpowder, and loves parades.”
+– Philip Bailey
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Apprenticeship
+Stirrups
+Military Engineering
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build an Armory.
+Progression
+Leads to Technologies
+Metal Casting

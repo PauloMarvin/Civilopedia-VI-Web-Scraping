@@ -1,0 +1,58 @@
+Bath - Districts - Civilopedia - Civilization VI
+Bath
+Description
+A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.
+It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6
+Housing. Cities that already have existing fresh water will instead get +2
+Housing. If built adjacent to a Geothermal Fissure +1
+Amenity. In all cases the Bath provides an additional bonus of +2
+Housing and +1
+Amenity. Prevents
+Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of a Bath's production.
+Historical Context
+In old Rome, the thermae were large bath complexes; while many Roman villas and palaces had private, heated baths, the thermae were public, open to all harried, dirty citizens who needed to relax and get clean. Although layout varied greatly from Roman city to Roman city, in general each had an atrium for relaxation and exercise, a caldarium (hot bath), a tepidarium (warm bath), a frigidarium (cool bath), as well as apodyterium (dressing room) and the like. The really nice ones also had a sudatorium (moist steam bath) and laconium (dry steam bath). The women’s baths were almost as elaborate, and more highly decorated with murals and mosaics. After a long day at the Colosseum watching the slaughter, there must have been nothing as luxurious as a visit to the local thermae.
+Traits
+Unique To
+Rome
+Replaces
+Aqueduct
++2
+Housing
++1
+Amenity from entertainment
+Requirements
+Technology
+Engineering
+Placement
+Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain
+Production Cost
+Base Cost: 18
+Production
+Description
+A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.
+It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6
+Housing. Cities that already have existing fresh water will instead get +2
+Housing. If built adjacent to a Geothermal Fissure +1
+Amenity. In all cases the Bath provides an additional bonus of +2
+Housing and +1
+Amenity. Prevents
+Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of a Bath's production.
+Historical Context
+In old Rome, the thermae were large bath complexes; while many Roman villas and palaces had private, heated baths, the thermae were public, open to all harried, dirty citizens who needed to relax and get clean. Although layout varied greatly from Roman city to Roman city, in general each had an atrium for relaxation and exercise, a caldarium (hot bath), a tepidarium (warm bath), a frigidarium (cool bath), as well as apodyterium (dressing room) and the like. The really nice ones also had a sudatorium (moist steam bath) and laconium (dry steam bath). The women’s baths were almost as elaborate, and more highly decorated with murals and mosaics. After a long day at the Colosseum watching the slaughter, there must have been nothing as luxurious as a visit to the local thermae.
+Traits
+Unique To
+Rome
+Replaces
+Aqueduct
++2
+Housing
++1
+Amenity from entertainment
+Requirements
+Technology
+Engineering
+Placement
+Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain
+Production Cost
+Base Cost: 18
+Production

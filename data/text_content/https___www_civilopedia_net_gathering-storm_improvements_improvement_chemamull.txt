@@ -1,0 +1,62 @@
+Chemamull - Improvements and Routes - Civilopedia - Civilization VI
+Chemamull
+Description
+Unlocks the Builder ability to construct a Chemamull, unique to Mapuche.
++1
+Production. Provides
+Culture equal to 75% of the tile's Appeal. Additional
+Tourism after researching Flight. Minimum Appeal of Breathtaking.
+Historical Context
+The Mapuche erected great wooden tombstones to remember their dead. These chemamull are carved from a single log and placed beside a person’s tomb. These “people of wood” stand as tall as a person, crafted as recognizably male or female figures with arms crossed over their bodies.
+The Mapuche built these wooden statues to protect the spirits of their loved ones. They believed each statue guarded its tomb and helped to reunite a spirit with its ancestors.
+Traits
+Unique To
+Mapuche
++1
+Production
+Requirements
+Civic
+Craftsmanship
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Chemamull, unique to Mapuche.
++1
+Production. Provides
+Culture equal to 75% of the tile's Appeal. Additional
+Tourism after researching Flight. Minimum Appeal of Breathtaking.
+Historical Context
+The Mapuche erected great wooden tombstones to remember their dead. These chemamull are carved from a single log and placed beside a person’s tomb. These “people of wood” stand as tall as a person, crafted as recognizably male or female figures with arms crossed over their bodies.
+The Mapuche built these wooden statues to protect the spirits of their loved ones. They believed each statue guarded its tomb and helped to reunite a spirit with its ancestors.
+Traits
+Unique To
+Mapuche
++1
+Production
+Requirements
+Civic
+Craftsmanship
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,48 @@
+Nihang - Units - Civilopedia - Civilization VI
+Nihang
+Description
+Lahore City-State unique unit with a unique Promotion tree. Purchasable with
+Faith.
+Combat Strength is increased when Barracks, Armory, and Military Academy buildings are first constructed.
+Historical Context
+The Nihang were a sect of Sikh religious warriors in the 17th - 19th century in what is now northern India, Pakistan and Afghanistan. Their name, meaning “crocodile” in Persian, referred to their ferocity in combat, but they called themselves the Akali, literally “the immortals.” Wearing an iconic outfit of electric blue and a turban a foot high, the Nihang were masters of the shastar vidya, Sikh martial arts. In addition to their military skill, they were known for their strict codes of morality and religious discipline, swearing off alcohol, tobacco, and other indulgences; a Nihang, according to a Sikh scholar of the time, is he who “guards the Sikh temples without a desire for material gain, he who is always eager to fight a just and righteous war.” And fight they did; as one official reported, the Nihang were “unaffected by pain or comfort... where there is the place of battle, having no fear of death, he never steps back.”
+But, formidable fighters though they were, they were not an army. Rather, they were warrior-priests who would wander the countryside helping themselves to what they needed and defending Sikh communities and temples as they saw fit. The arrival of the British mobilized them into a grassroots resistance movement, one which constantly threatened to sweep out of control. As a result, the leader of the short-lived Sikh Empire, Ranjit Singh, sought to control and co-opt their fierce fighting power when he organized several thousand Nihang into his army around the conquest of Lahore in the early 1800s.
+By the mid-1800s, Nihang and the Sikh Empire had gone down in defeat. However, their art is still practiced in some Sikh communities in India and the UK.
+Traits
+Unique To
+Lahore
+Promotion Class: Nihang
+2
+Movement Points
+25
+Melee Strength
+Requirements
+Purchase Cost
+Base Cost: 200
+Faith
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Lahore City-State unique unit with a unique Promotion tree. Purchasable with
+Faith.
+Combat Strength is increased when Barracks, Armory, and Military Academy buildings are first constructed.
+Historical Context
+The Nihang were a sect of Sikh religious warriors in the 17th - 19th century in what is now northern India, Pakistan and Afghanistan. Their name, meaning “crocodile” in Persian, referred to their ferocity in combat, but they called themselves the Akali, literally “the immortals.” Wearing an iconic outfit of electric blue and a turban a foot high, the Nihang were masters of the shastar vidya, Sikh martial arts. In addition to their military skill, they were known for their strict codes of morality and religious discipline, swearing off alcohol, tobacco, and other indulgences; a Nihang, according to a Sikh scholar of the time, is he who “guards the Sikh temples without a desire for material gain, he who is always eager to fight a just and righteous war.” And fight they did; as one official reported, the Nihang were “unaffected by pain or comfort... where there is the place of battle, having no fear of death, he never steps back.”
+But, formidable fighters though they were, they were not an army. Rather, they were warrior-priests who would wander the countryside helping themselves to what they needed and defending Sikh communities and temples as they saw fit. The arrival of the British mobilized them into a grassroots resistance movement, one which constantly threatened to sweep out of control. As a result, the leader of the short-lived Sikh Empire, Ranjit Singh, sought to control and co-opt their fierce fighting power when he organized several thousand Nihang into his army around the conquest of Lahore in the early 1800s.
+By the mid-1800s, Nihang and the Sikh Empire had gone down in defeat. However, their art is still practiced in some Sikh communities in India and the UK.
+Traits
+Unique To
+Lahore
+Promotion Class: Nihang
+2
+Movement Points
+25
+Melee Strength
+Requirements
+Purchase Cost
+Base Cost: 200
+Faith
+Maintenance Cost
+Base Cost: 2
+Gold

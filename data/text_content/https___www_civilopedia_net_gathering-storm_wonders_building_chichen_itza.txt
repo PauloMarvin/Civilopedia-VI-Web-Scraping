@@ -1,0 +1,44 @@
+Chichen Itza - Wonders and Projects - Civilopedia - Civilization VI
+Chichen Itza
+Description
++2
+Culture to all Rainforest tiles for this city. +1
+Production to all Rainforest tiles for this city. Must be built on Rainforest.
+Historical Context
+The Mayans decided to build their great city of stone in the Yucatan in the middle of a jungle instead of on some nice beach. Whatever the logic of selecting such a spot, Chichen Itza was a metropolis of homes, temples, palaces, courtyards and ballcourts of extraordinary artistry; some of the ornamented structures date back 1500 years. The ball games were a special time in the city, as the winning captain was beheaded at the end of the play as a sacrifice to the gods (seems like a perfect reason to “throw” the game), possibly at the massive stepped-pyramid Temple of Kukulcan. Chichen Itza was a thriving concern until the 13th Century, when revolt and civil war broke out among the Mayans, at which point the city went into a steep decline from which it never recovered. What war didn’t take care of among the populace, disease and famine did. The center of the city was largely abandoned and in ruins by the time of the Spanish conquest.
+“The Great Ball Court is also very impressive. I would like to have seen them play a game, although it sounds like the end was pretty violent. I think it was safer to be a spectator.”
+– IslaDeb
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Guilds
+Placement
+Rainforest
+Production Cost
+Base Cost: 710
+Production
+Description
++2
+Culture to all Rainforest tiles for this city. +1
+Production to all Rainforest tiles for this city. Must be built on Rainforest.
+Historical Context
+The Mayans decided to build their great city of stone in the Yucatan in the middle of a jungle instead of on some nice beach. Whatever the logic of selecting such a spot, Chichen Itza was a metropolis of homes, temples, palaces, courtyards and ballcourts of extraordinary artistry; some of the ornamented structures date back 1500 years. The ball games were a special time in the city, as the winning captain was beheaded at the end of the play as a sacrifice to the gods (seems like a perfect reason to “throw” the game), possibly at the massive stepped-pyramid Temple of Kukulcan. Chichen Itza was a thriving concern until the 13th Century, when revolt and civil war broke out among the Mayans, at which point the city went into a steep decline from which it never recovered. What war didn’t take care of among the populace, disease and famine did. The center of the city was largely abandoned and in ruins by the time of the Spanish conquest.
+“The Great Ball Court is also very impressive. I would like to have seen them play a game, although it sounds like the end was pretty violent. I think it was safer to be a spectator.”
+– IslaDeb
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Guilds
+Placement
+Rainforest
+Production Cost
+Base Cost: 710
+Production

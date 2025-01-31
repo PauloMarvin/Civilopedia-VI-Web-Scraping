@@ -1,0 +1,8 @@
+Lijia (Gold) - Wonders and Projects - Civilopedia - Civilization VI
+Lijia (Gold)
+Description
+Project which provides
+Gold every turn equal to 100% of this city's production.
+Description
+Project which provides
+Gold every turn equal to 100% of this city's production.

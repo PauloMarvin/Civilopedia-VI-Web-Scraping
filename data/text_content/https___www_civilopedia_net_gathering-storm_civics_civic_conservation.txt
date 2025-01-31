@@ -1,0 +1,60 @@
+Conservation - Civics - Civilopedia - Civilization VI
+Conservation
+Description
+Awards 3
+Envoys. Allows the building of National Parks and the purchase of Naturalists with
+Faith. Allows Builders to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal. Receive
+Tourism from Walls.
+Historical Context
+The idea of conservation of natural resources can be traced to the work Sylva, or a Discourse of Forest-Trees, presented by John Evelyn to the Royal Society in 1662 AD. Timber resources in England were seriously depleted – thanks to all those ships, buildings and bridges – and Evelyn argued that cutting should be managed and trees replanted in logged areas. No one paid any further attention to the environment, other than exploiting it, until the Progressive Age when some folks sought to convince other Americans that it was their civic duty to preserve unspoiled the land, water and wildlife for future generations. Romantics such as Henry David Thoreau idealized nature, even as pragmatists such as Gifford Pinchot (first head of the U.S. Forestry Service) sought ways to insure that renewable resources would remain renewable … to keep America strong and the economy expanding.
+Even as American cities were becoming more crowded, as the Western frontier was disappearing, as “nature” was being commercialized, and as the working man had more disposable income, leisure and conservation came together as more and more people took up hiking, camping, bird watching, and other outdoor recreations. With general support from the citizens, the U.S. Congress passed landmark legislation establishing Yellowstone Park in 1872, Yosemite National Park in 1890, and finally creating the National Park Service in 1916 - it was not a coincidence that many of these were established immediately following the disenfranchisement of indigenous nations. Soon the individual states were creating parks and preserves all over the place, and establishing policies to protect fish and game from wholesale slaughter (rather too late for the poor passenger pigeon).
+Although efforts to protect the environment sometimes produced more problems (such as the elimination of predators in parks leading to mass die-offs), other developed nations soon leapt onto the conservation bandwagon as well. It would be some decades before developing countries would join the movement … being rather more concerned with pragmatic issues such as industrializing, avoiding famine, and raising the standard of living for their citizens.
+“Water and air, the two essentials on which life depends, have become global garbage cans.”
+– Jacques Yves Cousteau
+“Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.”
+– Edward Wilson
+Traits
+Awards 3
+Envoys
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Natural History
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Have a Neighborhood district with Breathtaking Appeal.
+Progression
+Leads to Civics
+Cultural Heritage
+Description
+Awards 3
+Envoys. Allows the building of National Parks and the purchase of Naturalists with
+Faith. Allows Builders to plant Woods (second-growth). Woods in your territory that have never been removed (old-growth) gain +1 Appeal. Receive
+Tourism from Walls.
+Historical Context
+The idea of conservation of natural resources can be traced to the work Sylva, or a Discourse of Forest-Trees, presented by John Evelyn to the Royal Society in 1662 AD. Timber resources in England were seriously depleted – thanks to all those ships, buildings and bridges – and Evelyn argued that cutting should be managed and trees replanted in logged areas. No one paid any further attention to the environment, other than exploiting it, until the Progressive Age when some folks sought to convince other Americans that it was their civic duty to preserve unspoiled the land, water and wildlife for future generations. Romantics such as Henry David Thoreau idealized nature, even as pragmatists such as Gifford Pinchot (first head of the U.S. Forestry Service) sought ways to insure that renewable resources would remain renewable … to keep America strong and the economy expanding.
+Even as American cities were becoming more crowded, as the Western frontier was disappearing, as “nature” was being commercialized, and as the working man had more disposable income, leisure and conservation came together as more and more people took up hiking, camping, bird watching, and other outdoor recreations. With general support from the citizens, the U.S. Congress passed landmark legislation establishing Yellowstone Park in 1872, Yosemite National Park in 1890, and finally creating the National Park Service in 1916 - it was not a coincidence that many of these were established immediately following the disenfranchisement of indigenous nations. Soon the individual states were creating parks and preserves all over the place, and establishing policies to protect fish and game from wholesale slaughter (rather too late for the poor passenger pigeon).
+Although efforts to protect the environment sometimes produced more problems (such as the elimination of predators in parks leading to mass die-offs), other developed nations soon leapt onto the conservation bandwagon as well. It would be some decades before developing countries would join the movement … being rather more concerned with pragmatic issues such as industrializing, avoiding famine, and raising the standard of living for their citizens.
+“Water and air, the two essentials on which life depends, have become global garbage cans.”
+– Jacques Yves Cousteau
+“Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal.”
+– Edward Wilson
+Traits
+Awards 3
+Envoys
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Natural History
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Have a Neighborhood district with Breathtaking Appeal.
+Progression
+Leads to Civics
+Cultural Heritage

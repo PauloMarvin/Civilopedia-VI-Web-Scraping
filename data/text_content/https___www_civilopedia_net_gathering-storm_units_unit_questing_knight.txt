@@ -1,0 +1,30 @@
+Questing Knight - Units - Civilopedia - Civilization VI
+Questing Knight
+Description
+Heavy Cavalry. One of Arthur's chosen Knights and strengthened by his charge.
+Historical Context
+The Knights of the Round Table were, according to French and English legend of the 12th century and beyond, a group of warriors assembled by King Arthur. These stories – classics of both medieval chivalric romances and modern-day fairy tales – focused on the deeds of these knights. In the classic stories, their quests revolved around the defense of honor or Christian piety. In Gawain’s tale, for instance, the knight is challenged by a strange “Green Knight,” who mocks the honor of the Round Table. The Green Knight challenges Gawain to cut off his head, so long as Gawain agrees to let the Green Knight do the same to him. Gawain, a rough knight from the outer isles of Orkney, obliges, but to his surprise the Green Knight simply puts his severed head upon his shoulders and announces that he will receive Gawain the next year. This is a test of honor, of course – would Gawain show up to what is likely to be his death, or would he, as the non-canonical Sir Robin might put it, “gallantly chicken out?” Gawain remains true, of course, and the Table’s honor is kept.
+The most famous quest, of course, was for the Holy Grail, the cup that is said to have captured Jesus Christ's blood as he died on the cross (at least beginning with Robert de Boron's tellings in the 12th and 13th century), though other tellings have the Grail as a Communion wafer-holder, or a stone that contains the angels who remained neutral during Lucifer's rebellion.
+While the most famous knights include Galahad, the pure; Lancelot, the brave; Gawain, the mighty; and Percival, the “was-pure-before-Galahad-came-on-the-scene;” there are hundreds of others, including Kay, Bedivere, Bors, and, of course, “Sir Not-Appearing-in-this-Game.”
+Traits
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+34
+Melee Strength
+12
+Lifespan
+Description
+Heavy Cavalry. One of Arthur's chosen Knights and strengthened by his charge.
+Historical Context
+The Knights of the Round Table were, according to French and English legend of the 12th century and beyond, a group of warriors assembled by King Arthur. These stories – classics of both medieval chivalric romances and modern-day fairy tales – focused on the deeds of these knights. In the classic stories, their quests revolved around the defense of honor or Christian piety. In Gawain’s tale, for instance, the knight is challenged by a strange “Green Knight,” who mocks the honor of the Round Table. The Green Knight challenges Gawain to cut off his head, so long as Gawain agrees to let the Green Knight do the same to him. Gawain, a rough knight from the outer isles of Orkney, obliges, but to his surprise the Green Knight simply puts his severed head upon his shoulders and announces that he will receive Gawain the next year. This is a test of honor, of course – would Gawain show up to what is likely to be his death, or would he, as the non-canonical Sir Robin might put it, “gallantly chicken out?” Gawain remains true, of course, and the Table’s honor is kept.
+The most famous quest, of course, was for the Holy Grail, the cup that is said to have captured Jesus Christ's blood as he died on the cross (at least beginning with Robert de Boron's tellings in the 12th and 13th century), though other tellings have the Grail as a Communion wafer-holder, or a stone that contains the angels who remained neutral during Lucifer's rebellion.
+While the most famous knights include Galahad, the pure; Lancelot, the brave; Gawain, the mighty; and Percival, the “was-pure-before-Galahad-came-on-the-scene;” there are hundreds of others, including Kay, Bedivere, Bors, and, of course, “Sir Not-Appearing-in-this-Game.”
+Traits
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+34
+Melee Strength
+12
+Lifespan

@@ -1,0 +1,52 @@
+Cathedral - Buildings - Civilopedia - Civilization VI
+Cathedral
+Historical Context
+Once there were Catholic churches at every crossroads in Italy, some bishops decided they needed something grander to serve as the seat of each diocese or episcopate. Thus, the cathedral – from the Latin cathedra meaning “seat” or “chair.” The concept of cathedrals begins in 313 AD, when the emperor Constantine adopted Christianity; with that, Christianity went from being a minor faith to the religion of Rome, and the bishops agreed, more or less willingly, to take on the duties and dignity of magistrates across the empire. Since the old Roman magistrates had presided from a throne housed in a highly decorated hall (basilica), it wasn’t long before the bishops (who had never before been seated while presiding over their flock) began building cathedrals, massive edifices designed to impress the peasants with the glory of God. With money, materials and labor “donated” by the faithful peasants, these often took a lifetime to build … but are among some of the most impressive structures in all civilization. The first cathedral was that at Aquileia (c. 319) and they haven’t stopped building them yet.
+Traits
+Unique To
+Cathedral
++3
+Faith
++1
+Citizen slot
++1
+Great Work of Religious Art slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+Once there were Catholic churches at every crossroads in Italy, some bishops decided they needed something grander to serve as the seat of each diocese or episcopate. Thus, the cathedral – from the Latin cathedra meaning “seat” or “chair.” The concept of cathedrals begins in 313 AD, when the emperor Constantine adopted Christianity; with that, Christianity went from being a minor faith to the religion of Rome, and the bishops agreed, more or less willingly, to take on the duties and dignity of magistrates across the empire. Since the old Roman magistrates had presided from a throne housed in a highly decorated hall (basilica), it wasn’t long before the bishops (who had never before been seated while presiding over their flock) began building cathedrals, massive edifices designed to impress the peasants with the glory of God. With money, materials and labor “donated” by the faithful peasants, these often took a lifetime to build … but are among some of the most impressive structures in all civilization. The first cathedral was that at Aquileia (c. 319) and they haven’t stopped building them yet.
+Traits
+Unique To
+Cathedral
++3
+Faith
++1
+Citizen slot
++1
+Great Work of Religious Art slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

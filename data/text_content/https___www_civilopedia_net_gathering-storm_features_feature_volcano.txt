@@ -1,0 +1,16 @@
+Volcano - Terrains and Features - Civilopedia - Civilization VI
+Volcano
+Description
+This mountain tile, probably located near a boundary between two continents, starts the game as an inactive volcanic site but may become active as the game progresses. Once active, beware -- an eruption could occur at any time. Volcanic eruptions damage features and structures in adjacent tiles but may also leave behind volcanic soil that boosts the yields from that location.
+Historical Context
+Volcanoes form when the earth's crust is ruptured by an upwelling of hot gas, and magma. This can occur both above ground and below the surface of the ocean. Volcanos are most common at the edges of tectonic plates, with the “ring of fire” in the Pacific being an excellent example.
+Volcanic eruptions can have disruptive impacts on the climate, with exceptionally vigorous volcanic activity having distinct patterns in the geological record of the world. Fortunately, these events are relatively infrequent. Unfortunately, when they do occur, they have profound and serious effects on human civilizations, sometimes affecting the course of history.
+Traits
+May Erupt
+Description
+This mountain tile, probably located near a boundary between two continents, starts the game as an inactive volcanic site but may become active as the game progresses. Once active, beware -- an eruption could occur at any time. Volcanic eruptions damage features and structures in adjacent tiles but may also leave behind volcanic soil that boosts the yields from that location.
+Historical Context
+Volcanoes form when the earth's crust is ruptured by an upwelling of hot gas, and magma. This can occur both above ground and below the surface of the ocean. Volcanos are most common at the edges of tectonic plates, with the “ring of fire” in the Pacific being an excellent example.
+Volcanic eruptions can have disruptive impacts on the climate, with exceptionally vigorous volcanic activity having distinct patterns in the geological record of the world. Fortunately, these events are relatively infrequent. Unfortunately, when they do occur, they have profound and serious effects on human civilizations, sometimes affecting the course of history.
+Traits
+May Erupt

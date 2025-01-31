@@ -1,0 +1,58 @@
+Hagia Sophia - Wonders and Projects - Civilopedia - Civilization VI
+Hagia Sophia
+Description
+Missionaries and Apostles can spread Religion 1 extra time. Must be built on flat land adjacent to a Holy Site district, and you must have founded a Religion.
+Historical Context
+The city of Istanbul (or Constantinople or Byzantium, as one prefers) has been home to many peoples, although best known in its role as capital for the Byzantine and then the Ottoman empires. And it has been home to many faiths, most notably Eastern Orthodox Christianity and Islam respectively. Nothing personifies that personality disorder under one dome so well as the fabulous Hagia Sophia (literally, “holy wisdom”). Built around 532 AD as the Greek Orthodox patriarchal basilica, it has served worshipers for almost 1500 years. In 1453 when Constantinople was captured by the Ottomans and renamed, the Hagia Sophia was converted to a mosque. Ornate and stately, the structure is built of stone and marble, topped by a golden dome measuring 102 feet in diameter, before the Muslim rulers added four minarets. The structure has survived several earthquakes, fires, riots, lootings (such as during the Fourth Crusade), and one massacre (when the elderly and infirm who had taken shelter there were slaughtered by the Ottoman conquerors). Today the Hagia Sophia serves as a museum, and yet remains one of the most striking buildings in civilization.
+“It is a beautiful and important monument and an international, inter-cultural treasure … Unless and until it can be shared by both religions in harmony – which would be a grand idea – it should remain a secular building honoring both religions who have made it beautiful.”
+– Ljubo Vujovic
+Traits
+Removed if game started after
+Industrial Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Buttress
+Must have founded a religion
+Adjacency
+Holy Site
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 710
+Production
+Description
+Missionaries and Apostles can spread Religion 1 extra time. Must be built on flat land adjacent to a Holy Site district, and you must have founded a Religion.
+Historical Context
+The city of Istanbul (or Constantinople or Byzantium, as one prefers) has been home to many peoples, although best known in its role as capital for the Byzantine and then the Ottoman empires. And it has been home to many faiths, most notably Eastern Orthodox Christianity and Islam respectively. Nothing personifies that personality disorder under one dome so well as the fabulous Hagia Sophia (literally, “holy wisdom”). Built around 532 AD as the Greek Orthodox patriarchal basilica, it has served worshipers for almost 1500 years. In 1453 when Constantinople was captured by the Ottomans and renamed, the Hagia Sophia was converted to a mosque. Ornate and stately, the structure is built of stone and marble, topped by a golden dome measuring 102 feet in diameter, before the Muslim rulers added four minarets. The structure has survived several earthquakes, fires, riots, lootings (such as during the Fourth Crusade), and one massacre (when the elderly and infirm who had taken shelter there were slaughtered by the Ottoman conquerors). Today the Hagia Sophia serves as a museum, and yet remains one of the most striking buildings in civilization.
+“It is a beautiful and important monument and an international, inter-cultural treasure … Unless and until it can be shared by both religions in harmony – which would be a grand idea – it should remain a secular building honoring both religions who have made it beautiful.”
+– Ljubo Vujovic
+Traits
+Removed if game started after
+Industrial Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Buttress
+Must have founded a religion
+Adjacency
+Holy Site
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 710
+Production

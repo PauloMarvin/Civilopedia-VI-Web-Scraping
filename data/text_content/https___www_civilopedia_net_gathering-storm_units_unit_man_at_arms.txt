@@ -1,0 +1,76 @@
+Man-At-Arms - Units - Civilopedia - Civilization VI
+Man-At-Arms
+Description
+Medieval Era melee unit.
+Historical Context
+The term “man-at-arms” is a general term for heavy troops, especially European units in the middle ages. While a man-at-arms could be anything from a noble, mounted knight to a mercenary pikeman, here we use it to refer to the heavily armored footmen of the later middle ages. As armories and forges grew more standardized, cheap, replaceable “munition armor” became an option instead of the individually tailored, extremely expensive suits of plate that nobles used. With munition armor, regular soldiers or mercenaries could be nearly as well defended as a knight, and as such posed a real threat on the battlefield. The German-speaking “Landsknecht” of the 15th century, with their great two-handed swords, were a classic example of this.
+Outside of Europe at the same time, similar pushes for mass-produced armor for non-noble soldiers led to similar “men-at-arms.” In the Sengoku period in Japan, a time when rival feudal claims to the Imperial throne tore the island apart, ashigaru (foot soldiers) dressed in folding armor (tatami gusoku), were vital. With the arrival of footsoldiers in mass-produced armor, no longer were infantry rabble to serve as backdrop for knightly conflicts, but they were suddenly significant on their own.
+Traits
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Gaesatae
+Promotion Class: Melee
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Medieval Era melee unit.
+Historical Context
+The term “man-at-arms” is a general term for heavy troops, especially European units in the middle ages. While a man-at-arms could be anything from a noble, mounted knight to a mercenary pikeman, here we use it to refer to the heavily armored footmen of the later middle ages. As armories and forges grew more standardized, cheap, replaceable “munition armor” became an option instead of the individually tailored, extremely expensive suits of plate that nobles used. With munition armor, regular soldiers or mercenaries could be nearly as well defended as a knight, and as such posed a real threat on the battlefield. The German-speaking “Landsknecht” of the 15th century, with their great two-handed swords, were a classic example of this.
+Outside of Europe at the same time, similar pushes for mass-produced armor for non-noble soldiers led to similar “men-at-arms.” In the Sengoku period in Japan, a time when rival feudal claims to the Imperial throne tore the island apart, ashigaru (foot soldiers) dressed in folding armor (tatami gusoku), were vital. With the arrival of footsoldiers in mass-produced armor, no longer were infantry rabble to serve as backdrop for knightly conflicts, but they were suddenly significant on their own.
+Traits
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Legion
+Ngao Mbeba
+Hypaspist
+Immortal
+Toa
+Gaesatae
+Promotion Class: Melee
+2
+Movement Points
+45
+Melee Strength
+Requirements
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

@@ -1,0 +1,82 @@
+Tokugawa - Civilizations/Leaders - Civilopedia - Civilization VI
+Tokugawa
+Unique Ability
+Bakuhan
+International
+Trade Routes receive -25% Yield and
+Tourism, but Domestic
+Trade Routes provide +1
+Culture, +1
+Science, and +2
+Gold for every Specialty District at the Destination. Cities within 6 tiles of Japan's
+Capital are 100% loyal and after researching Flight receive +1
+Tourism for every District.
+Summary
+Japan under Tokugawa likes to isolate itself by creating lots of Domestic
+Trade Routes and districts.
+Detailed Approach
+The Meiji Restoration ability gives large adjacency bonuses to Japan’s districts. Districts also receive +1
+Tourism if they are in a city near the
+Capital from Tokugawa’s ability. His ability also greatly increases Domestic
+Trade Route’s yields for every district. But be aware that International
+Trade Routes are much weaker. The Electronics Factory will help him towards a Culture or Science Victory.
+Historical Context
+Tokugawa (last name, first name Ieyasu) is a brilliant military and peacetime strategist. He is the decisive winner of Japan’s chaotic Sengoku period and the architect of the subsequent Edo period.
+The chaos of the Sengoku Jidai (period) in Japanese history has become iconic. In the subsequent prosperity and peace of the Edo period, samurai had little to do but entertain each other with stories about the great battles, leaders, and goings-on of that time – ninjas, generals, armies, sieges, and the like. Much of what we imagine about feudal Japan is itself a product of these stories, embellished and romanticized.
+The Sengoku period was a massive war between rival clans to seek power. The weak Ashikaga shogunate collapsed, leaving the emperor a mere figurehead and the more powerful position of shōgun (military guardian of the Emperor) open. For over a century, rival daimyō (regional lords) and samurai (knights) fought for this title. Into the fray, too, came other elements: Christians, armed by Europeans with muskets, the anti-monarchical ikkō-ikki, and the ninja – these last being military strategists without a concept of honor who could commit scandalous acts to benefit their lord. Three samurai emerge into the spotlight: Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu.
+There is a story that reflects an aspect of the personalities and motivations of these leaders. Imagine the three of them sitting together looking at a little bird that refuses to sing. Oda opens with a threat: “bird, if you do not sing, I will kill you.” Hideyoshi tries manipulation, “bird, if you do not sing, I will convince you.” But Tokugawa, the canniest of the three, simply says, “bird, I can wait.” Here, patience and a cool head win the day – and so it was with Japan.
+Oda, the “demon king,” lived up to his name. As the head of the Oda clan, Nobunaga rallied his troops to sweep across the main island of Japan, defeating the ikkō-ikki and removing the Ashikaga shogunate entirely. The last remaining obstacle was the powerful western clan Mōri, who may well have been defeated, too, were it not for a betrayal from within Oda’s own ranks. Seeing Akechi, the traitorous general, coming towards him as he sat relatively unguarded having tea in a temple in Kyoto, Oda committed suicide. The to-be shōgun Tokugawa, too, fled in the company of the ninja (well, samurai at that time) Hattori Hanzō.
+The Toyotomi clan was the next to take up Oda’s banner. Former retainer, Toyotomi Hideyoshi, took up the banner and, too, seized temporary control. Indeed, it was under Hideyoshi that Japanese forces sought to take Korea, and not for the last time. But even the greatest of kings dies, and Hideyoshi, with his focus on overseas expansion, had drained the coffers. A succession crisis ensued between clan loyalists and the new Tokugawa clan, itself formed from a regional vassal clan of Oda’s, under Tokugawa Ieyasu. In the climactic Battle of Sekigahara, Tokugawa achieved dominance and set about picking up the pieces.
+Japan was a mess. New ideas were flooding in – republicanism (meaning here rule by the people) and Christianity. Guns and European trade, too, presented an issue. Tokugawa singlehandedly stopped this by implementing sakoku – isolation. Japan’s borders would be closed, except for Nagasaki. This would end both the influx of new and dangerous challenges to the new Tokugawa Shogunate but also an end to the kind of foreign adventures that had led to Hideyoshi’s financial woes. Sakoku was… not disastrous for Japan. Local production flourished, and over what became known as the Edo period (Edo being the home of the shogunate), Japan experienced peace and prosperity… and its neighbors no longer had to worry about samurai showing up on their shores.
+The system of control here was brutal. There were still nobles, but Tokugawa had an ingenious strategy for controlling them. While nobles ruled their home provinces, their families remained behind as hostages (of a sort) in Edo. This meant that any rebellion could immediately be squashed via a simple threat to the rebel’s family and also the growth of court life in Edo. Bored but wealthy samurai told stories, and would-be warriors fought duels over honor instead of for land. The famous ukiyo-e, the “floating world” of entertainment, grew, as did artists and writers associated with it.
+This was to crack open in the 1800s, with the arrival (and, significantly, threats to not depart) of American ships demanding trade. Japan realized that the world had developed without them and that things like guns and cannons had gotten quite dangerous. While their opening was traumatic, and the subsequent Meiji period eliminated much of the feudal system of Japan, the infrastructure was already in place to enable Meiji to, within a few decades, take on and defeat some of the most powerful states in the world. But that is a story for another time.
+I think I can be stronger than I am now, but long perseverance has made me what I am today. If my descendants want to be strong, they must study patience.
+Traits
+Civilizations
+Japan
+Preferences
+Agendas
+Sakoku
+Wants to stay safe from conquest. Dislikes those who have conquered other player's original capitals.
+Religion
+Buddhism
+I think I can be stronger than I am now, but long perseverance has made me what I am today. If my descendants want to be strong, they must study patience.
+Traits
+Civilizations
+Japan
+Preferences
+Agendas
+Sakoku
+Wants to stay safe from conquest. Dislikes those who have conquered other player's original capitals.
+Religion
+Buddhism
+Unique Ability
+Bakuhan
+International
+Trade Routes receive -25% Yield and
+Tourism, but Domestic
+Trade Routes provide +1
+Culture, +1
+Science, and +2
+Gold for every Specialty District at the Destination. Cities within 6 tiles of Japan's
+Capital are 100% loyal and after researching Flight receive +1
+Tourism for every District.
+Summary
+Japan under Tokugawa likes to isolate itself by creating lots of Domestic
+Trade Routes and districts.
+Detailed Approach
+The Meiji Restoration ability gives large adjacency bonuses to Japan’s districts. Districts also receive +1
+Tourism if they are in a city near the
+Capital from Tokugawa’s ability. His ability also greatly increases Domestic
+Trade Route’s yields for every district. But be aware that International
+Trade Routes are much weaker. The Electronics Factory will help him towards a Culture or Science Victory.
+Historical Context
+Tokugawa (last name, first name Ieyasu) is a brilliant military and peacetime strategist. He is the decisive winner of Japan’s chaotic Sengoku period and the architect of the subsequent Edo period.
+The chaos of the Sengoku Jidai (period) in Japanese history has become iconic. In the subsequent prosperity and peace of the Edo period, samurai had little to do but entertain each other with stories about the great battles, leaders, and goings-on of that time – ninjas, generals, armies, sieges, and the like. Much of what we imagine about feudal Japan is itself a product of these stories, embellished and romanticized.
+The Sengoku period was a massive war between rival clans to seek power. The weak Ashikaga shogunate collapsed, leaving the emperor a mere figurehead and the more powerful position of shōgun (military guardian of the Emperor) open. For over a century, rival daimyō (regional lords) and samurai (knights) fought for this title. Into the fray, too, came other elements: Christians, armed by Europeans with muskets, the anti-monarchical ikkō-ikki, and the ninja – these last being military strategists without a concept of honor who could commit scandalous acts to benefit their lord. Three samurai emerge into the spotlight: Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu.
+There is a story that reflects an aspect of the personalities and motivations of these leaders. Imagine the three of them sitting together looking at a little bird that refuses to sing. Oda opens with a threat: “bird, if you do not sing, I will kill you.” Hideyoshi tries manipulation, “bird, if you do not sing, I will convince you.” But Tokugawa, the canniest of the three, simply says, “bird, I can wait.” Here, patience and a cool head win the day – and so it was with Japan.
+Oda, the “demon king,” lived up to his name. As the head of the Oda clan, Nobunaga rallied his troops to sweep across the main island of Japan, defeating the ikkō-ikki and removing the Ashikaga shogunate entirely. The last remaining obstacle was the powerful western clan Mōri, who may well have been defeated, too, were it not for a betrayal from within Oda’s own ranks. Seeing Akechi, the traitorous general, coming towards him as he sat relatively unguarded having tea in a temple in Kyoto, Oda committed suicide. The to-be shōgun Tokugawa, too, fled in the company of the ninja (well, samurai at that time) Hattori Hanzō.
+The Toyotomi clan was the next to take up Oda’s banner. Former retainer, Toyotomi Hideyoshi, took up the banner and, too, seized temporary control. Indeed, it was under Hideyoshi that Japanese forces sought to take Korea, and not for the last time. But even the greatest of kings dies, and Hideyoshi, with his focus on overseas expansion, had drained the coffers. A succession crisis ensued between clan loyalists and the new Tokugawa clan, itself formed from a regional vassal clan of Oda’s, under Tokugawa Ieyasu. In the climactic Battle of Sekigahara, Tokugawa achieved dominance and set about picking up the pieces.
+Japan was a mess. New ideas were flooding in – republicanism (meaning here rule by the people) and Christianity. Guns and European trade, too, presented an issue. Tokugawa singlehandedly stopped this by implementing sakoku – isolation. Japan’s borders would be closed, except for Nagasaki. This would end both the influx of new and dangerous challenges to the new Tokugawa Shogunate but also an end to the kind of foreign adventures that had led to Hideyoshi’s financial woes. Sakoku was… not disastrous for Japan. Local production flourished, and over what became known as the Edo period (Edo being the home of the shogunate), Japan experienced peace and prosperity… and its neighbors no longer had to worry about samurai showing up on their shores.
+The system of control here was brutal. There were still nobles, but Tokugawa had an ingenious strategy for controlling them. While nobles ruled their home provinces, their families remained behind as hostages (of a sort) in Edo. This meant that any rebellion could immediately be squashed via a simple threat to the rebel’s family and also the growth of court life in Edo. Bored but wealthy samurai told stories, and would-be warriors fought duels over honor instead of for land. The famous ukiyo-e, the “floating world” of entertainment, grew, as did artists and writers associated with it.
+This was to crack open in the 1800s, with the arrival (and, significantly, threats to not depart) of American ships demanding trade. Japan realized that the world had developed without them and that things like guns and cannons had gotten quite dangerous. While their opening was traumatic, and the subsequent Meiji period eliminated much of the feudal system of Japan, the infrastructure was already in place to enable Meiji to, within a few decades, take on and defeat some of the most powerful states in the world. But that is a story for another time.

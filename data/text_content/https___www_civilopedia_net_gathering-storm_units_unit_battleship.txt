@@ -1,0 +1,78 @@
+Battleship - Units - Civilopedia - Civilization VI
+Battleship
+Description
+Modern era naval ranged unit. Provides cover from air and nuclear attacks up to 1 tile away.
+Historical Context
+The evolution of the dreadnought that dominated the waves of the early 20th Century was the battleship … bigger, faster, with bigger guns and thicker armor, able to sink anything else (including each other) afloat with a single salvo. The first “true” battleships to see action appeared at Jutland in 1916 AD, where – mixed with a motley collection of dreadnoughts and battle-cruisers – the German and British ones fought to a draw. In the inter-war years, the battleship evolved into the behemoth of popular thought, despite the Washington Naval Treaty of 1922 and other bits of international paper that tried to limit their size and armament. Not only was WW2 the golden age of the battleship – and all the best known sailed those troubled times: Bismarck, Hood, Arizona, Yamato, and Missouri among many others – it also witnessed its demise. By the end warplanes, submarines, radar-guided missiles and other technological marvels had relegated battleships to floating shore batteries and rusting tourist attractions.
+Traits
+Upgrades To
+Missile Cruiser
+Upgrade From
+Frigate
+Jong
+De Zeven Provinciën
+Promotion Class: Naval Ranged
+5
+Movement Points
+60
+Melee Strength
+70
+Ranged Strength
+90
+Anti-air Strength
+3
+Range
+Requirements
+Technology
+Refining
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Coal per turn
+Description
+Modern era naval ranged unit. Provides cover from air and nuclear attacks up to 1 tile away.
+Historical Context
+The evolution of the dreadnought that dominated the waves of the early 20th Century was the battleship … bigger, faster, with bigger guns and thicker armor, able to sink anything else (including each other) afloat with a single salvo. The first “true” battleships to see action appeared at Jutland in 1916 AD, where – mixed with a motley collection of dreadnoughts and battle-cruisers – the German and British ones fought to a draw. In the inter-war years, the battleship evolved into the behemoth of popular thought, despite the Washington Naval Treaty of 1922 and other bits of international paper that tried to limit their size and armament. Not only was WW2 the golden age of the battleship – and all the best known sailed those troubled times: Bismarck, Hood, Arizona, Yamato, and Missouri among many others – it also witnessed its demise. By the end warplanes, submarines, radar-guided missiles and other technological marvels had relegated battleships to floating shore batteries and rusting tourist attractions.
+Traits
+Upgrades To
+Missile Cruiser
+Upgrade From
+Frigate
+Jong
+De Zeven Provinciën
+Promotion Class: Naval Ranged
+5
+Movement Points
+60
+Melee Strength
+70
+Ranged Strength
+90
+Anti-air Strength
+3
+Range
+Requirements
+Technology
+Refining
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Coal (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Coal per turn

@@ -1,0 +1,42 @@
+Modernized Trap - Improvements and Routes - Civilopedia - Civilization VI
+Modernized Trap
+Description
+An unworkable later Improvement that deals significant damage to, and depletes the movement of, hostile units passing directly through it. Unlocked with Ballistics and built using a Charge from a Military Engineer. Does not prevent unit movement through this space.
+Historical Context
+As the years have gone on, we have learned more about the undead menace. Earlier traps involved using live humans (voluntary or otherwise) as bait, but engineers have developed chemical or animal substitutes. In addition, hollow-point or anti-personnel bullets provide increased damage to tissue and increased accuracy. Not every archer is William Tell, able to bullseye an apple with a crossbow bolt, and rifling and scopes mean more and more precise “kills”, and bunkers with snipers work just as well against the dead as they do against other enemies. Refined petroleum and napalm allow zombies – or human enemies - to be disintegrated in ways earlier materials could not. Additionally, modern traps play upon zombies’ weaknesses: a horde of undead endlessly marching in a circle, chasing a brain on a mechanical track as in a dog-racing circuit can be far more effective than a simple pit.
+Requirements
+Technology
+Ballistics
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Military Engineer
+Description
+An unworkable later Improvement that deals significant damage to, and depletes the movement of, hostile units passing directly through it. Unlocked with Ballistics and built using a Charge from a Military Engineer. Does not prevent unit movement through this space.
+Historical Context
+As the years have gone on, we have learned more about the undead menace. Earlier traps involved using live humans (voluntary or otherwise) as bait, but engineers have developed chemical or animal substitutes. In addition, hollow-point or anti-personnel bullets provide increased damage to tissue and increased accuracy. Not every archer is William Tell, able to bullseye an apple with a crossbow bolt, and rifling and scopes mean more and more precise “kills”, and bunkers with snipers work just as well against the dead as they do against other enemies. Refined petroleum and napalm allow zombies – or human enemies - to be disintegrated in ways earlier materials could not. Additionally, modern traps play upon zombies’ weaknesses: a horde of undead endlessly marching in a circle, chasing a brain on a mechanical track as in a dog-racing circuit can be far more effective than a simple pit.
+Requirements
+Technology
+Ballistics
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Military Engineer

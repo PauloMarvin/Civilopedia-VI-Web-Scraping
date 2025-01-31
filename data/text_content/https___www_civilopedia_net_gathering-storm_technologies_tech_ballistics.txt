@@ -1,0 +1,44 @@
+Ballistics - Technologies - Civilopedia - Civilization VI
+Ballistics
+Historical Context
+The mechanics of throwing things have been known for quite a while; primitive cultures are quite adept at throwing things. The science of those mechanics is known as “ballistics.” The first ballistic weapons were sticks, stones and spears. Then bows get invented around 10 thousand years ago; then gunpowder and the study of the mechanics of launching things gets rather complicated. The motion, behavior and effects of bullets, shells, bombs, rockets and the like became of great interest to military and law enforcement forces throughout civilization.
+As cannon became common in warfare, military engineers began to study the combination of factors (ranging from elevation to windage) that might affect the path of a cannon ball on its way to flatten a wall or a human being. They soon divided that study into four subfields: internal ballistics concerned with the initial acceleration, transition ballistics for the shift to unpowered flight, external ballistics which focused on trajectory, and terminal ballistics for the effects when the flight ends (hopefully as planned). Their findings and the advances that resulted helped the military improve not only its weapons, but understanding all sorts of other aspects of warfare (such as the study of “military wound ballistics”). Better bullets, better bombs, better shells.
+The study of military wound ballistics soon crept into the civilian realm. Colonel Calvin Hooker Goddard – army officer, physician, researcher, and forensic scientist – is generally credited with founding the field of forensic ballistics in the 1920s. He pioneered the use of the comparison microscope to study bullets from crime scenes. He established, not without opposition, the world’s first Bureau of Forensic Ballistics in New York City; so successful was it in solving crimes and prosecuting criminals that Hoover encouraged his FBI offices to take up the practice. These days, that’s all the average person ensconced in front of the television knows about ballistics.
+“It’s one thing to surmise what happened, but we don’t speculate on that until ballistics confirms what happened …”
+– John Hansen
+“Let’s get on our knees and pray. I don’t know to whom. Is there a patron saint of ballistics yet?”
+– Adam Savage
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Metal Casting
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Have 2 Forts in your territory. Both constructed by a Military Engineer.
+Progression
+Leads to Technologies
+Rifling
+Historical Context
+The mechanics of throwing things have been known for quite a while; primitive cultures are quite adept at throwing things. The science of those mechanics is known as “ballistics.” The first ballistic weapons were sticks, stones and spears. Then bows get invented around 10 thousand years ago; then gunpowder and the study of the mechanics of launching things gets rather complicated. The motion, behavior and effects of bullets, shells, bombs, rockets and the like became of great interest to military and law enforcement forces throughout civilization.
+As cannon became common in warfare, military engineers began to study the combination of factors (ranging from elevation to windage) that might affect the path of a cannon ball on its way to flatten a wall or a human being. They soon divided that study into four subfields: internal ballistics concerned with the initial acceleration, transition ballistics for the shift to unpowered flight, external ballistics which focused on trajectory, and terminal ballistics for the effects when the flight ends (hopefully as planned). Their findings and the advances that resulted helped the military improve not only its weapons, but understanding all sorts of other aspects of warfare (such as the study of “military wound ballistics”). Better bullets, better bombs, better shells.
+The study of military wound ballistics soon crept into the civilian realm. Colonel Calvin Hooker Goddard – army officer, physician, researcher, and forensic scientist – is generally credited with founding the field of forensic ballistics in the 1920s. He pioneered the use of the comparison microscope to study bullets from crime scenes. He established, not without opposition, the world’s first Bureau of Forensic Ballistics in New York City; so successful was it in solving crimes and prosecuting criminals that Hoover encouraged his FBI offices to take up the practice. These days, that’s all the average person ensconced in front of the television knows about ballistics.
+“It’s one thing to surmise what happened, but we don’t speculate on that until ballistics confirms what happened …”
+– John Hansen
+“Let’s get on our knees and pray. I don’t know to whom. Is there a patron saint of ballistics yet?”
+– Adam Savage
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Metal Casting
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Have 2 Forts in your territory. Both constructed by a Military Engineer.
+Progression
+Leads to Technologies
+Rifling

@@ -1,0 +1,82 @@
+University of Sankore - Wonders and Projects - Civilopedia - Civilization VI
+University of Sankore
+Description
+Other Civilizations'
+Trade Routes to this city provide +1
+Science and +1
+Gold for them. +2
+Science for every
+Trade Route to this city. Domestic
+Trade Routes give an additional +1
+Faith to this city.
+Must be built on the Desert or Desert Hills, and adjacent to a Campus district with a University.
+Historical Context
+Located within and around the pyramidal Sankore Mosque in Timbuktu, Sankore Madrasah was an ancient higher learning center that became especially prominent during the reign of Mansa Musa.
+The university operated differently than most modern universities today – instead of a central administration, the school was made up of independent schools with their own professors, and classes would take place outside in the courtyards or private homes. Though this may seem a bit more casual than what modern students experience, the University of Sankore was a renowned Islamic learning center. Curricula included Qur'anic studies of course, but also secular studies such as medicine, geography, physics, history, and art. The university offered four tiered degrees followed by graduation ceremonies during which students wore traditional turbans to represent their great accomplishments.
+In the 1590s, the Moroccan invasion of Mali pushed many scholars to leave – some were deported, while others fled – and much of the work of the university was destroyed.
+“Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.”
+- Musnad al-Bazzar 10/68
+Traits
+Removed if game started after
+Industrial Era
++3
+Science
++1
+Faith
++2
+Great Scientist points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Education
+Building
+University
+Adjacency
+Campus
+Placement
+Desert
+Desert (Hills)
+Production Cost
+Base Cost: 710
+Production
+Description
+Other Civilizations'
+Trade Routes to this city provide +1
+Science and +1
+Gold for them. +2
+Science for every
+Trade Route to this city. Domestic
+Trade Routes give an additional +1
+Faith to this city.
+Must be built on the Desert or Desert Hills, and adjacent to a Campus district with a University.
+Historical Context
+Located within and around the pyramidal Sankore Mosque in Timbuktu, Sankore Madrasah was an ancient higher learning center that became especially prominent during the reign of Mansa Musa.
+The university operated differently than most modern universities today – instead of a central administration, the school was made up of independent schools with their own professors, and classes would take place outside in the courtyards or private homes. Though this may seem a bit more casual than what modern students experience, the University of Sankore was a renowned Islamic learning center. Curricula included Qur'anic studies of course, but also secular studies such as medicine, geography, physics, history, and art. The university offered four tiered degrees followed by graduation ceremonies during which students wore traditional turbans to represent their great accomplishments.
+In the 1590s, the Moroccan invasion of Mali pushed many scholars to leave – some were deported, while others fled – and much of the work of the university was destroyed.
+“Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.”
+- Musnad al-Bazzar 10/68
+Traits
+Removed if game started after
+Industrial Era
++3
+Science
++1
+Faith
++2
+Great Scientist points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Education
+Building
+University
+Adjacency
+Campus
+Placement
+Desert
+Desert (Hills)
+Production Cost
+Base Cost: 710
+Production

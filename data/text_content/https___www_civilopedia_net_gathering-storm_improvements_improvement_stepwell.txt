@@ -1,0 +1,72 @@
+Stepwell - Improvements and Routes - Civilopedia - Civilization VI
+Stepwell
+Description
+Unlocks the Builder ability to construct a Stepwell, unique to India.
++1
+Food and +1
+Housing. +1
+Faith if adjacent to a Holy Site district. +1
+Food if adjacent to a Farm. Additional
+Housing,
+Faith, and
+Food as you advance through the Technology and Civics Tree. Prevents
+Food loss during Drought. Cannot be built on Hills or adjacent to another Stepwell.
+Historical Context
+A “stepwell” is a well or pool that can be reached by a set of steps. Although found in other regions, stepwells (known by a variety of names) are prevalent in India and Southeast Asia. The first rock-cut stepwells in India date from around 200 BC, and by 600 AD they were common throughout the Gujarat region; scholars believe that “cylindrical brick-lined wells” were a product of the early Bronze Age Indus Valley civilization. Many of the ancient Indian settlements had stepwells, and the elaborate ornamentation – some as detailed as those of any Hindu temple – show they were highly thought of by the citizenry. Not surprising, given the scarcity of clean water in the area. Alas, the British overseers of the Raj found the hygiene of the wells less than desirable, and so installed pumps and pipes to replace the stepwells in their holdings. Far less picturesque, but certainly more efficient.
+Traits
+Unique To
+India
++1
+Food
++1.0
+Housing
++1
+Faith (requires Feudalism)
++1
+Food (requires Professional Sports)
+Requirements
+Technology
+Irrigation
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Stepwell, unique to India.
++1
+Food and +1
+Housing. +1
+Faith if adjacent to a Holy Site district. +1
+Food if adjacent to a Farm. Additional
+Housing,
+Faith, and
+Food as you advance through the Technology and Civics Tree. Prevents
+Food loss during Drought. Cannot be built on Hills or adjacent to another Stepwell.
+Historical Context
+A “stepwell” is a well or pool that can be reached by a set of steps. Although found in other regions, stepwells (known by a variety of names) are prevalent in India and Southeast Asia. The first rock-cut stepwells in India date from around 200 BC, and by 600 AD they were common throughout the Gujarat region; scholars believe that “cylindrical brick-lined wells” were a product of the early Bronze Age Indus Valley civilization. Many of the ancient Indian settlements had stepwells, and the elaborate ornamentation – some as detailed as those of any Hindu temple – show they were highly thought of by the citizenry. Not surprising, given the scarcity of clean water in the area. Alas, the British overseers of the Raj found the hygiene of the wells less than desirable, and so installed pumps and pipes to replace the stepwells in their holdings. Far less picturesque, but certainly more efficient.
+Traits
+Unique To
+India
++1
+Food
++1.0
+Housing
++1
+Faith (requires Feudalism)
++1
+Food (requires Professional Sports)
+Requirements
+Technology
+Irrigation
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder

@@ -1,0 +1,8 @@
+Dark Summoning - Wonders and Projects - Civilopedia - Civilization VI
+Dark Summoning
+Description
+Project that provides lots of
+Faith every turn. Upon completion it increases the amount of Loyalty damage done by Cultists by 2 (up to a maximum of 30). This project Requires an Old God Obelisk building.
+Description
+Project that provides lots of
+Faith every turn. Upon completion it increases the amount of Loyalty damage done by Cultists by 2 (up to a maximum of 30). This project Requires an Old God Obelisk building.

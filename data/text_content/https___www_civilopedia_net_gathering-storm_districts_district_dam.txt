@@ -1,0 +1,56 @@
+Dam - Districts - Civilopedia - Civilization VI
+Dam
+Description
+A district built on a Floodplains tile to improve the comfort of living along this river. Prevents damage from flooding of this river (though yields from flooding drop by 50%). Prevents
+Food loss during Drought. Only one may be built along each river's floodplain (whichever player completes one first) and the river must traverse at least two sides of the Dam hex. Military Engineers can spend a charge to complete 20% of a Dam's production.
+Historical Context
+A dam is an artificial barrier created across a moving waterway in order to regulate the flow of the waterway. Originally created to control flooding and create reservoirs, they have since been adapted to provide power directly (through the use of water wheels and turbines) or indirectly (through hydroelectric generation, which we admit also uses water wheels or turbines).
+The oldest known dam in the world is Jawa Dam, which appears to have been built around 3000 BCE. Dams were built across the cradle rivers of civilizations: The Tigris, Euphrates, and Yangtze rivers and their tributaries all have dams associated with them. The Great Marib Dam in Yemen was built around 700 BCE, and was an immense, sophisticated stone dam with spillways and floodgates. The Romans built the first arch dams, which allowed for the creation of larger dams.
+The largest dam reservoir in the world today belongs to Aswan High Dam across the Nile River, which effectively ended the annual flooding of the Nile River (this turned out to be a mixed blessing at best). China boasts three of the of top four tallest dams in the world, all taller than 285m, and all built for hydroelectric generation.
+Dams require regular maintenance. Given the enormous water pressure exerted on a dam, they tend to fail dramatically when they become structurally unsound, leading to tragedy for the people living downstream. In addition, dams are prone to a buildup of sediment on their leading faces, which reduces the volume of the reservoir. Upstream changes to the course of a waterway may also cause a dam to be abandoned over time.
+Traits
++3
+Housing
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Requirements
+Technology
+Buttress
+Placement
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 81
+Production
+Usage
+Unlocks Buildings
+Hydroelectric Dam
+Description
+A district built on a Floodplains tile to improve the comfort of living along this river. Prevents damage from flooding of this river (though yields from flooding drop by 50%). Prevents
+Food loss during Drought. Only one may be built along each river's floodplain (whichever player completes one first) and the river must traverse at least two sides of the Dam hex. Military Engineers can spend a charge to complete 20% of a Dam's production.
+Historical Context
+A dam is an artificial barrier created across a moving waterway in order to regulate the flow of the waterway. Originally created to control flooding and create reservoirs, they have since been adapted to provide power directly (through the use of water wheels and turbines) or indirectly (through hydroelectric generation, which we admit also uses water wheels or turbines).
+The oldest known dam in the world is Jawa Dam, which appears to have been built around 3000 BCE. Dams were built across the cradle rivers of civilizations: The Tigris, Euphrates, and Yangtze rivers and their tributaries all have dams associated with them. The Great Marib Dam in Yemen was built around 700 BCE, and was an immense, sophisticated stone dam with spillways and floodgates. The Romans built the first arch dams, which allowed for the creation of larger dams.
+The largest dam reservoir in the world today belongs to Aswan High Dam across the Nile River, which effectively ended the annual flooding of the Nile River (this turned out to be a mixed blessing at best). China boasts three of the of top four tallest dams in the world, all taller than 285m, and all built for hydroelectric generation.
+Dams require regular maintenance. Given the enormous water pressure exerted on a dam, they tend to fail dramatically when they become structurally unsound, leading to tragedy for the people living downstream. In addition, dams are prone to a buildup of sediment on their leading faces, which reduces the volume of the reservoir. Upstream changes to the course of a waterway may also cause a dam to be abandoned over time.
+Traits
++3
+Housing
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Requirements
+Technology
+Buttress
+Placement
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 81
+Production
+Usage
+Unlocks Buildings
+Hydroelectric Dam

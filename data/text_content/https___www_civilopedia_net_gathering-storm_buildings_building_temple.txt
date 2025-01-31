@@ -1,0 +1,68 @@
+Temple - Buildings - Civilopedia - Civilization VI
+Temple
+Description
+Allows the purchasing of Apostles, Gurus, Inquisitors, and with the proper belief, Warrior Monks. These units can only be purchased with
+Faith.
+Historical Context
+A temple is that structure reserved for spiritual activities – prayer, communion, sacrifice, and the like – devoted to a deity. Virtually every organized religion has temples of some sort; unlike shrines, these are planned piety, the power of God made manifest. Temples are also business concerns, what with all the tithes and donations, and so serve to feed, clothe, and support the priests, acolytes, vestal virgins, monks, rabbis, etc. The oldest known temples, found in Mesopotamia, date from the 10th Century BC and are simple affairs. But over time temples became ever more elaborate and magnificent, and had a significant impact on civilization – such as the Temple of Karnak in Thebes, the Parthenon in Athens, the Mahabodhi Temple in Bihar, or the Temple of the Church of Jesus Christ of Latter-day Saints in Salt Lake.
+Traits
+Replaced By
+Stave Church
+Prasat
++4
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Allows the purchasing of Apostles, Gurus, Inquisitors, and with the proper belief, Warrior Monks. These units can only be purchased with
+Faith.
+Historical Context
+A temple is that structure reserved for spiritual activities – prayer, communion, sacrifice, and the like – devoted to a deity. Virtually every organized religion has temples of some sort; unlike shrines, these are planned piety, the power of God made manifest. Temples are also business concerns, what with all the tithes and donations, and so serve to feed, clothe, and support the priests, acolytes, vestal virgins, monks, rabbis, etc. The oldest known temples, found in Mesopotamia, date from the 10th Century BC and are simple affairs. But over time temples became ever more elaborate and magnificent, and had a significant impact on civilization – such as the Temple of Karnak in Thebes, the Parthenon in Athens, the Mahabodhi Temple in Bihar, or the Temple of the Church of Jesus Christ of Latter-day Saints in Salt Lake.
+Traits
+Replaced By
+Stave Church
+Prasat
++4
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

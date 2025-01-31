@@ -1,0 +1,58 @@
+Unit Combat Statistics - Concepts - Civilopedia - Civilization VI
+Unit Combat Statistics
+Unit Combat Statistics
+In Civilization VI, military units have five combat oriented stats: Hit Points,
+Combat Strength,
+Ranged Strength,
+Bombard Strength, and
+Range.
+All units have 100 Hit Points. As a unit takes damage, it loses Hit Points. A unit is destroyed once it loses all of its Hit Points.
+All military units have
+Combat Strength. Melee units use their
+Combat Strength when attacking or defending. Ranged units use their
+Combat Strength when defending.
+Any unit that can engage in ranged combat has a
+Ranged Strength statistic. This number is compared with the target's
+Combat Strength to determine the results of the attack. Land units with a
+Ranged Strength can also attack district defenses but at a reduced effectiveness.
+Bombard Strength is the anti-district strength of a unit. Units with
+Bombard Strength can also attack units, but at a reduced effectiveness. Land units cannot have both a
+Bombard and
+Ranged Strength, but naval units essentially function as both
+Bombard and
+Ranged units.
+The unit's
+Range stat determines the distance at which a unit can launch a ranged attack. A
+Range of "2" means that the target can be in an adjacent tile or one tile distant. A
+Range of "1" would mean that the target had to be adjacent to the attacker.
+Some units have an
+anti-air combat value. These units automatically defend against air attacks within their anti-aircraft range. The
+anti-air strength is used to evaluate combat with the attacking aircraft.
+Unit Combat Statistics
+In Civilization VI, military units have five combat oriented stats: Hit Points,
+Combat Strength,
+Ranged Strength,
+Bombard Strength, and
+Range.
+All units have 100 Hit Points. As a unit takes damage, it loses Hit Points. A unit is destroyed once it loses all of its Hit Points.
+All military units have
+Combat Strength. Melee units use their
+Combat Strength when attacking or defending. Ranged units use their
+Combat Strength when defending.
+Any unit that can engage in ranged combat has a
+Ranged Strength statistic. This number is compared with the target's
+Combat Strength to determine the results of the attack. Land units with a
+Ranged Strength can also attack district defenses but at a reduced effectiveness.
+Bombard Strength is the anti-district strength of a unit. Units with
+Bombard Strength can also attack units, but at a reduced effectiveness. Land units cannot have both a
+Bombard and
+Ranged Strength, but naval units essentially function as both
+Bombard and
+Ranged units.
+The unit's
+Range stat determines the distance at which a unit can launch a ranged attack. A
+Range of "2" means that the target can be in an adjacent tile or one tile distant. A
+Range of "1" would mean that the target had to be adjacent to the attacker.
+Some units have an
+anti-air combat value. These units automatically defend against air attacks within their anti-aircraft range. The
+anti-air strength is used to evaluate combat with the attacking aircraft.

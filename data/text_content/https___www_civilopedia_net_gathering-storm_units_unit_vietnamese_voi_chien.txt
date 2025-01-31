@@ -1,0 +1,70 @@
+Voi Chiến - Units - Civilopedia - Civilization VI
+Voi Chiến
+Description
+Vietnamese unique Medieval era ranged unit that replaces the Crossbowman. These units have additional movement and can move after attacking. They are also stronger when defending, more expensive, and have greater sight.
+Historical Context
+In Southeast Asian civilizations from Burma to Siam to Cambodia, the elephant is the quintessential symbol of royal power. A Southeast Asian knight astride a war elephant and wielding a long spear would have been a formidable foe, and an elephant with a crossbow on its back could be a deadly and mobile siege weapon. Even with the advent of gunpowder, the high perch that an elephant’s back afforded would give a sharpshooter an impressive tactical advantage. In Vietnam, war elephants - voi chiến – were used to stop the Mongol advance in the 13th century. But the elephant was important in Vietnam long before that, both as a weapon as well as a symbol of power. The Trưng sisters in the first century AD rode elephants into battle in their war of rebellion against the Chinese Han dynasty. Later, Bà Triệu, in yet another conflict with China, is also depicted astride a war elephant.
+While elephants could resist musket fire, cannons were another story. By the twentieth century, war elephants fell largely out of use, although the Vietnamese still used them to move supplies and troops quickly and quietly through the jungle during wars against the French, United States, and China. Such support elephants are still used today by Kachin rebel groups in Myanmar (former Burma).
+Traits
+Unique To
+Vietnam
+Upgrades To
+Field Cannon
+Hwacha
+Upgrade From
+Archer
+Promotion Class: Ranged
+3
+Movement Points
+35
+Melee Strength
+40
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Vietnamese unique Medieval era ranged unit that replaces the Crossbowman. These units have additional movement and can move after attacking. They are also stronger when defending, more expensive, and have greater sight.
+Historical Context
+In Southeast Asian civilizations from Burma to Siam to Cambodia, the elephant is the quintessential symbol of royal power. A Southeast Asian knight astride a war elephant and wielding a long spear would have been a formidable foe, and an elephant with a crossbow on its back could be a deadly and mobile siege weapon. Even with the advent of gunpowder, the high perch that an elephant’s back afforded would give a sharpshooter an impressive tactical advantage. In Vietnam, war elephants - voi chiến – were used to stop the Mongol advance in the 13th century. But the elephant was important in Vietnam long before that, both as a weapon as well as a symbol of power. The Trưng sisters in the first century AD rode elephants into battle in their war of rebellion against the Chinese Han dynasty. Later, Bà Triệu, in yet another conflict with China, is also depicted astride a war elephant.
+While elephants could resist musket fire, cannons were another story. By the twentieth century, war elephants fell largely out of use, although the Vietnamese still used them to move supplies and troops quickly and quietly through the jungle during wars against the French, United States, and China. Such support elephants are still used today by Kachin rebel groups in Myanmar (former Burma).
+Traits
+Unique To
+Vietnam
+Upgrades To
+Field Cannon
+Hwacha
+Upgrade From
+Archer
+Promotion Class: Ranged
+3
+Movement Points
+35
+Melee Strength
+40
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

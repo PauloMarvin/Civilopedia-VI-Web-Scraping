@@ -1,0 +1,44 @@
+Monarchy - Governments and Policies - Civilopedia - Civilization VI
+Monarchy
+Description
+Inherent effect
++1
+Housing per level of Walls. +2
+Diplomatic Favor for every Renaissance Wall.
+Inherent effect
++50% Influence Points.
+Historical Context
+Monarchy rests on the idea of sovereignty vested in a single individual, from a single (often divinely-attributed) bloodline – a king, queen, prince, etc – ruling until abdication or death (or, in the case of a revolution, often both). The successor to all this power is usually determined by heredity, next in line in the (more-or-less) direct royal lineage. Monarchies come in many flavors - Khmer kings reckoned their origins to the union of a Brahmin king and a naga [water dragon] queen, and Majapahit monarchs claimed descent from the Hindu gods. But there are varieties of monarch. An absolute monarchy is one in which there are no restraints on the wielding of power (think the German Kaiser), whereas in a constitutional monarchy (think the British queen), the ruler’s power is somewhat constrained by law … no “off with his head” without a trial, for instance. In an electoral monarchy, the ruler is elected, usually by some form of special convocation (such as that for the Holy Roman Empire).
+Absolute monarchies work as well as the monarch and the bureaucracy built around him or her, provided the ruler is as gifted as Elizabeth I, Frederick the Great or Qin Shi Huang. Otherwise, the nation tends to slip in stagnation. And for the truly inept, revolution looms: Charles I, Louis XVI, Tsar Nicholas II, and a long list of others. Rather more stable and successful are constitutional monarchies, many of which began as elective monarchies. Most of the world’s current monarchies are constitutional, with the ruler serving in a symbolic, traditional, patriotic and propaganda role. Which is not to say that their role is not influential or important ... just look to the Queen of England or Emperor of Japan. Certain other monarchs (Thailand, Swaziland, Bhutan) excersie a bit more control.
+Traits
+2
+Diplomatic Favor per
+turn.
+2 Military  Slots
+1 Economic  Slot
+1 Diplomatic  Slot
+2 Wildcard  Slots
+Requirements
+Civic
+Divine Right
+Description
+Inherent effect
++1
+Housing per level of Walls. +2
+Diplomatic Favor for every Renaissance Wall.
+Inherent effect
++50% Influence Points.
+Historical Context
+Monarchy rests on the idea of sovereignty vested in a single individual, from a single (often divinely-attributed) bloodline – a king, queen, prince, etc – ruling until abdication or death (or, in the case of a revolution, often both). The successor to all this power is usually determined by heredity, next in line in the (more-or-less) direct royal lineage. Monarchies come in many flavors - Khmer kings reckoned their origins to the union of a Brahmin king and a naga [water dragon] queen, and Majapahit monarchs claimed descent from the Hindu gods. But there are varieties of monarch. An absolute monarchy is one in which there are no restraints on the wielding of power (think the German Kaiser), whereas in a constitutional monarchy (think the British queen), the ruler’s power is somewhat constrained by law … no “off with his head” without a trial, for instance. In an electoral monarchy, the ruler is elected, usually by some form of special convocation (such as that for the Holy Roman Empire).
+Absolute monarchies work as well as the monarch and the bureaucracy built around him or her, provided the ruler is as gifted as Elizabeth I, Frederick the Great or Qin Shi Huang. Otherwise, the nation tends to slip in stagnation. And for the truly inept, revolution looms: Charles I, Louis XVI, Tsar Nicholas II, and a long list of others. Rather more stable and successful are constitutional monarchies, many of which began as elective monarchies. Most of the world’s current monarchies are constitutional, with the ruler serving in a symbolic, traditional, patriotic and propaganda role. Which is not to say that their role is not influential or important ... just look to the Queen of England or Emperor of Japan. Certain other monarchs (Thailand, Swaziland, Bhutan) excersie a bit more control.
+Traits
+2
+Diplomatic Favor per
+turn.
+2 Military  Slots
+1 Economic  Slot
+1 Diplomatic  Slot
+2 Wildcard  Slots
+Requirements
+Civic
+Divine Right

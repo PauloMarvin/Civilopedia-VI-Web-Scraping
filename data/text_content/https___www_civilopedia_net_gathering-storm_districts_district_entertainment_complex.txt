@@ -1,0 +1,72 @@
+Entertainment Complex - Districts - Civilopedia - Civilization VI
+Entertainment Complex
+Description
+A district in your city dedicated to keeping your people happy by increasing
+Amenities. Cannot be built in a city with a Water Park.
+Historical Context
+The “entertainment” district offers family-friendly distractions from the burden of living in an urban environment. In some cities, the entertainment complex is filled with museums and zoos and other edifying sights; in others it is a district of theaters, pubs, music venues and such; and some are the center of the city’s sport with stadiums and indoor arenas. Whatever the form – be it the Quartier des Spectacles in Montreal, or Te Aro District in Wellington, or even St. Pauli in Hamburg – every civilized city has one to engender happiness and pride in its citizens, imparting a sense of social identity that the countryside can’t.
+Traits
+Replaced By
+Street Carnival
+Hippodrome
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Arena
+Stadium
+Thermal Bath
+Tlachtli
+Zoo
+Description
+A district in your city dedicated to keeping your people happy by increasing
+Amenities. Cannot be built in a city with a Water Park.
+Historical Context
+The “entertainment” district offers family-friendly distractions from the burden of living in an urban environment. In some cities, the entertainment complex is filled with museums and zoos and other edifying sights; in others it is a district of theaters, pubs, music venues and such; and some are the center of the city’s sport with stadiums and indoor arenas. Whatever the form – be it the Quartier des Spectacles in Montreal, or Te Aro District in Wellington, or even St. Pauli in Hamburg – every civilized city has one to engender happiness and pride in its citizens, imparting a sense of social identity that the countryside can’t.
+Traits
+Replaced By
+Street Carnival
+Hippodrome
++1
+Amenity from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Arena
+Stadium
+Thermal Bath
+Tlachtli
+Zoo

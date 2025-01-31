@@ -1,0 +1,64 @@
+Helicopter - Units - Civilopedia - Civilization VI
+Helicopter
+Description
+Fast-moving Atomic era light cavalry unit.
+Historical Context
+Chinese children played with them c. 400 BC; da Vinci designed one in the early 1480s; the Frenchman d’Amécourt demonstrated a steam-powered aluminum one in 1861 (although it never got off the ground); in 1907 two Frenchmen, the Breguet brothers, finally built an engine-powered helicopter which lifted its pilot two feet off the ground. And in 1933 the German Focke-Wulf company designed and built the world’s first twin-rotor helicopter, intending it for military use, even as Igor Sikorsky was doing the same in the United States. Used rarely during WW2, the helicopter was primarily employed as transport in the Korean War, and finally as gunships during the Vietnam War. Able to hug the terrain and avoid detection (until too late) by flying “nap-of-the-earth,” during the Cold War it became the primary “tank-buster” in both the U.S. and USSR armies. Today, helicopters are as useful as they are ubiquitous in military operations, doing everything from recon, to medivac, to troop insertion and recovery, to providing close air support with guns and missiles.
+Traits
+Upgrade From
+Cavalry
+Cossack
+Huszár
+Llanero
+Promotion Class: Light Cavalry
+4
+Movement Points
+86
+Melee Strength
+Requirements
+Technology
+Synthetic Materials
+Production Cost
+Base Cost: 600
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2400
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+Fast-moving Atomic era light cavalry unit.
+Historical Context
+Chinese children played with them c. 400 BC; da Vinci designed one in the early 1480s; the Frenchman d’Amécourt demonstrated a steam-powered aluminum one in 1861 (although it never got off the ground); in 1907 two Frenchmen, the Breguet brothers, finally built an engine-powered helicopter which lifted its pilot two feet off the ground. And in 1933 the German Focke-Wulf company designed and built the world’s first twin-rotor helicopter, intending it for military use, even as Igor Sikorsky was doing the same in the United States. Used rarely during WW2, the helicopter was primarily employed as transport in the Korean War, and finally as gunships during the Vietnam War. Able to hug the terrain and avoid detection (until too late) by flying “nap-of-the-earth,” during the Cold War it became the primary “tank-buster” in both the U.S. and USSR armies. Today, helicopters are as useful as they are ubiquitous in military operations, doing everything from recon, to medivac, to troop insertion and recovery, to providing close air support with guns and missiles.
+Traits
+Upgrade From
+Cavalry
+Cossack
+Huszár
+Llanero
+Promotion Class: Light Cavalry
+4
+Movement Points
+86
+Melee Strength
+Requirements
+Technology
+Synthetic Materials
+Production Cost
+Base Cost: 600
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2400
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn

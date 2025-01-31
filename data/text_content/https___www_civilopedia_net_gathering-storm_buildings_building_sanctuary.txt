@@ -1,0 +1,42 @@
+Sanctuary - Buildings - Civilopedia - Civilization VI
+Sanctuary
+Description
+Grants +1
+Science and +1
+Gold to adjacent unimproved Charming tiles.  Increased to +2
+Science, +2
+Gold, +2
+Production for adjacent unimproved Breathtaking tiles.
+Historical Context
+In the Industrial age and later, the notion of preserving natural land for the amusement of nobility or the reflection of priests often gave way to the needs of empire. The British Empire set up twin botanical research facilities: Kew Gardens, opened in its present form in 1840, and a site in Singapore in 1859. These were not only places for the public to stroll, but also centers for scientific research, where new strains of crops could be developed for use across the Empire. Hunting lodges like Berlin’s Grunewald were transformed into public parks for workers in Berlin’s factories, and temple sanctuaries became places in which all – not just priests and monks – could meditate. Here, too, ecologists could have a window onto the natural world that was (and is) in a state of rapid decline. “Sanctuary,” here, has a double meaning – both the preservation of the “wild” for science, art and religion, as well as a place of refuge from the demands of the punch-clock, factory whistle, or smartphone.
+Requirements
+District
+Preserve
+Civic
+Conservation
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold
+Description
+Grants +1
+Science and +1
+Gold to adjacent unimproved Charming tiles.  Increased to +2
+Science, +2
+Gold, +2
+Production for adjacent unimproved Breathtaking tiles.
+Historical Context
+In the Industrial age and later, the notion of preserving natural land for the amusement of nobility or the reflection of priests often gave way to the needs of empire. The British Empire set up twin botanical research facilities: Kew Gardens, opened in its present form in 1840, and a site in Singapore in 1859. These were not only places for the public to stroll, but also centers for scientific research, where new strains of crops could be developed for use across the Empire. Hunting lodges like Berlin’s Grunewald were transformed into public parks for workers in Berlin’s factories, and temple sanctuaries became places in which all – not just priests and monks – could meditate. Here, too, ecologists could have a window onto the natural world that was (and is) in a state of rapid decline. “Sanctuary,” here, has a double meaning – both the preservation of the “wild” for science, art and religion, as well as a place of refuge from the demands of the punch-clock, factory whistle, or smartphone.
+Requirements
+District
+Preserve
+Civic
+Conservation
+Production Cost
+Base Cost: 440
+Production
+Purchase Cost
+Base Cost: 1760
+Gold

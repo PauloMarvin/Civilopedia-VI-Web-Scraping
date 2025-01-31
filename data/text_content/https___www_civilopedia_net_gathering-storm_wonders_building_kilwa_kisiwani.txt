@@ -1,0 +1,54 @@
+Kilwa Kisiwani - Wonders and Projects - Civilopedia - Civilization VI
+Kilwa Kisiwani
+Description
++3
+Envoys when built. When you are the Suzerain of a City-State this city receives a +15% boost to the Type bonuses provided by that City-State. If you are the Suzerain to 2 or more City-States of that type an additional +15% boost is given to all your cities. Must be built on a flat tile adjacent to Coast.
+Historical Context
+The East African city-state Kilwa Kisiwani was once a major destination for trade in the Indian Ocean. Ivory, gold, and perfumes flowed through its markets. At its height, Kilwa Kisiwani contained some of the finest architecture in East Africa: the Great Mosque (which remained the world’s largest mosque until the 16th Century) and Husuni Kubwa (a classy palace), both of which survived to the modern day.
+Kilwa Kisiwani flourished as a major trade city until the Portuguese arrived in 1498 to “make improvements” to the city’s infrastructure (if extorting tribute can be considered an improvement). Over the centuries, a series of foreign conquerors wrestled control of the city from one another, until it was abandoned in 1840.
+“Kilwa is one of the most beautifully built cities in the world; the houses there are entirely made of wood, their rooftops out of rope grass, and it rains with great vigour.”
+– Ibn Battuta
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Machinery
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Must be built on coast
+Production Cost
+Base Cost: 710
+Production
+Description
++3
+Envoys when built. When you are the Suzerain of a City-State this city receives a +15% boost to the Type bonuses provided by that City-State. If you are the Suzerain to 2 or more City-States of that type an additional +15% boost is given to all your cities. Must be built on a flat tile adjacent to Coast.
+Historical Context
+The East African city-state Kilwa Kisiwani was once a major destination for trade in the Indian Ocean. Ivory, gold, and perfumes flowed through its markets. At its height, Kilwa Kisiwani contained some of the finest architecture in East Africa: the Great Mosque (which remained the world’s largest mosque until the 16th Century) and Husuni Kubwa (a classy palace), both of which survived to the modern day.
+Kilwa Kisiwani flourished as a major trade city until the Portuguese arrived in 1498 to “make improvements” to the city’s infrastructure (if extorting tribute can be considered an improvement). Over the centuries, a series of foreign conquerors wrestled control of the city from one another, until it was abandoned in 1840.
+“Kilwa is one of the most beautifully built cities in the world; the houses there are entirely made of wood, their rooftops out of rope grass, and it rains with great vigour.”
+– Ibn Battuta
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Machinery
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Must be built on coast
+Production Cost
+Base Cost: 710
+Production

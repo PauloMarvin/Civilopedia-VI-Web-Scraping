@@ -1,0 +1,70 @@
+Hetairoi - Units - Civilopedia - Civilization VI
+Hetairoi
+Description
+Macedonian unique heavy cavalry unit that replaces the Horseman. Additional +5
+Combat Strength when adjacent to a Great General. +5 Great General points when killing an enemy unit. Starts with 1 free Promotion.
+Historical Context
+The powerful hetairoi (known simply as “the Companions”) were an elite cavalry unit who served as the hammer in Macedon’s famed hammer-and-anvil tactics, popularized under Philip II and used to great effect by his son, Alexander the Great. While the Macedonian phalanx pinned a rival army in place with their extra-long spears (known as sarissas), the hetairoi would organize into a wedge and charge directly into the enemy flanks or rear.
+An abrupt attack by the shock cavalry nearly impossible to avoid or deter, and was often enough to break the will of less seasoned troops. As they fled for their lives, they were easy pickings for the hetairoi who could ride them down and dispatch them in their leisure.
+Most of the Companions came from the ranks of Macedon’s noble families, though the king could technically admit anyone to their ranks. They were armed with short spears and swords.
+Traits
+Unique To
+Alexander
+Upgrades To
+Knight
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+36
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 100
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Macedonian unique heavy cavalry unit that replaces the Horseman. Additional +5
+Combat Strength when adjacent to a Great General. +5 Great General points when killing an enemy unit. Starts with 1 free Promotion.
+Historical Context
+The powerful hetairoi (known simply as “the Companions”) were an elite cavalry unit who served as the hammer in Macedon’s famed hammer-and-anvil tactics, popularized under Philip II and used to great effect by his son, Alexander the Great. While the Macedonian phalanx pinned a rival army in place with their extra-long spears (known as sarissas), the hetairoi would organize into a wedge and charge directly into the enemy flanks or rear.
+An abrupt attack by the shock cavalry nearly impossible to avoid or deter, and was often enough to break the will of less seasoned troops. As they fled for their lives, they were easy pickings for the hetairoi who could ride them down and dispatch them in their leisure.
+Most of the Companions came from the ranks of Macedon’s noble families, though the king could technically admit anyone to their ranks. They were armed with short spears and swords.
+Traits
+Unique To
+Alexander
+Upgrades To
+Knight
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+36
+Melee Strength
+Requirements
+Technology
+Horseback Riding
+Production Cost
+Base Cost: 100
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

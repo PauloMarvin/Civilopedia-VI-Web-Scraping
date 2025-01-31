@@ -1,0 +1,106 @@
+Royal Navy Dockyard - Districts - Civilopedia - Civilization VI
+Royal Navy Dockyard
+Description
+A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the
+Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.
++1
+Movement for all naval units built in Dockyard
++2
+Gold and +4 Loyalty per turn when built on a foreign continent. Cannot be built on Reef
+Historical Context
+Officially designated “HM Royal Dockyards” until the late 1960s, the British Navy maintained a string of facilities around the world where its commissioned ships could be based, overhauled, refitted and repaired (if things afloat went wrong). The first, a shipbuilding yard as well as a dockyard, was designated such at Portsmouth in 1496 AD, just in time to bedevil the Spanish and French for the next couple centuries. The first outside the confines of Great Britain: the Royal Dockyard at English Harbor in Antigua in 1728. Through the Dutch Wars, Napoleonic Wars, colonial wars, and two world wars the Royal Dockyards did (not to mix metaphors overly) yeoman service. But with the reduced role of the Royal Navy and the erosion of the empire, in the latter part of the 20th Century those Royal Dockyards that remain open have been largely converted to accommodation and training of naval personnel.
+Traits
+Unique To
+England
+Replaces
+Harbor
++2
+Great Admiral points per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard
+Description
+A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the
+Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.
++1
+Movement for all naval units built in Dockyard
++2
+Gold and +4 Loyalty per turn when built on a foreign continent. Cannot be built on Reef
+Historical Context
+Officially designated “HM Royal Dockyards” until the late 1960s, the British Navy maintained a string of facilities around the world where its commissioned ships could be based, overhauled, refitted and repaired (if things afloat went wrong). The first, a shipbuilding yard as well as a dockyard, was designated such at Portsmouth in 1496 AD, just in time to bedevil the Spanish and French for the next couple centuries. The first outside the confines of Great Britain: the Royal Dockyard at English Harbor in Antigua in 1728. Through the Dutch Wars, Napoleonic Wars, colonial wars, and two world wars the Royal Dockyards did (not to mix metaphors overly) yeoman service. But with the reduced role of the Royal Navy and the erosion of the empire, in the latter part of the 20th Century those Royal Dockyards that remain open have been largely converted to accommodation and training of naval personnel.
+Traits
+Unique To
+England
+Replaces
+Harbor
++2
+Great Admiral points per turn.
+Adjacency Bonus
++1
+Gold from every 2 adjacent district tiles.
++1
+Gold from each adjacent coastal resource tile.
++2
+Gold from each adjacent City Center tile.
++1
+Gold from each adjacent Government Plaza tile.
++2
+Gold from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Gold
++1
+Food
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++3
+Gold
+Requirements
+Technology
+Celestial Navigation
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Usage
+Unlocks Buildings
+Lighthouse
+Seaport
+Shipyard

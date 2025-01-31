@@ -1,0 +1,62 @@
+Quadrireme - Units - Civilopedia - Civilization VI
+Quadrireme
+Description
+Classical era ranged naval unit. Can only operate on Coastal waters until Cartography is researched.
+Historical Context
+Ancient shipbuilders just kept adding banks of oars to the basic design of the galley until they reached the quadrireme, a galley with four banks, each oar rowed by two men. Pliny the Elder reports that no less a scholar than Aristotle ascribed the creation of the quadrireme to the Carthaginians, likely during the 4th Century BC. Their first recorded use was during the siege of Tyre by Alexander the Great, at that time marching south to invade Egypt. After his death, the design proved popular among his successors, squabbling over the empire. During the later Punic Wars, quadriremes were used by both sides. Historical sources (not always reliable) state that these had a displacement of about 60 tons and carried around 75 marines. With their wide, shallow draft, quadriremes were ideal for operations in shallow coastal waters.
+Traits
+Upgrades To
+Frigate
+Jong
+De Zeven Provinciën
+Promotion Class: Naval Ranged
+3
+Movement Points
+20
+Melee Strength
+25
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Shipbuilding
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Classical era ranged naval unit. Can only operate on Coastal waters until Cartography is researched.
+Historical Context
+Ancient shipbuilders just kept adding banks of oars to the basic design of the galley until they reached the quadrireme, a galley with four banks, each oar rowed by two men. Pliny the Elder reports that no less a scholar than Aristotle ascribed the creation of the quadrireme to the Carthaginians, likely during the 4th Century BC. Their first recorded use was during the siege of Tyre by Alexander the Great, at that time marching south to invade Egypt. After his death, the design proved popular among his successors, squabbling over the empire. During the later Punic Wars, quadriremes were used by both sides. Historical sources (not always reliable) state that these had a displacement of about 60 tons and carried around 75 marines. With their wide, shallow draft, quadriremes were ideal for operations in shallow coastal waters.
+Traits
+Upgrades To
+Frigate
+Jong
+De Zeven Provinciën
+Promotion Class: Naval Ranged
+3
+Movement Points
+20
+Melee Strength
+25
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Shipbuilding
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

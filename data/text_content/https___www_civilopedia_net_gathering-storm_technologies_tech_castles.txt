@@ -1,0 +1,50 @@
+Castles - Technologies - Civilopedia - Civilization VI
+Castles
+Description
+Bonus
+Culture for the Great Wall improvement for adjacency. Gain a free Spy if playing as Catherine de Medici (Black Queen).
+Historical Context
+Great piles of stone – some still intact (more or less) – dominate the varied landscapes of Europe, castles dating back to the early 10th Century AD when feudal lords sought to insure their power and influence. Some were little more than cold, dirty square stone boxes; others were fairy structures with tall towers, crenelated parapets and flying buttresses. But rather than the romantic visions of noble knights, damsels in distress, great feasts and throwing the barbarians back from the moat, castles served the ultimate utilitarian role in feudal society – imposing the lord’s will on the land.
+According to archeologists, the accumulation of surplus wealth and resources led to the need for defensive structures, and the earliest fortifications evolved in the Fertile Crescent, Indus Valley, Egypt and China to keep the barbarians out of the larder. Europe was rather slower to develop such fortresses, and it was not until the Bronze Age that hill forts began to be built. Soon after the collapse of the Pax Romana, Germanic tribes began to construct heavy stone fortifications. The incursions of the Magyars, Vikings and Muslims brought more castle-building, and the breakdown of the Carolingian Empire led to the privatization of local government as local lords assumed the “privilege” of protecting the people. The success of William the Conqueror set off a lengthy period of warfare and conquest by contending kings, dominated by castle building throughout western civilization … until gunpowder and cannon showed up in the 1600s.
+Just as the thick- and high-walled castles fell out of vogue in Europe, Japan entered its own castle age. Evolving from the wooden stockades of the early daimyo, the first castles were constructed of stone with wooden upper structures. Thus, they tended to burn a lot – especially during the Sengoku (“Warring States”) period. Unlike in Europe, the introduction of gunpowder spurred the building of Japanese castles, and the 16th Century saw a boom in castle-building on a grander scale than ever until the Meiji Restoration and the end of feudalism there.
+“Rocks in my path? I keep them all. With them I shall build my castle.”
+– Nemo Nox
+“If you see a castle under fog, you must walk there to meet the extraordinary dreams.”
+– Mehmet Murat Ildan
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Construction
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Adopt a government with 6 inherent policy slots.
+Progression
+Leads to Technologies
+Siege Tactics
+Description
+Bonus
+Culture for the Great Wall improvement for adjacency. Gain a free Spy if playing as Catherine de Medici (Black Queen).
+Historical Context
+Great piles of stone – some still intact (more or less) – dominate the varied landscapes of Europe, castles dating back to the early 10th Century AD when feudal lords sought to insure their power and influence. Some were little more than cold, dirty square stone boxes; others were fairy structures with tall towers, crenelated parapets and flying buttresses. But rather than the romantic visions of noble knights, damsels in distress, great feasts and throwing the barbarians back from the moat, castles served the ultimate utilitarian role in feudal society – imposing the lord’s will on the land.
+According to archeologists, the accumulation of surplus wealth and resources led to the need for defensive structures, and the earliest fortifications evolved in the Fertile Crescent, Indus Valley, Egypt and China to keep the barbarians out of the larder. Europe was rather slower to develop such fortresses, and it was not until the Bronze Age that hill forts began to be built. Soon after the collapse of the Pax Romana, Germanic tribes began to construct heavy stone fortifications. The incursions of the Magyars, Vikings and Muslims brought more castle-building, and the breakdown of the Carolingian Empire led to the privatization of local government as local lords assumed the “privilege” of protecting the people. The success of William the Conqueror set off a lengthy period of warfare and conquest by contending kings, dominated by castle building throughout western civilization … until gunpowder and cannon showed up in the 1600s.
+Just as the thick- and high-walled castles fell out of vogue in Europe, Japan entered its own castle age. Evolving from the wooden stockades of the early daimyo, the first castles were constructed of stone with wooden upper structures. Thus, they tended to burn a lot – especially during the Sengoku (“Warring States”) period. Unlike in Europe, the introduction of gunpowder spurred the building of Japanese castles, and the 16th Century saw a boom in castle-building on a grander scale than ever until the Meiji Restoration and the end of feudalism there.
+“Rocks in my path? I keep them all. With them I shall build my castle.”
+– Nemo Nox
+“If you see a castle under fog, you must walk there to meet the extraordinary dreams.”
+– Mehmet Murat Ildan
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Construction
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Adopt a government with 6 inherent policy slots.
+Progression
+Leads to Technologies
+Siege Tactics

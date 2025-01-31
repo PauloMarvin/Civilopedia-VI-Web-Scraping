@@ -1,0 +1,42 @@
+Inquisitor - Units - Civilopedia - Civilization VI
+Inquisitor
+Description
+May reduce the presence of other Religions in their territory by 75%, and initiate theological combat with units of other Religions.
+Historical Context
+Every faith has its inquisitors, those charged by the church to find the non-believers, back-sliders, and evil influences among the flock. But it is in Europe that the role reached its apex, as the Catholic Church during the Medieval and the Renaissance periods strove to insure the Jews, Moslems, and Protestants (not to mention scientists, artists, and philosophers) didn’t corrupt the faithful. The Catholic inquisitors were on the front lines in this struggle, as they banned and burned books, and disposed of heretics, all in the name of the Lord. In some cases, with the support of the secular government, as in Isabella’s Spain or the Holy Roman Empire, all made legal by the papal bull 'Ad extirpanda' in 1252 AD. Despite some excesses it can be said that inquisitors did keep the faith – whichever faith it may be.
+Traits
+Promotion Class: Religious Inquisitor
+4
+Movement Points
+75
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Temple
+Stave Church
+Prasat
+Purchase Cost
+Base Cost: 150
+Faith
+Description
+May reduce the presence of other Religions in their territory by 75%, and initiate theological combat with units of other Religions.
+Historical Context
+Every faith has its inquisitors, those charged by the church to find the non-believers, back-sliders, and evil influences among the flock. But it is in Europe that the role reached its apex, as the Catholic Church during the Medieval and the Renaissance periods strove to insure the Jews, Moslems, and Protestants (not to mention scientists, artists, and philosophers) didn’t corrupt the faithful. The Catholic inquisitors were on the front lines in this struggle, as they banned and burned books, and disposed of heretics, all in the name of the Lord. In some cases, with the support of the secular government, as in Isabella’s Spain or the Holy Roman Empire, all made legal by the papal bull 'Ad extirpanda' in 1252 AD. Despite some excesses it can be said that inquisitors did keep the faith – whichever faith it may be.
+Traits
+Promotion Class: Religious Inquisitor
+4
+Movement Points
+75
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Temple
+Stave Church
+Prasat
+Purchase Cost
+Base Cost: 150
+Faith

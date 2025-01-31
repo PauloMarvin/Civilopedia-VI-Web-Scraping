@@ -1,0 +1,40 @@
+Monument - Buildings - Civilopedia - Civilization VI
+Monument
+Description
+Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1
+Culture.
+Historical Context
+Since humans seem to be a forgetful sort – or perhaps just egotistical – they put up monuments to commemorate all kinds of things – “important” people, events, military victories, deities, or even fictional characters (such as that to Peter Pan in Kensington Gardens). They seem to especially like to stick them up in the middle of cities, so everyone has to see them and walk or drive around them. Monuments come in all shapes and sizes, beautiful and horrid. Triumphal arches, columns, obelisks, memorials and cenotaphs can be found in almost any large urban metropolis, supposedly infusing the inhabitants with civic and national pride. Or, as is usually the case, serving as nesting places for pigeons and recognizable backgrounds for tourist snapshots.
+Traits
+Replaced By
+Old God Obelisk
++1
+Culture
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Description
+Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1
+Culture.
+Historical Context
+Since humans seem to be a forgetful sort – or perhaps just egotistical – they put up monuments to commemorate all kinds of things – “important” people, events, military victories, deities, or even fictional characters (such as that to Peter Pan in Kensington Gardens). They seem to especially like to stick them up in the middle of cities, so everyone has to see them and walk or drive around them. Monuments come in all shapes and sizes, beautiful and horrid. Triumphal arches, columns, obelisks, memorials and cenotaphs can be found in almost any large urban metropolis, supposedly infusing the inhabitants with civic and national pride. Or, as is usually the case, serving as nesting places for pigeons and recognizable backgrounds for tourist snapshots.
+Traits
+Replaced By
+Old God Obelisk
++1
+Culture
+Requirements
+District
+City Center
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold

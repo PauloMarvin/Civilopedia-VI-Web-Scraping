@@ -1,0 +1,46 @@
+Military Tradition - Civics - Civilopedia - Civilization VI
+Military Tradition
+Description
+Grants flanking and support combat bonuses to all combat units.
+Historical Context
+Since humans have never been able to get along long, it was destined that war would evolve. Thus, in a number of places military traditions arose to make the head-bashing more efficient. Initially, this tradition simply meant training the militia, those “volunteers” who did the ruler’s bidding when conflicts arose. India had some of the earliest such militias; after the Aryan invasions c. 2000 BC the Indus Valley city-states began maintaining trained cadres of warriors. Around the same time, the Old Kingdom of Egypt established a trained militia to combat the Libyans, Nubians, Canaanites and other annoyances. In China, the Warring States Period firmly established a military tradition in that civilization.
+It was in Greece – specifically Sparta – however that the earliest “professional” army was given birth; in Sparta, at the age of seven boys were sent to a barracks to be indoctrinated into the military traditions of their homeland. (At the age of 33 they were released from barrack life and allowed to marry and have a family, although they remained “on call” until the age of 60.) By the time Rome got done, military tradition had come to encompass a host of practices: everything from tactics and uniforms to formations and even salutes. Rome’s successors in Europe formalized the practice of mass violence even further, and in the Far East Japan’s code of bushido became ingrained in that culture. By the time gunpowder and gasoline made war a butcher’s business rather than a glorious adventure, every nation had its own military traditions, stretching back generations.
+“Bravery is being the only one who knows you’re afraid.”
+— Colonel David Hackworth
+“I don’t underrate the value of military knowledge, but if men make war in slavish obedience to rules, they will fail.”
+– Ulysses S. Grant
+Unlocks
+Requirements
+Ancient Era
+Required Civics
+Craftsmanship
+Culture Cost
+Base Cost: 50
+Culture
+Boosts
+Clear a Barbarian Outpost.
+Progression
+Leads to Civics
+Military Training
+Description
+Grants flanking and support combat bonuses to all combat units.
+Historical Context
+Since humans have never been able to get along long, it was destined that war would evolve. Thus, in a number of places military traditions arose to make the head-bashing more efficient. Initially, this tradition simply meant training the militia, those “volunteers” who did the ruler’s bidding when conflicts arose. India had some of the earliest such militias; after the Aryan invasions c. 2000 BC the Indus Valley city-states began maintaining trained cadres of warriors. Around the same time, the Old Kingdom of Egypt established a trained militia to combat the Libyans, Nubians, Canaanites and other annoyances. In China, the Warring States Period firmly established a military tradition in that civilization.
+It was in Greece – specifically Sparta – however that the earliest “professional” army was given birth; in Sparta, at the age of seven boys were sent to a barracks to be indoctrinated into the military traditions of their homeland. (At the age of 33 they were released from barrack life and allowed to marry and have a family, although they remained “on call” until the age of 60.) By the time Rome got done, military tradition had come to encompass a host of practices: everything from tactics and uniforms to formations and even salutes. Rome’s successors in Europe formalized the practice of mass violence even further, and in the Far East Japan’s code of bushido became ingrained in that culture. By the time gunpowder and gasoline made war a butcher’s business rather than a glorious adventure, every nation had its own military traditions, stretching back generations.
+“Bravery is being the only one who knows you’re afraid.”
+— Colonel David Hackworth
+“I don’t underrate the value of military knowledge, but if men make war in slavish obedience to rules, they will fail.”
+– Ulysses S. Grant
+Unlocks
+Requirements
+Ancient Era
+Required Civics
+Craftsmanship
+Culture Cost
+Base Cost: 50
+Culture
+Boosts
+Clear a Barbarian Outpost.
+Progression
+Leads to Civics
+Military Training

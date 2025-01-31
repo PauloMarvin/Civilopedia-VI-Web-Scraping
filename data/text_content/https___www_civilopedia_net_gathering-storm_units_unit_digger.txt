@@ -1,0 +1,62 @@
+Digger - Units - Civilopedia - Civilization VI
+Digger
+Description
+Australian unique Modern era unit that replaces Infantry. +10
+Combat Strength when fighting on Coastal tiles. +5
+Combat Strength when fighting on Neutral or Foreign Territory.
+Historical Context
+At the onset of World War I, the British Army's need for soldiers led to the creation of the Australian Imperial Force. For bureaucratic ease, these troops were combined into a corps alongside soldiers from New Zealand. The newly formed corps underwent a baptism of enemy fire at the Battle of Gallipoli, which began with the (then) largest amphibious landing in the modern era. Called "Diggers" for their rapid entrenchment—or by their British comrades who thought all Australians worked in mines—they distinguished themselves until the war's armistice, gaining a courageous and genial reputation despite many hardships. Dissolved after the war's end, the Diggers have been re-formed when Australian and New Zealand troops fight together in larger-scale conflicts (such as World War II and Vietnam).
+Traits
+Unique To
+Australia
+Upgrades To
+Mechanized Infantry
+Upgrade From
+Line Infantry
+Promotion Class: Melee
+2
+Movement Points
+78
+Melee Strength
+Requirements
+Technology
+Replaceable Parts
+Production Cost
+Base Cost: 430
+Production
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Description
+Australian unique Modern era unit that replaces Infantry. +10
+Combat Strength when fighting on Coastal tiles. +5
+Combat Strength when fighting on Neutral or Foreign Territory.
+Historical Context
+At the onset of World War I, the British Army's need for soldiers led to the creation of the Australian Imperial Force. For bureaucratic ease, these troops were combined into a corps alongside soldiers from New Zealand. The newly formed corps underwent a baptism of enemy fire at the Battle of Gallipoli, which began with the (then) largest amphibious landing in the modern era. Called "Diggers" for their rapid entrenchment—or by their British comrades who thought all Australians worked in mines—they distinguished themselves until the war's armistice, gaining a courageous and genial reputation despite many hardships. Dissolved after the war's end, the Diggers have been re-formed when Australian and New Zealand troops fight together in larger-scale conflicts (such as World War II and Vietnam).
+Traits
+Unique To
+Australia
+Upgrades To
+Mechanized Infantry
+Upgrade From
+Line Infantry
+Promotion Class: Melee
+2
+Movement Points
+78
+Melee Strength
+Requirements
+Technology
+Replaceable Parts
+Production Cost
+Base Cost: 430
+Production
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold

@@ -1,0 +1,52 @@
+Spearman - Units - Civilopedia - Civilization VI
+Spearman
+Description
+Ancient era anti-cavalry unit.
+Historical Context
+At some point in the prehistory of civilization, some Neolithic warrior decided his club would be more efficient if he sharpened the end of it. And, hence, the spear. But the point kept getting dull from all the stabbing of animals and people. Soon enough people were hardening the points by charring them over fire (another recent discovery); the next innovation was attaching napped stone heads to the stick. And eventually, metal spearheads. Spears are fairly simple to master; and so were popular among the early militia that were the staple for most ancient armies. Spears can be produced fairly quickly and cheaply. And they worked well against those horse-riding barbarians. Over the centuries the spear went through endless evolutions, culminating with the bayonet, which a soldier can stick on the end of his rifle to make a spear for eviscerating the enemy once again.
+Traits
+Upgrades To
+Pikeman
+Impi
+Promotion Class: Anti Cavalry
+2
+Movement Points
+25
+Melee Strength
+Requirements
+Technology
+Bronze Working
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Ancient era anti-cavalry unit.
+Historical Context
+At some point in the prehistory of civilization, some Neolithic warrior decided his club would be more efficient if he sharpened the end of it. And, hence, the spear. But the point kept getting dull from all the stabbing of animals and people. Soon enough people were hardening the points by charring them over fire (another recent discovery); the next innovation was attaching napped stone heads to the stick. And eventually, metal spearheads. Spears are fairly simple to master; and so were popular among the early militia that were the staple for most ancient armies. Spears can be produced fairly quickly and cheaply. And they worked well against those horse-riding barbarians. Over the centuries the spear went through endless evolutions, culminating with the bayonet, which a soldier can stick on the end of his rifle to make a spear for eviscerating the enemy once again.
+Traits
+Upgrades To
+Pikeman
+Impi
+Promotion Class: Anti Cavalry
+2
+Movement Points
+25
+Melee Strength
+Requirements
+Technology
+Bronze Working
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

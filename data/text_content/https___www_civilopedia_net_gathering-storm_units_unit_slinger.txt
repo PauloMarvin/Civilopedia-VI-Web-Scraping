@@ -1,0 +1,52 @@
+Slinger - Units - Civilopedia - Civilization VI
+Slinger
+Description
+Weak Ancient era ranged unit. Better on attack than defense.
+Historical Context
+Like most early weapon systems, the sling evolved from a tool for hunting game to one for killing people. Simply a pouch between two lengths of cord, the sling was used to swing a projectile – a stone, lump of lead, or anything else convenient – in an arc until such time as it was launched. Although a thrown stone doesn’t have the lethality of an arrow or bullet, it can still do a lot of damage. If nothing else, a rain of well-aimed stones gives an enemy pause before rushing in. And, until composite bows were invented, it had a considerable range advantage over bows and spears. In addition, wasn’t hard to find ammunition. With the exception of Australia, ancient slings have been found in archaeological digs all over the world. Even a barbarian can sling a rock. And, as the First Book of Samuel points out, a slinger can bring down even a Goliath...
+Traits
+Upgrades To
+Archer
+Pítati Archer
+Hul'che
+Promotion Class: Ranged
+2
+Movement Points
+5
+Melee Strength
+15
+Ranged Strength
+1
+Range
+Requirements
+Production Cost
+Base Cost: 35
+Production
+Purchase Cost
+Base Cost: 140
+Gold
+Description
+Weak Ancient era ranged unit. Better on attack than defense.
+Historical Context
+Like most early weapon systems, the sling evolved from a tool for hunting game to one for killing people. Simply a pouch between two lengths of cord, the sling was used to swing a projectile – a stone, lump of lead, or anything else convenient – in an arc until such time as it was launched. Although a thrown stone doesn’t have the lethality of an arrow or bullet, it can still do a lot of damage. If nothing else, a rain of well-aimed stones gives an enemy pause before rushing in. And, until composite bows were invented, it had a considerable range advantage over bows and spears. In addition, wasn’t hard to find ammunition. With the exception of Australia, ancient slings have been found in archaeological digs all over the world. Even a barbarian can sling a rock. And, as the First Book of Samuel points out, a slinger can bring down even a Goliath...
+Traits
+Upgrades To
+Archer
+Pítati Archer
+Hul'che
+Promotion Class: Ranged
+2
+Movement Points
+5
+Melee Strength
+15
+Ranged Strength
+1
+Range
+Requirements
+Production Cost
+Base Cost: 35
+Production
+Purchase Cost
+Base Cost: 140
+Gold

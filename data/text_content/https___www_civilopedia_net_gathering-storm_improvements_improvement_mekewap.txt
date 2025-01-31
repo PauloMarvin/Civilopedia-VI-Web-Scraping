@@ -1,0 +1,94 @@
+Mekewap - Improvements and Routes - Civilopedia - Civilization VI
+Mekewap
+Description
+Unlocks the Builder ability to construct a Mekewap, unique to Cree.
+Provides +1
+Production and +1
+Housing. +1
+Gold if adjacent to a Luxury resource.  For every 2 adjacent Bonus Resources +1
+Food.  Additional
+Production,
+Gold,
+Food, and
+Housing as you advance through the Civics and Technology Tree. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.
+Historical Context
+Made from birch bark, the mekewap was a long-term shelter for the Cree intended to lodge many people. The Cree carefully laid out the wood into a dome shape, then wrapped wooden strips around the shelter. They then wove the strips together for warmth, further securing it from the elements. This careful construction prevented rain from permeating the shelter.
+The mekewap were not portable, but thankfully, they were relatively easy and quick to build.
+Traits
+Unique To
+Cree
++1
+Production
++1.0
+Housing
++1
+Production (requires Civil Service)
+Adjacency Bonus
++1
+Food from every 2 adjacent Bonus Resource tiles.Becomes obsolete with Conservation.
++1
+Food from each adjacent Bonus Resource tile.Requires Conservation.
++2
+Gold from each adjacent Luxury Resource tile.Requires Cartography.
+Requirements
+Technology
+Pottery
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Mekewap, unique to Cree.
+Provides +1
+Production and +1
+Housing. +1
+Gold if adjacent to a Luxury resource.  For every 2 adjacent Bonus Resources +1
+Food.  Additional
+Production,
+Gold,
+Food, and
+Housing as you advance through the Civics and Technology Tree. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.
+Historical Context
+Made from birch bark, the mekewap was a long-term shelter for the Cree intended to lodge many people. The Cree carefully laid out the wood into a dome shape, then wrapped wooden strips around the shelter. They then wove the strips together for warmth, further securing it from the elements. This careful construction prevented rain from permeating the shelter.
+The mekewap were not portable, but thankfully, they were relatively easy and quick to build.
+Traits
+Unique To
+Cree
++1
+Production
++1.0
+Housing
++1
+Production (requires Civil Service)
+Adjacency Bonus
++1
+Food from every 2 adjacent Bonus Resource tiles.Becomes obsolete with Conservation.
++1
+Food from each adjacent Bonus Resource tile.Requires Conservation.
++2
+Gold from each adjacent Luxury Resource tile.Requires Cartography.
+Requirements
+Technology
+Pottery
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

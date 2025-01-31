@@ -1,0 +1,72 @@
+Warak’aq - Units - Civilopedia - Civilization VI
+Warak’aq
+Description
+Incan unique Medieval Era unit that replaces the Skirmisher. Stronger at ranged combat than the Skirmisher and +1 additional attack per turn.
+Historical Context
+Literally translated from Quechua, this word means “the one who throws stones with a sling.” Slings have been associated with the Native American civilizations, but most especially with the cultures of the Andes. Even today, Andean herders continue to use the sling to protect their flocks, preserving the ancient heritage of this missile weapon.
+Inca warriors had access to a variety of weapons, ranging from distinctive bronze maces, hardwood clubs, and spears to javelins, bolas, and the sling. Warriors, particularly those of the upper class, would be well-decorated and elaborately ornamented to impress the enemy, with brightly-decorated fabric tunics and feather headdresses, or equipped with various kinds of padded armor. But the efficacy of slingers made an impression on the Spanish Conquistadors, and they were a common weapon among native uprisings against the Spanish colonists.
+Andean slings are generally long and most frequently made from llama wool. The braiding is generally done in contrasting colors (black and white are most common). Since herding was a common profession for Incan men, there was a ready pool of manpower accustomed to using the weapon. Archaeologists have uncovered caches of sling stones in fortifications throughout the Andes, indicating careful preparation and consideration for the slingers. The sling is, in many ways, the ideal weapon for the Andes: Ammunition is in ready supply, and the difficult terrain makes more complicated missile weapons an iffy proposition. The sling is portable, easy to construct, and deadly in trained hands, as the Inca's enemies learned to their detriment.
+Traits
+Unique To
+Inca
+Upgrades To
+Ranger
+Highlander
+Upgrade From
+Scout
+Promotion Class: Recon
+3
+Movement Points
+20
+Melee Strength
+40
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 165
+Production
+Purchase Cost
+Base Cost: 660
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Incan unique Medieval Era unit that replaces the Skirmisher. Stronger at ranged combat than the Skirmisher and +1 additional attack per turn.
+Historical Context
+Literally translated from Quechua, this word means “the one who throws stones with a sling.” Slings have been associated with the Native American civilizations, but most especially with the cultures of the Andes. Even today, Andean herders continue to use the sling to protect their flocks, preserving the ancient heritage of this missile weapon.
+Inca warriors had access to a variety of weapons, ranging from distinctive bronze maces, hardwood clubs, and spears to javelins, bolas, and the sling. Warriors, particularly those of the upper class, would be well-decorated and elaborately ornamented to impress the enemy, with brightly-decorated fabric tunics and feather headdresses, or equipped with various kinds of padded armor. But the efficacy of slingers made an impression on the Spanish Conquistadors, and they were a common weapon among native uprisings against the Spanish colonists.
+Andean slings are generally long and most frequently made from llama wool. The braiding is generally done in contrasting colors (black and white are most common). Since herding was a common profession for Incan men, there was a ready pool of manpower accustomed to using the weapon. Archaeologists have uncovered caches of sling stones in fortifications throughout the Andes, indicating careful preparation and consideration for the slingers. The sling is, in many ways, the ideal weapon for the Andes: Ammunition is in ready supply, and the difficult terrain makes more complicated missile weapons an iffy proposition. The sling is portable, easy to construct, and deadly in trained hands, as the Inca's enemies learned to their detriment.
+Traits
+Unique To
+Inca
+Upgrades To
+Ranger
+Highlander
+Upgrade From
+Scout
+Promotion Class: Recon
+3
+Movement Points
+20
+Melee Strength
+40
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 165
+Production
+Purchase Cost
+Base Cost: 660
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

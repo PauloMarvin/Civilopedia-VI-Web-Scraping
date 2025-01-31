@@ -1,0 +1,54 @@
+Replaceable Parts - Technologies - Civilopedia - Civilization VI
+Replaceable Parts
+Description
+Upgrades Farm improvements to Mechanized Agriculture. +1
+Food Adjacency bonus for every Farm improvement they are adjacent to. Pasture improvements receive +1
+Production.
+Historical Context
+Evidence for the use of interchangeable parts can be traced back to the warships of Carthage during the First Punic War, when standardized parts made repairs to their galleys relatively quick. During the Warring States period, the Qin dynasty employed mass-produced crossbows with interchangeable parts to pummel its rivals. So it was throughout the ages, until Eli Terry finally mass made something not a weapon on his production line in America in 1814 AD – a pillar-and-scroll clock. In the mid-1800s, several clock and sewing machine manufacturers started using interchangeable parts in their factories. Both the Singer Sewing Machine Corporation (1870) and McCormick Harvesting Machine Company (1880) adopted the practice, followed by steam engine, typewriter and bicycle manufacturers. And then Henry Ford adopted it for his affordable brand of automobiles.
+The development of interchangeable parts in manufacturing was due in large part to the innovation and invention of a number of manufacturing machines, which permitted only very small variances in the final parts. Manufacturing was revolutionized by the slide rest lathe, screw cutting lathe, milling machine and metal planer, in turn. Add electrification of the machines for higher speed, and now hundreds of identical parts could be churned out each hour by skilled machinists. Configuration management evolved in the 1950s as a systems engineering field to insure consistency in performance and physical attributes of manufactured parts. Then came robots to work the assembly lines.
+The development of replaceable parts in all realms of consumer products spurred the Industrial Revolution, and boosted the quality of life since all kinds of things became affordable to the average working-class person. Conspicuous consumption was at last within the reach of civilization … or at least, of some of it.
+“For a machine to run smoothly and predictably, its parts must be standard and hence replaceable.”
+– Charles Eisenstein
+“Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts."
+– B.J. Palmer
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Economics
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Own 3 Line Infantry.
+Progression
+Leads to Technologies
+Advanced Ballistics
+Chemistry
+Description
+Upgrades Farm improvements to Mechanized Agriculture. +1
+Food Adjacency bonus for every Farm improvement they are adjacent to. Pasture improvements receive +1
+Production.
+Historical Context
+Evidence for the use of interchangeable parts can be traced back to the warships of Carthage during the First Punic War, when standardized parts made repairs to their galleys relatively quick. During the Warring States period, the Qin dynasty employed mass-produced crossbows with interchangeable parts to pummel its rivals. So it was throughout the ages, until Eli Terry finally mass made something not a weapon on his production line in America in 1814 AD – a pillar-and-scroll clock. In the mid-1800s, several clock and sewing machine manufacturers started using interchangeable parts in their factories. Both the Singer Sewing Machine Corporation (1870) and McCormick Harvesting Machine Company (1880) adopted the practice, followed by steam engine, typewriter and bicycle manufacturers. And then Henry Ford adopted it for his affordable brand of automobiles.
+The development of interchangeable parts in manufacturing was due in large part to the innovation and invention of a number of manufacturing machines, which permitted only very small variances in the final parts. Manufacturing was revolutionized by the slide rest lathe, screw cutting lathe, milling machine and metal planer, in turn. Add electrification of the machines for higher speed, and now hundreds of identical parts could be churned out each hour by skilled machinists. Configuration management evolved in the 1950s as a systems engineering field to insure consistency in performance and physical attributes of manufactured parts. Then came robots to work the assembly lines.
+The development of replaceable parts in all realms of consumer products spurred the Industrial Revolution, and boosted the quality of life since all kinds of things became affordable to the average working-class person. Conspicuous consumption was at last within the reach of civilization … or at least, of some of it.
+“For a machine to run smoothly and predictably, its parts must be standard and hence replaceable.”
+– Charles Eisenstein
+“Many of us take better care of our automobiles than we do of our own bodies … yet the auto has replaceable parts."
+– B.J. Palmer
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Economics
+Research Cost
+Base Cost: 1250
+Science
+Boosts
+Own 3 Line Infantry.
+Progression
+Leads to Technologies
+Advanced Ballistics
+Chemistry

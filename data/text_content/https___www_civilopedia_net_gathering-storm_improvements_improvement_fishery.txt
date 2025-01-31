@@ -1,0 +1,52 @@
+Fishery - Improvements and Routes - Civilopedia - Civilization VI
+Fishery
+Description
+A
+Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Yields 1
+Food, +0.5
+Housing, +1 additional
+Food if adjacent to a sea resource. +1
+Production if in a city with a Surveyor Governor with the Aquaculture promotion. Must be built on a coastal plot.
+Historical Context
+Cultures that rely upon fishing to thrive must eventually grapple with the threat of overfishing. The more fish pulled from the sea, the less there are to create more fish.
+One tried and tested solution is the humble fishery, which rears its stock in confinement to produce a somewhat predictable amount of fish. Cultures have practiced this “sustainable aquafarming” for millennia, from ancient China’s carp fisheries to modern coastal salmon pens. Such practices work out well for all involved—except, of course, the fish.
+Traits
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from each adjacent coastal resource tile.
+Requirements
+Technology
+Sailing
+Coast and Lake
+Usage
+Built By
+Builder
+Description
+A
+Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Yields 1
+Food, +0.5
+Housing, +1 additional
+Food if adjacent to a sea resource. +1
+Production if in a city with a Surveyor Governor with the Aquaculture promotion. Must be built on a coastal plot.
+Historical Context
+Cultures that rely upon fishing to thrive must eventually grapple with the threat of overfishing. The more fish pulled from the sea, the less there are to create more fish.
+One tried and tested solution is the humble fishery, which rears its stock in confinement to produce a somewhat predictable amount of fish. Cultures have practiced this “sustainable aquafarming” for millennia, from ancient China’s carp fisheries to modern coastal salmon pens. Such practices work out well for all involved—except, of course, the fish.
+Traits
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from each adjacent coastal resource tile.
+Requirements
+Technology
+Sailing
+Coast and Lake
+Usage
+Built By
+Builder

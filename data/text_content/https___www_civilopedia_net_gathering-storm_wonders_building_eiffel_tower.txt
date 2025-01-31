@@ -1,0 +1,52 @@
+Eiffel Tower - Wonders and Projects - Civilopedia - Civilization VI
+Eiffel Tower
+Description
+All tiles in your civilization gain +2 Appeal. Must be built on flat land adjacent to the City Center.
+Historical Context
+Named after Alexandre Gustave Eiffel, whose company built the gigantic steel tower to serve as the main entrance for the 1889 Exposition Universelle (world’s fair) in Paris, the Eiffel Tower has come to symbolize the “City of Lights.” (And as garishly illuminated as the tower is at night, this seems fitting.) It was the tallest structure in the world at the time it opened to awestruck crowds, but it was also the subject of considerable controversy and criticism from self-appointed arbitrators of culture. Before it was even built a 300-member committee made up of some of the most prominent French engineers and artists dispatched a petition to the Minister of Works that opened: “We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of Paris, protest with all our strength, with all our indignation in the name of slighted French taste, against the erection … of this useless and monstrous Eiffel Tower.” Many were also upset that it was going to cost French taxpayers a million dollars – a not inconsiderable sum at the time. Luckily for the Parisian Tourism Board, the protests were ignored and up the Eiffel Tower went.
+“I ought to be jealous of the tower. She is more famous than I am.”
+– Gustave Eiffel
+Traits
+Removed if game started after
+Information Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Steel
+Adjacency
+City Center
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1620
+Production
+Description
+All tiles in your civilization gain +2 Appeal. Must be built on flat land adjacent to the City Center.
+Historical Context
+Named after Alexandre Gustave Eiffel, whose company built the gigantic steel tower to serve as the main entrance for the 1889 Exposition Universelle (world’s fair) in Paris, the Eiffel Tower has come to symbolize the “City of Lights.” (And as garishly illuminated as the tower is at night, this seems fitting.) It was the tallest structure in the world at the time it opened to awestruck crowds, but it was also the subject of considerable controversy and criticism from self-appointed arbitrators of culture. Before it was even built a 300-member committee made up of some of the most prominent French engineers and artists dispatched a petition to the Minister of Works that opened: “We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of Paris, protest with all our strength, with all our indignation in the name of slighted French taste, against the erection … of this useless and monstrous Eiffel Tower.” Many were also upset that it was going to cost French taxpayers a million dollars – a not inconsiderable sum at the time. Luckily for the Parisian Tourism Board, the protests were ignored and up the Eiffel Tower went.
+“I ought to be jealous of the tower. She is more famous than I am.”
+– Gustave Eiffel
+Traits
+Removed if game started after
+Information Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Steel
+Adjacency
+City Center
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1620
+Production

@@ -1,0 +1,70 @@
+Jet Bomber - Units - Civilopedia - Civilization VI
+Jet Bomber
+Description
+Information era Bomber upgrade.
+Historical Context
+As fighters got faster and more lethal, for a brief period jet bombers were considered necessary by Cold War air forces … until intercontinental ballistic nuclear missiles promised the ability to rain destruction on distant cities with less fuss. The United States designed the XB-70 Valkyrie, for instance, to carry nuclear warheads across the pole to Russia – only two were ever built. The B-1 Lancer was somewhat more successful; with a speed of Mach-2 it could (hopefully) outrun the nuclear blast so the crew might survive – about 100 of the B-1B version were put in service as “low-level penetrators.” But in general, the old B-52s and Soviet Su series worked just as well (although their attack would be a one-way trip), and were a lot cheaper. In modern air forces, the distinctions between bombers, fighter-bombers and fighters have blurred considerably, such that most aircraft in service today could be considered “jet bombers.”
+Traits
+Upgrade From
+Bomber
+Promotion Class: Air Bomber
+15
+Movement Points
+90
+Melee Strength
+120
+Bombard Strength
+15
+Range
+Requirements
+District
+Aerodrome
+Technology
+Stealth Technology
+Production Cost
+Base Cost: 700
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2800
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+Information era Bomber upgrade.
+Historical Context
+As fighters got faster and more lethal, for a brief period jet bombers were considered necessary by Cold War air forces … until intercontinental ballistic nuclear missiles promised the ability to rain destruction on distant cities with less fuss. The United States designed the XB-70 Valkyrie, for instance, to carry nuclear warheads across the pole to Russia – only two were ever built. The B-1 Lancer was somewhat more successful; with a speed of Mach-2 it could (hopefully) outrun the nuclear blast so the crew might survive – about 100 of the B-1B version were put in service as “low-level penetrators.” But in general, the old B-52s and Soviet Su series worked just as well (although their attack would be a one-way trip), and were a lot cheaper. In modern air forces, the distinctions between bombers, fighter-bombers and fighters have blurred considerably, such that most aircraft in service today could be considered “jet bombers.”
+Traits
+Upgrade From
+Bomber
+Promotion Class: Air Bomber
+15
+Movement Points
+90
+Melee Strength
+120
+Bombard Strength
+15
+Range
+Requirements
+District
+Aerodrome
+Technology
+Stealth Technology
+Production Cost
+Base Cost: 700
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2800
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Aluminum per turn

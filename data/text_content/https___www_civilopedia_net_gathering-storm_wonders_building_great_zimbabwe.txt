@@ -1,0 +1,64 @@
+Great Zimbabwe - Wonders and Projects - Civilopedia - Civilization VI
+Great Zimbabwe
+Description
++1
+Trade Route capacity
+Your
+Trade Routes from this city get +2
+Gold for every Bonus resource within 3 tiles of the city and in this city's territory. Must be built adjacent to a Commercial Hub district with a Market and adjacent to
+Cattle.
+Historical Context
+According to one set of legends, Great Zimbabwe was the palace complex of the Queen of Sheba. According to another set, it was where the laborers of King Solomon’s Mines – which were thought nearby by a generation of deluded treasure hunters – relaxed during their time off. In point of boring fact, it was the capital city, eventually covering some 1700 acres with a peak population of around 18 thousand, of the Kingdom of Zimbabwe which arose in 1220 AD and was gone by 1450 AD. Built entirely of stone (quite a feat in the jungle), Great Zimbabwe was soon afterward abandoned and fell into ruin. The earliest known record of the ruins is by the Portuguese officer Vicente Pegado, written in 1531. He makes mention of great walls, made of chiseled stone fitted without mortar. The ruins lie in three groupings: the Hill Complex, the Valley Complex, and the Great Enclosure, where the majority of the archaeological artifacts have been found: soapstone figurines, gold beads, copper ingots, bronze spearheads, jeweled pendants and bracelets, and much else. So, maybe those treasure hunters weren’t so deluded after all.
+“King Solomon gave the Queen of Sheba all she desired and asked for; besides what he had given her out of his royal bounty. So she turned and went to her own country, she and her servants.”
+– 1 Kings, 10:13
+Traits
+Removed if game started after
+Modern Era
++5
+Gold
++2
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Banking
+Building
+Market
+Adjacency
+Commercial Hub
+Cattle
+Production Cost
+Base Cost: 920
+Production
+Description
++1
+Trade Route capacity
+Your
+Trade Routes from this city get +2
+Gold for every Bonus resource within 3 tiles of the city and in this city's territory. Must be built adjacent to a Commercial Hub district with a Market and adjacent to
+Cattle.
+Historical Context
+According to one set of legends, Great Zimbabwe was the palace complex of the Queen of Sheba. According to another set, it was where the laborers of King Solomon’s Mines – which were thought nearby by a generation of deluded treasure hunters – relaxed during their time off. In point of boring fact, it was the capital city, eventually covering some 1700 acres with a peak population of around 18 thousand, of the Kingdom of Zimbabwe which arose in 1220 AD and was gone by 1450 AD. Built entirely of stone (quite a feat in the jungle), Great Zimbabwe was soon afterward abandoned and fell into ruin. The earliest known record of the ruins is by the Portuguese officer Vicente Pegado, written in 1531. He makes mention of great walls, made of chiseled stone fitted without mortar. The ruins lie in three groupings: the Hill Complex, the Valley Complex, and the Great Enclosure, where the majority of the archaeological artifacts have been found: soapstone figurines, gold beads, copper ingots, bronze spearheads, jeweled pendants and bracelets, and much else. So, maybe those treasure hunters weren’t so deluded after all.
+“King Solomon gave the Queen of Sheba all she desired and asked for; besides what he had given her out of his royal bounty. So she turned and went to her own country, she and her servants.”
+– 1 Kings, 10:13
+Traits
+Removed if game started after
+Modern Era
++5
+Gold
++2
+Great Merchant points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Banking
+Building
+Market
+Adjacency
+Commercial Hub
+Cattle
+Production Cost
+Base Cost: 920
+Production

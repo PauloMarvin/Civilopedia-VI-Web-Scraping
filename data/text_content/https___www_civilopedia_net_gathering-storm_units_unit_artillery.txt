@@ -1,0 +1,70 @@
+Artillery - Units - Civilopedia - Civilization VI
+Artillery
+Description
+Modern era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+Field cannons have come a long way since Gustavus Adolphus introduced them, evolving into field artillery of all sorts, small and large. In point of fact, any mechanism capable of throwing or firing a rock or shell is “artillery,” but the term is generally used to refer to large, breech-loading cannon with rifled barrels to improve accuracy. With the advances in metallurgy and industrial production available, and the Crimean War showing the deficiencies of the decrepit British cannons, a government contract was awarded to William Armstrong to design a suitable replacement. The result of his engineering was the first modern artillery piece in 1855 AD, capable of both direct and indirect fire. In 1897 the French improved on the design, producing the French 75, perhaps the most ubiquitous artillery piece in history. The guns have gotten bigger, more reliable, more accurate, more deadly – and the generals more pleased – as the years have passed since.
+Traits
+Upgrades To
+Rocket Artillery
+Upgrade From
+Bombard
+Promotion Class: Siege
+2
+Movement Points
+60
+Melee Strength
+80
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Steel
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn
+Description
+Modern era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+Field cannons have come a long way since Gustavus Adolphus introduced them, evolving into field artillery of all sorts, small and large. In point of fact, any mechanism capable of throwing or firing a rock or shell is “artillery,” but the term is generally used to refer to large, breech-loading cannon with rifled barrels to improve accuracy. With the advances in metallurgy and industrial production available, and the Crimean War showing the deficiencies of the decrepit British cannons, a government contract was awarded to William Armstrong to design a suitable replacement. The result of his engineering was the first modern artillery piece in 1855 AD, capable of both direct and indirect fire. In 1897 the French improved on the design, producing the French 75, perhaps the most ubiquitous artillery piece in history. The guns have gotten bigger, more reliable, more accurate, more deadly – and the generals more pleased – as the years have passed since.
+Traits
+Upgrades To
+Rocket Artillery
+Upgrade From
+Bombard
+Promotion Class: Siege
+2
+Movement Points
+60
+Melee Strength
+80
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Steel
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn

@@ -1,0 +1,92 @@
+Terrace Farm - Improvements and Routes - Civilopedia - Civilization VI
+Terrace Farm
+Description
+Unlocks the Builder ability to construct a Terrace Farm, unique to the Inca.
++1
+Food. Provides +1
+Housing. +1
+Food for each adjacent Mountain Tile. Gain +2
+Production for each adjacent Aqueduct district. Receive +1
+Production if adjacent to Fresh Water and not an Aqueduct district. Additional
+Food as you advance through the Civics and Technology Tree for adjacency with other Terrace Farms. Can be placed on Grassland Hills, Plains Hills, and Desert Hills.
+Historical Context
+The Incan terrace farm is one of the most sophisticated engineering works and agricultural systems developed in South America, and one whose complexities and benefits have only recently come into fuller appreciation. The Inca created arable land in a dry mountain region, capable of supporting a variety of crops and animals, and linked together to make optimal use of scarce resources and microclimate variations.
+Terrace farms have extensive irrigation canals and cisterns to move water to needed locations. The terraces provide level ground to grow crops, and the stone walls help preserve the day's heat and transfer it back to the soil at night, which mitigates crop freezing. Higher elevations were used as pastoral land for the llamas and alpacas, and different crops planted at different elevations, with the hardier crops like potatoes being raised higher. Each terrace was well-drained, and the water would flow down to help irrigate the terrace below. Lower terraces could be used to raise beans, peppers, and various gourds. The system of terrace farming produced enough surplus food that the Incas created and maintained caches of food for times of drought or disaster.
+In recent years, archaeologists and indigenous Andean communities have begun work to understand the terrace farms in the context of this agricultural system. They are rehabilitating some terraces and reintroducing some of the terrace farming techniques their Incan ancestors pioneered in order to feed a growing South American population.
+Traits
+Unique To
+Inca
++1
+Food
++1.0
+Housing
+Adjacency Bonus
++1
+Food from each adjacent Grassland (Mountain) tile.
++1
+Food from each adjacent Plains (Mountain) tile.
++1
+Food from each adjacent Desert (Mountain) tile.
++1
+Food from each adjacent Tundra (Mountain) tile.
++1
+Food from each adjacent Snow (Mountain) tile.
++1
+Food from every 2 adjacent Terrace Farm tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Terrace Farm tile.Requires Replaceable Parts.
++2
+Production from each adjacent Aqueduct tile.
+Requirements
+Volcanic Soil
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Terrace Farm, unique to the Inca.
++1
+Food. Provides +1
+Housing. +1
+Food for each adjacent Mountain Tile. Gain +2
+Production for each adjacent Aqueduct district. Receive +1
+Production if adjacent to Fresh Water and not an Aqueduct district. Additional
+Food as you advance through the Civics and Technology Tree for adjacency with other Terrace Farms. Can be placed on Grassland Hills, Plains Hills, and Desert Hills.
+Historical Context
+The Incan terrace farm is one of the most sophisticated engineering works and agricultural systems developed in South America, and one whose complexities and benefits have only recently come into fuller appreciation. The Inca created arable land in a dry mountain region, capable of supporting a variety of crops and animals, and linked together to make optimal use of scarce resources and microclimate variations.
+Terrace farms have extensive irrigation canals and cisterns to move water to needed locations. The terraces provide level ground to grow crops, and the stone walls help preserve the day's heat and transfer it back to the soil at night, which mitigates crop freezing. Higher elevations were used as pastoral land for the llamas and alpacas, and different crops planted at different elevations, with the hardier crops like potatoes being raised higher. Each terrace was well-drained, and the water would flow down to help irrigate the terrace below. Lower terraces could be used to raise beans, peppers, and various gourds. The system of terrace farming produced enough surplus food that the Incas created and maintained caches of food for times of drought or disaster.
+In recent years, archaeologists and indigenous Andean communities have begun work to understand the terrace farms in the context of this agricultural system. They are rehabilitating some terraces and reintroducing some of the terrace farming techniques their Incan ancestors pioneered in order to feed a growing South American population.
+Traits
+Unique To
+Inca
++1
+Food
++1.0
+Housing
+Adjacency Bonus
++1
+Food from each adjacent Grassland (Mountain) tile.
++1
+Food from each adjacent Plains (Mountain) tile.
++1
+Food from each adjacent Desert (Mountain) tile.
++1
+Food from each adjacent Tundra (Mountain) tile.
++1
+Food from each adjacent Snow (Mountain) tile.
++1
+Food from every 2 adjacent Terrace Farm tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Terrace Farm tile.Requires Replaceable Parts.
++2
+Production from each adjacent Aqueduct tile.
+Requirements
+Volcanic Soil
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Usage
+Built By
+Builder

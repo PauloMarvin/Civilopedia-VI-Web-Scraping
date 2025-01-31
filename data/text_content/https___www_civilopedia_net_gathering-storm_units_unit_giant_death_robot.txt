@@ -1,0 +1,68 @@
+Giant Death Robot - Units - Civilopedia - Civilization VI
+Giant Death Robot
+Description
+Information Era Super-Unit. Able to move and fight in water. Resistant to Weapons of Mass Destruction. Combat abilities can be upgraded by researching future technologies.
+Historical Context
+Almost no one calls them Gunnery Deployment Rigs, because pop culture anticipated the rise of the bipedal combat platform for more than fifty years prior to the first operational deployment of a GDR, and has given them dozens of evocative names: Mechs, walkers, Giant Death Robots, and so forth. There is something psychologically affecting about seeing one stride across the landscape—reassuring for friendly forces, and terrifying for enemies. There is a certain purity to the GDR, a recapitulation of the human form, as well as an improvement on it.
+The GDR is not a stealthy weapon, but it is an effective one. The use of a roughly-human anatomy allows pilots a more intuitive grasp of the weapon and defensive systems, and allows motion feedback systems to tap into human locomotion to assist. Indeed, some people regard the locomotion controls of the GDR to be the most impressive advancement in the entire system.
+Traits
+Promotion Class: GDR
+5
+Movement Points
+130
+Melee Strength
+120
+Ranged Strength
+90
+Anti-air Strength
+3
+Range
+Requirements
+Technology
+Robotics
+Production Cost
+Base Cost: 1500
+Production
+Base Resource Cost: 1
+Uranium (on Standard Speed)
+Purchase Cost
+Base Cost: 6000
+Gold
+Maintenance Cost
+Base Cost: 15
+Gold
+Consumes: 3
+Uranium per turn
+Description
+Information Era Super-Unit. Able to move and fight in water. Resistant to Weapons of Mass Destruction. Combat abilities can be upgraded by researching future technologies.
+Historical Context
+Almost no one calls them Gunnery Deployment Rigs, because pop culture anticipated the rise of the bipedal combat platform for more than fifty years prior to the first operational deployment of a GDR, and has given them dozens of evocative names: Mechs, walkers, Giant Death Robots, and so forth. There is something psychologically affecting about seeing one stride across the landscape—reassuring for friendly forces, and terrifying for enemies. There is a certain purity to the GDR, a recapitulation of the human form, as well as an improvement on it.
+The GDR is not a stealthy weapon, but it is an effective one. The use of a roughly-human anatomy allows pilots a more intuitive grasp of the weapon and defensive systems, and allows motion feedback systems to tap into human locomotion to assist. Indeed, some people regard the locomotion controls of the GDR to be the most impressive advancement in the entire system.
+Traits
+Promotion Class: GDR
+5
+Movement Points
+130
+Melee Strength
+120
+Ranged Strength
+90
+Anti-air Strength
+3
+Range
+Requirements
+Technology
+Robotics
+Production Cost
+Base Cost: 1500
+Production
+Base Resource Cost: 1
+Uranium (on Standard Speed)
+Purchase Cost
+Base Cost: 6000
+Gold
+Maintenance Cost
+Base Cost: 15
+Gold
+Consumes: 3
+Uranium per turn

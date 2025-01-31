@@ -1,0 +1,64 @@
+Sukiennice - Buildings - Civilopedia - Civilization VI
+Sukiennice
+Description
+A building unique to Poland. International
+Trade Routes from this city gain +2
+Production; domestic
+Trade Routes gain +4
+Gold. +1
+Trade Route capacity, if this city does not yet have a Lighthouse building.
+Historical Context
+Thanks to its location between Europe and Russia, Poland’s cities were vibrant with trade, as exemplified by the cloth halls (known as sukiennice in Polish) located in the great cities of the realm. It contained trading stalls, where vendors sold cloth, leather goods, wax, salt, peppers, spices, and silk from the Far East, indeed all sorts of exports and imports. Usually built in the center of towns, these were international marketplaces, larger and more magnificent than the run-of-the-mill markets scattered about Europe. In the halls and porticos, traders from dozens of lands made deals, and the locals—those who could afford it—found all the luxuries they could desire. In Poland, the oldest and largest was the Sukiennice of Krakow, rebuilt in the Renaissance style in 1555 AD after a fire. It was an important center for international trade between West and East until the end of the 16th Century (today its stalls sell snacks and souvenirs to tourists). But the cloth hall was also vital in other Polish cities, doing a booming trade in places such as Poznan, Wroclaw, and Torun.
+Traits
+Unique To
+Poland
+Replaces
+Market
++2
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Currency
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Description
+A building unique to Poland. International
+Trade Routes from this city gain +2
+Production; domestic
+Trade Routes gain +4
+Gold. +1
+Trade Route capacity, if this city does not yet have a Lighthouse building.
+Historical Context
+Thanks to its location between Europe and Russia, Poland’s cities were vibrant with trade, as exemplified by the cloth halls (known as sukiennice in Polish) located in the great cities of the realm. It contained trading stalls, where vendors sold cloth, leather goods, wax, salt, peppers, spices, and silk from the Far East, indeed all sorts of exports and imports. Usually built in the center of towns, these were international marketplaces, larger and more magnificent than the run-of-the-mill markets scattered about Europe. In the halls and porticos, traders from dozens of lands made deals, and the locals—those who could afford it—found all the luxuries they could desire. In Poland, the oldest and largest was the Sukiennice of Krakow, rebuilt in the Renaissance style in 1555 AD after a fire. It was an important center for international trade between West and East until the end of the 16th Century (today its stalls sell snacks and souvenirs to tourists). But the cloth hall was also vital in other Polish cities, doing a booming trade in places such as Poznan, Wroclaw, and Torun.
+Traits
+Unique To
+Poland
+Replaces
+Market
++2
+Gold
++1
+Citizen slot
++1
+Great Merchant point per turn.
+Requirements
+District
+Commercial Hub
+Technology
+Currency
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold

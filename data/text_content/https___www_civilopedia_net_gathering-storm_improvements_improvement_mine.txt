@@ -1,0 +1,90 @@
+Mine - Improvements and Routes - Civilopedia - Civilization VI
+Mine
+Description
+Unlocks the Builder ability to construct Mines.
++1
+Production. -1 Appeal. Can be built on hills or valid resources.
+If built on Luxury or Strategic resources, the city will gain use of that resource.
+Historical Context
+The extraction of valuable (or sometimes not so valuable) minerals is as much part of civilization as farming or making war. Even in “pre-historic” times, the Neolithic hunter-gatherers dug flint out of seams, creating mines such as those at Grimes Graves (c. 4000 BC). The Egyptians mined malachite, the Greeks silver, the Romans tin and lead, and every civilization since has found something in the earth they needed or wanted. Most of the work until the Industrial Revolution was done by hand, whether the mining was an open pit or underground tunnel, by slaves or wage-slaves using picks and shovels and hammers. Some of civilization's first great corporations were mining concerns, and prospectors pushed the frontiers ever outward. Today, machines do all the hard work – the prospecting and mining and refining. So efficient are they at stripping out everything valuable and moving on that there are currently upwards of 560 thousand abandoned mines in the United States alone.
+Traits
++1
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Apprenticeship)
++1
+Production (requires Industrialization)
++1
+Production (requires Smart Materials)
+Adjacency Bonus
++1
+Science from each adjacent Seowon tile.
+Requirements
+Technology
+Mining
+Volcanic Soil
+Copper
+Diamonds
+Jade
+Mercury
+Salt
+Silver
+Aluminum
+Coal
+Iron
+Niter
+Uranium
+Amber
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Mines.
++1
+Production. -1 Appeal. Can be built on hills or valid resources.
+If built on Luxury or Strategic resources, the city will gain use of that resource.
+Historical Context
+The extraction of valuable (or sometimes not so valuable) minerals is as much part of civilization as farming or making war. Even in “pre-historic” times, the Neolithic hunter-gatherers dug flint out of seams, creating mines such as those at Grimes Graves (c. 4000 BC). The Egyptians mined malachite, the Greeks silver, the Romans tin and lead, and every civilization since has found something in the earth they needed or wanted. Most of the work until the Industrial Revolution was done by hand, whether the mining was an open pit or underground tunnel, by slaves or wage-slaves using picks and shovels and hammers. Some of civilization's first great corporations were mining concerns, and prospectors pushed the frontiers ever outward. Today, machines do all the hard work – the prospecting and mining and refining. So efficient are they at stripping out everything valuable and moving on that there are currently upwards of 560 thousand abandoned mines in the United States alone.
+Traits
++1
+Production
+Appeal to Adjacent Tiles: -1
++1
+Production (requires Apprenticeship)
++1
+Production (requires Industrialization)
++1
+Production (requires Smart Materials)
+Adjacency Bonus
++1
+Science from each adjacent Seowon tile.
+Requirements
+Technology
+Mining
+Volcanic Soil
+Copper
+Diamonds
+Jade
+Mercury
+Salt
+Silver
+Aluminum
+Coal
+Iron
+Niter
+Uranium
+Amber
+Grassland (Hills)
+Plains (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

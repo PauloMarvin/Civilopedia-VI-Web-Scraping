@@ -1,0 +1,70 @@
+Frigate - Units - Civilopedia - Civilization VI
+Frigate
+Description
+Renaissance era ranged naval unit.
+Historical Context
+Over the centuries the frigate has evolved from a square-rigged three-master in the 1700s too small to stand in the line-of-battle to the fast guided-missile toting warship, nimble enough to avoid the really big ships. But the role of the frigate in naval warfare hasn’t changed: patrol and/or escort duties. The British Royal Navy declared a frigate to be any full-rigged “rated ship” carrying at least 28 guns on a single continuous deck; but despite the Admiralty’s best efforts to define a “frigate,” these came in all sizes and configurations, even ironclads by the mid-1800s. Modern “frigates” are frigates in name only; commencing with WW2, the label was applied to anything smaller than a destroyer. The introduction of missiles to modern naval warfare made frigates even more lethal, and cost-effective. Why build a blundering great battleship, or even a cruiser or destroyer, when a “cheap” frigate would do?
+Traits
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Dromon
+Promotion Class: Naval Ranged
+4
+Movement Points
+45
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Square Rigging
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Renaissance era ranged naval unit.
+Historical Context
+Over the centuries the frigate has evolved from a square-rigged three-master in the 1700s too small to stand in the line-of-battle to the fast guided-missile toting warship, nimble enough to avoid the really big ships. But the role of the frigate in naval warfare hasn’t changed: patrol and/or escort duties. The British Royal Navy declared a frigate to be any full-rigged “rated ship” carrying at least 28 guns on a single continuous deck; but despite the Admiralty’s best efforts to define a “frigate,” these came in all sizes and configurations, even ironclads by the mid-1800s. Modern “frigates” are frigates in name only; commencing with WW2, the label was applied to anything smaller than a destroyer. The introduction of missiles to modern naval warfare made frigates even more lethal, and cost-effective. Why build a blundering great battleship, or even a cruiser or destroyer, when a “cheap” frigate would do?
+Traits
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Dromon
+Promotion Class: Naval Ranged
+4
+Movement Points
+45
+Melee Strength
+55
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Square Rigging
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

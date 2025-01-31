@@ -1,0 +1,80 @@
+Ice Hockey Rink - Improvements and Routes - Civilopedia - Civilization VI
+Ice Hockey Rink
+Description
+Unlocks the Builder ability to construct an Ice Hockey Rink, unique to Canada.
++1
+Amenity. +1
+Culture for each adjacent Tundra, Tundra Hills, Snow, and Snow Hills tile. Provides
+Tourism from Culture once Flight is unlocked. +2
+Food and
+Production once the Professional Sports civic is unlocked. +4
+Culture if adjacent to a Stadium building. Can be built on Tundra, Tundra Hills, Snow, and Snow Hills. One per city. +2 Appeal.
+Historical Context
+There's nothing quite as satisfying as a game of ice hockey on a frozen pond on a sunny and cold winter day. Except sometimes the pond ice is uneven. Spectators can't always comfortably see what's going on. Bright and sunny winter days are subject to the vagaries of the weather. Organs are difficult to set up and take down between games. So there's really nothing quite as satisfying as a place that addresses some of those problems: The ice hockey rink.
+The skating craze at the end of the 19th Century led to a boom in rink construction. The first organized indoor hockey game was at the Victoria Skating Rink in Montreal in 1875. Since then, ice quality has improved due to improvements in ice formation chemistry and the domestication of the wild Zamboni. Amenities at the rink have improved as well to ensure fans have food and drink and boards to protect from errant pucks.
+Traits
+Unique To
+Canada
+Appeal to Adjacent Tiles: 2
++2
+Production (requires Professional Sports)
++2
+Food (requires Professional Sports)
+Adjacency Bonus
++1
+Culture from each adjacent Tundra tile.
++1
+Culture from each adjacent Tundra (Hills) tile.
++1
+Culture from each adjacent Snow tile.
++1
+Culture from each adjacent Snow (Hills) tile.
+Requirements
+Civic
+Colonialism
+Tundra
+Snow
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Ice Hockey Rink, unique to Canada.
++1
+Amenity. +1
+Culture for each adjacent Tundra, Tundra Hills, Snow, and Snow Hills tile. Provides
+Tourism from Culture once Flight is unlocked. +2
+Food and
+Production once the Professional Sports civic is unlocked. +4
+Culture if adjacent to a Stadium building. Can be built on Tundra, Tundra Hills, Snow, and Snow Hills. One per city. +2 Appeal.
+Historical Context
+There's nothing quite as satisfying as a game of ice hockey on a frozen pond on a sunny and cold winter day. Except sometimes the pond ice is uneven. Spectators can't always comfortably see what's going on. Bright and sunny winter days are subject to the vagaries of the weather. Organs are difficult to set up and take down between games. So there's really nothing quite as satisfying as a place that addresses some of those problems: The ice hockey rink.
+The skating craze at the end of the 19th Century led to a boom in rink construction. The first organized indoor hockey game was at the Victoria Skating Rink in Montreal in 1875. Since then, ice quality has improved due to improvements in ice formation chemistry and the domestication of the wild Zamboni. Amenities at the rink have improved as well to ensure fans have food and drink and boards to protect from errant pucks.
+Traits
+Unique To
+Canada
+Appeal to Adjacent Tiles: 2
++2
+Production (requires Professional Sports)
++2
+Food (requires Professional Sports)
+Adjacency Bonus
++1
+Culture from each adjacent Tundra tile.
++1
+Culture from each adjacent Tundra (Hills) tile.
++1
+Culture from each adjacent Snow tile.
++1
+Culture from each adjacent Snow (Hills) tile.
+Requirements
+Civic
+Colonialism
+Tundra
+Snow
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,100 @@
+Oppidum - Districts - Civilopedia - Civilization VI
+Oppidum
+Description
+A district unique to Gaul that is cheaper and available earlier than the district it replaces, the Industrial Zone. The Oppidum district is defensible with a ranged attack. When the first Oppidum is constructed the Apprenticeship technology is unlocked.
++2
+Production adjacency bonus from Quarries and strategic resources.
+Historical Context
+Oppidum simple means “settlement” in Latin, but in practice it referred to a walled urban settlement of a small town in Rome’s provinces – especially Gaul, and as such marks the first real cities in Europe north of the Alps. A classic oppidum was a combination of city and fort. Previously, citizens lived outside of protective walls, whereas armed soldiers or nobles had a hill fort: a high, fortified position. With an oppidum, economic and productive activity could occur in relative safety even with enemies nearly. The walls, too, made a separation between city-dwellers and rural residents, and allowed the former to feel a little sense of superiority over the latter, even if these “cities” were quite small by our – or even Roman – standards.
+Traits
+Unique To
+Gaul
+Replaces
+Industrial Zone
++1
+Great Engineer point per turn.
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++1
+Production from each adjacent Government Plaza tile.
++2
+Production from each adjacent Quarry tile.
++2
+Production from each adjacent Strategic Resource tile.
++2
+Production from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Coal Power Plant
+Factory
+Oil Power Plant
+Nuclear Power Plant
+Workshop
+Description
+A district unique to Gaul that is cheaper and available earlier than the district it replaces, the Industrial Zone. The Oppidum district is defensible with a ranged attack. When the first Oppidum is constructed the Apprenticeship technology is unlocked.
++2
+Production adjacency bonus from Quarries and strategic resources.
+Historical Context
+Oppidum simple means “settlement” in Latin, but in practice it referred to a walled urban settlement of a small town in Rome’s provinces – especially Gaul, and as such marks the first real cities in Europe north of the Alps. A classic oppidum was a combination of city and fort. Previously, citizens lived outside of protective walls, whereas armed soldiers or nobles had a hill fort: a high, fortified position. With an oppidum, economic and productive activity could occur in relative safety even with enemies nearly. The walls, too, made a separation between city-dwellers and rural residents, and allowed the former to feel a little sense of superiority over the latter, even if these “cities” were quite small by our – or even Roman – standards.
+Traits
+Unique To
+Gaul
+Replaces
+Industrial Zone
++1
+Great Engineer point per turn.
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++1
+Production from each adjacent Government Plaza tile.
++2
+Production from each adjacent Quarry tile.
++2
+Production from each adjacent Strategic Resource tile.
++2
+Production from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Coal Power Plant
+Factory
+Oil Power Plant
+Nuclear Power Plant
+Workshop

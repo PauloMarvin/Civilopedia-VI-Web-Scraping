@@ -1,0 +1,70 @@
+Khevsur - Units - Civilopedia - Civilization VI
+Khevsur
+Description
+Georgian unique Medieval Era unit that replaces the Man-At-Arms. +7
+Combat Strength bonus when fighting in hill terrain. No
+Movement penalty in hill terrain.
+Historical Context
+The warriors from Georgia’s Khevsureti territory maintained their traditions for countless generations. (Until the early 20th Century, they continued to fight with weapons and armor more suited to medieval times.) These fierce Georgians dressed in chainmail and carried swords, axes, and small, black bucklers adorned with crosses for nighttime raids—due to the shield’s color, the warriors were practically invisible in the moonlight. Though tradition was their watchword, they did adapt with the times, incorporating firearms as their importance on the battlefield became unmistakable.
+Traits
+Unique To
+Georgia
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Promotion Class: Melee
+2
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Georgian unique Medieval Era unit that replaces the Man-At-Arms. +7
+Combat Strength bonus when fighting in hill terrain. No
+Movement penalty in hill terrain.
+Historical Context
+The warriors from Georgia’s Khevsureti territory maintained their traditions for countless generations. (Until the early 20th Century, they continued to fight with weapons and armor more suited to medieval times.) These fierce Georgians dressed in chainmail and carried swords, axes, and small, black bucklers adorned with crosses for nighttime raids—due to the shield’s color, the warriors were practically invisible in the moonlight. Though tradition was their watchword, they did adapt with the times, incorporating firearms as their importance on the battlefield became unmistakable.
+Traits
+Unique To
+Georgia
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Promotion Class: Melee
+2
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

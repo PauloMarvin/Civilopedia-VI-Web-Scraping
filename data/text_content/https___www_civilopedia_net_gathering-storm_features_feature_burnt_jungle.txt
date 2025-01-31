@@ -1,0 +1,16 @@
+Burnt Rainforest - Terrains and Features - Civilopedia - Civilization VI
+Burnt Rainforest
+Description
+A rainforest regrowing after a fire.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
+Description
+A rainforest regrowing after a fire.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3

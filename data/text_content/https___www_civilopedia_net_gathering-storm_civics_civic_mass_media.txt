@@ -1,0 +1,48 @@
+Mass Media - Civics - Civilopedia - Civilization VI
+Mass Media
+Historical Context
+The “mass media” (as a collective) is essentially an Industrial era phenomenon, although some historians stubbornly argue that it began when Gutenberg rolled his press. The growth of the commercial printing industry in 18th Century London – centered around the publishers on Grub Street – is a more reasonable start, for it was here that cheap copies of penny-dreadfuls, erotic novels and tabloid weeklies were reproduced by the thousands on steam-presses. These were sold to a growing audience of rudimentary readers, spawned by a new public education system and crammed into an urban environment with few leisure escapes; supported by these masses, publishing no longer depended on the refined tastes of the aristocracy, wealthy and clergy for profits.
+As the Industrial Age morphed into the Modern, a number of revolutionary technologies brought new ways of pandering to media consumers. Photography was developed in the 1820s, and methods for reproducing images in print improved throughout the century, making magazines and newspapers even more appealing to a barely-literate public. The telegraph, invented in the 1830s and in widespread use by the 1850s, revolutionized both personal communication as well as the newspaper trade, as news really was now “new.” The penny press could, through a continuous stream of telegraph cables, bring the doings (and advertising) of the region, the nation and – after the completion of the 1863 trans-Atlantic cable – the world to one’s door.
+Photography led to motion pictures, and the movie industry grew to supply escapist fare to anyone with a dime in their pocket and a couple of hours to kill. By 1927 sound had been added to the flickering images, and the world underwent an entertainment explosion. For personal communication, Bell’s little gizmo intended to replace the telegraph, his “telephone,” put everyone in touch, everywhere, all the time. Wireless telegraphy also eventually led to the radio, and “commercial” radio became the first broadcast mass medium, beaming music, news and advertising right into the home. Soon, television, which spread with incredible speed in the 1950s, evolved into the greatest time-devourer of all … until, that is, video games and the Internet joined the ranks of the mass media.
+“The effect of the mass media is not to elicit belief but to maintain the apparatus of addiction.”
+– Christopher Lasch
+"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed."
+-Mark Twain
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Natural History
+Urbanization
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Research Radio.
+Progression
+Leads to Civics
+Capitalism
+Ideology
+Historical Context
+The “mass media” (as a collective) is essentially an Industrial era phenomenon, although some historians stubbornly argue that it began when Gutenberg rolled his press. The growth of the commercial printing industry in 18th Century London – centered around the publishers on Grub Street – is a more reasonable start, for it was here that cheap copies of penny-dreadfuls, erotic novels and tabloid weeklies were reproduced by the thousands on steam-presses. These were sold to a growing audience of rudimentary readers, spawned by a new public education system and crammed into an urban environment with few leisure escapes; supported by these masses, publishing no longer depended on the refined tastes of the aristocracy, wealthy and clergy for profits.
+As the Industrial Age morphed into the Modern, a number of revolutionary technologies brought new ways of pandering to media consumers. Photography was developed in the 1820s, and methods for reproducing images in print improved throughout the century, making magazines and newspapers even more appealing to a barely-literate public. The telegraph, invented in the 1830s and in widespread use by the 1850s, revolutionized both personal communication as well as the newspaper trade, as news really was now “new.” The penny press could, through a continuous stream of telegraph cables, bring the doings (and advertising) of the region, the nation and – after the completion of the 1863 trans-Atlantic cable – the world to one’s door.
+Photography led to motion pictures, and the movie industry grew to supply escapist fare to anyone with a dime in their pocket and a couple of hours to kill. By 1927 sound had been added to the flickering images, and the world underwent an entertainment explosion. For personal communication, Bell’s little gizmo intended to replace the telegraph, his “telephone,” put everyone in touch, everywhere, all the time. Wireless telegraphy also eventually led to the radio, and “commercial” radio became the first broadcast mass medium, beaming music, news and advertising right into the home. Soon, television, which spread with incredible speed in the 1950s, evolved into the greatest time-devourer of all … until, that is, video games and the Internet joined the ranks of the mass media.
+“The effect of the mass media is not to elicit belief but to maintain the apparatus of addiction.”
+– Christopher Lasch
+"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed."
+-Mark Twain
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Natural History
+Urbanization
+Culture Cost
+Base Cost: 1540
+Culture
+Boosts
+Research Radio.
+Progression
+Leads to Civics
+Capitalism
+Ideology

@@ -1,0 +1,14 @@
+Formations - Concepts - Civilopedia - Civilization VI
+Formations
+Formations
+Formations allow you to easily move units together. This can be useful for escorting civilian units in hostile lands, or even creating stronger units in Corps and Armies. A military unit can create a formation with a support or civilian unit at any time. Naval military units may also create a formation with embarked land units. Support units, such as siege units, are most effective in battle when linked with another military unit.
+Starting in the Industrial era after completing the Nationalism civic, players will be able to unlock the ability to combine multiple military units of the same type into a single stronger unit. Two military units of the same type will be able to combine to create a Corps, giving them +10 to their base
+Combat Strength. After researching Mobilization, three units of the same type may be combined into an Army, giving +7 to their base
+Combat Strength. Keep in mind that their HP is NOT increased when units are combined in this way.
+Once a Corps or Army has been formed, the units may not be broken apart into individual units again. The experience and promotions of the highest experience unit is preserved when creating this type of formation, so it is beneficial to combine rookies with more experienced units. Naval units may also be combined into Fleets and Armadas.
+Formations
+Formations allow you to easily move units together. This can be useful for escorting civilian units in hostile lands, or even creating stronger units in Corps and Armies. A military unit can create a formation with a support or civilian unit at any time. Naval military units may also create a formation with embarked land units. Support units, such as siege units, are most effective in battle when linked with another military unit.
+Starting in the Industrial era after completing the Nationalism civic, players will be able to unlock the ability to combine multiple military units of the same type into a single stronger unit. Two military units of the same type will be able to combine to create a Corps, giving them +10 to their base
+Combat Strength. After researching Mobilization, three units of the same type may be combined into an Army, giving +7 to their base
+Combat Strength. Keep in mind that their HP is NOT increased when units are combined in this way.
+Once a Corps or Army has been formed, the units may not be broken apart into individual units again. The experience and promotions of the highest experience unit is preserved when creating this type of formation, so it is beneficial to combine rookies with more experienced units. Naval units may also be combined into Fleets and Armadas.

@@ -1,0 +1,54 @@
+Meenakshi Temple - Wonders and Projects - Civilopedia - Civilization VI
+Meenakshi Temple
+Description
+Grants 2 Gurus. Gurus are 30% cheaper to purchase. Religious units adjacent to Gurus receive +5
+Religious Strength in Theological Combat and +1
+Movement. Must be built adjacent to a Holy Site and you must have founded a Religion.
+Historical Context
+The Meenakshi Amman Temple dates back to the first century and is one of the oldest temples in India, still receiving thousands of visitors daily. Devoted to the goddess Meenakshi, a representation of love and fertility, this colorful complex spans 14 acres and is composed of tall walls, various shrines, 14 Gopurams (ornate gatehouse towers), and several Manapams (pillared halls).
+Brightly painted ceilings and stone carvings can be throughout the complex, but it is perhaps the thousands of vibrant stone statues lining the towers that have become most iconic. These small sculptures depict moments from Hindu stories – gods, demons, heroes, and animals. Every twelve years, these works are repainted and repaired.
+The Temple is host to private prayer and meditation, as well as monthly festivals throughout the year.
+“We greet you, Devi Meenakshi, she who shines like a thousand-million suns, adorned with bracelets and garlands... She who is auspicious, she who embodies existence. I always bow to you, whose compassion is an ocean.”
+- Adi Shankara
+Traits
+Removed if game started after
+Industrial Era
++3
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Civil Service
+Must have founded a religion
+Adjacency
+Holy Site
+Production Cost
+Base Cost: 710
+Production
+Description
+Grants 2 Gurus. Gurus are 30% cheaper to purchase. Religious units adjacent to Gurus receive +5
+Religious Strength in Theological Combat and +1
+Movement. Must be built adjacent to a Holy Site and you must have founded a Religion.
+Historical Context
+The Meenakshi Amman Temple dates back to the first century and is one of the oldest temples in India, still receiving thousands of visitors daily. Devoted to the goddess Meenakshi, a representation of love and fertility, this colorful complex spans 14 acres and is composed of tall walls, various shrines, 14 Gopurams (ornate gatehouse towers), and several Manapams (pillared halls).
+Brightly painted ceilings and stone carvings can be throughout the complex, but it is perhaps the thousands of vibrant stone statues lining the towers that have become most iconic. These small sculptures depict moments from Hindu stories – gods, demons, heroes, and animals. Every twelve years, these works are repainted and repaired.
+The Temple is host to private prayer and meditation, as well as monthly festivals throughout the year.
+“We greet you, Devi Meenakshi, she who shines like a thousand-million suns, adorned with bracelets and garlands... She who is auspicious, she who embodies existence. I always bow to you, whose compassion is an ocean.”
+- Adi Shankara
+Traits
+Removed if game started after
+Industrial Era
++3
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Civil Service
+Must have founded a religion
+Adjacency
+Holy Site
+Production Cost
+Base Cost: 710
+Production

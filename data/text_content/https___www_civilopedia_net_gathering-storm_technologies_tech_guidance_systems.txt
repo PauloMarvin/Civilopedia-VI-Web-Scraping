@@ -1,0 +1,48 @@
+Guidance Systems - Technologies - Civilopedia - Civilization VI
+Guidance Systems
+Historical Context
+With the advent of rocketry, it became rather important not to get lost when launching a nuclear-tipped missile at the enemy or shooting a man into space. A compass and a sextant just wouldn’t serve any longer, not if you wanted to hit your target. So, if going ballistic, a guidance system was needed. And since the computations were too complicated for mere mortals, getting something to arrive where and when intended was turned over to machines.
+Guidance systems demand three sub-systems: input, processing, and output. Input devices include sensors, course data from radio and satellite links, radar, visual cameras and such. Processing is generally done with both onboard and ground-based central processing units, which determines such things as course, trajectory, velocity, etc. Output is the adjustments made to speed (via fuel pumps, engine operation, cooling systems) and course (ailerons, rudders, weight distribution). Since, in general, the rocket isn’t coming back, these systems can be fairly cheap and simple (save, perhaps for the onboard CPUs).
+The American Robert Goddard and, separately, the German team developing the V-2 rocket both experimented with simple gyroscopic guidance systems … which sort of worked. After the war, with its collection of some 500 German aerospace scientists led by von Braun, American research on self-contained guidance systems was concentrated at Caltech, MIT and the NASA Jet Propulsion Lab. Their combined efforts led to the unreliable “Delta” system, which assessed the difference in position constantly from a reference trajectory; the problems were overcome with the “Q-system” in 1956 AD. So successful was it for nuclear missiles that the Q-system was classified throughout the 1960s, and is still used for many military weapons.
+However, it was the “space race” that brought guidance systems to true efficiency. In August 1961 NASA awarded MIT a contract for the design of a guidance and navigation system for the Apollo program. The result was the ancestor to the PEG4 (“powered explicit guidance”) system used for the American shuttle program and most other space launches. Meanwhile, the global positioning system was being developed in tandem by the U.S. military so they could keep their shiny ICBMs on target. GPS was eventually commercialized, and now helps keep Dad from getting lost on the way to the mall.
+“If you do not change direction, you may end up where you were heading.”
+– Lao Tzu
+“I love watching my mom argue with the GPS on the way home.”
+– Isabelle Fuhrman
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Rocketry
+Advanced Ballistics
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Kill a Fighter.
+Progression
+Leads to Technologies
+Robotics
+Historical Context
+With the advent of rocketry, it became rather important not to get lost when launching a nuclear-tipped missile at the enemy or shooting a man into space. A compass and a sextant just wouldn’t serve any longer, not if you wanted to hit your target. So, if going ballistic, a guidance system was needed. And since the computations were too complicated for mere mortals, getting something to arrive where and when intended was turned over to machines.
+Guidance systems demand three sub-systems: input, processing, and output. Input devices include sensors, course data from radio and satellite links, radar, visual cameras and such. Processing is generally done with both onboard and ground-based central processing units, which determines such things as course, trajectory, velocity, etc. Output is the adjustments made to speed (via fuel pumps, engine operation, cooling systems) and course (ailerons, rudders, weight distribution). Since, in general, the rocket isn’t coming back, these systems can be fairly cheap and simple (save, perhaps for the onboard CPUs).
+The American Robert Goddard and, separately, the German team developing the V-2 rocket both experimented with simple gyroscopic guidance systems … which sort of worked. After the war, with its collection of some 500 German aerospace scientists led by von Braun, American research on self-contained guidance systems was concentrated at Caltech, MIT and the NASA Jet Propulsion Lab. Their combined efforts led to the unreliable “Delta” system, which assessed the difference in position constantly from a reference trajectory; the problems were overcome with the “Q-system” in 1956 AD. So successful was it for nuclear missiles that the Q-system was classified throughout the 1960s, and is still used for many military weapons.
+However, it was the “space race” that brought guidance systems to true efficiency. In August 1961 NASA awarded MIT a contract for the design of a guidance and navigation system for the Apollo program. The result was the ancestor to the PEG4 (“powered explicit guidance”) system used for the American shuttle program and most other space launches. Meanwhile, the global positioning system was being developed in tandem by the U.S. military so they could keep their shiny ICBMs on target. GPS was eventually commercialized, and now helps keep Dad from getting lost on the way to the mall.
+“If you do not change direction, you may end up where you were heading.”
+– Lao Tzu
+“I love watching my mom argue with the GPS on the way home.”
+– Isabelle Fuhrman
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Rocketry
+Advanced Ballistics
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Kill a Fighter.
+Progression
+Leads to Technologies
+Robotics

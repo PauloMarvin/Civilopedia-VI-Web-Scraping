@@ -1,0 +1,52 @@
+Caguana - City-States - Civilopedia - Civilization VI
+Caguana
+Unique Ability
+Cultural City-State
+1
+Envoy: +2
+Culture in the
+Capital.
+3
+Envoys: +2
+Culture in every Amphitheater building.
+6
+Envoys: +2
+Culture in every Art Museum and Archeological Museum building.
+Caguana Suzerain Bonus
+Your Builders can now make Batey improvements.
++1
+Culture. +1
+Culture for every adjacent Bonus resource and Entertainment Complex (increased to +2
+Culture when Exploration is discovered). Provides
+Tourism after researching Flight. Cannot be built adjacent to another Batey.
+Historical Context
+When Columbus sailed to the Caribbean, the first people that he encountered were the Taino, a group of agricultural people living on what is now Puerto Rico, Hispaniola, and Cuba. The Taino were a matrilineal society – they reckoned descent from the mother’s line – and Taino women and men lived in separate communities. They lived in constant tension with the more warlike Caribs (from whom we get the word "Caribbean"), who would occasionally raid Taino settlements by canoe, but despite this, the Taino managed to build a thriving society with a distinct noble class, complex religion, and sports.
+Archaeologists estimate that when Columbus landed, there were perhaps two million Taino living in the area. But this number would plummet as a mixture of disease, enslavement, and warfare devastated the Taino. The Spanish priest Bartolome de las Casas, writing just over a decade after Columbus’s arrival, estimated that three million people died in the intervening years. "Who in future generations would believe this?" he wondered.
+The site of Caguana, a significant center for the Taino people, lies in central Puerto Rico. It contains near thirty ball courts – arenas where the Mesoamerican ball game was played. In addition, carved stones covered in petroglyphs attest to the site’s significance for the Taino, who associated the nearby mountains with their gods. At its height in the 1200s, Caguana would have been a site of religious festivities, astronomical observations, and sports – activities that were likely linked for the Taino. It remains a cultural heritage site for Puerto Rico.
+City-State Type
+Cultural
+City-State Type
+Cultural
+Unique Ability
+Cultural City-State
+1
+Envoy: +2
+Culture in the
+Capital.
+3
+Envoys: +2
+Culture in every Amphitheater building.
+6
+Envoys: +2
+Culture in every Art Museum and Archeological Museum building.
+Caguana Suzerain Bonus
+Your Builders can now make Batey improvements.
++1
+Culture. +1
+Culture for every adjacent Bonus resource and Entertainment Complex (increased to +2
+Culture when Exploration is discovered). Provides
+Tourism after researching Flight. Cannot be built adjacent to another Batey.
+Historical Context
+When Columbus sailed to the Caribbean, the first people that he encountered were the Taino, a group of agricultural people living on what is now Puerto Rico, Hispaniola, and Cuba. The Taino were a matrilineal society – they reckoned descent from the mother’s line – and Taino women and men lived in separate communities. They lived in constant tension with the more warlike Caribs (from whom we get the word "Caribbean"), who would occasionally raid Taino settlements by canoe, but despite this, the Taino managed to build a thriving society with a distinct noble class, complex religion, and sports.
+Archaeologists estimate that when Columbus landed, there were perhaps two million Taino living in the area. But this number would plummet as a mixture of disease, enslavement, and warfare devastated the Taino. The Spanish priest Bartolome de las Casas, writing just over a decade after Columbus’s arrival, estimated that three million people died in the intervening years. "Who in future generations would believe this?" he wondered.
+The site of Caguana, a significant center for the Taino people, lies in central Puerto Rico. It contains near thirty ball courts – arenas where the Mesoamerican ball game was played. In addition, carved stones covered in petroglyphs attest to the site’s significance for the Taino, who associated the nearby mountains with their gods. At its height in the 1200s, Caguana would have been a site of religious festivities, astronomical observations, and sports – activities that were likely linked for the Taino. It remains a cultural heritage site for Puerto Rico.

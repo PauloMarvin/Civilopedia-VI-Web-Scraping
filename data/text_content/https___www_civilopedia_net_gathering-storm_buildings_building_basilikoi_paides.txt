@@ -1,0 +1,76 @@
+Basilikoi Paides - Buildings - Civilopedia - Civilization VI
+Basilikoi Paides
+Description
+A building unique to Macedon.+25% combat experience for all melee, ranged land units, and Hetairoi trained in this city. Gain
+Science equal to 25% of the unit's cost when a non civilian unit is created in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Stable.
+Historical Context
+The basilikoi paides (roughly “royal page school”) was a long-held tradition in Macedon, but Philip II transformed it into a powerful tool to advance the needs of both king and state. Macedon’s noble sons, as well as those the king deemed worthy, were admitted to the basilikoi paides—a prestigious manner of dealing with royal hostages. Philip spared no expense in hiring the finest tutors, including renowned philosopher Aristotle, who likened the basilikoi paides to a “school for generals.”
+Indeed, beyond the arts of war and administration, the young pages were taught to honor and obey the king, to protect him with their lives, and to serve Macedon’s interests above all others. This helped forge national bonds that superseded familial ties, in turn reducing chances of rebellion among the nobility. Graduates were afforded a position of prominence within the hetairoi (Companion cavalry). Alexander continued the tradition after his father’s death.
+Traits
+Unique To
+Macedon
+Replaces
+Barracks
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Bronze Working
+Mutually Exclusive With
+Stable
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+A building unique to Macedon.+25% combat experience for all melee, ranged land units, and Hetairoi trained in this city. Gain
+Science equal to 25% of the unit's cost when a non civilian unit is created in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+May not be built in an Encampment district that already has a Stable.
+Historical Context
+The basilikoi paides (roughly “royal page school”) was a long-held tradition in Macedon, but Philip II transformed it into a powerful tool to advance the needs of both king and state. Macedon’s noble sons, as well as those the king deemed worthy, were admitted to the basilikoi paides—a prestigious manner of dealing with royal hostages. Philip spared no expense in hiring the finest tutors, including renowned philosopher Aristotle, who likened the basilikoi paides to a “school for generals.”
+Indeed, beyond the arts of war and administration, the young pages were taught to honor and obey the king, to protect him with their lives, and to serve Macedon’s interests above all others. This helped forge national bonds that superseded familial ties, in turn reducing chances of rebellion among the nobility. Graduates were afforded a position of prominence within the hetairoi (Companion cavalry). Alexander continued the tradition after his father’s death.
+Traits
+Unique To
+Macedon
+Replaces
+Barracks
++1
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Bronze Working
+Mutually Exclusive With
+Stable
+Production Cost
+Base Cost: 90
+Production
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

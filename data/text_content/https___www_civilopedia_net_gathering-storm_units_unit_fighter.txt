@@ -1,0 +1,74 @@
+Fighter - Units - Civilopedia - Civilization VI
+Fighter
+Description
+Atomic era Biplane upgrade.
+Historical Context
+And fighters filled the skies … well, eventually. Fighter aircraft were developed during WW1 to counter the dirigibles, balloons, recon, and bomber aircraft that populated the skies above the battlefield. Small, slow, fragile, and lightly armed by later standards, these first fighters – the original “pursuit” pilots used everything from grenades to grappling hooks to try to bring down enemy craft – were made effective in the role of killer when the 'stangensteuerung' (interrupter) gear was designed by Anthony Fokker in 1915 and fitted to the German Eindecker, making it the most feared fighter at the time. By the end of the war, thousands of fighters had taken to the sky … and been shot down by the hundreds. In WW2, fighters were generally metal monoplanes, and tasked with all sorts of things: strafing and bombing ground targets, interdicting or protecting bombers, patrolling over vital things, reconnaissance missions, and of course, shooting each other down. Modern jet fighters are even faster and more heavily armed than those vintage WW2 warbirds, but the missions haven’t changed much.
+Traits
+Upgrades To
+Jet Fighter
+Upgrade From
+Biplane
+Promotion Class: Air Fighter
+8
+Movement Points
+100
+Melee Strength
+100
+Ranged Strength
+5
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 520
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+Atomic era Biplane upgrade.
+Historical Context
+And fighters filled the skies … well, eventually. Fighter aircraft were developed during WW1 to counter the dirigibles, balloons, recon, and bomber aircraft that populated the skies above the battlefield. Small, slow, fragile, and lightly armed by later standards, these first fighters – the original “pursuit” pilots used everything from grenades to grappling hooks to try to bring down enemy craft – were made effective in the role of killer when the 'stangensteuerung' (interrupter) gear was designed by Anthony Fokker in 1915 and fitted to the German Eindecker, making it the most feared fighter at the time. By the end of the war, thousands of fighters had taken to the sky … and been shot down by the hundreds. In WW2, fighters were generally metal monoplanes, and tasked with all sorts of things: strafing and bombing ground targets, interdicting or protecting bombers, patrolling over vital things, reconnaissance missions, and of course, shooting each other down. Modern jet fighters are even faster and more heavily armed than those vintage WW2 warbirds, but the missions haven’t changed much.
+Traits
+Upgrades To
+Jet Fighter
+Upgrade From
+Biplane
+Promotion Class: Air Fighter
+8
+Movement Points
+100
+Melee Strength
+100
+Ranged Strength
+5
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 520
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn

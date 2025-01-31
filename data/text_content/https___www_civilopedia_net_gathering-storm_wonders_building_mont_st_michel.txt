@@ -1,0 +1,54 @@
+Mont St. Michel - Wonders and Projects - Civilopedia - Civilization VI
+Mont St. Michel
+Description
+All Apostles you create gain the Martyr ability in addition to a second ability you chose normally. Must be built on Floodplains or Marsh.
+Historical Context
+Perched on a rocky islet between Normandy and Brittany in the midst of sandbanks washed over by ocean tides, Mont St. Michel is a Gothic-style Benedictine abbey dedicated to the archangel Micheal built between the 11th and 16th centuries. Besides St. Aubert's skull, the Mont also was repository for bits of St. Petroc and St. Olaf and other holy relics. The place did have a practical purpose; its high walls, turrets and position made it of strategic worth … and many a French king stationed a small garrison (all that was needed) there. At low tide, it was readily accessible to pilgrims eager to give up a coin or two to be blessed; at high tide, the incoming sea would strand or drown any attacking force. The Mont would remain unconquered throughout the Hundred Years War and beyond. Its position also made it ideal to incarcerate unrepentant traitors and other sinners; Louis XI turned the Mont into a prison, a role it served through the rest of the Ancien Régime. Now, alas, it’s just a tourist attraction.
+“Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.”
+– Henry Adams
+Traits
+Removed if game started after
+Industrial Era
++2
+Faith
++2
+Relic slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Divine Right
+Placement
+Desert Floodplains
+Marsh
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 710
+Production
+Description
+All Apostles you create gain the Martyr ability in addition to a second ability you chose normally. Must be built on Floodplains or Marsh.
+Historical Context
+Perched on a rocky islet between Normandy and Brittany in the midst of sandbanks washed over by ocean tides, Mont St. Michel is a Gothic-style Benedictine abbey dedicated to the archangel Micheal built between the 11th and 16th centuries. Besides St. Aubert's skull, the Mont also was repository for bits of St. Petroc and St. Olaf and other holy relics. The place did have a practical purpose; its high walls, turrets and position made it of strategic worth … and many a French king stationed a small garrison (all that was needed) there. At low tide, it was readily accessible to pilgrims eager to give up a coin or two to be blessed; at high tide, the incoming sea would strand or drown any attacking force. The Mont would remain unconquered throughout the Hundred Years War and beyond. Its position also made it ideal to incarcerate unrepentant traitors and other sinners; Louis XI turned the Mont into a prison, a role it served through the rest of the Ancien Régime. Now, alas, it’s just a tourist attraction.
+“Church and State, Soul and Body, God and Man, are all one at Mont Saint Michel, and the business of all is to fight, each in his own way, or to stand guard for each other.”
+– Henry Adams
+Traits
+Removed if game started after
+Industrial Era
++2
+Faith
++2
+Relic slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Divine Right
+Placement
+Desert Floodplains
+Marsh
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 710
+Production

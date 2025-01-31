@@ -1,0 +1,42 @@
+Nazca Line - Improvements and Routes - Civilopedia - Civilization VI
+Nazca Line
+Description
+Unlocks the Builder ability to construct a Nazca Line.
++1
+Faith to adjacent tiles. +1
+Faith to adjacent tiles with a resource. +1
+Food to adjacent Desert and Desert Hill tiles after discovering Civil Service. +1
+Production to adjacent flat tiles after researching Mass Production. +1 Appeal. Can only be built on flat Desert. This tile cannot be worked .
+Historical Context
+The Nazca lines are huge geoglyphs—figures cut into the earth, created by the Nazca culture that lived in Peru between 500 BCE and 500 CE. Some figures may be older, from the Paracas culture, since the figures follow some of the design motifs found in Paracas textiles. The designs are fragile despite their size, and are made by removing a thin layer of red pebble topsoil to reveal the lighter rock underneath. The Nazca lines are stylized depictions of birds, animals, and human figures. Some of the Nazca lines are simple marks oriented with various celestial landmarks.
+The Nazca lines might have been associated with invocations of favorable rainfall from sky deities, but our understanding of Nazca culture is not complete enough to provide anything besides plausible explanations. A variety of less plausible explanations for the lines have been offered, many of which fail tests of parsimony, if not strain credibility to the breaking point.
+Changes to the arid desert environment of the Nazca plateau and their popularity as tourist attractions are the biggest threats to the preservation of the Nazca lines. If rainfall patterns change, the lines may literally wash away. If careless tourists continue to damage them, they may disappear beneath the footprints of their admirers.
+Traits
+Unique To
+Nazca
+Appeal to Adjacent Tiles: 1
+Requirements
+Desert
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Nazca Line.
++1
+Faith to adjacent tiles. +1
+Faith to adjacent tiles with a resource. +1
+Food to adjacent Desert and Desert Hill tiles after discovering Civil Service. +1
+Production to adjacent flat tiles after researching Mass Production. +1 Appeal. Can only be built on flat Desert. This tile cannot be worked .
+Historical Context
+The Nazca lines are huge geoglyphs—figures cut into the earth, created by the Nazca culture that lived in Peru between 500 BCE and 500 CE. Some figures may be older, from the Paracas culture, since the figures follow some of the design motifs found in Paracas textiles. The designs are fragile despite their size, and are made by removing a thin layer of red pebble topsoil to reveal the lighter rock underneath. The Nazca lines are stylized depictions of birds, animals, and human figures. Some of the Nazca lines are simple marks oriented with various celestial landmarks.
+The Nazca lines might have been associated with invocations of favorable rainfall from sky deities, but our understanding of Nazca culture is not complete enough to provide anything besides plausible explanations. A variety of less plausible explanations for the lines have been offered, many of which fail tests of parsimony, if not strain credibility to the breaking point.
+Changes to the arid desert environment of the Nazca plateau and their popularity as tourist attractions are the biggest threats to the preservation of the Nazca lines. If rainfall patterns change, the lines may literally wash away. If careless tourists continue to damage them, they may disappear beneath the footprints of their admirers.
+Traits
+Unique To
+Nazca
+Appeal to Adjacent Tiles: 1
+Requirements
+Desert
+Usage
+Built By
+Builder

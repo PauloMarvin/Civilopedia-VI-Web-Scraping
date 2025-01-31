@@ -1,0 +1,54 @@
+Ziggurat - Improvements and Routes - Civilopedia - Civilization VI
+Ziggurat
+Description
+Unlocks the Builder ability to construct a Ziggurat, unique to Sumeria.
++2
+Science. +1
+Culture if next to River. Cannot be built on Hills but may be built on Floodplains.
+Historical Context
+When the Egyptians were building pyramids along the Nile, the Akkadians, Sumerians, Elamites, Babylonians and Assyrians were building ziggurats all over Mesopotamia. These were terraced pyramids, sometimes truncated so a temple could be placed on top. The earliest date from the Early Dynastic Period, roughly 2900 to 2400 BC, and the newest found date to c. 600 BC. Sun-baked bricks made up the center, and were faced with fire-glazed bricks that were more durable. Unlike the Egyptian pyramids, the ziggurats were generally solid, with shrines and temples on the summit, occasionally more than one (since one didn’t want to offend any god). Sadly none of the shrines or temples have survived – thanks to war, earthquakes and religious fervor – although the great piles of brick have. There were a number of “great” ziggurats, including the one in Babylon dedicated to the god Marduk which may have inspired the fable of the Tower of Babel.
+Traits
+Unique To
+Sumeria
++2
+Science
++1
+Culture (requires Natural History)
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Ziggurat, unique to Sumeria.
++2
+Science. +1
+Culture if next to River. Cannot be built on Hills but may be built on Floodplains.
+Historical Context
+When the Egyptians were building pyramids along the Nile, the Akkadians, Sumerians, Elamites, Babylonians and Assyrians were building ziggurats all over Mesopotamia. These were terraced pyramids, sometimes truncated so a temple could be placed on top. The earliest date from the Early Dynastic Period, roughly 2900 to 2400 BC, and the newest found date to c. 600 BC. Sun-baked bricks made up the center, and were faced with fire-glazed bricks that were more durable. Unlike the Egyptian pyramids, the ziggurats were generally solid, with shrines and temples on the summit, occasionally more than one (since one didn’t want to offend any god). Sadly none of the shrines or temples have survived – thanks to war, earthquakes and religious fervor – although the great piles of brick have. There were a number of “great” ziggurats, including the one in Babylon dedicated to the god Marduk which may have inspired the fable of the Tower of Babel.
+Traits
+Unique To
+Sumeria
++2
+Science
++1
+Culture (requires Natural History)
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder

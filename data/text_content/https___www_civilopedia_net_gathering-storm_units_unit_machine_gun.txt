@@ -1,0 +1,60 @@
+Machine Gun - Units - Civilopedia - Civilization VI
+Machine Gun
+Description
+Atomic era ranged unit.
+Historical Context
+Since the days of the arquebus innovative gunsmiths had sought for a rapid-fire firearm that required little training or skill to use. Stoper’s revolving arquebus in 1597 Nuremberg, the “Puckle Gun” in 1718 in London, Belton’s multi-shot flintlock in 1777 all had their proponents; but it was left to Richard Jordan Gatling to perfect an infantry weapon with controlled rapid fire, automatic loading, portability, speedy reloading of ammunition canisters, and operated by a simple hand-crank. The Gatling gun was immensely popular among military types of all nations, and it laid the foundation for the development of the machinegun, which stalemated WW1 and dominated WW2 infantry combat. In time, the weight was reduced without loss of rate of fire, machineguns becoming submachineguns (such as the Thompson so beloved of Prohibition-era gangsters) capable of being fired from the hip.
+Traits
+Upgrade From
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+2
+Movement Points
+70
+Melee Strength
+85
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Advanced Ballistics
+Production Cost
+Base Cost: 540
+Production
+Purchase Cost
+Base Cost: 2160
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Description
+Atomic era ranged unit.
+Historical Context
+Since the days of the arquebus innovative gunsmiths had sought for a rapid-fire firearm that required little training or skill to use. Stoper’s revolving arquebus in 1597 Nuremberg, the “Puckle Gun” in 1718 in London, Belton’s multi-shot flintlock in 1777 all had their proponents; but it was left to Richard Jordan Gatling to perfect an infantry weapon with controlled rapid fire, automatic loading, portability, speedy reloading of ammunition canisters, and operated by a simple hand-crank. The Gatling gun was immensely popular among military types of all nations, and it laid the foundation for the development of the machinegun, which stalemated WW1 and dominated WW2 infantry combat. In time, the weight was reduced without loss of rate of fire, machineguns becoming submachineguns (such as the Thompson so beloved of Prohibition-era gangsters) capable of being fired from the hip.
+Traits
+Upgrade From
+Field Cannon
+Hwacha
+Promotion Class: Ranged
+2
+Movement Points
+70
+Melee Strength
+85
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Advanced Ballistics
+Production Cost
+Base Cost: 540
+Production
+Purchase Cost
+Base Cost: 2160
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold

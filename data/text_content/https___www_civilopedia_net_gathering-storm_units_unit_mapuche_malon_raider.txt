@@ -1,0 +1,64 @@
+Malón Raider - Units - Civilopedia - Civilization VI
+Malón Raider
+Description
+Mapuche unique Renaissance Era unit. +5
+Combat Strength bonus if within 4 hexes of friendly territory. Pillaging costs 1
+Movement.
+Historical Context
+The 16th Century brought a Spanish invasion to what is now southern Chile. It also brought horses, which the Mapuche had never seen before encountering the conquistadors. Their presence on the battlefield forced the Mapuche to adjust their tactics. They quickly learned how to use horses, turning one of the greatest Spanish advantages against them. The mounted malón raiders—so named for their retributive attacks on invaders—would launch quick raids to harass an enemy, before leading a responding enemy into an ambush.
+Traits
+Unique To
+Mapuche
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Promotion Class: Light Cavalry
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 230
+Production
+Purchase Cost
+Base Cost: 920
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Mapuche unique Renaissance Era unit. +5
+Combat Strength bonus if within 4 hexes of friendly territory. Pillaging costs 1
+Movement.
+Historical Context
+The 16th Century brought a Spanish invasion to what is now southern Chile. It also brought horses, which the Mapuche had never seen before encountering the conquistadors. Their presence on the battlefield forced the Mapuche to adjust their tactics. They quickly learned how to use horses, turning one of the greatest Spanish advantages against them. The mounted malón raiders—so named for their retributive attacks on invaders—would launch quick raids to harass an enemy, before leading a responding enemy into an ambush.
+Traits
+Unique To
+Mapuche
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Promotion Class: Light Cavalry
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 230
+Production
+Purchase Cost
+Base Cost: 920
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

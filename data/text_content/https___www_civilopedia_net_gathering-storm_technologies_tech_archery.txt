@@ -1,0 +1,46 @@
+Archery - Technologies - Civilopedia - Civilization VI
+Archery
+Historical Context
+Archery is the method by which a person uses the spring power stored in a bent stick to shoot a slender pointed projectile a great distance at rapid speed. A very useful technology, whether employed against game animals or against other human beings. Now it’s considered just recreation.
+The earliest use of the bow is lost in the mists of time, but dates from the Paleolithic era (which ended around ten thousand BC), although archaeologists have found stone points in Africa dating 60,000 years ago that may have been arrowheads. Virtually every early civilization employed bows and arrows. It is known that the bow was used in warfare in pre-dynastic Egypt; several successful Classical civilizations – Assyrians, Persians, Parthians, Indians, Koreans, Chinese and Japanese – fielded large contingents of archers in their armies.
+The technology of archery continued to advance. The composite bow, a laminate of wood and horn, spread outward from Asia to Arabia, North Africa and even Europe. The English longbow, so useful for poaching the King’s deer, proved itself in battle first at Sluys and Crécy, before eventually slaughtering the flower of French chivalry at Agincourt. Shortly thereafter the recurve bow, with its slightly outward bend at the end of the arms, provided greater power and range without increasing the draw weight. The complicated compound bow added wheels and pulleys to heighten the power even more. And then there was the crossbow – so simple and undemanding any peasant could use it effectively – developed by the Chinese during their Warring States period and in a few centuries adopted across Europe.
+The coming of the crossbow, and even more so firearms, saw the decline of archery, both in hunting and especially in war. Why spend years training an archer to be deadly, when it takes just a few weeks to teach someone to use a musket effectively?
+“I shot an arrow into the air. It fell to earth, I knew not where.”
+– Henry Wadsworth Longfellow
+“May the forces of evil become confused while your arrow is on its way to the target.”
+– George Carlin
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Animal Husbandry
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Kill a unit with a Slinger.
+Progression
+Leads to Technologies
+Horseback Riding
+Historical Context
+Archery is the method by which a person uses the spring power stored in a bent stick to shoot a slender pointed projectile a great distance at rapid speed. A very useful technology, whether employed against game animals or against other human beings. Now it’s considered just recreation.
+The earliest use of the bow is lost in the mists of time, but dates from the Paleolithic era (which ended around ten thousand BC), although archaeologists have found stone points in Africa dating 60,000 years ago that may have been arrowheads. Virtually every early civilization employed bows and arrows. It is known that the bow was used in warfare in pre-dynastic Egypt; several successful Classical civilizations – Assyrians, Persians, Parthians, Indians, Koreans, Chinese and Japanese – fielded large contingents of archers in their armies.
+The technology of archery continued to advance. The composite bow, a laminate of wood and horn, spread outward from Asia to Arabia, North Africa and even Europe. The English longbow, so useful for poaching the King’s deer, proved itself in battle first at Sluys and Crécy, before eventually slaughtering the flower of French chivalry at Agincourt. Shortly thereafter the recurve bow, with its slightly outward bend at the end of the arms, provided greater power and range without increasing the draw weight. The complicated compound bow added wheels and pulleys to heighten the power even more. And then there was the crossbow – so simple and undemanding any peasant could use it effectively – developed by the Chinese during their Warring States period and in a few centuries adopted across Europe.
+The coming of the crossbow, and even more so firearms, saw the decline of archery, both in hunting and especially in war. Why spend years training an archer to be deadly, when it takes just a few weeks to teach someone to use a musket effectively?
+“I shot an arrow into the air. It fell to earth, I knew not where.”
+– Henry Wadsworth Longfellow
+“May the forces of evil become confused while your arrow is on its way to the target.”
+– George Carlin
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Animal Husbandry
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Kill a unit with a Slinger.
+Progression
+Leads to Technologies
+Horseback Riding

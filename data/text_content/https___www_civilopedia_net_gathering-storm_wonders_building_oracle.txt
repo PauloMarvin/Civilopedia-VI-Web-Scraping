@@ -1,0 +1,62 @@
+Oracle - Wonders and Projects - Civilopedia - Civilization VI
+Oracle
+Description
+Patronage of Great People costs 25% less
+Faith. Districts in this city provide +2
+Great Person points of their type (for example,
+Great Writer points from the Theater Square district). Must be built on Hills.
+Historical Context
+Of all the places in ancient Greece where priestesses uttered prognostications, by far the most famous (and cryptic) was the Oracle at Delphi, a shrine to Apollo located on the slopes of Mount Parnassus. There a priestess known as the “Pythia” would – for suitable compensation – interpret dreams, commune with the gods while in a trance, and read the signs in the entrails of sacrificed animals (chickens for the cheap, or goats for those willing to pay more). The Oracle began operation as early as 1400 BC, and enjoyed a thriving business until Christianity arrived with the Romans. The greatest structure was the stately temple to Apollo (of course), and it stayed standing until pulled down on orders from Theodosius I in 390 AD. The site remained an active “pagan” center throughout the 4th Century, however, and the Pythian Games (a predecessor to the Olympics today) continued to at least 424 AD.
+“I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius; also the altar itself shall be called Delphinius and overlooked forever.”
+– Homer
+Traits
+Removed if game started after
+Medieval Era
++1
+Culture
++1
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mysticism
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 290
+Production
+Description
+Patronage of Great People costs 25% less
+Faith. Districts in this city provide +2
+Great Person points of their type (for example,
+Great Writer points from the Theater Square district). Must be built on Hills.
+Historical Context
+Of all the places in ancient Greece where priestesses uttered prognostications, by far the most famous (and cryptic) was the Oracle at Delphi, a shrine to Apollo located on the slopes of Mount Parnassus. There a priestess known as the “Pythia” would – for suitable compensation – interpret dreams, commune with the gods while in a trance, and read the signs in the entrails of sacrificed animals (chickens for the cheap, or goats for those willing to pay more). The Oracle began operation as early as 1400 BC, and enjoyed a thriving business until Christianity arrived with the Romans. The greatest structure was the stately temple to Apollo (of course), and it stayed standing until pulled down on orders from Theodosius I in 390 AD. The site remained an active “pagan” center throughout the 4th Century, however, and the Pythian Games (a predecessor to the Olympics today) continued to at least 424 AD.
+“I sprang upon the swift ship in the form of a dolphin, pray to me as Apollo Delphinius; also the altar itself shall be called Delphinius and overlooked forever.”
+– Homer
+Traits
+Removed if game started after
+Medieval Era
++1
+Culture
++1
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mysticism
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 290
+Production

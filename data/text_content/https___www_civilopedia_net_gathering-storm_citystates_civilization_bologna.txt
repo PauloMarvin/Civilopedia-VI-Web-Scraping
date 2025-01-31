@@ -1,0 +1,56 @@
+Bologna - City-States - Civilopedia - Civilization VI
+Bologna
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Bologna Suzerain Bonus
+Your districts with a building provide +1
+Great Person point of their type (
+Great Writer,
+Great Artist, and
+Great Musician for Theater Square districts with a building).
+Historical Context
+This northern Italian city is home to the oldest university in the world still in continuous operation, and the first university by the standard definition. Ancient, rich, and cultured, it has been one of the foremost cities of Italy since before the rise of Rome.
+It was founded by the Etruscans around 510 BCE, who called it Felsina. A Gallic tribe, the Boii, conquered it at some point in the 4th Century BCE, and the Romans took it in 190 BCE, renaming it Bononia. It existed happily as a Roman city for centuries, until the collapse of the Western Empire, by which time it had passed through the hands of the Goths, the Visigoths, the Lombards, and the Huns, before being folded into the Holy Roman Empire.
+In 1070, a copy of Justinian's code of Roman laws had been rediscovered in Italy, to the considerable interest to scholars. Gatherings of scholars banded together to study this and other documents, with informal groupings gradually becoming more established. Soon, both scholars discovered the need to band together for protection from secular and eccleisastical authorities. Bologna's famous university was established in 1088, and modern students would find it a surprisingly bottom-up affair. Students hired, paid, and fired the professors (there was a committee delightfully called the “Denouncers of Professors.”) The professors, presumably tired of denunciation, organized into their own groups in response. The only degree offered was a doctorate, and the course of study consisted of canon and civil law.
+The University of Bologna was pivotal in establishing the legal powers and authority of the Holy Roman Emperor over his fractious vassals. Frederick Barbarossa used the work of the scholars of Bologna to cement his authority and secure casus belli against cities that refused to recognize his power, and in 1158 he issued a charter to the university, securing its funding through the Imperial treasury, making it the first chartered university in the world. This also settled the question of ultimate authority over the university, which freed up professors to teach and students to learn and both sides to go back to grumbling about the other in taverns, instead of in quasi-juridical proceedings.
+Bologna was a beacon for the great minds of the Middle Ages and Renaissance: Petrarch, Becket, Copernicus, Duerer, and many other luminaries were alumni of the university (Copernicus was a professor there as well.) Trade prospered within the city, and the city's riches and the value of the university made it an important prize in the long-running conflict between the Guelph and Ghibelline families. During this time, many of the city's famous fortified towers were constructed, as a way to protect noble households from the rioting mobs. In the early 16th Century Bologna was folded into the Papal States, coming under the secular authority of the Pope.
+Today the city is one of the richest in Italy, and its churches, palaces, and porticos have been restored and preserved. The University of Bologna, the original Alma Mater from which all others descend, still produces luminaries in the arts and sciences. And visitors still come from afar to enjoy the culture, the food, the music, and the life of the mind offered by the city.
+City-State Type
+Scientific
+City-State Type
+Scientific
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Bologna Suzerain Bonus
+Your districts with a building provide +1
+Great Person point of their type (
+Great Writer,
+Great Artist, and
+Great Musician for Theater Square districts with a building).
+Historical Context
+This northern Italian city is home to the oldest university in the world still in continuous operation, and the first university by the standard definition. Ancient, rich, and cultured, it has been one of the foremost cities of Italy since before the rise of Rome.
+It was founded by the Etruscans around 510 BCE, who called it Felsina. A Gallic tribe, the Boii, conquered it at some point in the 4th Century BCE, and the Romans took it in 190 BCE, renaming it Bononia. It existed happily as a Roman city for centuries, until the collapse of the Western Empire, by which time it had passed through the hands of the Goths, the Visigoths, the Lombards, and the Huns, before being folded into the Holy Roman Empire.
+In 1070, a copy of Justinian's code of Roman laws had been rediscovered in Italy, to the considerable interest to scholars. Gatherings of scholars banded together to study this and other documents, with informal groupings gradually becoming more established. Soon, both scholars discovered the need to band together for protection from secular and eccleisastical authorities. Bologna's famous university was established in 1088, and modern students would find it a surprisingly bottom-up affair. Students hired, paid, and fired the professors (there was a committee delightfully called the “Denouncers of Professors.”) The professors, presumably tired of denunciation, organized into their own groups in response. The only degree offered was a doctorate, and the course of study consisted of canon and civil law.
+The University of Bologna was pivotal in establishing the legal powers and authority of the Holy Roman Emperor over his fractious vassals. Frederick Barbarossa used the work of the scholars of Bologna to cement his authority and secure casus belli against cities that refused to recognize his power, and in 1158 he issued a charter to the university, securing its funding through the Imperial treasury, making it the first chartered university in the world. This also settled the question of ultimate authority over the university, which freed up professors to teach and students to learn and both sides to go back to grumbling about the other in taverns, instead of in quasi-juridical proceedings.
+Bologna was a beacon for the great minds of the Middle Ages and Renaissance: Petrarch, Becket, Copernicus, Duerer, and many other luminaries were alumni of the university (Copernicus was a professor there as well.) Trade prospered within the city, and the city's riches and the value of the university made it an important prize in the long-running conflict between the Guelph and Ghibelline families. During this time, many of the city's famous fortified towers were constructed, as a way to protect noble households from the rioting mobs. In the early 16th Century Bologna was folded into the Papal States, coming under the secular authority of the Pope.
+Today the city is one of the richest in Italy, and its churches, palaces, and porticos have been restored and preserved. The University of Bologna, the original Alma Mater from which all others descend, still produces luminaries in the arts and sciences. And visitors still come from afar to enjoy the culture, the food, the music, and the life of the mind offered by the city.

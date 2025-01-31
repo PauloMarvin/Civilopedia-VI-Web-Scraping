@@ -1,0 +1,56 @@
+Industrialization - Technologies - Civilopedia - Civilization VI
+Industrialization
+Description
++1
+Production to the Mine improvement.
+Historical Context
+Not many “technologies” (or, in this case a convergence of several technologies) give a label to a revolution and to an era. Industrialization is viewed by scholars as the transition from an agrarian society to an industrial one, which was historically accompanied by widespread social and economic upheaval. It is driven by the invention of new machinery and discovery of new power sources. The Industrial Revolution, beginning in Europe during the 18th century, brought about unforeseen changes in the way people lived their daily lives, both beneficial and detrimental.
+With increasingly complex machinery and tools available, trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by masses of unskilled factory laborers. New professions evolved. People moved to the cities, where factories and transportation were concentrated.  The process involved the reorganization of the world’s economy from self-sufficiency to one of manufacturing and consumerism. As the wages of workers rose, markets for services and goods expanded, demanding ever more production, resulting in higher prices and wages, and so forth in a tornadic cycle.
+Industrialization is also marked by urbanization, exploitation (over 40% of the world’s employees are considered to be “working poor” by the United Nations), institutional complexity, rampant consumerism, capitalism and communism, unprecedented population growth, and complex change in every social structure, even the nuclear family. The accumulation of capital permits increased investment in scientific research and new technologies, speeding the process of industrialization.
+Some argue that there was a Second Industrial Revolution, the period during the late 1800s in which the internal combustion engine, electricity, telephony, and innovative factory machines launched a new cycle of urbanization, consumerism and social alienation. There are even some who believe that civilization has entered yet another “Industrial Revolution” – just look at the changes over the past quarter-century.
+“I think the human race made a big mistake at the beginning of the Industrial Revolution, we leaped for the mechanical things. People need the use of their hands to feel creative.”
+– Andre Norton
+“The key words of violent economics are urbanization, industrialization, centralization, efficiency, quantity, speed.”
+– E.F. Schumacher
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Square Rigging
+Mass Production
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Build 2 Workshops.
+Progression
+Leads to Technologies
+Steam Power
+Flight
+Description
++1
+Production to the Mine improvement.
+Historical Context
+Not many “technologies” (or, in this case a convergence of several technologies) give a label to a revolution and to an era. Industrialization is viewed by scholars as the transition from an agrarian society to an industrial one, which was historically accompanied by widespread social and economic upheaval. It is driven by the invention of new machinery and discovery of new power sources. The Industrial Revolution, beginning in Europe during the 18th century, brought about unforeseen changes in the way people lived their daily lives, both beneficial and detrimental.
+With increasingly complex machinery and tools available, trades that were once left to talented craftsmen became obsolete with the advent of assembly lines operated by masses of unskilled factory laborers. New professions evolved. People moved to the cities, where factories and transportation were concentrated.  The process involved the reorganization of the world’s economy from self-sufficiency to one of manufacturing and consumerism. As the wages of workers rose, markets for services and goods expanded, demanding ever more production, resulting in higher prices and wages, and so forth in a tornadic cycle.
+Industrialization is also marked by urbanization, exploitation (over 40% of the world’s employees are considered to be “working poor” by the United Nations), institutional complexity, rampant consumerism, capitalism and communism, unprecedented population growth, and complex change in every social structure, even the nuclear family. The accumulation of capital permits increased investment in scientific research and new technologies, speeding the process of industrialization.
+Some argue that there was a Second Industrial Revolution, the period during the late 1800s in which the internal combustion engine, electricity, telephony, and innovative factory machines launched a new cycle of urbanization, consumerism and social alienation. There are even some who believe that civilization has entered yet another “Industrial Revolution” – just look at the changes over the past quarter-century.
+“I think the human race made a big mistake at the beginning of the Industrial Revolution, we leaped for the mechanical things. People need the use of their hands to feel creative.”
+– Andre Norton
+“The key words of violent economics are urbanization, industrialization, centralization, efficiency, quantity, speed.”
+– E.F. Schumacher
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Square Rigging
+Mass Production
+Research Cost
+Base Cost: 930
+Science
+Boosts
+Build 2 Workshops.
+Progression
+Leads to Technologies
+Steam Power
+Flight

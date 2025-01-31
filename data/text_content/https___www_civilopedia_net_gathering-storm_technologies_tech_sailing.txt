@@ -1,0 +1,46 @@
+Sailing - Technologies - Civilopedia - Civilization VI
+Sailing
+Description
+Allows Builders to embark.
+Historical Context
+Since rowing a ship is a lot of work, men developed sails to let the wind push it along. Sailing gave humans a quicker, easier way to travel than over land, and has been used for trade, transport, fishing and warfare since the first mast was raised. The oldest representation of a ship under sail was found on a painted disc in Kuwait, dating to between 5500 and 5000 BC. Tomb paintings c. 3200 BC show reed boats under sail on the Nile. A few hundred years later, the Egyptians were venturing along the shores of the Mediterranean. Along every coastline, from China to Scandinavia, the technology of sailing – distinctive to each seagoing culture – was evolving.
+Barques, brigs, caravels and clippers and catboats, feluccas, galleons, junks, longships, misticos, schooners and sloops; the technology and design of sailing ships was as diverse as the peoples who sailed these. By 2500 BC, the Egyptians were building sailing ships from planks of cedar wood, lashed together by straps and reeds to seal the seams; the “Khufu” ship discovered intact at the foot of the Giza pyramid in 1954 AD was a vessel of 143 feet driven by oars and cotton sails. Around the same time, the Scandinavians developed a method of boat building with segmented hull compartments, which allowed for ever larger longboats. By 1000 AD, the Vikings were the unchallenged seamen and boat builders of the world, sailing even across the Atlantic to North America.
+Trial-and-error (a lot of drowned sailors) brought technological improvements in sails, masts, hulls, rigging. Arab, Chinese and Indian merchants ranged along the fringes of the Pacific, opening trade routes and diplomatic relations. But it was the Europeans who would sail the world; from the 15th Century onward, European sailors went further, stayed longer, and explored the globe, creating colonial empires based on their sailing fleets.
+"Vessels large may venture more, but little boats should keep near shore."
+-Benjamin Franklin
+“It is not that life ashore is distasteful to me. But life at sea is better.”
+– Sir Francis Drake
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Found a city on the Coast.
+Progression
+Leads to Technologies
+Shipbuilding
+Celestial Navigation
+Description
+Allows Builders to embark.
+Historical Context
+Since rowing a ship is a lot of work, men developed sails to let the wind push it along. Sailing gave humans a quicker, easier way to travel than over land, and has been used for trade, transport, fishing and warfare since the first mast was raised. The oldest representation of a ship under sail was found on a painted disc in Kuwait, dating to between 5500 and 5000 BC. Tomb paintings c. 3200 BC show reed boats under sail on the Nile. A few hundred years later, the Egyptians were venturing along the shores of the Mediterranean. Along every coastline, from China to Scandinavia, the technology of sailing – distinctive to each seagoing culture – was evolving.
+Barques, brigs, caravels and clippers and catboats, feluccas, galleons, junks, longships, misticos, schooners and sloops; the technology and design of sailing ships was as diverse as the peoples who sailed these. By 2500 BC, the Egyptians were building sailing ships from planks of cedar wood, lashed together by straps and reeds to seal the seams; the “Khufu” ship discovered intact at the foot of the Giza pyramid in 1954 AD was a vessel of 143 feet driven by oars and cotton sails. Around the same time, the Scandinavians developed a method of boat building with segmented hull compartments, which allowed for ever larger longboats. By 1000 AD, the Vikings were the unchallenged seamen and boat builders of the world, sailing even across the Atlantic to North America.
+Trial-and-error (a lot of drowned sailors) brought technological improvements in sails, masts, hulls, rigging. Arab, Chinese and Indian merchants ranged along the fringes of the Pacific, opening trade routes and diplomatic relations. But it was the Europeans who would sail the world; from the 15th Century onward, European sailors went further, stayed longer, and explored the globe, creating colonial empires based on their sailing fleets.
+"Vessels large may venture more, but little boats should keep near shore."
+-Benjamin Franklin
+“It is not that life ashore is distasteful to me. But life at sea is better.”
+– Sir Francis Drake
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Found a city on the Coast.
+Progression
+Leads to Technologies
+Shipbuilding
+Celestial Navigation

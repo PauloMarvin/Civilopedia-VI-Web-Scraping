@@ -1,0 +1,18 @@
+Bread and Circuses (Coastal) - Wonders and Projects - Civilopedia - Civilization VI
+Bread and Circuses (Coastal)
+Description
+City project which increases the Loyalty pressure that this city exerts on itself and other cities nearby.
+While active, each of your
+Citizens here exert +1 Loyalty pressure to this city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. Once completed, instantly gain +20 Loyalty in this city.
+Requires: Water Park district.
+Requirements
+District
+Water Park
+Description
+City project which increases the Loyalty pressure that this city exerts on itself and other cities nearby.
+While active, each of your
+Citizens here exert +1 Loyalty pressure to this city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. Once completed, instantly gain +20 Loyalty in this city.
+Requires: Water Park district.
+Requirements
+District
+Water Park

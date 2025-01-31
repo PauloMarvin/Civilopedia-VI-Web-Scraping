@@ -1,0 +1,74 @@
+Stave Church - Buildings - Civilopedia - Civilization VI
+Stave Church
+Description
+A building unique to Norway. Required to purchase Apostles and Inquisitors with
+Faith. Holy Site districts get an additional standard adjacency bonus from Woods. +1
+Production to each coastal resource tile in this city. Recalling Heroes in this city costs 15% less
+Faith.
+Historical Context
+After they got past their pagan ways, stave churches were wooden, post-and-beam constructions built throughout medieval Scandinavia once the Vikings converted to Christianity. In Sweden alone it is estimated that over a thousand stave churches were scattered about, the oldest dating back to the mid-1100s. Besides their religious function, these often served as meeting halls, cultural centers, courthouses, and even as marketplaces. Early stave churches were palisade constructions, with steeply pitched roofs to shed the heavy snows. The churches had elaborate wooden carvings, usually Christian in design but occasionally depicting pre-Christian heroes and myths. Later, only the corner posts were set in the earth, with planking covering the frame. Currently 30 stave churches remain standing, all but two in Norway.
+Traits
+Unique To
+Norway
+Replaces
+Temple
++4
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+A building unique to Norway. Required to purchase Apostles and Inquisitors with
+Faith. Holy Site districts get an additional standard adjacency bonus from Woods. +1
+Production to each coastal resource tile in this city. Recalling Heroes in this city costs 15% less
+Faith.
+Historical Context
+After they got past their pagan ways, stave churches were wooden, post-and-beam constructions built throughout medieval Scandinavia once the Vikings converted to Christianity. In Sweden alone it is estimated that over a thousand stave churches were scattered about, the oldest dating back to the mid-1100s. Besides their religious function, these often served as meeting halls, cultural centers, courthouses, and even as marketplaces. Early stave churches were palisade constructions, with steeply pitched roofs to shed the heavy snows. The churches had elaborate wooden carvings, usually Christian in design but occasionally depicting pre-Christian heroes and myths. Later, only the corner posts were set in the earth, with planking covering the frame. Currently 30 stave churches remain standing, all but two in Norway.
+Traits
+Unique To
+Norway
+Replaces
+Temple
++4
+Faith
++1
+Citizen slot
++1
+Great Prophet point per turn.
++1
+Relic slot
+Requirements
+District
+Holy Site
+Civic
+Theology
+Building
+Shrine
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

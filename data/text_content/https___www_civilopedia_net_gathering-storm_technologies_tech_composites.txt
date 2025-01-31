@@ -1,0 +1,46 @@
+Composites - Technologies - Civilopedia - Civilization VI
+Composites
+Historical Context
+A composite is any material made from two or more materials with significantly differing physical or chemical properties; composites are distinct from alloys or chemical compounds (in which the components do not retain their original properties).
+The earliest examples of Composites were likely Egyptian bricks, made from straw and mud, which were both durable and cheap. The Romans invented concrete, another composite used in construction. Around 3400 BC the Mesopotamians invented plywood, thin sheets of various woods glued together giving added strength and durability. Barbarians were using composite bows made of wood, bone, horn, and silk to slaughter the civilized; Mongolian composite bows carried their rule across much of the known world in the 14th Century AD. Papier-mâché, a composite of glue and paper, has been used for centuries by artists and other children. More recently, fiberglass was invented in the 1930s.
+Modern composites are produced only in laboratories or specialized industrial plants. In 1961, carbon fiber was spun and within a few years the first carbon fiber composites were commercially available. The 1970s and 1980s saw a series of breakthroughs in producing ultra-high molecular weight composites, exceedingly sturdy and resistant to corrosion, soon used in the production of aircraft, boats, automobiles and a lot of household gadgets. By the mid-1990s, the production of composite materials dominated materials manufacturing.
+The latest advances in composites include research into hybrid materials and nanocomposites, the creation of new materials on the molecular scale. Hybrid materials are a mix of organic and inorganic components; the intent is to mimic nature’s processes for a variety of benefits – weight, strength, durability, environmental-friendliness, and even healing. (Just imagine when cars can repair themselves.) Research into nanocomposites has just begun, but the potential (at least according to researchers) is great.
+“All material things seem to have been composed of the hard and solid particles … variously associated with the first Creation by the counsel of an Intelligent Agent.”
+– Isaac Newton
+“It is obvious that while science is struggling to bring Heaven to Earth some men are using its materials in the construction of Hell.”
+– Herbert Hoover
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Synthetic Materials
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Own 3 Tanks.
+Progression
+Leads to Technologies
+Nanotechnology
+Historical Context
+A composite is any material made from two or more materials with significantly differing physical or chemical properties; composites are distinct from alloys or chemical compounds (in which the components do not retain their original properties).
+The earliest examples of Composites were likely Egyptian bricks, made from straw and mud, which were both durable and cheap. The Romans invented concrete, another composite used in construction. Around 3400 BC the Mesopotamians invented plywood, thin sheets of various woods glued together giving added strength and durability. Barbarians were using composite bows made of wood, bone, horn, and silk to slaughter the civilized; Mongolian composite bows carried their rule across much of the known world in the 14th Century AD. Papier-mâché, a composite of glue and paper, has been used for centuries by artists and other children. More recently, fiberglass was invented in the 1930s.
+Modern composites are produced only in laboratories or specialized industrial plants. In 1961, carbon fiber was spun and within a few years the first carbon fiber composites were commercially available. The 1970s and 1980s saw a series of breakthroughs in producing ultra-high molecular weight composites, exceedingly sturdy and resistant to corrosion, soon used in the production of aircraft, boats, automobiles and a lot of household gadgets. By the mid-1990s, the production of composite materials dominated materials manufacturing.
+The latest advances in composites include research into hybrid materials and nanocomposites, the creation of new materials on the molecular scale. Hybrid materials are a mix of organic and inorganic components; the intent is to mimic nature’s processes for a variety of benefits – weight, strength, durability, environmental-friendliness, and even healing. (Just imagine when cars can repair themselves.) Research into nanocomposites has just begun, but the potential (at least according to researchers) is great.
+“All material things seem to have been composed of the hard and solid particles … variously associated with the first Creation by the counsel of an Intelligent Agent.”
+– Isaac Newton
+“It is obvious that while science is struggling to bring Heaven to Earth some men are using its materials in the construction of Hell.”
+– Herbert Hoover
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Synthetic Materials
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Own 3 Tanks.
+Progression
+Leads to Technologies
+Nanotechnology

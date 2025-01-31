@@ -1,0 +1,62 @@
+Dramatic Ages - Concepts - Civilopedia - Civilization VI
+Dramatic Ages
+Welcome
+In game setup, players can turn on the Dramatic Ages game mode. The rules for earning Era Score are adjusted, encouraging players to engage in conflict and keep current with Technologies and Civics.
+Heroic Ages and Dedications are removed, and players can only be in a
+Normal Age in the first era. After that, they will either earn a
+Dark Age or a
+Golden Age, both of which are more potent than ever. Dark Ages can even cause cities to fall into Free Cities.
+Era Score
+Players can only earn a
+Dark Age or a
+Golden Age. The threshold for earning a Golden Age increases by 3 for every city the player owns after the
+Capital. Furthermore, earning a Golden Age will increase the threshold by 5, while earning a Dark Age will lower it by 10. These thresholds are calculated and fixed when the game changes era, just like the rules without the Mode, so there is no need to worry about hitting a moving target within an era.
+Players no longer make Dedications when the game era changes. Instead of earning Era Score from Dedication effects, players gain 1 Era Score each time they complete a Technology or a Civic. They also gain 1 Era Score each time one of their military units earns a promotion, after that unit's first promotion. Era Score can still be earned from Historic Moments as well. Instead of gameplay bonuses from Dedications, players get access to special and more flexible Social Policies.
+Golden Ages
+If you earned more Era Score than necessary to reach a
+Golden Age while in the previous era, the excess will make your citizens apply additional Loyalty pressure during your Golden Age. Each 1 Era Score grants a 5% pressure increase for your citizens. Once this reaches 50%, additional pressure can still be earned, but there are diminishing returns.
+Golden Ages grant access to powerful Golden Policies, which can be placed in Wildcard slots of your Government.
+Dark Ages
+Dark Ages grant access to Dark Policies, which can be placed in Wildcard slots of your Government. These are powerful, but have a drawback effect. Some policies are the same as in a normal game, while others are reworked or brand new.
+Falling into a Dark Age will also cause at least 1 city to instantly revolt. These cities transform into Free Cities. Cities with the lowest Loyalty pressure from nearby friendly cities are the most at risk, which are usually on the outskirts of your empire. Your
+Capital, though, is always safe.
+Free Cities
+The number of Free Cities that emerge from empires in Dark Ages depends on your chosen difficulty level. Moreover, Free Cities can now exert Loyalty pressure on other cities and on each other, so they can be much more resilient.
+Settler: 5% Human cities lost, 30% AI cities lost. 1x pressure from Free Cities.
+Chieftain: 10% Human cities lost, 30% AI cities lost. 2x pressure from Free Cities.
+Warlord: 15% Human cities lost, 25% AI cities lost. 2.5x pressure from Free Cities.
+Prince: 20% Human cities lost, 20% AI cities lost. 3x pressure from Free Cities.
+King: 25% Human cities lost, 15% AI cities lost. 3.5x pressure from Free Cities.
+Emperor: 30% Human cities lost, 15% AI cities lost. 4x pressure from Free Cities.
+Immortal: 35% Human cities lost, 10% AI cities lost. 4.5x pressure from Free Cities.
+Deity: 40% Human cities lost, 10% AI cities lost. 5x pressure from Free Cities.
+Welcome
+In game setup, players can turn on the Dramatic Ages game mode. The rules for earning Era Score are adjusted, encouraging players to engage in conflict and keep current with Technologies and Civics.
+Heroic Ages and Dedications are removed, and players can only be in a
+Normal Age in the first era. After that, they will either earn a
+Dark Age or a
+Golden Age, both of which are more potent than ever. Dark Ages can even cause cities to fall into Free Cities.
+Era Score
+Players can only earn a
+Dark Age or a
+Golden Age. The threshold for earning a Golden Age increases by 3 for every city the player owns after the
+Capital. Furthermore, earning a Golden Age will increase the threshold by 5, while earning a Dark Age will lower it by 10. These thresholds are calculated and fixed when the game changes era, just like the rules without the Mode, so there is no need to worry about hitting a moving target within an era.
+Players no longer make Dedications when the game era changes. Instead of earning Era Score from Dedication effects, players gain 1 Era Score each time they complete a Technology or a Civic. They also gain 1 Era Score each time one of their military units earns a promotion, after that unit's first promotion. Era Score can still be earned from Historic Moments as well. Instead of gameplay bonuses from Dedications, players get access to special and more flexible Social Policies.
+Golden Ages
+If you earned more Era Score than necessary to reach a
+Golden Age while in the previous era, the excess will make your citizens apply additional Loyalty pressure during your Golden Age. Each 1 Era Score grants a 5% pressure increase for your citizens. Once this reaches 50%, additional pressure can still be earned, but there are diminishing returns.
+Golden Ages grant access to powerful Golden Policies, which can be placed in Wildcard slots of your Government.
+Dark Ages
+Dark Ages grant access to Dark Policies, which can be placed in Wildcard slots of your Government. These are powerful, but have a drawback effect. Some policies are the same as in a normal game, while others are reworked or brand new.
+Falling into a Dark Age will also cause at least 1 city to instantly revolt. These cities transform into Free Cities. Cities with the lowest Loyalty pressure from nearby friendly cities are the most at risk, which are usually on the outskirts of your empire. Your
+Capital, though, is always safe.
+Free Cities
+The number of Free Cities that emerge from empires in Dark Ages depends on your chosen difficulty level. Moreover, Free Cities can now exert Loyalty pressure on other cities and on each other, so they can be much more resilient.
+Settler: 5% Human cities lost, 30% AI cities lost. 1x pressure from Free Cities.
+Chieftain: 10% Human cities lost, 30% AI cities lost. 2x pressure from Free Cities.
+Warlord: 15% Human cities lost, 25% AI cities lost. 2.5x pressure from Free Cities.
+Prince: 20% Human cities lost, 20% AI cities lost. 3x pressure from Free Cities.
+King: 25% Human cities lost, 15% AI cities lost. 3.5x pressure from Free Cities.
+Emperor: 30% Human cities lost, 15% AI cities lost. 4x pressure from Free Cities.
+Immortal: 35% Human cities lost, 10% AI cities lost. 4.5x pressure from Free Cities.
+Deity: 40% Human cities lost, 10% AI cities lost. 5x pressure from Free Cities.

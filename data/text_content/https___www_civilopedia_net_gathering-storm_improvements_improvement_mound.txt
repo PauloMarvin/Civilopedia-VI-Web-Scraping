@@ -1,0 +1,74 @@
+Cahokia Mounds - Improvements and Routes - Civilopedia - Civilization VI
+Cahokia Mounds
+Description
+Unlocks the Builder ability to construct a Cahokia Mounds.
++3
+Gold. Cities receive +1
+Amenity from their first Cahokia Mound improvement. Upon discovering Natural History, cities receive +1
+Amenity from their second Cahokia Mound improvement. +1
+Food for every 2 adjacent Districts once Feudalism is discovered or for every adjacent District once Replaceable Parts is researched. Provides +1
+Housing. Receive an additional
+Housing once Cultural Heritage is discovered. Cannot be built adjacent to other Cahokia Mounds.
+Historical Context
+North American civilizations like the Adena, Hopewell, and Mississipian cultures constructed thousands—perhaps tens of thousands—of earthen mounds over the continent in the centuries before European contact. The purpose of many of these mounds remains mysterious. Some, but not all align with astronomical landmarks. But the greatest of these are the ones associated with the culture at Cahokia.
+The largest mound at Cahokia is called “Monks Mound” because a community of Trappist monks built a settlement on or near it in the early colonial era. What the Cahokian citizens called it is unknown to us. The largest part of the structure is about 900 feet long, 250 feet wide, and approximately 20 feet tall, and is cleverly engineered to minimize the shrinkage and swelling associated with the clay soil, which accounts for why it has survived for centuries in an area prone to flooding. Monks Mound was enlarged and expanded over time, but eventually damaged in an earthquake in the time preceding the abandonment of the city.
+Because the culture at Cahokia did not leave written records or inscription, little information about the purpose of the great mounds has survived. Archaeological evidence from the site suggests the mounds were a key part of the religious practices of the culture.
+Traits
+Unique To
+Cahokia
++3
+Gold
++1.0
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent district tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent district tile.Requires Replaceable Parts.
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Plains
+Grassland
+Desert
+Tundra
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Cahokia Mounds.
++3
+Gold. Cities receive +1
+Amenity from their first Cahokia Mound improvement. Upon discovering Natural History, cities receive +1
+Amenity from their second Cahokia Mound improvement. +1
+Food for every 2 adjacent Districts once Feudalism is discovered or for every adjacent District once Replaceable Parts is researched. Provides +1
+Housing. Receive an additional
+Housing once Cultural Heritage is discovered. Cannot be built adjacent to other Cahokia Mounds.
+Historical Context
+North American civilizations like the Adena, Hopewell, and Mississipian cultures constructed thousands—perhaps tens of thousands—of earthen mounds over the continent in the centuries before European contact. The purpose of many of these mounds remains mysterious. Some, but not all align with astronomical landmarks. But the greatest of these are the ones associated with the culture at Cahokia.
+The largest mound at Cahokia is called “Monks Mound” because a community of Trappist monks built a settlement on or near it in the early colonial era. What the Cahokian citizens called it is unknown to us. The largest part of the structure is about 900 feet long, 250 feet wide, and approximately 20 feet tall, and is cleverly engineered to minimize the shrinkage and swelling associated with the clay soil, which accounts for why it has survived for centuries in an area prone to flooding. Monks Mound was enlarged and expanded over time, but eventually damaged in an earthquake in the time preceding the abandonment of the city.
+Because the culture at Cahokia did not leave written records or inscription, little information about the purpose of the great mounds has survived. Archaeological evidence from the site suggests the mounds were a key part of the religious practices of the culture.
+Traits
+Unique To
+Cahokia
++3
+Gold
++1.0
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent district tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent district tile.Requires Replaceable Parts.
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Plains
+Grassland
+Desert
+Tundra
+Usage
+Built By
+Builder

@@ -1,0 +1,144 @@
+Lavra - Districts - Civilopedia - Civilization VI
+Lavra
+Description
+A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.
+Your city border grows by one tile each time a Great Person is expended in this city. The Lavra provides +1
+Great Writer point per turn with a Shrine, +1
+Great Artist point per turn with a Temple, and +1
+Great Musician point per turn with a Worship building.
+Historical Context
+In the Eastern Orthodox tradition, a lavra (such as found at Mount Athos in Greece or Neamț in Romania) is a cloistered monastery of cells for hermits with a central church and/or rectory. Perhaps the most famous is the Alexander Nevsky Lavra (trust the Russians to name a holy place after a warrior) in St. Petersburg where many eminent but dead Russians are buried – besides Nevsky, there’s Euler, Suvarov, Mussorgsky, Tchaikovsky, Dostoevsky and others. Believed to have its origins in the early 4th Century AD, the first lavra seems to have been a settlement of some 600 hermits around Nitria in the Egyptian desert. In the strict Eremitic tradition, these hermit-monks lived a secluded life devoted to prayer, often accompanied by vows of silence, chastity, meditation and/or fasting. Further proof of the lengths to which some of the faithful will resort to be saved.
+Traits
+Unique To
+Russia
+Replaces
+Holy Site
++2
+Great Prophet points per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Faith from each adjacent natural wonder tile.
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from every 2 adjacent Woods tiles.
++1
+Faith from every 2 adjacent district tiles.
++1
+Faith from each adjacent Government Plaza tile.
++1
+Faith from each adjacent Pamukkale tile.
++2
+Faith from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Faith
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Faith
+Requirements
+Technology
+Astrology
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Cathedral
+Dar-e Mehr
+Gurdwara
+Meeting House
+Mosque
+Pagoda
+Shrine
+Stupa
+Synagogue
+Temple
+Wat
+Description
+A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.
+Your city border grows by one tile each time a Great Person is expended in this city. The Lavra provides +1
+Great Writer point per turn with a Shrine, +1
+Great Artist point per turn with a Temple, and +1
+Great Musician point per turn with a Worship building.
+Historical Context
+In the Eastern Orthodox tradition, a lavra (such as found at Mount Athos in Greece or Neamț in Romania) is a cloistered monastery of cells for hermits with a central church and/or rectory. Perhaps the most famous is the Alexander Nevsky Lavra (trust the Russians to name a holy place after a warrior) in St. Petersburg where many eminent but dead Russians are buried – besides Nevsky, there’s Euler, Suvarov, Mussorgsky, Tchaikovsky, Dostoevsky and others. Believed to have its origins in the early 4th Century AD, the first lavra seems to have been a settlement of some 600 hermits around Nitria in the Egyptian desert. In the strict Eremitic tradition, these hermit-monks lived a secluded life devoted to prayer, often accompanied by vows of silence, chastity, meditation and/or fasting. Further proof of the lengths to which some of the faithful will resort to be saved.
+Traits
+Unique To
+Russia
+Replaces
+Holy Site
++2
+Great Prophet points per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Faith from each adjacent natural wonder tile.
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from every 2 adjacent Woods tiles.
++1
+Faith from every 2 adjacent district tiles.
++1
+Faith from each adjacent Government Plaza tile.
++1
+Faith from each adjacent Pamukkale tile.
++2
+Faith from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Faith
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Faith
+Requirements
+Technology
+Astrology
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Cathedral
+Dar-e Mehr
+Gurdwara
+Meeting House
+Mosque
+Pagoda
+Shrine
+Stupa
+Synagogue
+Temple
+Wat

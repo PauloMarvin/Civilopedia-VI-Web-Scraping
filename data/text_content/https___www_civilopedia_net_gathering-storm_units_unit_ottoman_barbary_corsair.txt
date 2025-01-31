@@ -1,0 +1,70 @@
+Barbary Corsair - Units - Civilopedia - Civilization VI
+Barbary Corsair
+Description
+Ottoman unique Medieval era naval unit that replaces the Privateer. It costs no
+Movement to coastal raid. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+The Barbary Corsairs were some of the most feared and famous pirates of the Mediterranean during the Renaissance and Early Modern era. These pirates were financed and sanctioned by the Ottoman Empire, in much the way Western European states used privateers as commercial raiders. As the Ottoman Empire expanded and came into conflict with Western Europe, raids by the corsairs became more common. At the height of their power, the sight of a sleek corsair galley (or more terrifying, a fleet of them) bearing down was enough to fill the sight of all but the bravest of captains with a deep dread.
+Piracy was a long-standing practice in the Mediterraean Sea, almost from the start of recorded history. The Barbary Corsairs were among the last of these groups, raiding all along the European coast. Operating from fortified ports along the Berber coast, like Algiers and Tunis, the Barbary Corsairs were famous for capturing ships and holding their crews for ransom—and often enslaving those too poor to be ransomed. Literature from the period is full of tales from escaped galley slaves, and a whole charitable industry arose out of liberating prisoners from the corsairs. But some Europeans found the prospect for riches and power attractive, and voluntarily joined the corsairs' ranks, and even served as officers.
+At the end of the 1700s and start of the 1800s, the nations of Europe united in a systematic campaign to eliminate the threat of the Barbary corsairs. Even the infant United States was involved – the “shores of Tripoli” referred to in the US Marine's Hymn refers to an action against the Barbary corsairs.
+Traits
+Unique To
+Ottomans
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+50
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Medieval Faires
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Ottoman unique Medieval era naval unit that replaces the Privateer. It costs no
+Movement to coastal raid. Can only be seen by other Naval Raiders unless adjacent to it. Reveals Naval Raiders within sight range.
+Historical Context
+The Barbary Corsairs were some of the most feared and famous pirates of the Mediterranean during the Renaissance and Early Modern era. These pirates were financed and sanctioned by the Ottoman Empire, in much the way Western European states used privateers as commercial raiders. As the Ottoman Empire expanded and came into conflict with Western Europe, raids by the corsairs became more common. At the height of their power, the sight of a sleek corsair galley (or more terrifying, a fleet of them) bearing down was enough to fill the sight of all but the bravest of captains with a deep dread.
+Piracy was a long-standing practice in the Mediterraean Sea, almost from the start of recorded history. The Barbary Corsairs were among the last of these groups, raiding all along the European coast. Operating from fortified ports along the Berber coast, like Algiers and Tunis, the Barbary Corsairs were famous for capturing ships and holding their crews for ransom—and often enslaving those too poor to be ransomed. Literature from the period is full of tales from escaped galley slaves, and a whole charitable industry arose out of liberating prisoners from the corsairs. But some Europeans found the prospect for riches and power attractive, and voluntarily joined the corsairs' ranks, and even served as officers.
+At the end of the 1700s and start of the 1800s, the nations of Europe united in a systematic campaign to eliminate the threat of the Barbary corsairs. Even the infant United States was involved – the “shores of Tripoli” referred to in the US Marine's Hymn refers to an action against the Barbary corsairs.
+Traits
+Unique To
+Ottomans
+Upgrades To
+Submarine
+U-Boat
+Promotion Class: Naval Raider
+4
+Movement Points
+40
+Melee Strength
+50
+Ranged Strength
+2
+Range
+Requirements
+Civic
+Medieval Faires
+Production Cost
+Base Cost: 240
+Production
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

@@ -1,0 +1,54 @@
+Jebel Barkal - Wonders and Projects - Civilopedia - Civilization VI
+Jebel Barkal
+Description
+Awards 6
+Iron per turn. Provides +4
+Faith to all your cities that are within 6 tiles.
+Must be built on Desert (Hills) terrain.
+Historical Context
+A lonely mountain rises from the flat Sudanese desert, west of a bend in the Nile. At its base once stood a palace where ancient kingdoms ruled for centuries. Now, there are only ruins.
+Easily recognizable from a great distance, the flat-topped mountain of Jebel Barkal was a waypoint for travelers in ancient times. It indicated a point of relatively safe crossing (just downstream of the Nile's Fourth Cataract). After the Fifteenth Century BCE, it also noted the location of Napata, Egypt's southernmost border city that, 500 years later, would become the capital of the Nubian Kingdom of Kush.
+Since the 19th Century, archaeologists have excavated a wealth of historical information from Jebel Barkal including temple ruins, stonework carved into the mountain, and ancient inscriptions dating back to the Egyptian occupation of the region. The Nubian pyramids in the shadow of the mountain later served as tombs for Meroitic kings and queens.
+“At the south-west corner a large perpendicular mass of sandstone has become separated by a deep fissure from the body of the mountain … it has all the appearance of a colossal statue.”
+– E. A. Wallis Budge
+Traits
+Removed if game started after
+Renaissance Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Iron Working
+Placement
+Desert (Hills)
+Production Cost
+Base Cost: 400
+Production
+Description
+Awards 6
+Iron per turn. Provides +4
+Faith to all your cities that are within 6 tiles.
+Must be built on Desert (Hills) terrain.
+Historical Context
+A lonely mountain rises from the flat Sudanese desert, west of a bend in the Nile. At its base once stood a palace where ancient kingdoms ruled for centuries. Now, there are only ruins.
+Easily recognizable from a great distance, the flat-topped mountain of Jebel Barkal was a waypoint for travelers in ancient times. It indicated a point of relatively safe crossing (just downstream of the Nile's Fourth Cataract). After the Fifteenth Century BCE, it also noted the location of Napata, Egypt's southernmost border city that, 500 years later, would become the capital of the Nubian Kingdom of Kush.
+Since the 19th Century, archaeologists have excavated a wealth of historical information from Jebel Barkal including temple ruins, stonework carved into the mountain, and ancient inscriptions dating back to the Egyptian occupation of the region. The Nubian pyramids in the shadow of the mountain later served as tombs for Meroitic kings and queens.
+“At the south-west corner a large perpendicular mass of sandstone has become separated by a deep fissure from the body of the mountain … it has all the appearance of a colossal statue.”
+– E. A. Wallis Budge
+Traits
+Removed if game started after
+Renaissance Era
++4
+Faith
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Iron Working
+Placement
+Desert (Hills)
+Production Cost
+Base Cost: 400
+Production

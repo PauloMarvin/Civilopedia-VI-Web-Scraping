@@ -1,0 +1,66 @@
+Rocket Artillery - Units - Civilopedia - Civilization VI
+Rocket Artillery
+Description
+Information era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+The Chinese Wu forces were firing off gunpowder-fueled rocket artillery as early as the siege of Yuzhang in 904 AD, although these were more colorful than deadly (save, perhaps, to their crews). The metal-cylinder ones used by the Tipu Sultan of Mysore in the 1780s and the British Congreve rockets in the 1790s weren’t much better. So it wasn’t until the German Nebelwerfer and Soviet Katyusha models of the Second World War that rocket artillery was anything but a curiosity on the battlefield. It was only after the war that designs in rocket artillery made them a mainstay for NATO and Warsaw Pact armies, poised to devastate Europe when the much-anticipated World War III broke out. The minimum recoil of rockets means that lighter carriages are needed, hence these can be more mobile (in fact, some can fire on the move); and advanced ones employ guidance systems, allowing for better accuracy against moving targets.
+Traits
+Upgrade From
+Artillery
+Promotion Class: Siege
+3
+Movement Points
+70
+Melee Strength
+100
+Bombard Strength
+3
+Range
+Requirements
+Technology
+Guidance Systems
+Production Cost
+Base Cost: 680
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn
+Description
+Information era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+The Chinese Wu forces were firing off gunpowder-fueled rocket artillery as early as the siege of Yuzhang in 904 AD, although these were more colorful than deadly (save, perhaps, to their crews). The metal-cylinder ones used by the Tipu Sultan of Mysore in the 1780s and the British Congreve rockets in the 1790s weren’t much better. So it wasn’t until the German Nebelwerfer and Soviet Katyusha models of the Second World War that rocket artillery was anything but a curiosity on the battlefield. It was only after the war that designs in rocket artillery made them a mainstay for NATO and Warsaw Pact armies, poised to devastate Europe when the much-anticipated World War III broke out. The minimum recoil of rockets means that lighter carriages are needed, hence these can be more mobile (in fact, some can fire on the move); and advanced ones employ guidance systems, allowing for better accuracy against moving targets.
+Traits
+Upgrade From
+Artillery
+Promotion Class: Siege
+3
+Movement Points
+70
+Melee Strength
+100
+Bombard Strength
+3
+Range
+Requirements
+Technology
+Guidance Systems
+Production Cost
+Base Cost: 680
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn

@@ -1,0 +1,22 @@
+City Combat - Concepts - Civilopedia - Civilization VI
+City Combat
+City Combat
+Cities may be attacked and captured by military units. Each city has a "City Combat Strength" stat that determines its strength when attacked by other units. The higher the city's City Combat Strength, the more difficult it is to capture the city. Unless the city is extremely weak or the attacking unit is extremely strong, it will take multiple turns to capture a city.
+Walls add extra protection to a city or Encampment, making it even more difficult to conquer. This protection is like armor, shielding the city from attacks. Melee units deal only 15% of their normal damage to walls, and ranged units deal only 50% of their normal damage. Only Bombard units deal 100% of their normal damage to walls, making them necessary to capture a fortified city. If the walls are damaged, they stop being as effective and the district's health will start taking a little bit of damage with every attack. Walls can only recover health with a Project found in the city's Production Queue, like repairing district buildings, that becomes available if the district has not taken any damage for 3 consecutive turns. Once a city has walls, it can make ranged attacks against enemy units using a "City Ranged Strength" stat.
+The City Combat Strength is based on the
+Combat Strength of the strongest melee unit built by your civilization, minus 10, or by the
+Combat Strength of a garrisoned military unit.
+The City Ranged Strength is based on the
+Ranged Strength of the strongest ranged unit built by your civilization.
+The city gets additional bonuses to its City Combat Strength for each non-pillaged district it has, making big cities harder to capture, and from terrain and a few other modifiers sources.
+Cities can also be under siege from attacking units. The City Center and other defensible districts like the Encampment are considered under siege if all 6 tiles around them are occupied by enemy units, under enemy Zone of Control, or are impassable due to mountains or Natural Wonders. In these circumstances, the district will not recover lost health, instead of healing automatically every turn as normal.
+City Combat
+Cities may be attacked and captured by military units. Each city has a "City Combat Strength" stat that determines its strength when attacked by other units. The higher the city's City Combat Strength, the more difficult it is to capture the city. Unless the city is extremely weak or the attacking unit is extremely strong, it will take multiple turns to capture a city.
+Walls add extra protection to a city or Encampment, making it even more difficult to conquer. This protection is like armor, shielding the city from attacks. Melee units deal only 15% of their normal damage to walls, and ranged units deal only 50% of their normal damage. Only Bombard units deal 100% of their normal damage to walls, making them necessary to capture a fortified city. If the walls are damaged, they stop being as effective and the district's health will start taking a little bit of damage with every attack. Walls can only recover health with a Project found in the city's Production Queue, like repairing district buildings, that becomes available if the district has not taken any damage for 3 consecutive turns. Once a city has walls, it can make ranged attacks against enemy units using a "City Ranged Strength" stat.
+The City Combat Strength is based on the
+Combat Strength of the strongest melee unit built by your civilization, minus 10, or by the
+Combat Strength of a garrisoned military unit.
+The City Ranged Strength is based on the
+Ranged Strength of the strongest ranged unit built by your civilization.
+The city gets additional bonuses to its City Combat Strength for each non-pillaged district it has, making big cities harder to capture, and from terrain and a few other modifiers sources.
+Cities can also be under siege from attacking units. The City Center and other defensible districts like the Encampment are considered under siege if all 6 tiles around them are occupied by enemy units, under enemy Zone of Control, or are impassable due to mountains or Natural Wonders. In these circumstances, the district will not recover lost health, instead of healing automatically every turn as normal.

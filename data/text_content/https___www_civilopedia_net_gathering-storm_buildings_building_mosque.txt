@@ -1,0 +1,52 @@
+Mosque - Buildings - Civilopedia - Civilization VI
+Mosque
+Description
+Missionary and Apostles created here have +1 spread.
+Historical Context
+There are strict requirements and standards in Islamic fiqh for a building to be a mosque, and those places of worship that do not meet those are merely musallas (“gathering houses”). Under Sharia law, once a mosque is formally designated as a holy place, it remains that until the Day of Judgment (Yawm ad-Din). The oldest and largest mosque in the world, the Masjid al-Haram, was built in the city of Mecca around 638 AD; it encompasses the holy site of the Kaaba, the most sacred of all locations in Islam. The Prophet himself established other mosques, notably that at Medina. From there, mosques – with their distinctive domes, minarets and prayer halls overseen by an imam – were carried by the swords of the faithful across Arabia, the Middle East and North Africa during the 7th Century. The first mosque built in the Far East – that at Xi’an – reportedly dates to the mid-8th Century. A site of prayer, charity and learning, the mosque is the physical heart of Islamic civilization.
+Traits
+Unique To
+Mosque
++3
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Description
+Missionary and Apostles created here have +1 spread.
+Historical Context
+There are strict requirements and standards in Islamic fiqh for a building to be a mosque, and those places of worship that do not meet those are merely musallas (“gathering houses”). Under Sharia law, once a mosque is formally designated as a holy place, it remains that until the Day of Judgment (Yawm ad-Din). The oldest and largest mosque in the world, the Masjid al-Haram, was built in the city of Mecca around 638 AD; it encompasses the holy site of the Kaaba, the most sacred of all locations in Islam. The Prophet himself established other mosques, notably that at Medina. From there, mosques – with their distinctive domes, minarets and prayer halls overseen by an imam – were carried by the swords of the faithful across Arabia, the Middle East and North Africa during the 7th Century. The first mosque built in the Far East – that at Xi’an – reportedly dates to the mid-8th Century. A site of prayer, charity and learning, the mosque is the physical heart of Islamic civilization.
+Traits
+Unique To
+Mosque
++3
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

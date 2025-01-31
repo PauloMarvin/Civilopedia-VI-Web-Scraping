@@ -1,0 +1,16 @@
+Zone of Control - Concepts - Civilopedia - Civilization VI
+Zone of Control
+Zone of Control
+Many combat units exert a "Zone of Control" (ZOC) influence over the tiles around them. Combat units that enter an enemy's ZOC must stop, regardless of any remaining
+Movement. Units that have been stopped by an enemy's ZOC have the option to attack if they have the required
+Movement to do so.
+Ranged and Bombard class units do not exert ZOC. Cavalry units, as well as Naval Raider class units have the ability to ignore an enemy's ZOC.
+Religious units exert ZOC against other religious units.
+Rivers block Zone of Control from all units.
+Zone of Control
+Many combat units exert a "Zone of Control" (ZOC) influence over the tiles around them. Combat units that enter an enemy's ZOC must stop, regardless of any remaining
+Movement. Units that have been stopped by an enemy's ZOC have the option to attack if they have the required
+Movement to do so.
+Ranged and Bombard class units do not exert ZOC. Cavalry units, as well as Naval Raider class units have the ability to ignore an enemy's ZOC.
+Religious units exert ZOC against other religious units.
+Rivers block Zone of Control from all units.

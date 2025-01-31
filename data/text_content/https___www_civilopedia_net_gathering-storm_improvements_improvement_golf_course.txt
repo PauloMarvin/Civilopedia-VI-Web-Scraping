@@ -1,0 +1,76 @@
+Golf Course - Improvements and Routes - Civilopedia - Civilization VI
+Golf Course
+Description
+Unlocks the Builder ability to construct a Golf Course, unique to Scotland.
++2
+Amenities and +2
+Gold. +1
+Culture if adjacent to a City Center district and +1
+Culture if adjacent to an Entertainment Complex district. Additional
+Tourism and
+Housing as you advance through the Civics and Technology Tree. Cannot be placed on Desert or Desert Hills. One per city. Tiles with Golf Courses cannot be swapped. +1 Appeal.
+Historical Context
+There is one singular, undeniable historical constant: people have always enjoyed hitting balls with sticks. Scotland’s turf happened to be a perfect place to hit balls with sticks across large stretches of land. Thus “golf,” which means, “hitting a ball with a stick across a large stretch of land.” Golf courses became the stretches of land in question, frustrating generations of golfers with sand traps, lakes, the rough, and drops from highlands.
+Golf (as played today) managed to survive and thrive despite various attempts at banning the sport, by people such as King James II (who the Scots rightly ignored) and even the Scottish Church, who did not want it played during holy days. The Church’s larger complaint was with golfers playing in churchyards, which were a very particular sort of hazard.
+Traits
+Unique To
+Scotland
++2
+Gold
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Culture from each adjacent City Center tile.
++1
+Culture from each adjacent Entertainment Complex tile.
+Requirements
+Civic
+Reformed Church
+Tundra
+Plains
+Grassland
+Snow
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Golf Course, unique to Scotland.
++2
+Amenities and +2
+Gold. +1
+Culture if adjacent to a City Center district and +1
+Culture if adjacent to an Entertainment Complex district. Additional
+Tourism and
+Housing as you advance through the Civics and Technology Tree. Cannot be placed on Desert or Desert Hills. One per city. Tiles with Golf Courses cannot be swapped. +1 Appeal.
+Historical Context
+There is one singular, undeniable historical constant: people have always enjoyed hitting balls with sticks. Scotland’s turf happened to be a perfect place to hit balls with sticks across large stretches of land. Thus “golf,” which means, “hitting a ball with a stick across a large stretch of land.” Golf courses became the stretches of land in question, frustrating generations of golfers with sand traps, lakes, the rough, and drops from highlands.
+Golf (as played today) managed to survive and thrive despite various attempts at banning the sport, by people such as King James II (who the Scots rightly ignored) and even the Scottish Church, who did not want it played during holy days. The Church’s larger complaint was with golfers playing in churchyards, which were a very particular sort of hazard.
+Traits
+Unique To
+Scotland
++2
+Gold
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++1
+Culture from each adjacent City Center tile.
++1
+Culture from each adjacent Entertainment Complex tile.
+Requirements
+Civic
+Reformed Church
+Tundra
+Plains
+Grassland
+Snow
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,24 @@
+Military Research - Governments and Policies - Civilopedia - Civilization VI
+Military Research
+Description
+Military Academies, Seaports, and Renaissance Walls generate +2
+Science.
+Historical Context
+While there were some instances of government military research before, the funding of science with military applications has had a transformative effect on research since the opening decade of the 20th Century. World War I was termed the “chemists’ war” as scientists funded by their governments raced to develop more and more lethal chemicals and countermeasures against the newest gases; meanwhile physicists were building bigger and better guns, bombs, and machines. World War II marked an even greater investment in military innovations, culminating in that mushroom cloud over Hiroshima. The sheer scale of military research funding since has had a profound effect on civilization … especially as some (but not all) new discoveries also have civilian applications.
+Traits
+Made obsolete by
+Integrated Space Cell
+Requirements
+Civic
+Urbanization
+Description
+Military Academies, Seaports, and Renaissance Walls generate +2
+Science.
+Historical Context
+While there were some instances of government military research before, the funding of science with military applications has had a transformative effect on research since the opening decade of the 20th Century. World War I was termed the “chemists’ war” as scientists funded by their governments raced to develop more and more lethal chemicals and countermeasures against the newest gases; meanwhile physicists were building bigger and better guns, bombs, and machines. World War II marked an even greater investment in military innovations, culminating in that mushroom cloud over Hiroshima. The sheer scale of military research funding since has had a profound effect on civilization … especially as some (but not all) new discoveries also have civilian applications.
+Traits
+Made obsolete by
+Integrated Space Cell
+Requirements
+Civic
+Urbanization

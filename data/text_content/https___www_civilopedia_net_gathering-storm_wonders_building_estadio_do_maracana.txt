@@ -1,0 +1,62 @@
+Estádio do Maracanã - Wonders and Projects - Civilopedia - Civilization VI
+Estádio do Maracanã
+Description
++2
+Amenities in each city in your civilization. Must be built on flat land adjacent to an Entertainment Complex district with a Stadium.
+Historical Context
+Officially the Estadio Jornalista Mario Filho – must have been a heck of a sports writer to get a stadium named after him – but better known as the Maracanã, the fútbol stadium is part of a large complex in the heart of Rio de Janeiro. Begun in 1948 AD, after Brazil had won the right to host the FIFA World Cup, it was opened (more-or-less, for construction was not complete) for the first matches in that contest in 1950. Unfortunately, heavily favored Brazil was upset in the final by the team from Uruguay, 2-1, before a crowd of 199,854 rabid fans – making it the world’s largest (and loudest) stadium at the time. Since then the Maracanã has served as host to the Pan-American Games, another World Cup, numerous concerts and cultural events, and thousands of soccer matches. Having been renovated to a smaller capacity (78,838) and more comfortable accommodations (including 292 new toilets), the stadium hosted the Olympics (Summer, obviously) for the first time in 2016.
+“Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.”
+– Alcides Ghiggia, Uruguayan soccer player
+Traits
++6
+Culture
++2
+Amenities from entertainment
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Professional Sports
+Building
+Stadium
+Adjacency
+Entertainment Complex
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1740
+Production
+Description
++2
+Amenities in each city in your civilization. Must be built on flat land adjacent to an Entertainment Complex district with a Stadium.
+Historical Context
+Officially the Estadio Jornalista Mario Filho – must have been a heck of a sports writer to get a stadium named after him – but better known as the Maracanã, the fútbol stadium is part of a large complex in the heart of Rio de Janeiro. Begun in 1948 AD, after Brazil had won the right to host the FIFA World Cup, it was opened (more-or-less, for construction was not complete) for the first matches in that contest in 1950. Unfortunately, heavily favored Brazil was upset in the final by the team from Uruguay, 2-1, before a crowd of 199,854 rabid fans – making it the world’s largest (and loudest) stadium at the time. Since then the Maracanã has served as host to the Pan-American Games, another World Cup, numerous concerts and cultural events, and thousands of soccer matches. Having been renovated to a smaller capacity (78,838) and more comfortable accommodations (including 292 new toilets), the stadium hosted the Olympics (Summer, obviously) for the first time in 2016.
+“Down through its history, only three people have managed to silence the Maracana: the Pope, Frank Sinatra, and me.”
+– Alcides Ghiggia, Uruguayan soccer player
+Traits
++6
+Culture
++2
+Amenities from entertainment
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Professional Sports
+Building
+Stadium
+Adjacency
+Entertainment Complex
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1740
+Production

@@ -1,0 +1,56 @@
+Gurdwara - Buildings - Civilopedia - Civilization VI
+Gurdwara
+Historical Context
+A gurdwara (meaning “the gateway to the guru”) is a Sikh temple, although those of all faiths are welcomed to worship in their own way there. The gurdwara traditionally has a great hall (the Darbar Sahib) where the Guru Granth Sahib is displayed and a Langar where visitors can partake of the free food offered by the Sikh community. The egalitarian complex may also have a nursery, library, hospital and/or classrooms. The very first Sikh guru, Nanak Dev Ji, built the very first gurdwara in 1521 AD on the banks of the Ravi River of the Punjab … so legend has it. The first gurdwaras were the places for the faithful to gather to hear the current guru speak and to sing hymns to Waheguru (loosely, “God”). It was the sixth Sikh guru who finally gave such places the name “gurdwara.” Since meditation and the study of the scriptures are central to Sikhism, the gurdwara is vital to the “proper” moral and spiritual development of a Sikh.
+Traits
+Unique To
+Gurdwara
++3
+Faith
++2
+Food
++1
+Housing
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+A gurdwara (meaning “the gateway to the guru”) is a Sikh temple, although those of all faiths are welcomed to worship in their own way there. The gurdwara traditionally has a great hall (the Darbar Sahib) where the Guru Granth Sahib is displayed and a Langar where visitors can partake of the free food offered by the Sikh community. The egalitarian complex may also have a nursery, library, hospital and/or classrooms. The very first Sikh guru, Nanak Dev Ji, built the very first gurdwara in 1521 AD on the banks of the Ravi River of the Punjab … so legend has it. The first gurdwaras were the places for the faithful to gather to hear the current guru speak and to sing hymns to Waheguru (loosely, “God”). It was the sixth Sikh guru who finally gave such places the name “gurdwara.” Since meditation and the study of the scriptures are central to Sikhism, the gurdwara is vital to the “proper” moral and spiritual development of a Sikh.
+Traits
+Unique To
+Gurdwara
++3
+Faith
++2
+Food
++1
+Housing
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

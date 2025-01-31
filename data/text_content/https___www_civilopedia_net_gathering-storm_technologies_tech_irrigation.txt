@@ -1,0 +1,46 @@
+Irrigation - Technologies - Civilopedia - Civilization VI
+Irrigation
+Description
+Allows clearing of Marsh, and harvesting of
+Bananas.
+Historical Context
+Irrigation has been a central feature of agriculture for over 5000 years, and forms the basis for the economy and culture of many civilizations throughout history. Perennial irrigation was first practiced in Mesopotamia with water flowing through small channels connecting to a river or a small lake. In Egypt, several pharaohs during the Twelfth Dynasty used oases to store water for irrigation during the dry season. Ancient Nubians devised a waterwheel device to bring water to their fields around the second millennium BC. Terrace irrigation evolved in pre-Columbian America, in Syria, China and India.
+The first hydraulic engineers recorded in history were Sunshu Ao (6th Century BC) and Ximen Bao (5th Century BC) of China who both worked on extensive irrigation projects for the emperor (whoever that happened to be at the time) in the Sichuan region; with waters from the “four circuits of rivers” lifted into and moved through channels by chain pumps powered by humans or oxen, it was a marvel of ancient engineering.
+Although it is not known precisely how the famed Hanging Gardens were irrigated, they may well have used the noria, invented around this time. The noria is a wheel with buckets or pots along its circumference. As the wheel rotated – driven by flowing water – the upper buckets emptied by gravity into a trough or channel. The wheel, turning, returned the empty buckets to be refilled. Pretty clever, since it didn’t depend on muscle power.
+It would be a thousand years before the next advance in irrigation: the windmill, designed to pump water upward into pipes or ditches to water the fields; the technology spread across Europe, allowing for population growth not seen before. That led to more irrigation. It is estimated that there are approximately 600 million acres being irrigated worldwide now.
+“Thousands have lived without love, not one without water.”
+-W. H. Auden
+“The man who has grit enough to bring about the afforestation or the irrigation of a country is not less worthy of honor than its conqueror.”
+– Sir John Thomson
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Pottery
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Farm a resource.
+Description
+Allows clearing of Marsh, and harvesting of
+Bananas.
+Historical Context
+Irrigation has been a central feature of agriculture for over 5000 years, and forms the basis for the economy and culture of many civilizations throughout history. Perennial irrigation was first practiced in Mesopotamia with water flowing through small channels connecting to a river or a small lake. In Egypt, several pharaohs during the Twelfth Dynasty used oases to store water for irrigation during the dry season. Ancient Nubians devised a waterwheel device to bring water to their fields around the second millennium BC. Terrace irrigation evolved in pre-Columbian America, in Syria, China and India.
+The first hydraulic engineers recorded in history were Sunshu Ao (6th Century BC) and Ximen Bao (5th Century BC) of China who both worked on extensive irrigation projects for the emperor (whoever that happened to be at the time) in the Sichuan region; with waters from the “four circuits of rivers” lifted into and moved through channels by chain pumps powered by humans or oxen, it was a marvel of ancient engineering.
+Although it is not known precisely how the famed Hanging Gardens were irrigated, they may well have used the noria, invented around this time. The noria is a wheel with buckets or pots along its circumference. As the wheel rotated – driven by flowing water – the upper buckets emptied by gravity into a trough or channel. The wheel, turning, returned the empty buckets to be refilled. Pretty clever, since it didn’t depend on muscle power.
+It would be a thousand years before the next advance in irrigation: the windmill, designed to pump water upward into pipes or ditches to water the fields; the technology spread across Europe, allowing for population growth not seen before. That led to more irrigation. It is estimated that there are approximately 600 million acres being irrigated worldwide now.
+“Thousands have lived without love, not one without water.”
+-W. H. Auden
+“The man who has grit enough to bring about the afforestation or the irrigation of a country is not less worthy of honor than its conqueror.”
+– Sir John Thomson
+Unlocks
+Requirements
+Ancient Era
+Required Technologies
+Pottery
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Farm a resource.

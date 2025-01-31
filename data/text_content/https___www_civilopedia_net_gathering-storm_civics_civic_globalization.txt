@@ -1,0 +1,60 @@
+Globalization - Civics - Civilopedia - Civilization VI
+Globalization
+Description
++2
+Gold to Plantations.
+Historical Context
+In the 20th Century AD, the globalizing impulse can be viewed as ever-widening ripples of homogeneity … from local to national to regional to global … with the logical conclusion being a unified economy, unified culture, unified language, unified state, and perhaps a unified civilization. Rapid developments in information technology have spawned new, virtual relationships that lead to cultural entropy. International industrialization has brought the mass production of standardized goods that can be inserted into every market in every place. The reduction of tariffs and creation of free trade zones, elimination of national capital controls, and passage of new subsidies has given rise to sprawling and diversified global corporations. Supranational recognition of international property laws (copyright and patent restrictions) insures the global domination of accepted artforms, though sometimes at the expense of local diversity, traditions and individuality.
+The 1840s form a watershed (of sorts) in globalization with expansion of international economies, as the British forced open the interior of China (in the Opium Wars) and the United States browbeat Japan into opening its ports to Western trade. The integration of separate, highly specialized agricultural production created the first “world economy”: French wines, Australian beef, Indian teas, Japanese rice, South American peppers, African spices. The industrial technologies of the factory, railroad, telegraph, Gatling gun and steamship facilitated similar rules and regulations spreading from nation to nation. Though interrupted briefly by two world wars and a great depression between, globalization resumed its triumphant march as the engines of mass media and advertising spread its tendrils beyond the iron and bamboo curtains … the export dynamics of culture reaching into every village. Sociologists argue the world has entered a frenetic fourth phase of globalization, in which developed and developing nations are becoming equal partners in investment, and as per capita income between the two rapidly converge.
+A brave – although perhaps bland – new world.
+“It has been said that arguing against globalization is like arguing against the laws of gravity.”
+– Kofi Annan
+“One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart.”
+– Carlos Santana
+Unlocks
+Requirements
+Information Era
+Required Civics
+Rapid Deployment
+Space Race
+Culture Cost
+Base Cost: 2880
+Culture
+Boosts
+Build 2 Airports.
+Progression
+Leads to Civics
+Future Civic
+Venture Politics
+Distributed Sovereignty
+Optimization Imperative
+Near Future Governance
+Description
++2
+Gold to Plantations.
+Historical Context
+In the 20th Century AD, the globalizing impulse can be viewed as ever-widening ripples of homogeneity … from local to national to regional to global … with the logical conclusion being a unified economy, unified culture, unified language, unified state, and perhaps a unified civilization. Rapid developments in information technology have spawned new, virtual relationships that lead to cultural entropy. International industrialization has brought the mass production of standardized goods that can be inserted into every market in every place. The reduction of tariffs and creation of free trade zones, elimination of national capital controls, and passage of new subsidies has given rise to sprawling and diversified global corporations. Supranational recognition of international property laws (copyright and patent restrictions) insures the global domination of accepted artforms, though sometimes at the expense of local diversity, traditions and individuality.
+The 1840s form a watershed (of sorts) in globalization with expansion of international economies, as the British forced open the interior of China (in the Opium Wars) and the United States browbeat Japan into opening its ports to Western trade. The integration of separate, highly specialized agricultural production created the first “world economy”: French wines, Australian beef, Indian teas, Japanese rice, South American peppers, African spices. The industrial technologies of the factory, railroad, telegraph, Gatling gun and steamship facilitated similar rules and regulations spreading from nation to nation. Though interrupted briefly by two world wars and a great depression between, globalization resumed its triumphant march as the engines of mass media and advertising spread its tendrils beyond the iron and bamboo curtains … the export dynamics of culture reaching into every village. Sociologists argue the world has entered a frenetic fourth phase of globalization, in which developed and developing nations are becoming equal partners in investment, and as per capita income between the two rapidly converge.
+A brave – although perhaps bland – new world.
+“It has been said that arguing against globalization is like arguing against the laws of gravity.”
+– Kofi Annan
+“One day there will be no borders, no boundaries, no flags and no countries and the only passport will be the heart.”
+– Carlos Santana
+Unlocks
+Requirements
+Information Era
+Required Civics
+Rapid Deployment
+Space Race
+Culture Cost
+Base Cost: 2880
+Culture
+Boosts
+Build 2 Airports.
+Progression
+Leads to Civics
+Future Civic
+Venture Politics
+Distributed Sovereignty
+Optimization Imperative
+Near Future Governance

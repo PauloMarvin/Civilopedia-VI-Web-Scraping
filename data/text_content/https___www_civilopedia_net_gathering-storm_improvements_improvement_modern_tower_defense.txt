@@ -1,0 +1,42 @@
+Reinforced Barricade - Improvements and Routes - Civilopedia - Civilization VI
+Reinforced Barricade
+Description
+An unworkable later Improvement that deals moderate damage to, and exerts zone of control on, hostile units passing through or adjacent to it. Unlocked with Rifling and built using a Charge from a Military Engineer. Does not prevent unit movement through this space.
+Historical Context
+The walking dead do not tire. This is their one great advantage – like a sea, they constantly push against defenses erected to stop them. Eventually, walls of wood and bamboo splinter, and even fieldstone walls crumble. Here, modern materials – reinforced concrete, steel – come in. Just as the Renaissance-era star fort, with its angled walls, was designed to deflect and not absorb the impact of cannon fire, modern defenses emphasize deflecting the walking dead, instead of simply stopping them. Flexible materials bend but do not break, as the dead push on them relentlessly. Smooth surfaces give no handhold to bony fingers, and sluice gates allow ditches and moats to be flushed out, preventing the corpse-pile ramps that could overcome older forms of zombie defense. We should be safe behind these. We should be.
+Requirements
+Technology
+Rifling
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Military Engineer
+Description
+An unworkable later Improvement that deals moderate damage to, and exerts zone of control on, hostile units passing through or adjacent to it. Unlocked with Rifling and built using a Charge from a Military Engineer. Does not prevent unit movement through this space.
+Historical Context
+The walking dead do not tire. This is their one great advantage – like a sea, they constantly push against defenses erected to stop them. Eventually, walls of wood and bamboo splinter, and even fieldstone walls crumble. Here, modern materials – reinforced concrete, steel – come in. Just as the Renaissance-era star fort, with its angled walls, was designed to deflect and not absorb the impact of cannon fire, modern defenses emphasize deflecting the walking dead, instead of simply stopping them. Flexible materials bend but do not break, as the dead push on them relentlessly. Smooth surfaces give no handhold to bony fingers, and sluice gates allow ditches and moats to be flushed out, preventing the corpse-pile ramps that could overcome older forms of zombie defense. We should be safe behind these. We should be.
+Requirements
+Technology
+Rifling
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Military Engineer

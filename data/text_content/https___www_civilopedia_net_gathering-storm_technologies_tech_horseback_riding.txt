@@ -1,0 +1,50 @@
+Horseback Riding - Technologies - Civilopedia - Civilization VI
+Horseback Riding
+Historical Context
+There is archaeological evidence that around 4000 BC humans had used bits on their horses in the basins of the Dnieper and Don rivers; skeletons of horses found in the region shows signs that the horses chomped on bits. Thus, horseback riding. It is thought that the Scythians of the steppes may well have been the first to develop the stirrup and the saddle, although the historical argument is as yet unconvincing. (And ancient Greek historians also claim that the Scythians were the first to geld stallions, hence making them more docile and controllable … but that’s another story.)
+However, horses in the Bronze Age were relatively small by modern standards, some argue too small to be ridden comfortably or for any distance and more likely to have pulled wagons or chariots. On the other hand, Fell ponies – descended from Roman cavalry mounts – can easily carry a full-grown adult, and so it is likely that there was cavalry around long before the Greeks and Romans took to the battlefield (although this light cavalry was hardly a dominate factor in victory, mostly being used to slaughter the defeated foot soldiers trying to flee).
+By the Middle Ages, however, heavily-armored mounted knights dominated warfare in Europe. And in the Far East, Japanese samurai fought from horseback for centuries, although mostly as archers. Indeed, horseback riding archers were the most common type of cavalry in Central Asia for a millennium. The Arabians, astride their magnificent stallions, spread Islam across the Middle East, North Africa, and into India and Europe. Horseback riding quite literally shaped history.
+Save in the Americas, where the native horse breeds had died out. Horseback riding was brought back to North America by European explorers and conquistadors, commencing with Columbus’s 1493 voyage. Soon enough, the Plains Indians would be combating the white settlers from horseback.
+“No hour of life is wasted that is spent in the saddle.”
+– Winston Churchill
+“A man on a horse is spiritually as well as physically bigger than a man on foot.”
+– John Steinbeck
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Archery
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Build a Pasture.
+Progression
+Leads to Technologies
+Construction
+Apprenticeship
+Stirrups
+Historical Context
+There is archaeological evidence that around 4000 BC humans had used bits on their horses in the basins of the Dnieper and Don rivers; skeletons of horses found in the region shows signs that the horses chomped on bits. Thus, horseback riding. It is thought that the Scythians of the steppes may well have been the first to develop the stirrup and the saddle, although the historical argument is as yet unconvincing. (And ancient Greek historians also claim that the Scythians were the first to geld stallions, hence making them more docile and controllable … but that’s another story.)
+However, horses in the Bronze Age were relatively small by modern standards, some argue too small to be ridden comfortably or for any distance and more likely to have pulled wagons or chariots. On the other hand, Fell ponies – descended from Roman cavalry mounts – can easily carry a full-grown adult, and so it is likely that there was cavalry around long before the Greeks and Romans took to the battlefield (although this light cavalry was hardly a dominate factor in victory, mostly being used to slaughter the defeated foot soldiers trying to flee).
+By the Middle Ages, however, heavily-armored mounted knights dominated warfare in Europe. And in the Far East, Japanese samurai fought from horseback for centuries, although mostly as archers. Indeed, horseback riding archers were the most common type of cavalry in Central Asia for a millennium. The Arabians, astride their magnificent stallions, spread Islam across the Middle East, North Africa, and into India and Europe. Horseback riding quite literally shaped history.
+Save in the Americas, where the native horse breeds had died out. Horseback riding was brought back to North America by European explorers and conquistadors, commencing with Columbus’s 1493 voyage. Soon enough, the Plains Indians would be combating the white settlers from horseback.
+“No hour of life is wasted that is spent in the saddle.”
+– Winston Churchill
+“A man on a horse is spiritually as well as physically bigger than a man on foot.”
+– John Steinbeck
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Archery
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Build a Pasture.
+Progression
+Leads to Technologies
+Construction
+Apprenticeship
+Stirrups

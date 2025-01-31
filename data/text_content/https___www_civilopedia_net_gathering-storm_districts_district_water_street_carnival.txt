@@ -1,0 +1,78 @@
+Copacabana - Districts - Civilopedia - Civilization VI
+Copacabana
+Description
+A district unique to Brazil. Replaces the Water Park district, and provides +2
+Amenities. Also unlocks the Carnival project, which grants an additional +1
+Amenity when underway and a variety of
+Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.
+Historical Context
+Justifiably one of the most famous beach neighborhoods in the world (and interestingly, named for a place in the highlands of Bolivia) Copacabana looms large in Brazilian identity domestically and around the world. Officially nestled between Fort Copacabana at the south end and Fort Duque de Caxias at the north end, it was a luxurious neighborhood for the elite of Rio de Janeiro for most of its history, with the Copacabana Palace Hotel as its biggest landmark. In the 1970s when the narrow beach was expanded and the area became a booming destination for sunbathers and tourists of all social classes. It has served as a massive venue for concerts, New Year’s Eve celebrations, and even a papal Mass.
+Traits
+Unique To
+Brazil
+Replaces
+Water Park
++2
+Amenities from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Natural History
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Aquarium
+Aquatics Center
+Ferris Wheel
+Description
+A district unique to Brazil. Replaces the Water Park district, and provides +2
+Amenities. Also unlocks the Carnival project, which grants an additional +1
+Amenity when underway and a variety of
+Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.
+Historical Context
+Justifiably one of the most famous beach neighborhoods in the world (and interestingly, named for a place in the highlands of Bolivia) Copacabana looms large in Brazilian identity domestically and around the world. Officially nestled between Fort Copacabana at the south end and Fort Duque de Caxias at the north end, it was a luxurious neighborhood for the elite of Rio de Janeiro for most of its history, with the Copacabana Palace Hotel as its biggest landmark. In the 1970s when the narrow beach was expanded and the area became a booming destination for sunbathers and tourists of all social classes. It has served as a massive venue for concerts, New Year’s Eve celebrations, and even a papal Mass.
+Traits
+Unique To
+Brazil
+Replaces
+Water Park
++2
+Amenities from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Natural History
+Placement
+Must be placed on Coast, adjacent to land
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Aquarium
+Aquatics Center
+Ferris Wheel

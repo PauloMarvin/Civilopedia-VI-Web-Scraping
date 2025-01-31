@@ -1,0 +1,16 @@
+Launch Earth Satellite - Wonders and Projects - Civilopedia - Civilization VI
+Launch Earth Satellite
+Description
+Space Race project which launches a small satellite into orbit. Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Rocketry
+Description
+Space Race project which launches a small satellite into orbit. Reveals the geography of any unexplored corner of the world, and marks the first step towards the Science Victory.
+Requirements
+District
+Spaceport
+Technology
+Rocketry

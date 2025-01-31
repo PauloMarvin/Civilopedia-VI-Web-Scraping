@@ -1,0 +1,60 @@
+Ideology - Civics - Civilopedia - Civilization VI
+Ideology
+Description
+Grants the ability to construct an additional Spy.
+Historical Context
+The course of modern civilization has been determined by, as much as anything, modern “isms”: capitalism, socialism, communism, fascism, conservatism, liberalism, pluralism, racism, feminism, terrorism, scientism, and an infinite host of other ideologies that dictate how society “should work.”
+At the time of the French Revolution the philosopher Destutt de Tracy used the word idéologie for what he termed his “science of ideas.” In this he had bought into the view of Francis Bacon that the destiny of science was to improve the life of mankind; ideology was science with a mission, aiming to serve men – even saving them from themselves – by ridding their minds of prejudice and preparing them for the supremacy of reason. But when Napoleon linked the word “ideology” with what he considered the more detestable elements of Revolutionary thought, he invested it with disapprobation and fanaticism rather than rationalism (yet more “isms”). Karl Marx, along with influential German sociologists Max Weber and Karl Mannheim, used the term in the pejorative sense of false consciousness engendered by belief systems. From this perspective, a political ideology is an intellectual construct not to be judged in terms of its truth, consistency or clarity, but rather as an expression of some group’s special interests.
+Until the advent of the mass media, the ideologies remained largely theoretical, merely the subject of obscure academic debates. But the ability to promote “causes” through print, radio, newsreels and then television made all the “isms” much more immediate, and crusaders of all ilk invested their identities in one or another. All the wars, movements and genocides of 20th Century civilization can be attributed to divisive ideologies. As Joycelyn Elders states, “we all have got to come to grips with our isms.” Otherwise, the future looks grim.
+“It has been demonstrated that no system, not even the most inhuman, can continue to exist without an ideology.”
+– Joe Slovo
+“Slowly, ideas lead to ideology, lead to policies that lead to actions.”
+– Nandan Nilekani
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Mass Media
+Mobilization
+Culture Cost
+Base Cost: 1640
+Culture
+Progression
+Leads to Civics
+Nuclear Program
+Suffrage
+Totalitarianism
+Class Struggle
+Cold War
+Professional Sports
+Description
+Grants the ability to construct an additional Spy.
+Historical Context
+The course of modern civilization has been determined by, as much as anything, modern “isms”: capitalism, socialism, communism, fascism, conservatism, liberalism, pluralism, racism, feminism, terrorism, scientism, and an infinite host of other ideologies that dictate how society “should work.”
+At the time of the French Revolution the philosopher Destutt de Tracy used the word idéologie for what he termed his “science of ideas.” In this he had bought into the view of Francis Bacon that the destiny of science was to improve the life of mankind; ideology was science with a mission, aiming to serve men – even saving them from themselves – by ridding their minds of prejudice and preparing them for the supremacy of reason. But when Napoleon linked the word “ideology” with what he considered the more detestable elements of Revolutionary thought, he invested it with disapprobation and fanaticism rather than rationalism (yet more “isms”). Karl Marx, along with influential German sociologists Max Weber and Karl Mannheim, used the term in the pejorative sense of false consciousness engendered by belief systems. From this perspective, a political ideology is an intellectual construct not to be judged in terms of its truth, consistency or clarity, but rather as an expression of some group’s special interests.
+Until the advent of the mass media, the ideologies remained largely theoretical, merely the subject of obscure academic debates. But the ability to promote “causes” through print, radio, newsreels and then television made all the “isms” much more immediate, and crusaders of all ilk invested their identities in one or another. All the wars, movements and genocides of 20th Century civilization can be attributed to divisive ideologies. As Joycelyn Elders states, “we all have got to come to grips with our isms.” Otherwise, the future looks grim.
+“It has been demonstrated that no system, not even the most inhuman, can continue to exist without an ideology.”
+– Joe Slovo
+“Slowly, ideas lead to ideology, lead to policies that lead to actions.”
+– Nandan Nilekani
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Modern Era
+Required Civics
+Mass Media
+Mobilization
+Culture Cost
+Base Cost: 1640
+Culture
+Progression
+Leads to Civics
+Nuclear Program
+Suffrage
+Totalitarianism
+Class Struggle
+Cold War
+Professional Sports

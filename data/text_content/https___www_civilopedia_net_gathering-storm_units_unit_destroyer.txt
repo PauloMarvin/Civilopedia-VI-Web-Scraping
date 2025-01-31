@@ -1,0 +1,62 @@
+Destroyer - Units - Civilopedia - Civilization VI
+Destroyer
+Description
+Strongest melee naval unit. Reveals Naval Raiders within sight range.
+Historical Context
+Originally developed in the late 19th Century to keep those annoying torpedo boats away from the dreadnoughts and first seeing action during the Russo-Japanese War in 1904, destroyers have come to fulfill many duties for the world’s navies: patrol, escort, anti-air, and anti-submarine. The first ships to be designated “torpedo boat destroyer” (TBD or simply “destroyer”) were the six of the British Royal Navy’s Daring class (1892) and Havock class (1893) and Ferret class (1894); with light armor, displacing under 300 tons, armed with a single 12-pounder and several smaller guns and with one or more torpedo tubes, soon enough other navies copied the design. Tasked with screening friendly ships and attacking enemy ones, destroyers served throughout WW1 and proved especially effective against submarines stalking merchant shipping. By WW2, destroyers were even faster, more maneuverable, carrying enough ordnance and supplies for long-range missions; in both oceans they were to be the workhorses of the contending navies. Since, the 1960s guided-missile destroyers have been added to the mix.
+Traits
+Upgrade From
+Ironclad
+Promotion Class: Naval Melee
+4
+Movement Points
+85
+Melee Strength
+90
+Anti-air Strength
+Requirements
+Technology
+Combined Arms
+Production Cost
+Base Cost: 540
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2160
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Oil per turn
+Description
+Strongest melee naval unit. Reveals Naval Raiders within sight range.
+Historical Context
+Originally developed in the late 19th Century to keep those annoying torpedo boats away from the dreadnoughts and first seeing action during the Russo-Japanese War in 1904, destroyers have come to fulfill many duties for the world’s navies: patrol, escort, anti-air, and anti-submarine. The first ships to be designated “torpedo boat destroyer” (TBD or simply “destroyer”) were the six of the British Royal Navy’s Daring class (1892) and Havock class (1893) and Ferret class (1894); with light armor, displacing under 300 tons, armed with a single 12-pounder and several smaller guns and with one or more torpedo tubes, soon enough other navies copied the design. Tasked with screening friendly ships and attacking enemy ones, destroyers served throughout WW1 and proved especially effective against submarines stalking merchant shipping. By WW2, destroyers were even faster, more maneuverable, carrying enough ordnance and supplies for long-range missions; in both oceans they were to be the workhorses of the contending navies. Since, the 1960s guided-missile destroyers have been added to the mix.
+Traits
+Upgrade From
+Ironclad
+Promotion Class: Naval Melee
+4
+Movement Points
+85
+Melee Strength
+90
+Anti-air Strength
+Requirements
+Technology
+Combined Arms
+Production Cost
+Base Cost: 540
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2160
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Oil per turn

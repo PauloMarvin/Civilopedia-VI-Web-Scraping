@@ -1,0 +1,12 @@
+Create New Tea Product - Wonders and Projects - Civilopedia - Civilization VI
+Create New Tea Product
+Description
+Create a new product for the world based on the
+Tea resource.
++15%
+Science yield in host city.
+Description
+Create a new product for the world based on the
+Tea resource.
++15%
+Science yield in host city.

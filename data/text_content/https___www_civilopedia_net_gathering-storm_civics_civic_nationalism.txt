@@ -1,0 +1,54 @@
+Nationalism - Civics - Civilopedia - Civilization VI
+Nationalism
+Description
+Grants the ability to construct an additional Spy. Allows forming two identical units into a Corps or Fleet. Allows one new Casus Belli that can be used to justify wars: Colonial War.
+Historical Context
+According to political scientists, nationalism “arises and flourishes in modern societies described as being associated with having an industrial economy capable of self-sustainability of the society, a central supreme authority capable of maintaining authority and unity, and a centralized language or small group of centralized languages understood by the community of people.” Simply put, nationalism is overweening patriotism, an identification first with one’s country rather than town, region, or extended family. The roots of it can be traced back to the Hebrews, but they weren’t alone, for in the following centuries this nationalistic pride was found among the Greeks, Romans, Chinese, and Catholic Europe.
+The growth of the middle classes, their growing desire for political power, and the subsequent development of democratic thinking helped fuel the rise of nationalism. But it was the French Revolution that gave birth to nationalistic expression. To those revolutionary thinkers that undertook the Terror, the “nation” was inseparable from the “people,” and for the first time a people would create a government in accordance with their collective will, glorifying the nation through the principles of liberty, equality and brotherhood. Thus began the political transformation of civilization. Meanwhile, German philosophers such as Hegel and Herder argued that a sense of nationality held modern societies together, through cultural self-expressions of nationhood. Then the Napoleonic wars spurred all sorts of folk to resist foreign domination (whether by emperors or revolutionaries) based on racial, ethnic, linguistic or religious identification.
+As the Holy Roman Empire fell apart, and the Austro-Hungarian and Ottoman ones stumbled, all sorts of peoples found a nationalistic voice – the Poles, Greeks, Magyars, among others. On the periphery, campaigns for independence fueled by rampant nationalism in Ireland, Norway and Bulgaria made progress. The unruly small kingdoms in Germany and Italy coalesced into new nations, each with a common sense of identity and destiny. And in Serbia all this managed to ignite a world war … driven by nationalism.
+“It is nationalism which engenders nations, and not the other way round.”
+– Ernest Gellner
+“Human nature, as manifested in tribalism and nationalism, provides the momentum of the machinery of human evolution.”
+– Arthur Keith
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+The Enlightenment
+Culture Cost
+Base Cost: 1010
+Culture
+Boosts
+Declare war using a casus belli.
+Progression
+Leads to Civics
+Scorched Earth
+Urbanization
+Description
+Grants the ability to construct an additional Spy. Allows forming two identical units into a Corps or Fleet. Allows one new Casus Belli that can be used to justify wars: Colonial War.
+Historical Context
+According to political scientists, nationalism “arises and flourishes in modern societies described as being associated with having an industrial economy capable of self-sustainability of the society, a central supreme authority capable of maintaining authority and unity, and a centralized language or small group of centralized languages understood by the community of people.” Simply put, nationalism is overweening patriotism, an identification first with one’s country rather than town, region, or extended family. The roots of it can be traced back to the Hebrews, but they weren’t alone, for in the following centuries this nationalistic pride was found among the Greeks, Romans, Chinese, and Catholic Europe.
+The growth of the middle classes, their growing desire for political power, and the subsequent development of democratic thinking helped fuel the rise of nationalism. But it was the French Revolution that gave birth to nationalistic expression. To those revolutionary thinkers that undertook the Terror, the “nation” was inseparable from the “people,” and for the first time a people would create a government in accordance with their collective will, glorifying the nation through the principles of liberty, equality and brotherhood. Thus began the political transformation of civilization. Meanwhile, German philosophers such as Hegel and Herder argued that a sense of nationality held modern societies together, through cultural self-expressions of nationhood. Then the Napoleonic wars spurred all sorts of folk to resist foreign domination (whether by emperors or revolutionaries) based on racial, ethnic, linguistic or religious identification.
+As the Holy Roman Empire fell apart, and the Austro-Hungarian and Ottoman ones stumbled, all sorts of peoples found a nationalistic voice – the Poles, Greeks, Magyars, among others. On the periphery, campaigns for independence fueled by rampant nationalism in Ireland, Norway and Bulgaria made progress. The unruly small kingdoms in Germany and Italy coalesced into new nations, each with a common sense of identity and destiny. And in Serbia all this managed to ignite a world war … driven by nationalism.
+“It is nationalism which engenders nations, and not the other way round.”
+– Ernest Gellner
+“Human nature, as manifested in tribalism and nationalism, provides the momentum of the machinery of human evolution.”
+– Arthur Keith
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+The Enlightenment
+Culture Cost
+Base Cost: 1010
+Culture
+Boosts
+Declare war using a casus belli.
+Progression
+Leads to Civics
+Scorched Earth
+Urbanization

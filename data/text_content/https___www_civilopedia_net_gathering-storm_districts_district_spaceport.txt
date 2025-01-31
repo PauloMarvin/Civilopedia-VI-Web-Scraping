@@ -1,0 +1,38 @@
+Spaceport - Districts - Civilopedia - Civilization VI
+Spaceport
+Description
+A district that is required to construct the Science Victory projects. This includes Launch Earth Satellite, Launch Moon Landing, Launch Mars Colony, and Launch Exoplanet Expedition. Cannot be built on Hills.
+Historical Context
+The image of a spaceport (or cosmodrome) as a gateway to the stars is evocative of adventure and discovery, of the next “great frontier” for civilization. The reality is much more prosaic: a place to launch (and maybe eventually land) rockets, much like a seaport for ships or airport for planes. Like those, a spaceport consists of derricks, cranes, administration buildings, control centers, fuel tanks and the working infrastructure. The world’s first permanent facility for orbital, manned launches was Baikonur – which had started as a Soviet military test range – in 1955 AD. Spurred by that the United States soon converted the Air Force Missile Test Center at Cape Canaveral to launch sub-orbital and then orbital rocket test flights … and the space race was on.
+Traits
+Appeal to Adjacent Tiles: -1
+Requirements
+Technology
+Rocketry
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1800
+Production
+Description
+A district that is required to construct the Science Victory projects. This includes Launch Earth Satellite, Launch Moon Landing, Launch Mars Colony, and Launch Exoplanet Expedition. Cannot be built on Hills.
+Historical Context
+The image of a spaceport (or cosmodrome) as a gateway to the stars is evocative of adventure and discovery, of the next “great frontier” for civilization. The reality is much more prosaic: a place to launch (and maybe eventually land) rockets, much like a seaport for ships or airport for planes. Like those, a spaceport consists of derricks, cranes, administration buildings, control centers, fuel tanks and the working infrastructure. The world’s first permanent facility for orbital, manned launches was Baikonur – which had started as a Soviet military test range – in 1955 AD. Spurred by that the United States soon converted the Air Force Missile Test Center at Cape Canaveral to launch sub-orbital and then orbital rocket test flights … and the space race was on.
+Traits
+Appeal to Adjacent Tiles: -1
+Requirements
+Technology
+Rocketry
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1800
+Production

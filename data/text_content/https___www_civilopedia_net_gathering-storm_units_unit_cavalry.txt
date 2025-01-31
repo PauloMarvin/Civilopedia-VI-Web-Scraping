@@ -1,0 +1,64 @@
+Cavalry - Units - Civilopedia - Civilization VI
+Cavalry
+Description
+Fast-moving Industrial era light cavalry unit.
+Historical Context
+Technically, any unit that fought from horseback (or these days motorized or even helicopter transport) – archers, knights, lancers, dragoons, hussars, uhlans, cossacks, cuirassiers, etc. – is considered “cavalry.” But when the common sort think of the term, they envision sabre- and rifle-armed bravadoes mounted on magnificent steeds … the most mobile and noble (a misperception left over from the Age of Chivalry) of the traditional military branches. By the time of the Seven Years and Napoleonic wars, the standard cavalry were increasingly armed with pistols, sabres and small rifles, and thus able to fight either dismounted or from horseback. Speedy and maneuverable, they served as reconnaissance and raiding units, battlefield stalwarts, and pursuers of the defeated. Able to ride down the enemy under suitable conditions or gallantly run away when not, cavalry served in every military campaign through WW2, when horse-borne cavalry had its last hurrah.
+Traits
+Upgrades To
+Helicopter
+Upgrade From
+Malón Raider
+Courser
+Black Army
+Oromo Cavalry
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Fast-moving Industrial era light cavalry unit.
+Historical Context
+Technically, any unit that fought from horseback (or these days motorized or even helicopter transport) – archers, knights, lancers, dragoons, hussars, uhlans, cossacks, cuirassiers, etc. – is considered “cavalry.” But when the common sort think of the term, they envision sabre- and rifle-armed bravadoes mounted on magnificent steeds … the most mobile and noble (a misperception left over from the Age of Chivalry) of the traditional military branches. By the time of the Seven Years and Napoleonic wars, the standard cavalry were increasingly armed with pistols, sabres and small rifles, and thus able to fight either dismounted or from horseback. Speedy and maneuverable, they served as reconnaissance and raiding units, battlefield stalwarts, and pursuers of the defeated. Able to ride down the enemy under suitable conditions or gallantly run away when not, cavalry served in every military campaign through WW2, when horse-borne cavalry had its last hurrah.
+Traits
+Upgrades To
+Helicopter
+Upgrade From
+Malón Raider
+Courser
+Black Army
+Oromo Cavalry
+Promotion Class: Light Cavalry
+5
+Movement Points
+62
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

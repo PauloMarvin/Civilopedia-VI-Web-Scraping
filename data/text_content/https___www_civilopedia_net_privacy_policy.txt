@@ -1,0 +1,21 @@
+Copyright
+Privacy Policy
+Privacy Policy
+1. Information Collection and Use
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+Google Play Services
+Google AdMob
+Firebase Analytics
+Crashlytics
+2. Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+3. How We Use Information We Collect
+We may use, store, and process personal information to
+(1) provide, understand, improve, and develop the website/app,
+(2) provide, measure, and improve our advertising and marketing.
+4. Contact Us
+If you have any questions or complaints about this Privacy Policy, you may contact us via
+mail
+.

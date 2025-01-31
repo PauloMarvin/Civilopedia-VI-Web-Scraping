@@ -1,0 +1,88 @@
+Oil Power Plant - Buildings - Civilopedia - Civilization VI
+Oil Power Plant
+Description
+Automatically converts any amount of
+Oil into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Oil
+4
+Power
+Moderate CO2 into the atmosphere
+Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Historical Context
+Petroleum refining technologies improved at the start of the twentieth century, making gasoline, kerosene, and the lower-grade fuel oil available to consumers.  Like coal, oil burns hotter than wood, and thus can create steam more efficiently—but even burning oil is an inefficient way to turn the potential energy of oil molecules into electricity. Like coal, burning oil creates hazardous particulate waste in the smoke and releases CO2 into the atmosphere.
+Oil used in power plants and industrial turbines is not as heavily refined as the petroleum that powers most internal combustion engines, but it still must be refined from the world's reserves of crude petroleum, which represent a limited and diminishing resource in the early twenty-first century.
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Electricity
+Building
+Factory
+Mutually Exclusive With
+Coal Power Plant
+Nuclear Power Plant
+Production Cost
+Base Cost: 360
+Production
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Automatically converts any amount of
+Oil into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Oil
+4
+Power
+Moderate CO2 into the atmosphere
+Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Historical Context
+Petroleum refining technologies improved at the start of the twentieth century, making gasoline, kerosene, and the lower-grade fuel oil available to consumers.  Like coal, oil burns hotter than wood, and thus can create steam more efficiently—but even burning oil is an inefficient way to turn the potential energy of oil molecules into electricity. Like coal, burning oil creates hazardous particulate waste in the smoke and releases CO2 into the atmosphere.
+Oil used in power plants and industrial turbines is not as heavily refined as the petroleum that powers most internal combustion engines, but it still must be refined from the world's reserves of crude petroleum, which represent a limited and diminishing resource in the early twenty-first century.
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Industrial Zone
+Technology
+Electricity
+Building
+Factory
+Mutually Exclusive With
+Coal Power Plant
+Nuclear Power Plant
+Production Cost
+Base Cost: 360
+Production
+Purchase Cost
+Base Cost: 1440
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

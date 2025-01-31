@@ -1,0 +1,32 @@
+Advanced Power Cells - Technologies - Civilopedia - Civilization VI
+Advanced Power Cells
+Description
+CO2 emissions from units reduced by 50%. Unlocks Giant Death Robot upgrade: Particle Beam Siege Cannon
+Ranged attacks against Cities and Encampments are 100% effective and gain +30
+Ranged Strength.
+Historical Context
+The first true solid-state device for generating electricity was created by the Italian inventor Alessandro Volta in 1800. There have been countless refinements to Volta's electrochemical cell design since then, and with the digital revolution the development of battery technology has undergone ever-greater investment and interest. A live electronic device is capable of marvels. One without a working battery is an expensive hindrance. Increases in capacity, working voltage, and lifespan continue, and the search continues for a reliable, affordable means of storing energy.
+“The incomplete becomes complete; the crooked becomes straight; the empty becomes full; the worn out becomes new.”
+- Tao Te Ching, Lao Tzu
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.
+Description
+CO2 emissions from units reduced by 50%. Unlocks Giant Death Robot upgrade: Particle Beam Siege Cannon
+Ranged attacks against Cities and Encampments are 100% effective and gain +30
+Ranged Strength.
+Historical Context
+The first true solid-state device for generating electricity was created by the Italian inventor Alessandro Volta in 1800. There have been countless refinements to Volta's electrochemical cell design since then, and with the digital revolution the development of battery technology has undergone ever-greater investment and interest. A live electronic device is capable of marvels. One without a working battery is an expensive hindrance. Increases in capacity, working voltage, and lifespan continue, and the search continues for a reliable, affordable means of storing energy.
+“The incomplete becomes complete; the crooked becomes straight; the empty becomes full; the worn out becomes new.”
+- Tao Te Ching, Lao Tzu
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.

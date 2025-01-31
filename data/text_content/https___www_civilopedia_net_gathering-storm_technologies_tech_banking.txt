@@ -1,0 +1,48 @@
+Banking - Technologies - Civilopedia - Civilization VI
+Banking
+Historical Context
+Although there had been “banks” before – Hammurabi even set down laws governing banking in his famous Code – mostly these were private individuals that made loans, with various unsavory methods to insure repayment. With the fall of Rome in the West and the fall of money lending, Banks did not reappear in Europe until the Middle Ages, rediscovered by rulers looking for ways to fund their bloody and expensive Crusades. Benches were used by Jewish Florentine money-lenders as temporary exchange tables, and hence the term “bank.” Until laws were passed against usury, such as that of Edward I of England in 1275 AD (who used it as an excuse to seize the wealth of hundreds of executed Jews), it was not unknown for such loans to carry 24% or even 48% interest.
+During the 14th Century, avaricious and clever individuals in families such as the Bardi, de Medici, Peruzzi, Gondi and others established permanent banks in their home cities of Florence, Genoa, Venice, Siena, Rome and elsewhere across Italy. The oldest bank still open is the Monte dei Paschi in Siena, operating continuously since 1472. Soon enough the ruling princes got into the act; in 1407 the first state-chartered bank, the Bank of St. George, was founded by the Doge of Genoa (it ceased operations in 1805 after Napoleon’s invasion).
+Meanwhile, by the time of the Song dynasty in China the two types of traditional financial institutions – the piaohao (nationwide) and the qianzhuang (local) – were in operation, facilitated by the creation of China’s first paper money in 1024 AD by the state of Sichuan. Although Chinese banks tended to focus on commercial banking based on personal relationships, all the major banking functions found in Europe had arisen independently there as well: deposits, loans, issuing notes, currency exchange, and money transfers.
+The arrival of the telegraph and electricity allowed international banking on a grand scale, pioneered by the Rothschilds. Today, banks generally perform the same functions that they did during the Renaissance. And still make a comfortable profit (not to use the term “usury”) doing so.
+“If you owe the bank $100 that’s your problem. If you owe the bank $100 million, that’s the bank’s problem.”
+– J. Paul Getty
+“I saw a bank that said ’24-Hour Banking,’ but I didn’t have that much time.”
+– Steven Wright
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Stirrups
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Have the Guilds civic.
+Progression
+Leads to Technologies
+Scientific Theory
+Historical Context
+Although there had been “banks” before – Hammurabi even set down laws governing banking in his famous Code – mostly these were private individuals that made loans, with various unsavory methods to insure repayment. With the fall of Rome in the West and the fall of money lending, Banks did not reappear in Europe until the Middle Ages, rediscovered by rulers looking for ways to fund their bloody and expensive Crusades. Benches were used by Jewish Florentine money-lenders as temporary exchange tables, and hence the term “bank.” Until laws were passed against usury, such as that of Edward I of England in 1275 AD (who used it as an excuse to seize the wealth of hundreds of executed Jews), it was not unknown for such loans to carry 24% or even 48% interest.
+During the 14th Century, avaricious and clever individuals in families such as the Bardi, de Medici, Peruzzi, Gondi and others established permanent banks in their home cities of Florence, Genoa, Venice, Siena, Rome and elsewhere across Italy. The oldest bank still open is the Monte dei Paschi in Siena, operating continuously since 1472. Soon enough the ruling princes got into the act; in 1407 the first state-chartered bank, the Bank of St. George, was founded by the Doge of Genoa (it ceased operations in 1805 after Napoleon’s invasion).
+Meanwhile, by the time of the Song dynasty in China the two types of traditional financial institutions – the piaohao (nationwide) and the qianzhuang (local) – were in operation, facilitated by the creation of China’s first paper money in 1024 AD by the state of Sichuan. Although Chinese banks tended to focus on commercial banking based on personal relationships, all the major banking functions found in Europe had arisen independently there as well: deposits, loans, issuing notes, currency exchange, and money transfers.
+The arrival of the telegraph and electricity allowed international banking on a grand scale, pioneered by the Rothschilds. Today, banks generally perform the same functions that they did during the Renaissance. And still make a comfortable profit (not to use the term “usury”) doing so.
+“If you owe the bank $100 that’s your problem. If you owe the bank $100 million, that’s the bank’s problem.”
+– J. Paul Getty
+“I saw a bank that said ’24-Hour Banking,’ but I didn’t have that much time.”
+– Steven Wright
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Stirrups
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Have the Guilds civic.
+Progression
+Leads to Technologies
+Scientific Theory

@@ -1,0 +1,58 @@
+Open-Air Museum - Improvements and Routes - Civilopedia - Civilization VI
+Open-Air Museum
+Description
+Unlocks the Builder ability to construct an Open-Air Museum, unique to Sweden.
+Provides +2 Loyalty per turn in this city. +2
+Culture and +2
+Tourism for each type of terrain (Snow, Tundra, Desert, Plains or Grassland) in which at least one Swedish city is founded. One per city. Tiles with Open-Air Museums cannot be swapped.
+Historical Context
+There are a lot of things which are worth preserving and studying for future generations, but not all of them fit nicely into glass cases or hang well on the walls. You might want to preserve something as complex as a village or a farm to show how it would have worked as a system, or to show a way of life no longer widely practiced. It was in this spirit that the open air museum was created.
+The first open air museum was King Oscar II's collection outside of Oslo, Norway, which includes a traditional Norwegian Stave Church (see the Stave Church entry for more information.) The Skansen in Stockholm, Sweden, was founded in 1891 to preserve the declining traditions of Swedish rural life in the face of growing urbanization and industrialization. The term “skansen” has entered the lexicon as a shorthand for open air museums, especially those that focus on collecting historical structures.
+Open air museums celebrate culture beyond that typically preserved in museums—honoring the culture of ordinary people, not merely the great and grand. A folk song or blacksmith's craft taught to a future generation surely serves to link a people to their past as surely as an operatic aria or an allegorical oil painting. Perhaps even more so.
+Traits
+Unique To
+Sweden
+Requirements
+Civic
+Nationalism
+Plains (Hills)
+Plains
+Grassland (Hills)
+Grassland
+Desert (Hills)
+Desert
+Tundra (Hills)
+Tundra
+Snow (Hills)
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct an Open-Air Museum, unique to Sweden.
+Provides +2 Loyalty per turn in this city. +2
+Culture and +2
+Tourism for each type of terrain (Snow, Tundra, Desert, Plains or Grassland) in which at least one Swedish city is founded. One per city. Tiles with Open-Air Museums cannot be swapped.
+Historical Context
+There are a lot of things which are worth preserving and studying for future generations, but not all of them fit nicely into glass cases or hang well on the walls. You might want to preserve something as complex as a village or a farm to show how it would have worked as a system, or to show a way of life no longer widely practiced. It was in this spirit that the open air museum was created.
+The first open air museum was King Oscar II's collection outside of Oslo, Norway, which includes a traditional Norwegian Stave Church (see the Stave Church entry for more information.) The Skansen in Stockholm, Sweden, was founded in 1891 to preserve the declining traditions of Swedish rural life in the face of growing urbanization and industrialization. The term “skansen” has entered the lexicon as a shorthand for open air museums, especially those that focus on collecting historical structures.
+Open air museums celebrate culture beyond that typically preserved in museums—honoring the culture of ordinary people, not merely the great and grand. A folk song or blacksmith's craft taught to a future generation surely serves to link a people to their past as surely as an operatic aria or an allegorical oil painting. Perhaps even more so.
+Traits
+Unique To
+Sweden
+Requirements
+Civic
+Nationalism
+Plains (Hills)
+Plains
+Grassland (Hills)
+Grassland
+Desert (Hills)
+Desert
+Tundra (Hills)
+Tundra
+Snow (Hills)
+Snow
+Usage
+Built By
+Builder

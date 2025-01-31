@@ -1,0 +1,66 @@
+Military Engineer - Units - Civilopedia - Civilization VI
+Military Engineer
+Description
+Medieval era support unit. Requires an Armory to produce. Can construct Roads, Railroads, Forts, Airstrips, Missile Silos, and Mountain Tunnel improvements. One of their build charges can also be used to complete 20% of a Canal, Dam or Aqueduct district or a Flood Barrier building.
+Historical Context
+Military engineers – as opposed to “combat” engineers who are crazy enough to rush into battle carrying tools and explosives rather than weapons – are tasked with building fortifications and other structures and creating and maintaining lines of supply and communication. The most victorious armies of the past – Roman, Chinese, Ottoman, British, etc. – all had superior military engineering units, to which much of their success was owed, both for protecting their own troops and knocking down the enemy’s defenses. Just ask the Gauls at Alesia (52 BC) or the Zealots at Jerusalem (70 AD). Following the fall of Rome in the west, military engineering – like just about everything else – entered a “dark age,” not to be revived until the mid-Middle Ages, when once again sieges were prevalent. By the end of the age, military engineers were again an integral part of any victorious army. Throughout the Napoleonic, Crimean, various civil and world wars, military engineers were divided into ever-more specialties. These days, a military professional needs a degree in civil, electrical, mechanical, architectural or even environmental engineering to be given the chance to build things...or tear them down.
+Traits
+Promotion Class: Support
+2
+Movement Points
+2
+Build Charges
+Requirements
+Technology
+Military Engineering
+Building
+Armory
+Production Cost
+Base Cost: 170
+Production
+Purchase Cost
+Base Cost: 680
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Usage
+Can Construct
+Fort
+Airstrip
+Missile Silo
+Mountain Tunnel
+Reinforced Barricade
+Modernized Trap
+Description
+Medieval era support unit. Requires an Armory to produce. Can construct Roads, Railroads, Forts, Airstrips, Missile Silos, and Mountain Tunnel improvements. One of their build charges can also be used to complete 20% of a Canal, Dam or Aqueduct district or a Flood Barrier building.
+Historical Context
+Military engineers – as opposed to “combat” engineers who are crazy enough to rush into battle carrying tools and explosives rather than weapons – are tasked with building fortifications and other structures and creating and maintaining lines of supply and communication. The most victorious armies of the past – Roman, Chinese, Ottoman, British, etc. – all had superior military engineering units, to which much of their success was owed, both for protecting their own troops and knocking down the enemy’s defenses. Just ask the Gauls at Alesia (52 BC) or the Zealots at Jerusalem (70 AD). Following the fall of Rome in the west, military engineering – like just about everything else – entered a “dark age,” not to be revived until the mid-Middle Ages, when once again sieges were prevalent. By the end of the age, military engineers were again an integral part of any victorious army. Throughout the Napoleonic, Crimean, various civil and world wars, military engineers were divided into ever-more specialties. These days, a military professional needs a degree in civil, electrical, mechanical, architectural or even environmental engineering to be given the chance to build things...or tear them down.
+Traits
+Promotion Class: Support
+2
+Movement Points
+2
+Build Charges
+Requirements
+Technology
+Military Engineering
+Building
+Armory
+Production Cost
+Base Cost: 170
+Production
+Purchase Cost
+Base Cost: 680
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Usage
+Can Construct
+Fort
+Airstrip
+Missile Silo
+Mountain Tunnel
+Reinforced Barricade
+Modernized Trap

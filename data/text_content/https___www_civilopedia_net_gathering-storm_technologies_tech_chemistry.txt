@@ -1,0 +1,46 @@
+Chemistry - Technologies - Civilopedia - Civilization VI
+Chemistry
+Historical Context
+As astronomy evolved from astrology, chemistry evolved from another pseudoscience: alchemy. Alchemy spans four millennia and three continents; never underestimate mankind’s ability to believe in the irrational. The roots of Western alchemy can be traced to Hellenic Egypt, where Zosimos of Panopolis claimed that the ancient priests had discovered a way to transmute metals from one to another (such as lead to gold, the “Holy Grail” for alchemists). However, the method and the mix of elements that could bring this about had been lost. Whatever the hair-brained basis, this led hundreds of “scientists” over the centuries to investigate and record the chemical properties of various metals, liquids and compounds.
+But by the Renaissance, scholars had decided that transmutation – at least in this manner – was a pipe-dream, and began to organize what knowledge the alchemists had stumbled across. The posthumously-published work of Jan van Helmont in 1648 AD was the principle bridge between alchemy and chemistry, and enormously influential on Robert Boyle, an English scientist who published The Skeptical Chymist in 1661, the cornerstone of modern chemistry. Chemistry achieved its dignified status in 1789, when Antoine Lavoisier published a paper describing the law of conservation of mass. In “Elements of Chemistry,” Lavoisier revealed the composition of air and water, coining the term “oxygen.” If Boyle is the godfather, Lavoisier is considered the father of chemistry.
+As new equipment became available in the following two centuries, chemistry became an experimental science, with its own theoretical base. In 1803 John Dalton was the first to propose the atomic theory. The “gas laws” soon followed, along with Dmitri Mendeleev’s periodic table and Willard Gibbs’ laws of thermodynamics. In the 1890s the Curies pioneered the study of radioactivity in elements. By the turn of the new century, chemists were inventing all sorts of things – plastic, synthetic fibers, new drugs (some with medicinal properties), improved poisons, better explosives, and much more. Or, as the chemical firm DuPont would have it, “Better living through chemistry.”
+“Chemistry is the dirty part of physics.”
+– Peter Reiss
+“Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.”
+– Sir William Crookes
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Sanitation
+Replaceable Parts
+Research Cost
+Base Cost: 1370
+Science
+Boosts
+Have a level 2 Alliance.
+Progression
+Leads to Technologies
+Rocketry
+Historical Context
+As astronomy evolved from astrology, chemistry evolved from another pseudoscience: alchemy. Alchemy spans four millennia and three continents; never underestimate mankind’s ability to believe in the irrational. The roots of Western alchemy can be traced to Hellenic Egypt, where Zosimos of Panopolis claimed that the ancient priests had discovered a way to transmute metals from one to another (such as lead to gold, the “Holy Grail” for alchemists). However, the method and the mix of elements that could bring this about had been lost. Whatever the hair-brained basis, this led hundreds of “scientists” over the centuries to investigate and record the chemical properties of various metals, liquids and compounds.
+But by the Renaissance, scholars had decided that transmutation – at least in this manner – was a pipe-dream, and began to organize what knowledge the alchemists had stumbled across. The posthumously-published work of Jan van Helmont in 1648 AD was the principle bridge between alchemy and chemistry, and enormously influential on Robert Boyle, an English scientist who published The Skeptical Chymist in 1661, the cornerstone of modern chemistry. Chemistry achieved its dignified status in 1789, when Antoine Lavoisier published a paper describing the law of conservation of mass. In “Elements of Chemistry,” Lavoisier revealed the composition of air and water, coining the term “oxygen.” If Boyle is the godfather, Lavoisier is considered the father of chemistry.
+As new equipment became available in the following two centuries, chemistry became an experimental science, with its own theoretical base. In 1803 John Dalton was the first to propose the atomic theory. The “gas laws” soon followed, along with Dmitri Mendeleev’s periodic table and Willard Gibbs’ laws of thermodynamics. In the 1890s the Curies pioneered the study of radioactivity in elements. By the turn of the new century, chemists were inventing all sorts of things – plastic, synthetic fibers, new drugs (some with medicinal properties), improved poisons, better explosives, and much more. Or, as the chemical firm DuPont would have it, “Better living through chemistry.”
+“Chemistry is the dirty part of physics.”
+– Peter Reiss
+“Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.”
+– Sir William Crookes
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Sanitation
+Replaceable Parts
+Research Cost
+Base Cost: 1370
+Science
+Boosts
+Have a level 2 Alliance.
+Progression
+Leads to Technologies
+Rocketry

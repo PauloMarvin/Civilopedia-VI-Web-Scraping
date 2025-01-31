@@ -1,0 +1,50 @@
+Venetian Arsenal - Wonders and Projects - Civilopedia - Civilization VI
+Venetian Arsenal
+Description
+Receive a second naval unit each time you train a naval unit. Must be built on a Coast tile that is adjacent to an Industrial Zone district.
+Historical Context
+The Arsenal of Venice, begun about 1104 AD, was eventually a sprawling complex of shipyards, armories, and weapons shops. Built to serve the needs of the Venetian Navy upon which the Republic relied for both its independence and its lucrative sea trade routes, it was termed “the most important example of a large production complex with a centralized structure of the pre-industrial” civilization. Different areas of the Arsenal produced a prefabricated ship part, armaments, rope, sails and everything needed to put together a warship in a single day if necessity demanded. A state-owned forest in the Montello hills provided the timber and tar. The Porto Magna (“great gate”) to the Arsenal was added c. 1460, from a design by the artist Jacopo Bellini, the first Classical Revival structure built in Venice; two stone lions, captured in Greece, were added to the entrance in 1687 to awe visitors. The Arsenal also, when not launching warships to beat down Venice’s challengers in the Mediterranean, produced most of the Venetian merchant ships bringing wealth back to the city-state … to build more ships.
+“The commonwealth of Venice in their armory have this inscription: ‘Happy is that city which in time of peace thinks of war.’”
+– Robert Burton
+Traits
+Removed if game started after
+Modern Era
++2
+Great Engineer points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Mass Production
+Adjacency
+Industrial Zone
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 920
+Production
+Description
+Receive a second naval unit each time you train a naval unit. Must be built on a Coast tile that is adjacent to an Industrial Zone district.
+Historical Context
+The Arsenal of Venice, begun about 1104 AD, was eventually a sprawling complex of shipyards, armories, and weapons shops. Built to serve the needs of the Venetian Navy upon which the Republic relied for both its independence and its lucrative sea trade routes, it was termed “the most important example of a large production complex with a centralized structure of the pre-industrial” civilization. Different areas of the Arsenal produced a prefabricated ship part, armaments, rope, sails and everything needed to put together a warship in a single day if necessity demanded. A state-owned forest in the Montello hills provided the timber and tar. The Porto Magna (“great gate”) to the Arsenal was added c. 1460, from a design by the artist Jacopo Bellini, the first Classical Revival structure built in Venice; two stone lions, captured in Greece, were added to the entrance in 1687 to awe visitors. The Arsenal also, when not launching warships to beat down Venice’s challengers in the Mediterranean, produced most of the Venetian merchant ships bringing wealth back to the city-state … to build more ships.
+“The commonwealth of Venice in their armory have this inscription: ‘Happy is that city which in time of peace thinks of war.’”
+– Robert Burton
+Traits
+Removed if game started after
+Modern Era
++2
+Great Engineer points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Mass Production
+Adjacency
+Industrial Zone
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 920
+Production

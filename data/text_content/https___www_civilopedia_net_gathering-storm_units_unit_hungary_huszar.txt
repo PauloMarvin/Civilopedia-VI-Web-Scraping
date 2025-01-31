@@ -1,0 +1,70 @@
+Huszár - Units - Civilopedia - Civilization VI
+Huszár
+Description
+Hungarian unique Industrial era unit that replaces Cavalry. +3
+Combat Strength for every active Alliance.
+Historical Context
+The Huszar (often spelled “hussar” in Western Europe) are a class of light cavalry, commonly used for reconnaissance and pursuit of routed forces. One of the recurring motifs of warfare in Central and Eastern Europe is the prevalence and effectiveness of light cavalry, and the Huszar is one of the last types of horse cavalry. The term dates to the reign of Matthias Corvinus during the 15th Century, and refers to unarmored riders equipped with lances and shield, but became more generalized to Hungarian and Balkan light cavalry who fought as skirmishers. The word itself is from the Serbian word for “brigand.”
+Huszars had highly distinctive uniforms. Their gold-lace fronted jackets are called dolman. Over this they would wear a short cape, called the pelisse. The busby is the large, furry hat. In addition, many Hussars (particularly between the Seven Years' War and the Napoleonic Era) wore their hair long, in elaborate plaits, and favored enormous mustaches in what may once have been a traditional hairstyle but over time simply became part of the panache of the Huszar.
+In the 19th Century, Hussars were the equivalent of fighter pilots: Dashing, insouciant, sexy, and brave at their best, and borderline-insubordinate, sneering drunks at their worst. Literature of the period uses the hussar as a trope to depict a character as a high-living rogue.
+It is necessary to distinguish between a traditional hussar and the Polish winged hussar. The latter are armored shock cavalry who fought with lances on the charge. Polish actually uses a different military term for these hussars from more conventional hussars.
+Traits
+Unique To
+Hungary
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+65
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 335
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1340
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Hungarian unique Industrial era unit that replaces Cavalry. +3
+Combat Strength for every active Alliance.
+Historical Context
+The Huszar (often spelled “hussar” in Western Europe) are a class of light cavalry, commonly used for reconnaissance and pursuit of routed forces. One of the recurring motifs of warfare in Central and Eastern Europe is the prevalence and effectiveness of light cavalry, and the Huszar is one of the last types of horse cavalry. The term dates to the reign of Matthias Corvinus during the 15th Century, and refers to unarmored riders equipped with lances and shield, but became more generalized to Hungarian and Balkan light cavalry who fought as skirmishers. The word itself is from the Serbian word for “brigand.”
+Huszars had highly distinctive uniforms. Their gold-lace fronted jackets are called dolman. Over this they would wear a short cape, called the pelisse. The busby is the large, furry hat. In addition, many Hussars (particularly between the Seven Years' War and the Napoleonic Era) wore their hair long, in elaborate plaits, and favored enormous mustaches in what may once have been a traditional hairstyle but over time simply became part of the panache of the Huszar.
+In the 19th Century, Hussars were the equivalent of fighter pilots: Dashing, insouciant, sexy, and brave at their best, and borderline-insubordinate, sneering drunks at their worst. Literature of the period uses the hussar as a trope to depict a character as a high-living rogue.
+It is necessary to distinguish between a traditional hussar and the Polish winged hussar. The latter are armored shock cavalry who fought with lances on the charge. Polish actually uses a different military term for these hussars from more conventional hussars.
+Traits
+Unique To
+Hungary
+Upgrades To
+Helicopter
+Upgrade From
+Courser
+Promotion Class: Light Cavalry
+5
+Movement Points
+65
+Melee Strength
+Requirements
+Technology
+Military Science
+Production Cost
+Base Cost: 335
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 1340
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

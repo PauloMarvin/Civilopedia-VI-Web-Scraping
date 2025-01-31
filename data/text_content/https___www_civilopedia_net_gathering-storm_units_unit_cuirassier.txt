@@ -1,0 +1,68 @@
+Cuirassier - Units - Civilopedia - Civilization VI
+Cuirassier
+Description
+Industrial Era heavy cavalry unit.
+Historical Context
+As gunpowder weapons became more reliable and portable, the fully-armored knight on horseback became something of an anachronism, it being difficult to justify the immense cost of full armor and the course of chivalric instruction of a nobleman when he could be ignominiously smitten by a peasant with a matchlock and three days of training. Military theorists looked for other ways to provide the shock of the cavalry charge in battle, and in doing so, they created the basis for the cuirassier.
+A cuirass is the armor plate that protects the chest. Although by the early modern period these were perfect protection against firearms, they still provided a measure of protection (and especially psychological protection) to the rider. Riders discarded their lances and took up the increasingly-accurate and reliable pistol, which allowed them to provide an attack at a greater range than their lances. They would attack using deep formations, allowing the front rank to fire on the enemy at range, before breaking off and allowing following ranks to attack, a method called the caracole.  Over time this rolling fire was refined into a more general volley at close quarters, and the cuirassier became the next evolution of heavy cavalry in the army.
+Traits
+Upgrades To
+Tank
+Upgrade From
+Knight
+Varu
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+64
+Melee Strength
+Requirements
+Technology
+Ballistics
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Industrial Era heavy cavalry unit.
+Historical Context
+As gunpowder weapons became more reliable and portable, the fully-armored knight on horseback became something of an anachronism, it being difficult to justify the immense cost of full armor and the course of chivalric instruction of a nobleman when he could be ignominiously smitten by a peasant with a matchlock and three days of training. Military theorists looked for other ways to provide the shock of the cavalry charge in battle, and in doing so, they created the basis for the cuirassier.
+A cuirass is the armor plate that protects the chest. Although by the early modern period these were perfect protection against firearms, they still provided a measure of protection (and especially psychological protection) to the rider. Riders discarded their lances and took up the increasingly-accurate and reliable pistol, which allowed them to provide an attack at a greater range than their lances. They would attack using deep formations, allowing the front rank to fire on the enemy at range, before breaking off and allowing following ranks to attack, a method called the caracole.  Over time this rolling fire was refined into a more general volley at close quarters, and the cuirassier became the next evolution of heavy cavalry in the army.
+Traits
+Upgrades To
+Tank
+Upgrade From
+Knight
+Varu
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+64
+Melee Strength
+Requirements
+Technology
+Ballistics
+Production Cost
+Base Cost: 330
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

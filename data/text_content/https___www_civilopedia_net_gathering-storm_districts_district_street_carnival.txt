@@ -1,0 +1,74 @@
+Street Carnival - Districts - Civilopedia - Civilization VI
+Street Carnival
+Description
+A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2
+Amenities. Also unlocks the Carnival project, which grants an additional +1
+Amenity when underway and a variety of
+Great People points once completed. Cannot be built in a city with a Copacabana.
+Historical Context
+Many cities have street carnivals – especially during the Christian season of Lent – but only Brazilians really know how to cast care to the wind during such festivals. Parades, concerts, performances, masques, and public banquets (along with liberal amounts of alcohol) fuel the celebrations. According to stuffy postmodern sociologists, Carnival as a social institution provides more than just a respite from the seriousness of urban life, it serves as a release for natural impulses that threaten the social order and allows marginalized groups to focus attention on social conflicts by embodying them in “senseless” activities. Whatever the truth of this interpretation, Rio de Janeiro’s is the world’s largest street carnival, hosting upwards of two million participants a day in recent years.
+Traits
+Unique To
+Brazil
+Replaces
+Entertainment Complex
++2
+Amenities from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Arena
+Stadium
+Zoo
+Description
+A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2
+Amenities. Also unlocks the Carnival project, which grants an additional +1
+Amenity when underway and a variety of
+Great People points once completed. Cannot be built in a city with a Copacabana.
+Historical Context
+Many cities have street carnivals – especially during the Christian season of Lent – but only Brazilians really know how to cast care to the wind during such festivals. Parades, concerts, performances, masques, and public banquets (along with liberal amounts of alcohol) fuel the celebrations. According to stuffy postmodern sociologists, Carnival as a social institution provides more than just a respite from the seriousness of urban life, it serves as a release for natural impulses that threaten the social order and allows marginalized groups to focus attention on social conflicts by embodying them in “senseless” activities. Whatever the truth of this interpretation, Rio de Janeiro’s is the world’s largest street carnival, hosting upwards of two million participants a day in recent years.
+Traits
+Unique To
+Brazil
+Replaces
+Entertainment Complex
++2
+Amenities from entertainment
+Appeal to Adjacent Tiles: 1
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Food
+Requirements
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Arena
+Stadium
+Zoo

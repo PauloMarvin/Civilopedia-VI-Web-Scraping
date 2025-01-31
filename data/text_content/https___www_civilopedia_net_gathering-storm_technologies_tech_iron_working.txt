@@ -1,0 +1,46 @@
+Iron Working - Technologies - Civilopedia - Civilization VI
+Iron Working
+Historical Context
+While the use of iron has been dated back to 4000 BC, the Hittites were the first to extract the ore, smelt it and fashion weapons – thus setting off the Iron Age around 1200 BC. In Asia, iron working developed at about the same time; iron Chinese artifacts have been unearthed dating back to around 600 BC. From those two places, using iron for weapons and tools spread quickly across the globe, except in the Americas where the natives continued to hit each other with rocks.
+There were two types of iron working, one producing wrought iron and the other cast iron. Wrought iron is a semi-fused alloy, tough, malleable, corrosion-resistant and able to be welded. It could be beaten into all sorts of shapes, and it was used extensively across Europe during the Middle Ages. Besides armor and weapons and tools, iron work was used to protect doors and windows with grills and bars, and even used as decoration for Canterbury Cathedral, Winchester Cathedral and Notre Dame de Paris. The French even made it into balconies and stair railings.
+By contrast, cast iron is made by melting the iron ore and pouring it into molds; the Chinese were the first to use it, primarily to make beams and rods to support their elaborate pagodas and other tall buildings. Cast iron also made pretty good arrowheads and cannon shot, as the Chinese soon discovered.
+In the West, cast iron working did not take hold until around the 15th Century AD, the technique apparently moving along the Silk Road from Asia to Europe. The Europeans too found cast iron perfect for making cannon barrels and cannon balls, musket barrels and musket balls. During the Industrial Revolution structural engineers found some more creative uses for cast iron, using it to construct cast-iron bridges and as framing for ever taller buildings.
+“The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.”
+– Marie Osmond
+“Everything has its limit – iron ore cannot be educated into gold.”
+– Mark Twain
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Bronze Working
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Build an Iron Mine.
+Progression
+Leads to Technologies
+Machinery
+Historical Context
+While the use of iron has been dated back to 4000 BC, the Hittites were the first to extract the ore, smelt it and fashion weapons – thus setting off the Iron Age around 1200 BC. In Asia, iron working developed at about the same time; iron Chinese artifacts have been unearthed dating back to around 600 BC. From those two places, using iron for weapons and tools spread quickly across the globe, except in the Americas where the natives continued to hit each other with rocks.
+There were two types of iron working, one producing wrought iron and the other cast iron. Wrought iron is a semi-fused alloy, tough, malleable, corrosion-resistant and able to be welded. It could be beaten into all sorts of shapes, and it was used extensively across Europe during the Middle Ages. Besides armor and weapons and tools, iron work was used to protect doors and windows with grills and bars, and even used as decoration for Canterbury Cathedral, Winchester Cathedral and Notre Dame de Paris. The French even made it into balconies and stair railings.
+By contrast, cast iron is made by melting the iron ore and pouring it into molds; the Chinese were the first to use it, primarily to make beams and rods to support their elaborate pagodas and other tall buildings. Cast iron also made pretty good arrowheads and cannon shot, as the Chinese soon discovered.
+In the West, cast iron working did not take hold until around the 15th Century AD, the technique apparently moving along the Silk Road from Asia to Europe. The Europeans too found cast iron perfect for making cannon barrels and cannon balls, musket barrels and musket balls. During the Industrial Revolution structural engineers found some more creative uses for cast iron, using it to construct cast-iron bridges and as framing for ever taller buildings.
+“The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.”
+– Marie Osmond
+“Everything has its limit – iron ore cannot be educated into gold.”
+– Mark Twain
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Bronze Working
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Build an Iron Mine.
+Progression
+Leads to Technologies
+Machinery

@@ -1,0 +1,52 @@
+Construction - Technologies - Civilopedia - Civilization VI
+Construction
+Historical Context
+When the architects and engineers get done mucking about, the contractors take over. Once there was agriculture and a reason to stay in one place, the first huts were constructed by the people who would live in them. As cities grew during the Bronze Age, professional construction workers – just bricklayers and carpenters at first – arose. This new class of skilled workers, including lots of slaves, literally laid the foundations for civilization.
+The history of construction is the history of advances in tools, materials and energy.
+The ancient civilizations built in wood occasionally, but mostly in mud brick and in stone. Although remarkably durable, stone and brick are also quite heavy and inflexible. It's impossible to construct very tall structures out of these materials – unless the structure in question is solid stone or brick and is pyramid-shaped. Otherwise they tend to topple over when given a shake, as with the Pharos of Alexandria. The Greeks built the little things out of brick, but employed marble for the big things like the Parthenon.
+While the Romans didn’t develop any new building materials – if you discount their invention of concrete – they did revolutionize construction in terms of designs and of tools. The arch, the waterwheel, the sawmill, and a host of hand tools come from the Romans, who not only were constructing aqueducts, roads and walls but also some really nice villas and colosseums. Meanwhile, the Chinese and Japanese were working in wood, devising the likes of post and lintel construction and mortise and tenon joints to build their pagodas and palaces.
+The Industrial Revolution brought steel to construction. Strong and durable. Using steel, contractors could create soaring bridges, deep tunnels, towering skyscrapers, and elevated roadways. And new energy sources – electricity, gas-powered engines, arc welding, etc. – made construction a lot easier.
+“Create with the heart; build with the mind.”
+– Criss Jami
+“The four building blocks of the universe are fire, water, gravel and vinyl.”
+– Dave Barry
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Masonry
+Horseback Riding
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build a Water Mill.
+Progression
+Leads to Technologies
+Castles
+Military Engineering
+Historical Context
+When the architects and engineers get done mucking about, the contractors take over. Once there was agriculture and a reason to stay in one place, the first huts were constructed by the people who would live in them. As cities grew during the Bronze Age, professional construction workers – just bricklayers and carpenters at first – arose. This new class of skilled workers, including lots of slaves, literally laid the foundations for civilization.
+The history of construction is the history of advances in tools, materials and energy.
+The ancient civilizations built in wood occasionally, but mostly in mud brick and in stone. Although remarkably durable, stone and brick are also quite heavy and inflexible. It's impossible to construct very tall structures out of these materials – unless the structure in question is solid stone or brick and is pyramid-shaped. Otherwise they tend to topple over when given a shake, as with the Pharos of Alexandria. The Greeks built the little things out of brick, but employed marble for the big things like the Parthenon.
+While the Romans didn’t develop any new building materials – if you discount their invention of concrete – they did revolutionize construction in terms of designs and of tools. The arch, the waterwheel, the sawmill, and a host of hand tools come from the Romans, who not only were constructing aqueducts, roads and walls but also some really nice villas and colosseums. Meanwhile, the Chinese and Japanese were working in wood, devising the likes of post and lintel construction and mortise and tenon joints to build their pagodas and palaces.
+The Industrial Revolution brought steel to construction. Strong and durable. Using steel, contractors could create soaring bridges, deep tunnels, towering skyscrapers, and elevated roadways. And new energy sources – electricity, gas-powered engines, arc welding, etc. – made construction a lot easier.
+“Create with the heart; build with the mind.”
+– Criss Jami
+“The four building blocks of the universe are fire, water, gravel and vinyl.”
+– Dave Barry
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Masonry
+Horseback Riding
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build a Water Mill.
+Progression
+Leads to Technologies
+Castles
+Military Engineering

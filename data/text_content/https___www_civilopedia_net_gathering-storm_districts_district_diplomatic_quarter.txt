@@ -1,0 +1,58 @@
+Diplomatic Quarter - Districts - Civilopedia - Civilization VI
+Diplomatic Quarter
+Description
+Your civilization receives +1
+Diplomatic Favor for each Delegation or Embassy from a foreign civilization through diplomacy. +1
+Envoy if built next to the city center. Enemy Spies operate at 2 levels below normal targeting this district and adjacent districts. Only 1 can exist in your empire at a time.
+Historical Context
+Meetings of foreign leaders, even in ancient times, do not just involve two people sitting down to talk. Rather, they are accompanied by a vast network of ambassadors, consuls, aides, translators, etc. All these people need a place to work. In Washington D.C., a stretch of Massachusetts Avenue serves as just this sort of place devoted to diplomacy. Lining this street, are sometimes luxurious, sometimes modest, sometimes old and sometimes brand-new buildings sporting the flags of multiple nations. Most nations have such neighborhoods: Seoul’s Itaewon, Beijing’s Chaoyang, Paris’s 7th arrondissement, Abuja’s Independence and Constitution Aves, are just some examples. These are places where foreign leaders come, discuss, and have their representatives. And not just foreigners: diplomatic quarters are also centers for universities’ international schools, think-tanks and lobbying firms, places to eat, drink and entertain… and spy and counterspy.
+Traits
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++1
+Culture
+Requirements
+Technology
+Mathematics
+Production Cost
+Base Cost: 30
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Chancery
+Consulate
+Description
+Your civilization receives +1
+Diplomatic Favor for each Delegation or Embassy from a foreign civilization through diplomacy. +1
+Envoy if built next to the city center. Enemy Spies operate at 2 levels below normal targeting this district and adjacent districts. Only 1 can exist in your empire at a time.
+Historical Context
+Meetings of foreign leaders, even in ancient times, do not just involve two people sitting down to talk. Rather, they are accompanied by a vast network of ambassadors, consuls, aides, translators, etc. All these people need a place to work. In Washington D.C., a stretch of Massachusetts Avenue serves as just this sort of place devoted to diplomacy. Lining this street, are sometimes luxurious, sometimes modest, sometimes old and sometimes brand-new buildings sporting the flags of multiple nations. Most nations have such neighborhoods: Seoul’s Itaewon, Beijing’s Chaoyang, Paris’s 7th arrondissement, Abuja’s Independence and Constitution Aves, are just some examples. These are places where foreign leaders come, discuss, and have their representatives. And not just foreigners: diplomatic quarters are also centers for universities’ international schools, think-tanks and lobbying firms, places to eat, drink and entertain… and spy and counterspy.
+Traits
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++1
+Culture
+Requirements
+Technology
+Mathematics
+Production Cost
+Base Cost: 30
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Chancery
+Consulate

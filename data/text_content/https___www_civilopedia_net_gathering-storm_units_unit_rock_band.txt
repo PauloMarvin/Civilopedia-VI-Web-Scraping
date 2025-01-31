@@ -1,0 +1,98 @@
+Rock Band - Units - Civilopedia - Civilization VI
+Rock Band
+Description
+Can perform a rock concert at a valid venue, including at Wonders, at a District with one of the required buildings, or at a special target allowed by one of the band's promotions. Their Album Sales stat is the expected
+Tourism strength at their next concert. After performing concerts their Album Sales and Rock Band Level may increase. Must be purchased with
+Faith. Cannot perform on the same tile twice.
+Historical Context
+The form of the rock band came into its present state over the course of the latter half of the Twentieth Century. A rock band consists of a small number of vocalists and musicians (most commonly four, but sometimes numbering more), usually playing electric guitar, drums, electric bass, and sometimes additional instruments such as keyboards, acoustic guitars, tambourine, and cowbell. The cacophony of their “music” is increased by liberal use of amplification devices, a notable contrast from more elegant small ensembles, like the chamber orchestra.
+A touring rock band may be accompanied by specialists in construction, electronics, logistics, merchandising, and—should the audience not be impressed by the atonal jangling of the “musicians”—pyrotechnics. The relationship between the roadie caste and the musicians is a complex one whose nuance exceeds the scope of the Civilopedia.
+All rock music is too loud.
+Traits
+Promotion Class: Rock Band
+Maximum Number of Promotions: 3
+4
+Movement Points
++1000
+Tourism (base) from performing concerts on wonders
+Requirements
+Civic
+Cold War
+Purchase Cost
+Base Cost: 600
+Faith
+Concert Buildings
+250
+Tourism from the Tlachtli.
+250
+Tourism from the Amphitheater.
+250
+Tourism from the Arena.
+250
+Tourism from the Ferris Wheel.
+500
+Tourism from the Shipyard.
+500
+Tourism from the University.
+500
+Tourism from the Madrasa.
+750
+Tourism from the Stadium.
+750
+Tourism from the Broadcast Center.
+750
+Tourism from the Film Studio.
+750
+Tourism from the Aquatics Center.
+250
+Tourism from the Marae.
+500
+Tourism from the Navigation School.
+Description
+Can perform a rock concert at a valid venue, including at Wonders, at a District with one of the required buildings, or at a special target allowed by one of the band's promotions. Their Album Sales stat is the expected
+Tourism strength at their next concert. After performing concerts their Album Sales and Rock Band Level may increase. Must be purchased with
+Faith. Cannot perform on the same tile twice.
+Historical Context
+The form of the rock band came into its present state over the course of the latter half of the Twentieth Century. A rock band consists of a small number of vocalists and musicians (most commonly four, but sometimes numbering more), usually playing electric guitar, drums, electric bass, and sometimes additional instruments such as keyboards, acoustic guitars, tambourine, and cowbell. The cacophony of their “music” is increased by liberal use of amplification devices, a notable contrast from more elegant small ensembles, like the chamber orchestra.
+A touring rock band may be accompanied by specialists in construction, electronics, logistics, merchandising, and—should the audience not be impressed by the atonal jangling of the “musicians”—pyrotechnics. The relationship between the roadie caste and the musicians is a complex one whose nuance exceeds the scope of the Civilopedia.
+All rock music is too loud.
+Traits
+Promotion Class: Rock Band
+Maximum Number of Promotions: 3
+4
+Movement Points
++1000
+Tourism (base) from performing concerts on wonders
+Requirements
+Civic
+Cold War
+Purchase Cost
+Base Cost: 600
+Faith
+Concert Buildings
+250
+Tourism from the Tlachtli.
+250
+Tourism from the Amphitheater.
+250
+Tourism from the Arena.
+250
+Tourism from the Ferris Wheel.
+500
+Tourism from the Shipyard.
+500
+Tourism from the University.
+500
+Tourism from the Madrasa.
+750
+Tourism from the Stadium.
+750
+Tourism from the Broadcast Center.
+750
+Tourism from the Film Studio.
+750
+Tourism from the Aquatics Center.
+250
+Tourism from the Marae.
+500
+Tourism from the Navigation School.

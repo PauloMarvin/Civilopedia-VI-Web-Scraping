@@ -1,0 +1,76 @@
+Colossal Head - Improvements and Routes - Civilopedia - Civilization VI
+Colossal Head
+Description
+Unlocks the Builder ability to construct a Colossal Head.
++2
+Faith. +1
+Faith for every 2 adjacent Rainforest or for every adjacent Rainforest once Humanism is discovered. +1
+Faith for every 2 adjacent Woods or for every adjacent Woods once Humanism is discovered.
+Tourism from
+Faith once Flight is researched. Cannot be built on Snow or Snow Hills.
+Historical Context
+The colossal “Olmec Heads,” 17 stone sculptures dating to before 900 BC, are the best known remnants (at least, by tourists) of the once flourishing MesoAmerican Olmec civilization. Carved from a single boulder and then transported many miles, each depicts the head and face of a mature man, likely that of a powerful Olmec ruler, or as some theories would have it,  famous ball players (if so, not much has changed). The massive heads weigh between six (the smallest) and 50 tons (the largest, but unfinished), made from basalt from quarries in the Sierra de los Tuxtlas range near Veracruz. Given that the Olmec had no metal tools, the effort to scatter these sculptures across the countryside was immense … yet another instance of mankind’s desire to leave their mark on the world.
+Traits
+Unique To
+La Venta
++2
+Faith
+Adjacency Bonus
++1
+Faith from every 2 adjacent Woods tiles.Becomes obsolete with Humanism.
++1
+Faith from every 2 adjacent Rainforest tiles.Becomes obsolete with Humanism.
++1
+Faith from each adjacent Woods tile.Requires Humanism.
++1
+Faith from each adjacent Rainforest tile.Requires Humanism.
+Requirements
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Colossal Head.
++2
+Faith. +1
+Faith for every 2 adjacent Rainforest or for every adjacent Rainforest once Humanism is discovered. +1
+Faith for every 2 adjacent Woods or for every adjacent Woods once Humanism is discovered.
+Tourism from
+Faith once Flight is researched. Cannot be built on Snow or Snow Hills.
+Historical Context
+The colossal “Olmec Heads,” 17 stone sculptures dating to before 900 BC, are the best known remnants (at least, by tourists) of the once flourishing MesoAmerican Olmec civilization. Carved from a single boulder and then transported many miles, each depicts the head and face of a mature man, likely that of a powerful Olmec ruler, or as some theories would have it,  famous ball players (if so, not much has changed). The massive heads weigh between six (the smallest) and 50 tons (the largest, but unfinished), made from basalt from quarries in the Sierra de los Tuxtlas range near Veracruz. Given that the Olmec had no metal tools, the effort to scatter these sculptures across the countryside was immense … yet another instance of mankind’s desire to leave their mark on the world.
+Traits
+Unique To
+La Venta
++2
+Faith
+Adjacency Bonus
++1
+Faith from every 2 adjacent Woods tiles.Becomes obsolete with Humanism.
++1
+Faith from every 2 adjacent Rainforest tiles.Becomes obsolete with Humanism.
++1
+Faith from each adjacent Woods tile.Requires Humanism.
++1
+Faith from each adjacent Rainforest tile.Requires Humanism.
+Requirements
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder

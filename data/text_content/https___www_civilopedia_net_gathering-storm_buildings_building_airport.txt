@@ -1,0 +1,60 @@
+Airport - Buildings - Civilopedia - Civilization VI
+Airport
+Description
++50% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district. Allows the ability to airlift land units between Aerodrome districts with Airports after the Rapid Deployment civic is unlocked.
+Historical Context
+Technically, an “airport” is any sort of location where airplanes, helicopters, blimps, or other aircraft can take off and land. However, in common usage an airport is a complex for commercial passenger aircraft, consisting of runways, control towers, hangers, terminals, emergency facilities and even parking structures. Man’s tendency to be in a hurry has made airports an inherent part of every city landscape (although most commercial airports are now located well away from the city, given the noise and pollution). Prior to 1930, most airports were small airfields or aerodromes, with runways of less than 2000 feet. In 1939 busy La Guardia in New York City handled nearly a quarter million passengers a month; the most recent statistics for airport passenger traffic list Hartsfield-Jackson in Atlanta as the world’s busiest, with over 92 million passing through it in 2011.
+Traits
++4
+Production
++2
+Production additionally when
+Powered
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Building
+Hangar
+Production Cost
+Base Cost: 480
+Production
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Power Cost
+Base Load: 1
+Power
+Description
++50% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district. Allows the ability to airlift land units between Aerodrome districts with Airports after the Rapid Deployment civic is unlocked.
+Historical Context
+Technically, an “airport” is any sort of location where airplanes, helicopters, blimps, or other aircraft can take off and land. However, in common usage an airport is a complex for commercial passenger aircraft, consisting of runways, control towers, hangers, terminals, emergency facilities and even parking structures. Man’s tendency to be in a hurry has made airports an inherent part of every city landscape (although most commercial airports are now located well away from the city, given the noise and pollution). Prior to 1930, most airports were small airfields or aerodromes, with runways of less than 2000 feet. In 1939 busy La Guardia in New York City handled nearly a quarter million passengers a month; the most recent statistics for airport passenger traffic list Hartsfield-Jackson in Atlanta as the world’s busiest, with over 92 million passing through it in 2011.
+Traits
++4
+Production
++2
+Production additionally when
+Powered
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Building
+Hangar
+Production Cost
+Base Cost: 480
+Production
+Purchase Cost
+Base Cost: 1920
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Power Cost
+Base Load: 1
+Power

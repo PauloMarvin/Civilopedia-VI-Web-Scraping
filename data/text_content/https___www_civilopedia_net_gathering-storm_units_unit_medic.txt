@@ -1,0 +1,50 @@
+Medic - Units - Civilopedia - Civilization VI
+Medic
+Description
+Industrial era support unit. Can heal adjacent units.
+Historical Context
+It takes a brave person to rush onto a battlefield unarmed, especially to provide trauma care in the front lines. Although “protected” by age-old edicts and the Geneva Convention, being a military medic is not conducive to good health. Surgeon Dominique Larrey developed the first ambulances volantes (“flying ambulance”) – mobile field hospitals – for Napoleon’s Grande Armée; he also recruited and trained volunteers to aid the wounded and carry them back to the field hospitals. Not only did it improve the survival rate – which certainly boosted morale – but it insured that at least some would survive to fight again. During the American Civil War, Major Jon Letterman of the U.S. Army of the Potomac not only developed and standardized new equipment for saving lives (this in an age when amputation was the usual cure), but expanded the medic’s role to dealing with diseases and other ills of the draftees. Today, army medics and naval corpsmen are integral to every nation’s military.
+Traits
+Upgrades To
+Supply Convoy
+Upgrade From
+Siege Tower
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Sanitation
+Production Cost
+Base Cost: 370
+Production
+Purchase Cost
+Base Cost: 1480
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Industrial era support unit. Can heal adjacent units.
+Historical Context
+It takes a brave person to rush onto a battlefield unarmed, especially to provide trauma care in the front lines. Although “protected” by age-old edicts and the Geneva Convention, being a military medic is not conducive to good health. Surgeon Dominique Larrey developed the first ambulances volantes (“flying ambulance”) – mobile field hospitals – for Napoleon’s Grande Armée; he also recruited and trained volunteers to aid the wounded and carry them back to the field hospitals. Not only did it improve the survival rate – which certainly boosted morale – but it insured that at least some would survive to fight again. During the American Civil War, Major Jon Letterman of the U.S. Army of the Potomac not only developed and standardized new equipment for saving lives (this in an age when amputation was the usual cure), but expanded the medic’s role to dealing with diseases and other ills of the draftees. Today, army medics and naval corpsmen are integral to every nation’s military.
+Traits
+Upgrades To
+Supply Convoy
+Upgrade From
+Siege Tower
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Sanitation
+Production Cost
+Base Cost: 370
+Production
+Purchase Cost
+Base Cost: 1480
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

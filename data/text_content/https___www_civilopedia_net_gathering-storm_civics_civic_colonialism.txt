@@ -1,0 +1,56 @@
+Colonialism - Civics - Civilopedia - Civilization VI
+Colonialism
+Description
+The Fishing Boats improvement receives +1
+Production.
+Historical Context
+Colonialism is a historical phenomenon that spans millennia and the globe. Both the Phoenicians and the Greeks planted colonies all around the Mediterranean, and the first step in becoming part of the Roman Empire was often for a land to be colonized by conquest. But it is during the mid- and late-16th Century AD that European powers – driven by rapid population growth, technological progress, constrained economies, military competition, religious fanaticism, and a desire to secure the profits of global trade – launched a concerted effort to explore and colonize new lands.
+It was little Portugal, a unified kingdom since 1385 and relatively free from internal strife (unlike the bigger nations), that kicked off the age of colonization. Looking to find wealth by sailing around Africa to circumvent the Silk Road and its networks of Central or South Asian, Arab, Ottoman, and Venetian middlemen, it established colonial settlements and forts along the African coasts. But it was Spain that would undertake the first great land grab. Columbus, looking to make a profit in order to fund a new Crusade, managed to underestimate the circumference of the Earth by about one-fourth and so thought he could reach the Far East by sailing 2400 miles westward. Instead, he stumbled into a couple of large, rich and relatively uninhabited continents – although he insisted until his death that he had reached Asia. For over a century the Portuguese and the Spaniards were the only ones with New World colonies, but in time the Netherlands, French and English were grabbing bits as well.
+So profitable was the conquest of the Americas that the “great” powers didn’t stop there. They turned their individual attention to the known world as well, setting up trading post, vast companies and eventually direct control over regions of Africa, India, Southeast Asia and islands across the Pacific. Thanks to the Royal Navy and lots of guns, the British were particularly adept at it. Eventually even former colonies (the United States) and late bloomers (Germany and Japan) busied themselves creating colonial empires. Whatever the justification – financial, religious, racist, political – every nation that could managed to find some hapless natives to “civilize” through colonization.
+“Remember that politics, colonialism, imperialism and war also originated in the human brain.”
+– Vilayanur Ramachandran
+“Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonizers?”
+– Anthony Burgess
+Traits
+Awards 2
+Envoys
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Mercantilism
+Culture Cost
+Base Cost: 800
+Culture
+Boosts
+Research the Astronomy technology.
+Progression
+Leads to Civics
+Natural History
+Description
+The Fishing Boats improvement receives +1
+Production.
+Historical Context
+Colonialism is a historical phenomenon that spans millennia and the globe. Both the Phoenicians and the Greeks planted colonies all around the Mediterranean, and the first step in becoming part of the Roman Empire was often for a land to be colonized by conquest. But it is during the mid- and late-16th Century AD that European powers – driven by rapid population growth, technological progress, constrained economies, military competition, religious fanaticism, and a desire to secure the profits of global trade – launched a concerted effort to explore and colonize new lands.
+It was little Portugal, a unified kingdom since 1385 and relatively free from internal strife (unlike the bigger nations), that kicked off the age of colonization. Looking to find wealth by sailing around Africa to circumvent the Silk Road and its networks of Central or South Asian, Arab, Ottoman, and Venetian middlemen, it established colonial settlements and forts along the African coasts. But it was Spain that would undertake the first great land grab. Columbus, looking to make a profit in order to fund a new Crusade, managed to underestimate the circumference of the Earth by about one-fourth and so thought he could reach the Far East by sailing 2400 miles westward. Instead, he stumbled into a couple of large, rich and relatively uninhabited continents – although he insisted until his death that he had reached Asia. For over a century the Portuguese and the Spaniards were the only ones with New World colonies, but in time the Netherlands, French and English were grabbing bits as well.
+So profitable was the conquest of the Americas that the “great” powers didn’t stop there. They turned their individual attention to the known world as well, setting up trading post, vast companies and eventually direct control over regions of Africa, India, Southeast Asia and islands across the Pacific. Thanks to the Royal Navy and lots of guns, the British were particularly adept at it. Eventually even former colonies (the United States) and late bloomers (Germany and Japan) busied themselves creating colonial empires. Whatever the justification – financial, religious, racist, political – every nation that could managed to find some hapless natives to “civilize” through colonization.
+“Remember that politics, colonialism, imperialism and war also originated in the human brain.”
+– Vilayanur Ramachandran
+“Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonizers?”
+– Anthony Burgess
+Traits
+Awards 2
+Envoys
+Unlocks
+Requirements
+Industrial Era
+Required Civics
+Mercantilism
+Culture Cost
+Base Cost: 800
+Culture
+Boosts
+Research the Astronomy technology.
+Progression
+Leads to Civics
+Natural History

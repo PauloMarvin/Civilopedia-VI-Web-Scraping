@@ -1,0 +1,50 @@
+Mass Production - Technologies - Civilopedia - Civilization VI
+Mass Production
+Historical Context
+Until the Industrial Revolution, the idea of “mass production” was limited to pottery (molds), Chinese crossbows with interchangeable parts, and assembly line production of books. But in the Renaissance, Venice began mass producing ships to maintain their grip on the Mediterranean in their famed Arsenal, using prefabricated parts and assembly lines that would not be matched for output for three centuries. At its peak of efficiency, the Arsenal could produce a sea-worthy ship in a day and employed some ten thousand workers.
+Meanwhile, the printing press gave rise to another kind of mass production, standardized texts produced cheaply for the masses. Although the products of movable type printing were not as elegant nor as durable as hand-copied tomes, they were inexpensive and firmly established the idea of uniform quality (whatever the level) in the midst of quantity. Meanwhile, molds were being used to create ceramic and metal products in large numbers that were identical, and mills staffed by hundreds of spinners and weavers were churning out standardized woolen garments in England and France.
+The Industrial Revolution brought mass production to just about everything, even things that hadn’t been invented when it started in the early 1800s.
+In 1914 AD Henry Ford realized that by making a conveyor line on which automobiles moved and giving each worker on the line a series of specialized tasks they alone would do, he could make cars cheaply and more efficiently. The time it took to turn out a Model T in the factory went from 728 minutes to 98 minutes; this time was eventually to drop to one Model T every 24 minutes. Where once folks were thrilled to pay extra for mass-produced goods of uniform quality, now hand-crafted things are more highly valued. That’s progress …
+“People can have the Model T in any color – so long as it’s black.”
+– Henry Ford
+“What can be labeled, packaged, mass produced is neither truth nor art.”
+– Marty Rubin
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Buttress
+Military Tactics
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build a Lumber Mill.
+Progression
+Leads to Technologies
+Industrialization
+Historical Context
+Until the Industrial Revolution, the idea of “mass production” was limited to pottery (molds), Chinese crossbows with interchangeable parts, and assembly line production of books. But in the Renaissance, Venice began mass producing ships to maintain their grip on the Mediterranean in their famed Arsenal, using prefabricated parts and assembly lines that would not be matched for output for three centuries. At its peak of efficiency, the Arsenal could produce a sea-worthy ship in a day and employed some ten thousand workers.
+Meanwhile, the printing press gave rise to another kind of mass production, standardized texts produced cheaply for the masses. Although the products of movable type printing were not as elegant nor as durable as hand-copied tomes, they were inexpensive and firmly established the idea of uniform quality (whatever the level) in the midst of quantity. Meanwhile, molds were being used to create ceramic and metal products in large numbers that were identical, and mills staffed by hundreds of spinners and weavers were churning out standardized woolen garments in England and France.
+The Industrial Revolution brought mass production to just about everything, even things that hadn’t been invented when it started in the early 1800s.
+In 1914 AD Henry Ford realized that by making a conveyor line on which automobiles moved and giving each worker on the line a series of specialized tasks they alone would do, he could make cars cheaply and more efficiently. The time it took to turn out a Model T in the factory went from 728 minutes to 98 minutes; this time was eventually to drop to one Model T every 24 minutes. Where once folks were thrilled to pay extra for mass-produced goods of uniform quality, now hand-crafted things are more highly valued. That’s progress …
+“People can have the Model T in any color – so long as it’s black.”
+– Henry Ford
+“What can be labeled, packaged, mass produced is neither truth nor art.”
+– Marty Rubin
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Education
+Buttress
+Military Tactics
+Research Cost
+Base Cost: 600
+Science
+Boosts
+Build a Lumber Mill.
+Progression
+Leads to Technologies
+Industrialization

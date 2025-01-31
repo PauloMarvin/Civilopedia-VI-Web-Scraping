@@ -1,0 +1,12 @@
+Create New Truffle Product - Wonders and Projects - Civilopedia - Civilization VI
+Create New Truffle Product
+Description
+Create a new product for the world based on the
+Truffle resource.
++25%
+Gold yield in host city.
+Description
+Create a new product for the world based on the
+Truffle resource.
++25%
+Gold yield in host city.

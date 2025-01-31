@@ -1,0 +1,136 @@
+Holy Site - Districts - Civilopedia - Civilization VI
+Holy Site
+Description
+A district in your city for religious worship.
+Historical Context
+In god-driven civilizations, it is not unknown for religious “districts” to evolve in some cities, where all the shrines, temples, monasteries, altars, churches huddle together. Often, these seem to spring up on a holy site, the place of some miracle, vision, or revelation. The holiest site in Islam, centered on the Kaaba, is one such. Jerusalem is an epicenter for holy sites. Then there’s the Roman Catholic Vatican, a whole holy city built in the midst of Rome. And folk still make pilgrimages to such sites, such as the Hajj to Mecca or the Sikhs’ daily prayer to visit the Golden Temple at Amritsar or the fervent wish to see the Temple Mount by the Chosen People.
+Traits
+Replaced By
+Lavra
++1
+Great Prophet point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Faith from each adjacent natural wonder tile.
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from every 2 adjacent Woods tiles.
++1
+Faith from every 2 adjacent district tiles.
++1
+Faith from each adjacent Government Plaza tile.
++1
+Faith from each adjacent Pamukkale tile.
++2
+Faith from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Faith
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Faith
+Requirements
+Technology
+Astrology
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Cathedral
+Dar-e Mehr
+Gurdwara
+Meeting House
+Mosque
+Pagoda
+Prasat
+Shrine
+Stave Church
+Stupa
+Synagogue
+Temple
+Wat
+Description
+A district in your city for religious worship.
+Historical Context
+In god-driven civilizations, it is not unknown for religious “districts” to evolve in some cities, where all the shrines, temples, monasteries, altars, churches huddle together. Often, these seem to spring up on a holy site, the place of some miracle, vision, or revelation. The holiest site in Islam, centered on the Kaaba, is one such. Jerusalem is an epicenter for holy sites. Then there’s the Roman Catholic Vatican, a whole holy city built in the midst of Rome. And folk still make pilgrimages to such sites, such as the Hajj to Mecca or the Sikhs’ daily prayer to visit the Golden Temple at Amritsar or the fervent wish to see the Temple Mount by the Chosen People.
+Traits
+Replaced By
+Lavra
++1
+Great Prophet point per turn.
+Appeal to Adjacent Tiles: 1
+Adjacency Bonus
++2
+Faith from each adjacent natural wonder tile.
++1
+Faith from each adjacent Grassland (Mountain) tile.
++1
+Faith from each adjacent Plains (Mountain) tile.
++1
+Faith from each adjacent Desert (Mountain) tile.
++1
+Faith from each adjacent Tundra (Mountain) tile.
++1
+Faith from each adjacent Snow (Mountain) tile.
++1
+Faith from every 2 adjacent Woods tiles.
++1
+Faith from every 2 adjacent district tiles.
++1
+Faith from each adjacent Government Plaza tile.
++1
+Faith from each adjacent Pamukkale tile.
++2
+Faith from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Faith
+Trade Yields
+Domestic Destination
++1
+Food
+International Destination
++1
+Faith
+Requirements
+Technology
+Astrology
+Production Cost
+Base Cost: 54
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Cathedral
+Dar-e Mehr
+Gurdwara
+Meeting House
+Mosque
+Pagoda
+Prasat
+Shrine
+Stave Church
+Stupa
+Synagogue
+Temple
+Wat

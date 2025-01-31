@@ -1,0 +1,54 @@
+Cold War - Civics - Civilopedia - Civilization VI
+Cold War
+Description
+Grants the ability to construct an additional Spy.
+Historical Context
+No sooner did the “Big One” get over than a “cold” war erupted, marked by economic, political, ideological, social and cultural conflict … energized by the threat of the apocryphal apocalypse … between civilization’s two superpowers. The alliance between the Soviet Union and the Western democracies had been one of convenience to defeat Hitler … as Winston Churchill famously stated: “If Hitler invaded Hell I would make at least a favourable reference to the Devil in the House of Commons.” But once that was accomplished and the Soviet Union grabbed as much of Eastern Europe as it could a showdown between communism and democracy (neither in its pure form) was inevitable.
+Despite calls for a shooting war to end the threat – such as “Operation Unthinkable,” code name for a plan to attack the Soviet Union developed by the British Joint Planning Staff under Churchill’s orders at the end of World War II – the new American president Truman, encouraged by advisors such as Averill Harriman and James Forrestal, decided on instead taking a hard line with Moscow … or at least, harder than Roosevelt had. In February 1946 Ambassador George Kennan’s “Long Telegram” from Moscow articulated the American policy of “containment” with which the superpower would defend itself against “Russian expansive tendencies.”
+Despite the never-ending crises – the Berlin Blockade, Hungarian Uprising, Chinese civil war, Cuban Missile Crisis, bloody wars in Korea, Vietnam and Afghanistan – neither power was quite willing to take the last step … primarily because both had the atomic bomb in their arsenal. Russia had tested an atomic bomb of its own in 1949; Truman announced that the United States would build a “superbomb” (hydrogen bomb); and Stalin promptly followed suit. The world stumbled along on the brink of MAD (Mutually Assured Destruction) until the Soviet Union itself broke apart and collapsed in 1991.
+“From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the continent.”
+– Winston Churchill
+“The Cold War is not thawing; it is burning with a deadly heat.”
+– Richard Nixon
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Atomic Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 2185
+Culture
+Boosts
+Research the Nuclear Fission technology.
+Progression
+Leads to Civics
+Rapid Deployment
+Space Race
+Description
+Grants the ability to construct an additional Spy.
+Historical Context
+No sooner did the “Big One” get over than a “cold” war erupted, marked by economic, political, ideological, social and cultural conflict … energized by the threat of the apocryphal apocalypse … between civilization’s two superpowers. The alliance between the Soviet Union and the Western democracies had been one of convenience to defeat Hitler … as Winston Churchill famously stated: “If Hitler invaded Hell I would make at least a favourable reference to the Devil in the House of Commons.” But once that was accomplished and the Soviet Union grabbed as much of Eastern Europe as it could a showdown between communism and democracy (neither in its pure form) was inevitable.
+Despite calls for a shooting war to end the threat – such as “Operation Unthinkable,” code name for a plan to attack the Soviet Union developed by the British Joint Planning Staff under Churchill’s orders at the end of World War II – the new American president Truman, encouraged by advisors such as Averill Harriman and James Forrestal, decided on instead taking a hard line with Moscow … or at least, harder than Roosevelt had. In February 1946 Ambassador George Kennan’s “Long Telegram” from Moscow articulated the American policy of “containment” with which the superpower would defend itself against “Russian expansive tendencies.”
+Despite the never-ending crises – the Berlin Blockade, Hungarian Uprising, Chinese civil war, Cuban Missile Crisis, bloody wars in Korea, Vietnam and Afghanistan – neither power was quite willing to take the last step … primarily because both had the atomic bomb in their arsenal. Russia had tested an atomic bomb of its own in 1949; Truman announced that the United States would build a “superbomb” (hydrogen bomb); and Stalin promptly followed suit. The world stumbled along on the brink of MAD (Mutually Assured Destruction) until the Soviet Union itself broke apart and collapsed in 1991.
+“From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the continent.”
+– Winston Churchill
+“The Cold War is not thawing; it is burning with a deadly heat.”
+– Richard Nixon
+Traits
+Awards 1 Spy
+Unlocks
+Requirements
+Atomic Era
+Required Civics
+Ideology
+Culture Cost
+Base Cost: 2185
+Culture
+Boosts
+Research the Nuclear Fission technology.
+Progression
+Leads to Civics
+Rapid Deployment
+Space Race

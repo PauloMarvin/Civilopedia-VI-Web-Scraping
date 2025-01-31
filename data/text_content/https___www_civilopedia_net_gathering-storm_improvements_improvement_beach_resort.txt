@@ -1,0 +1,34 @@
+Seaside Resort - Improvements and Routes - Civilopedia - Civilization VI
+Seaside Resort
+Description
+Unlocks the Builder ability to construct Seaside Resorts.
+Provides
+Tourism equal to the tile's Appeal. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking.
+Historical Context
+Seaside resorts have been around since the Roman Empire, the first where folk – rich folk – had the time to spend lying about; the Roman town of Baiae on the Gulf of Naples, the island of Capri and the doomed town of Pompeii were all favored by the elite of the empire. But it wasn’t until the mid-18th Century that the wealthy took to the waters at seaside resorts in droves as part of their conspicuous consumption; the first to cater to the indolent rich was Scarborough in 1720 AD. In 1793 Heiligendamm opened, bringing Europe’s aristocracy to the shores of the Baltic. With the coming of the Industrial Revolution, the nouveau riche joined them in splashing about in warm waters. Then, as working hours declined and disposable income increased, even the working classes could join them at Brighton, Nice and Coney Island … forcing the filthy rich to go to places like Monte Carlo and Acapulco for their sun and fun.
+Requirements
+Technology
+Radio
+Volcanic Soil
+Desert
+Plains
+Grassland
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Seaside Resorts.
+Provides
+Tourism equal to the tile's Appeal. Can only be built on Coastal Desert, Coastal Plains, or Coastal Grassland tiles. Minimum Appeal of Breathtaking.
+Historical Context
+Seaside resorts have been around since the Roman Empire, the first where folk – rich folk – had the time to spend lying about; the Roman town of Baiae on the Gulf of Naples, the island of Capri and the doomed town of Pompeii were all favored by the elite of the empire. But it wasn’t until the mid-18th Century that the wealthy took to the waters at seaside resorts in droves as part of their conspicuous consumption; the first to cater to the indolent rich was Scarborough in 1720 AD. In 1793 Heiligendamm opened, bringing Europe’s aristocracy to the shores of the Baltic. With the coming of the Industrial Revolution, the nouveau riche joined them in splashing about in warm waters. Then, as working hours declined and disposable income increased, even the working classes could join them at Brighton, Nice and Coney Island … forcing the filthy rich to go to places like Monte Carlo and Acapulco for their sun and fun.
+Requirements
+Technology
+Radio
+Volcanic Soil
+Desert
+Plains
+Grassland
+Usage
+Built By
+Builder

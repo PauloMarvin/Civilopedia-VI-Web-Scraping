@@ -1,0 +1,72 @@
+Berserker - Units - Civilopedia - Civilization VI
+Berserker
+Description
+Norwegian unique Medieval era melee unit that replaces the Man-At-Arms. 4
+Movement if this unit starts in enemy territory. +10
+Combat Strength when attacking and -5
+Combat Strength when defending against melee attacks.
+Historical Context
+According to a number of Old Norse sources, the berserkers (Ulfheonar or “Odin’s special warriors”) were Vikings who fought in “an uncontrollable, trance-like fury.” Other sagas note they forsook armor and went into battle bare-chested wearing wolf pelts, and were “mad as hounds, bit their shields … they slew men but neither fire nor iron had effect upon them.” Pretty impressive, even to the other fun-loving Norsemen. King Harald Fairhair supposedly used them as shock troops in the front ranks of his army c. 800 AD, and other Norse kings kept some as royal bodyguards, depending on their fierce reputation to keep the unruly in line. As the pious Christians said, “From the fury of the Norsemen, good Lord, deliver us.”
+Traits
+Unique To
+Norway
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Promotion Class: Melee
+2
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Norwegian unique Medieval era melee unit that replaces the Man-At-Arms. 4
+Movement if this unit starts in enemy territory. +10
+Combat Strength when attacking and -5
+Combat Strength when defending against melee attacks.
+Historical Context
+According to a number of Old Norse sources, the berserkers (Ulfheonar or “Odin’s special warriors”) were Vikings who fought in “an uncontrollable, trance-like fury.” Other sagas note they forsook armor and went into battle bare-chested wearing wolf pelts, and were “mad as hounds, bit their shields … they slew men but neither fire nor iron had effect upon them.” Pretty impressive, even to the other fun-loving Norsemen. King Harald Fairhair supposedly used them as shock troops in the front ranks of his army c. 800 AD, and other Norse kings kept some as royal bodyguards, depending on their fierce reputation to keep the unruly in line. As the pious Christians said, “From the fury of the Norsemen, good Lord, deliver us.”
+Traits
+Unique To
+Norway
+Upgrades To
+Musketman
+Conquistador
+Janissary
+Upgrade From
+Swordsman
+Promotion Class: Melee
+2
+Movement Points
+48
+Melee Strength
+Requirements
+Technology
+Military Tactics
+Production Cost
+Base Cost: 160
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 640
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

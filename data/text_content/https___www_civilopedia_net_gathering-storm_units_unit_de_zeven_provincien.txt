@@ -1,0 +1,76 @@
+De Zeven Provinciën - Units - Civilopedia - Civilization VI
+De Zeven Provinciën
+Description
+Netherlands unique Renaissance Era unit that replaces the Frigate. +7
+Combat Strength when attacking defensible districts.
+Historical Context
+For a fledgling nation bordering a small patch of the North Sea, the Dutch fleet of the late 17th Century was rather exceptional. Its powerful ships of the line were nearly half the length of a football field (either variety), armed with a minimum of 80 guns spread across two gun decks.
+A typical Dutch ship of this class was the flagship De Zeven Provinciën (“The Seven Provinces”), the naval backbone of multiple battles in the Anglo-Dutch wars—battles nobody expected a mercantile nation to win. Nevertheless, these ships proved the Dutch could hold their own against other (presumably) mightier naval powers.
+Traits
+Unique To
+Netherlands
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Promotion Class: Naval Ranged
+4
+Movement Points
+50
+Melee Strength
+60
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Square Rigging
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Netherlands unique Renaissance Era unit that replaces the Frigate. +7
+Combat Strength when attacking defensible districts.
+Historical Context
+For a fledgling nation bordering a small patch of the North Sea, the Dutch fleet of the late 17th Century was rather exceptional. Its powerful ships of the line were nearly half the length of a football field (either variety), armed with a minimum of 80 guns spread across two gun decks.
+A typical Dutch ship of this class was the flagship De Zeven Provinciën (“The Seven Provinces”), the naval backbone of multiple battles in the Anglo-Dutch wars—battles nobody expected a mercantile nation to win. Nevertheless, these ships proved the Dutch could hold their own against other (presumably) mightier naval powers.
+Traits
+Unique To
+Netherlands
+Upgrades To
+Battleship
+Minas Geraes
+Upgrade From
+Quadrireme
+Promotion Class: Naval Ranged
+4
+Movement Points
+50
+Melee Strength
+60
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Square Rigging
+Production Cost
+Base Cost: 280
+Production
+Base Resource Cost: 10
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 1120
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

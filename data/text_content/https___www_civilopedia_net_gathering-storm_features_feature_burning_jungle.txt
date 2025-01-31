@@ -1,0 +1,16 @@
+Burning Rainforest - Terrains and Features - Civilopedia - Civilization VI
+Burning Rainforest
+Description
+A rainforest engulfed in flame.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3
+Description
+A rainforest engulfed in flame.
+Traits
+Movement Change: 1
+Appeal to Adjacent Tiles: -1
+Can receive additional yields from environmental effects.
+Defense Modifier: 3

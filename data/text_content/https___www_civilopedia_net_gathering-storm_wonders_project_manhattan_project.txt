@@ -1,0 +1,12 @@
+Manhattan Project - Wonders and Projects - Civilopedia - Civilization VI
+Manhattan Project
+Description
+Allows for the creation of Nuclear Devices.
+Requirements
+Technology
+Nuclear Fission
+Description
+Allows for the creation of Nuclear Devices.
+Requirements
+Technology
+Nuclear Fission

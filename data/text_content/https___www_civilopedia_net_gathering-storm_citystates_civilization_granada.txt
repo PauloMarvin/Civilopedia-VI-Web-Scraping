@@ -1,0 +1,52 @@
+Granada - City-States - Civilopedia - Civilization VI
+Granada
+Unique Ability
+Militaristic City-State
+1
+Envoy: +2
+Production in the
+Capital when producing units.
+3
+Envoys: +2
+Production in every city with a Barracks or Stable building when producing units.
+6
+Envoys: +2
+Production in every city with an Armory building when producing units.
+Granada Suzerain Bonus
+Your Builders can now make Alcázar improvements.
+Alcázars provide +2
+Culture. Provides
+Science equal to 50% of the tile's Appeal. Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. Provides
+Tourism after researching Flight. Cannot be built next to another Alcázar.
+Historical Context
+In the 8th Century the Umayyad Caliphate spread through the Iberian Peninsula, rapidly conquering Visigothic Hispania. Granada, a fortified settlement in what is now southern Spain, was swept up in the invasion. In time to come (the late 15th Century, to be exact) its surrender to the Catholic Monarchs ('Los Reyes Católicos') would end the Reconquista of Andalusia—but for three quarters of a millennium, Granada belonged to the Moors.
+Located at the base of the Sierra Nevada range, Granada had the misfortune of being nearly indefensible due to its location on a low-lying plain. Its Moorish rulers quickly realized this and transferred their seat of power to the more defensible foothills overlooking the town. Part of their plans involved the building of alcazars, one of which would in later years be renovated into the beautiful Alhambra.
+Granada's Moorish masters shifted through the centuries. The Almohad replaced the Almoravids, who had themselves succeeded the remnants of the Umayyad. The city's fortunes changed again in the 13th Century with the Nasrid dynasty, whose alliance with the Catholic kingdom of Castile led to the Emirate of Granada. Direct access to trade centers in sub-Saharan Africa bought Granada freedom from the Reconquista—for a time.
+City-State Type
+Militaristic
+City-State Type
+Militaristic
+Unique Ability
+Militaristic City-State
+1
+Envoy: +2
+Production in the
+Capital when producing units.
+3
+Envoys: +2
+Production in every city with a Barracks or Stable building when producing units.
+6
+Envoys: +2
+Production in every city with an Armory building when producing units.
+Granada Suzerain Bonus
+Your Builders can now make Alcázar improvements.
+Alcázars provide +2
+Culture. Provides
+Science equal to 50% of the tile's Appeal. Occupying unit receives +4
+Defense Strength, and automatically gains 2 turns of fortification. Provides
+Tourism after researching Flight. Cannot be built next to another Alcázar.
+Historical Context
+In the 8th Century the Umayyad Caliphate spread through the Iberian Peninsula, rapidly conquering Visigothic Hispania. Granada, a fortified settlement in what is now southern Spain, was swept up in the invasion. In time to come (the late 15th Century, to be exact) its surrender to the Catholic Monarchs ('Los Reyes Católicos') would end the Reconquista of Andalusia—but for three quarters of a millennium, Granada belonged to the Moors.
+Located at the base of the Sierra Nevada range, Granada had the misfortune of being nearly indefensible due to its location on a low-lying plain. Its Moorish rulers quickly realized this and transferred their seat of power to the more defensible foothills overlooking the town. Part of their plans involved the building of alcazars, one of which would in later years be renovated into the beautiful Alhambra.
+Granada's Moorish masters shifted through the centuries. The Almohad replaced the Almoravids, who had themselves succeeded the remnants of the Umayyad. The city's fortunes changed again in the 13th Century with the Nasrid dynasty, whose alliance with the Catholic kingdom of Castile led to the Emirate of Granada. Direct access to trade centers in sub-Saharan Africa bought Granada freedom from the Reconquista—for a time.

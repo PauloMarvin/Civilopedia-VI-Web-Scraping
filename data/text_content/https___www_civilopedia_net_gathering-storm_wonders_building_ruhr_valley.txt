@@ -1,0 +1,50 @@
+Ruhr Valley - Wonders and Projects - Civilopedia - Civilization VI
+Ruhr Valley
+Description
++20%
+Production in this city, and +1
+Production for each Mine and Quarry in this city. Must be built along a River adjacent to an Industrial Zone district with a Factory.
+Historical Context
+Since the 1700s, the Ruhrpott (Ruhr Valley) has been dug up – the coal and iron mines there are some of the most productive in the world. Initially the ore was easily accessible by strip mining; after that was exhausted, the German miners dug deeper. By 1850, some 300 mines were in operation in and around the Ruhrpott. And, since it was troublesome to ship all this elsewhere, collieries, blast furnaces, rolling mills and the high chimneys of the Industrial Revolution shaped the skyline. Nor was coal and steel the only things pouring out of the Ruhr; by 1820 hundreds of water-powered mills were producing textiles, lumber and iron bars. Urban centers filled with wage slaves sprawled across the land … until today Bochum, Dortmund, Duisburg and Essen form one interconnected metropolis. With the recent decline of the coal and iron industries, the Ruhrpott has undergone a cultural transformation, and such edifices as the Zeche Zollverein coal mine complex and the Gasometer Oberhausen have been reborn as historical landmarks, even listed by UNESCO as World Heritage Sites!
+“The industrial heart of Germany practically stopped beating. Hardly anyone worked; hardly anything ran. The population of the Ruhr area … had to be supported by the rest of the country.”
+– Adam Fergusson
+Traits
+Removed if game started after
+Atomic Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Industrialization
+Building
+Factory
+Adjacency
+Industrial Zone
+Must be adjacent to a river
+Production Cost
+Base Cost: 1240
+Production
+Description
++20%
+Production in this city, and +1
+Production for each Mine and Quarry in this city. Must be built along a River adjacent to an Industrial Zone district with a Factory.
+Historical Context
+Since the 1700s, the Ruhrpott (Ruhr Valley) has been dug up – the coal and iron mines there are some of the most productive in the world. Initially the ore was easily accessible by strip mining; after that was exhausted, the German miners dug deeper. By 1850, some 300 mines were in operation in and around the Ruhrpott. And, since it was troublesome to ship all this elsewhere, collieries, blast furnaces, rolling mills and the high chimneys of the Industrial Revolution shaped the skyline. Nor was coal and steel the only things pouring out of the Ruhr; by 1820 hundreds of water-powered mills were producing textiles, lumber and iron bars. Urban centers filled with wage slaves sprawled across the land … until today Bochum, Dortmund, Duisburg and Essen form one interconnected metropolis. With the recent decline of the coal and iron industries, the Ruhrpott has undergone a cultural transformation, and such edifices as the Zeche Zollverein coal mine complex and the Gasometer Oberhausen have been reborn as historical landmarks, even listed by UNESCO as World Heritage Sites!
+“The industrial heart of Germany practically stopped beating. Hardly anyone worked; hardly anything ran. The population of the Ruhr area … had to be supported by the rest of the country.”
+– Adam Fergusson
+Traits
+Removed if game started after
+Atomic Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Industrialization
+Building
+Factory
+Adjacency
+Industrial Zone
+Must be adjacent to a river
+Production Cost
+Base Cost: 1240
+Production

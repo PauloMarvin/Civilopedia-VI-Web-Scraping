@@ -1,0 +1,86 @@
+Navigation School - Buildings - Civilopedia - Civilization VI
+Navigation School
+Description
+A building unique to Portugal. +25%
+Production towards naval units in this city. +1
+Science for every two coast or lake tiles in this city. +1
+Great Admiral and +1
+Great Scientist point per turn.
+Historical Context
+Sagres is the southernmost point in Portugal, the last safe shelter before ships would depart across the storm-tossed Atlantic. Looking south, Portuguese sailors faced rough seas and the forbidding “Cabo de Não” – “Cape No,” that stretch of the Atlantic coast of what is now Morocco where the Sahara begins. For long considered the end of the navigable world (hence the name) by European and Arab sailors, Cabo de Não (now called Cape Chaunar) had to be overcome for the Portuguese to realize their dream of a ship-based empire.
+The planning for – and ultimate success of – Portuguese expeditions around the Cape, and around other, farther, more forbidding capes, happened at schools of navigation. While some scholars interpret this “school” term loosely, noting that most Portuguese sailors probably did their studying practically aboard ships, others posit a centralized school of navigation – placed by the most romantically-inclined scholars right at the Sagres Point. From here, sailors would be able to see firsthand the dangers of the Atlantic… and plot out ways to overcome them.
+Traits
+Unique To
+Portugal
+Replaces
+University
++4
+Science
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
++1
+Great Scientist point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Campus
+Technology
+Education
+Building
+Library
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+A building unique to Portugal. +25%
+Production towards naval units in this city. +1
+Science for every two coast or lake tiles in this city. +1
+Great Admiral and +1
+Great Scientist point per turn.
+Historical Context
+Sagres is the southernmost point in Portugal, the last safe shelter before ships would depart across the storm-tossed Atlantic. Looking south, Portuguese sailors faced rough seas and the forbidding “Cabo de Não” – “Cape No,” that stretch of the Atlantic coast of what is now Morocco where the Sahara begins. For long considered the end of the navigable world (hence the name) by European and Arab sailors, Cabo de Não (now called Cape Chaunar) had to be overcome for the Portuguese to realize their dream of a ship-based empire.
+The planning for – and ultimate success of – Portuguese expeditions around the Cape, and around other, farther, more forbidding capes, happened at schools of navigation. While some scholars interpret this “school” term loosely, noting that most Portuguese sailors probably did their studying practically aboard ships, others posit a centralized school of navigation – placed by the most romantically-inclined scholars right at the Sagres Point. From here, sailors would be able to see firsthand the dangers of the Atlantic… and plot out ways to overcome them.
+Traits
+Unique To
+Portugal
+Replaces
+University
++4
+Science
++1
+Housing
++1
+Citizen slot
++1
+Great Admiral point per turn.
++1
+Great Scientist point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Campus
+Technology
+Education
+Building
+Library
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

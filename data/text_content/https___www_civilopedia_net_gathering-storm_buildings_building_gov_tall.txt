@@ -1,0 +1,50 @@
+Audience Chamber - Buildings - Civilopedia - Civilization VI
+Audience Chamber
+Description
++2
+Amenities and +4
+Housing in Cities with
+Governors
+-2 Loyalty in Cities without
+Governors.
+Awards +1
+Governor Title.
+Historical Context
+With the development of monarchical and ruler-centered systems of government came the ritualization of the ruler's conduct of the affairs of state. This was reflected in architecture, as there were many concrete benefits to creating special spaces where the ruler could see and be seen in their role as the head of state. To begin with, you could make the place conspicuously sumptuous or highly ornamental, and overawe anyone stepping inside it even before they started to ask you for things.
+An audience chamber is a space designed specifically for access to a ruler in his role as ruler. It might include a throne (and be known as a throne room), or it might lack a throne (although usually it has some way to make it clear who's in charge), or the ruler might be so important that he simply sends lackeys out on his or her behalf, whilst sitting in the actual throne room, thus showing that he's far too busy to meet with anyone right now.
+Requirements
+District
+Government Plaza
+Mutually Exclusive With
+Ancestral Hall
+Warlord's Throne
+Production Cost
+Base Cost: 150
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
++2
+Amenities and +4
+Housing in Cities with
+Governors
+-2 Loyalty in Cities without
+Governors.
+Awards +1
+Governor Title.
+Historical Context
+With the development of monarchical and ruler-centered systems of government came the ritualization of the ruler's conduct of the affairs of state. This was reflected in architecture, as there were many concrete benefits to creating special spaces where the ruler could see and be seen in their role as the head of state. To begin with, you could make the place conspicuously sumptuous or highly ornamental, and overawe anyone stepping inside it even before they started to ask you for things.
+An audience chamber is a space designed specifically for access to a ruler in his role as ruler. It might include a throne (and be known as a throne room), or it might lack a throne (although usually it has some way to make it clear who's in charge), or the ruler might be so important that he simply sends lackeys out on his or her behalf, whilst sitting in the actual throne room, thus showing that he's far too busy to meet with anyone right now.
+Requirements
+District
+Government Plaza
+Mutually Exclusive With
+Ancestral Hall
+Warlord's Throne
+Production Cost
+Base Cost: 150
+Production
+Maintenance Cost
+Base Cost: 1
+Gold

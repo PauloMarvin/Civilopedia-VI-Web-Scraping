@@ -1,0 +1,68 @@
+Musketman - Units - Civilopedia - Civilization VI
+Musketman
+Description
+Renaissance era melee unit.
+Historical Context
+If an arrow or quarrel could stop an armored man, just think what a small, fast-moving ball of lead could do when it passed through the metal into the squishy bits below. Replacing the unwieldy arquebus as the preferred firearm in the early 1700s AD, the musket was a smoothbore, muzzle-loaded weapon triggered by a match- or cap-lock mechanism – the archetype being the British “Brown Bess,” which served the Redcoats so well from 1722 through 1838. Sure, frontier settlers also used them around the world for hunting, protection and killing the natives, but it was in the wars of Europe that military tactics evolved to make use of the musket en masse. In China the hand cannon had evolved into the musket, and the Ming and Qing dynasties made extensive use of them. But it was the Europeans and Ottomans who used them to best effect against each other, with elite units armed with muskets.
+Traits
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Promotion Class: Melee
+2
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 240
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Renaissance era melee unit.
+Historical Context
+If an arrow or quarrel could stop an armored man, just think what a small, fast-moving ball of lead could do when it passed through the metal into the squishy bits below. Replacing the unwieldy arquebus as the preferred firearm in the early 1700s AD, the musket was a smoothbore, muzzle-loaded weapon triggered by a match- or cap-lock mechanism – the archetype being the British “Brown Bess,” which served the Redcoats so well from 1722 through 1838. Sure, frontier settlers also used them around the world for hunting, protection and killing the natives, but it was in the wars of Europe that military tactics evolved to make use of the musket en masse. In China the hand cannon had evolved into the musket, and the Ming and Qing dynasties made extensive use of them. But it was the Europeans and Ottomans who used them to best effect against each other, with elite units armed with muskets.
+Traits
+Upgrades To
+Line Infantry
+Garde Impériale
+Redcoat
+Upgrade From
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Promotion Class: Melee
+2
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Gunpowder
+Production Cost
+Base Cost: 240
+Production
+Base Resource Cost: 20
+Niter (on Standard Speed)
+Purchase Cost
+Base Cost: 960
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

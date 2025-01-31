@@ -1,0 +1,74 @@
+Domrey - Units - Civilopedia - Civilization VI
+Domrey
+Description
+Khmer unique Medieval era siege unit that replaces the Trebuchet. This unit has a higher
+Melee and Range Strength than the Trebuchet. It can move and shoot in the same turn and exerts zone of control.
+Historical Context
+If there aren't enough horses for your cavalry, why not use the mighty elephant to crush and terrify your enemies?
+The Khmer joined a long tradition of employing war elephants in their military campaigns. Research suggests that the Indians first used elephants in their military campaigns around 1,100 BCE, tuning what was at that point a farming helper animal and turning its 12,000 pounds of might into sound and terror for their opponents on the battlefield (at least until the invention of gunpowder evened the odds).
+The mount of kings, military leaders would ride elephants into the battlefield, using their lines to stampede through enemy forces.
+Khmer riders would use the precision of double crossbows to supplement the raw power of their elephants. However this domrey variant adds a bit more sheer force with a mounted ballista to impale the bold soldier not wise enough to run away.
+Traits
+Unique To
+Khmer
+Upgrades To
+Bombard
+Upgrade From
+Catapult
+Promotion Class: Siege
+2
+Movement Points
+40
+Melee Strength
+50
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Military Engineering
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Khmer unique Medieval era siege unit that replaces the Trebuchet. This unit has a higher
+Melee and Range Strength than the Trebuchet. It can move and shoot in the same turn and exerts zone of control.
+Historical Context
+If there aren't enough horses for your cavalry, why not use the mighty elephant to crush and terrify your enemies?
+The Khmer joined a long tradition of employing war elephants in their military campaigns. Research suggests that the Indians first used elephants in their military campaigns around 1,100 BCE, tuning what was at that point a farming helper animal and turning its 12,000 pounds of might into sound and terror for their opponents on the battlefield (at least until the invention of gunpowder evened the odds).
+The mount of kings, military leaders would ride elephants into the battlefield, using their lines to stampede through enemy forces.
+Khmer riders would use the precision of double crossbows to supplement the raw power of their elephants. However this domrey variant adds a bit more sheer force with a mounted ballista to impale the bold soldier not wise enough to run away.
+Traits
+Unique To
+Khmer
+Upgrades To
+Bombard
+Upgrade From
+Catapult
+Promotion Class: Siege
+2
+Movement Points
+40
+Melee Strength
+50
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Military Engineering
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

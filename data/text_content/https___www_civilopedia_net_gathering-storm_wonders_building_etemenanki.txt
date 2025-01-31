@@ -1,0 +1,60 @@
+Etemenanki - Wonders and Projects - Civilopedia - Civilization VI
+Etemenanki
+Description
++2
+Science and +1
+Production to all Marsh tiles in your empire. +1
+Science and +1
+Production on all Floodplains tiles for this city.
+Must be built on Floodplains or Marsh.
+Historical Context
+Etemenanki was a Babylonian ziggurat or stepped tower. Some believe that Etemenanki may be the inspiration for the story of the Tower of Babel. It was originally constructed around the time of Hammurabi and restored by Nebuchadnezzar II after the destruction of Babylon in 689 BC. In 331 BC, Alexander the Great captured Babylon and once more ordered for Etemenanki to be repaired. When he returned to Babylon and found that the building hadn’t changed, he decided it would be easier just to knock the whole thing down and start again. Alexander the Great died however before his orders could be fulfilled. Another prince allegedly wanted to rebuild the ziggurat, but after he embarrassed himself by tripping, he had his elephants knock the rest of it down in a temper tantrum.
+"Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves"
+- Genesis 11:4
+Traits
+Removed if game started after
+Medieval Era
++2
+Science
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Writing
+Placement
+Desert Floodplains
+Marsh
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 220
+Production
+Description
++2
+Science and +1
+Production to all Marsh tiles in your empire. +1
+Science and +1
+Production on all Floodplains tiles for this city.
+Must be built on Floodplains or Marsh.
+Historical Context
+Etemenanki was a Babylonian ziggurat or stepped tower. Some believe that Etemenanki may be the inspiration for the story of the Tower of Babel. It was originally constructed around the time of Hammurabi and restored by Nebuchadnezzar II after the destruction of Babylon in 689 BC. In 331 BC, Alexander the Great captured Babylon and once more ordered for Etemenanki to be repaired. When he returned to Babylon and found that the building hadn’t changed, he decided it would be easier just to knock the whole thing down and start again. Alexander the Great died however before his orders could be fulfilled. Another prince allegedly wanted to rebuild the ziggurat, but after he embarrassed himself by tripping, he had his elephants knock the rest of it down in a temper tantrum.
+"Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves"
+- Genesis 11:4
+Traits
+Removed if game started after
+Medieval Era
++2
+Science
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Writing
+Placement
+Desert Floodplains
+Marsh
+Grassland Floodplains
+Plains Floodplains
+Production Cost
+Base Cost: 220
+Production

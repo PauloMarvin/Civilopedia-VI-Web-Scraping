@@ -1,0 +1,82 @@
+Hacienda - Improvements and Routes - Civilopedia - Civilization VI
+Hacienda
+Description
+Unlocks the Builder ability to construct a Hacienda, unique to Gran Colombia.
++2
+Gold, +1
+Production, and +0.5
+Housing. +1
+Food for every two adjacent Plantations (increased to every Plantation with Replaceable Parts). Plantations and Haciendas receive +1
+Production for every two adjacent Haciendas (increased to every Hacienda with Rapid Deployment). Can only be built on Plains, Plains Hills, Grassland, and Grassland Hills.
+Historical Context
+Somewhere between a farm and a factory, the hacienda in Latin America was a large estate, held by a wealthy patron, that became the dominant mode of land ownership during the 19th century. Being located more inland than a plantation, and without the ready access to the sea, haciendas had to be agriculturally self-sufficient in addition to producing crops for export. In Gran Colombia, these crops could be coffee, coca, sugar, tobacco, or others.
+The hacienda system was by its very nature exploitative. While the enslavement of African-descended people was more dominant in coastal plantations, the inland haciendas relied upon the dispossession of indigenous peoples. These people often labored unpaid and, in exchange for their labor, “permitted” to remain on hacienda land – land that had been, in many cases, taken from them or from their ancestors in the first place.
+With the abolition of slavery, and with social and labor reforms in much of Latin America, the hacienda system has ended, although nostalgia-tinged farms or estates might still use the name.
+Traits
+Unique To
+Gran Colombia
++2
+Gold
++1
+Production
++0.5
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent Plantation tiles.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Plantation tile.Requires Replaceable Parts.
++1
+Production from every 2 adjacent Hacienda tiles.Becomes obsolete with Rapid Deployment.
++1
+Production from each adjacent Hacienda tile.Requires Rapid Deployment.
+Requirements
+Civic
+Mercantilism
+Plains (Hills)
+Plains
+Grassland (Hills)
+Grassland
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Hacienda, unique to Gran Colombia.
++2
+Gold, +1
+Production, and +0.5
+Housing. +1
+Food for every two adjacent Plantations (increased to every Plantation with Replaceable Parts). Plantations and Haciendas receive +1
+Production for every two adjacent Haciendas (increased to every Hacienda with Rapid Deployment). Can only be built on Plains, Plains Hills, Grassland, and Grassland Hills.
+Historical Context
+Somewhere between a farm and a factory, the hacienda in Latin America was a large estate, held by a wealthy patron, that became the dominant mode of land ownership during the 19th century. Being located more inland than a plantation, and without the ready access to the sea, haciendas had to be agriculturally self-sufficient in addition to producing crops for export. In Gran Colombia, these crops could be coffee, coca, sugar, tobacco, or others.
+The hacienda system was by its very nature exploitative. While the enslavement of African-descended people was more dominant in coastal plantations, the inland haciendas relied upon the dispossession of indigenous peoples. These people often labored unpaid and, in exchange for their labor, “permitted” to remain on hacienda land – land that had been, in many cases, taken from them or from their ancestors in the first place.
+With the abolition of slavery, and with social and labor reforms in much of Latin America, the hacienda system has ended, although nostalgia-tinged farms or estates might still use the name.
+Traits
+Unique To
+Gran Colombia
++2
+Gold
++1
+Production
++0.5
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent Plantation tiles.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Plantation tile.Requires Replaceable Parts.
++1
+Production from every 2 adjacent Hacienda tiles.Becomes obsolete with Rapid Deployment.
++1
+Production from each adjacent Hacienda tile.Requires Rapid Deployment.
+Requirements
+Civic
+Mercantilism
+Plains (Hills)
+Plains
+Grassland (Hills)
+Grassland
+Usage
+Built By
+Builder

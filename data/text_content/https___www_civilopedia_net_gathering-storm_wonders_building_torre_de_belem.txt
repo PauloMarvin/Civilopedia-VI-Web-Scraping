@@ -1,0 +1,62 @@
+Torre de Belém - Wonders and Projects - Civilopedia - Civilization VI
+Torre de Belém
+Description
+International
+Trade Routes from this city receive +2
+Gold for every Luxury Resource at the destination. When the Torre de Belém is constructed, cities not on your home continent receive the lowest
+Production cost city center building they can currently construct.
+Must be built on a Coast tile that is adjacent to a Harbor district.
+Historical Context
+The Torre de Belém is one of Portugal’s most recognizable structures and serves a monument to the Age of Discovery. The tower stands defensively in Lisbon’s harbor and acted as the starting point for many explorers setting off into the Atlantic. King Manuel I commissioned Francisco de Arruda in the 16th century to design and build the structure. The tower is made from limestone and is designed in the ornate Manueline style. The grand stonework is visible from a distance. If someone were to give the tower a closer look, they would see sculptures and most curiously, a rhinoceros head carved into the stone. Even with its exterior grandeur and beauty, it was functional and served as an active defense for the region.
+“No vessel could pass these guns without being seriously assailed.”
+- Laure Junot Abrantes
+Traits
+Removed if game started after
+Modern Era
++5
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mercantilism
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 920
+Production
+Description
+International
+Trade Routes from this city receive +2
+Gold for every Luxury Resource at the destination. When the Torre de Belém is constructed, cities not on your home continent receive the lowest
+Production cost city center building they can currently construct.
+Must be built on a Coast tile that is adjacent to a Harbor district.
+Historical Context
+The Torre de Belém is one of Portugal’s most recognizable structures and serves a monument to the Age of Discovery. The tower stands defensively in Lisbon’s harbor and acted as the starting point for many explorers setting off into the Atlantic. King Manuel I commissioned Francisco de Arruda in the 16th century to design and build the structure. The tower is made from limestone and is designed in the ornate Manueline style. The grand stonework is visible from a distance. If someone were to give the tower a closer look, they would see sculptures and most curiously, a rhinoceros head carved into the stone. Even with its exterior grandeur and beauty, it was functional and served as an active defense for the region.
+“No vessel could pass these guns without being seriously assailed.”
+- Laure Junot Abrantes
+Traits
+Removed if game started after
+Modern Era
++5
+Gold
++1
+Great Admiral point per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Mercantilism
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 920
+Production

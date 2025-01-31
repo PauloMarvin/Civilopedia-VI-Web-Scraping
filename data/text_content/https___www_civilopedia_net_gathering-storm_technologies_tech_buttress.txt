@@ -1,0 +1,44 @@
+Buttress - Technologies - Civilopedia - Civilization VI
+Buttress
+Historical Context
+Buttresses are architectural elements that reinforce walls, allowing for the construction of higher walls than unsupported construction would permit. The oldest known buttresses were used in the Temple of Eanna in Uruk, dating to around 3200 BC. Gothic architecture saw the proliferation of the flying buttress, where the lateral force of the wall is transmitted via half-arch to a supporting column or pier, allowing the construction of lighter and larger walls. Cathedrals in Europe are particularly illustrative  of this construction technique which allowed the builders to add large stained-glass windows to the cathedrals.
+“An architect should live as little in cities as a painter. Send him to our hills, and let him study there what nature understands by a buttress, and what by a dome.”
+– John Ruskin
+“Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out.”
+– Revelation 3:12
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Shipbuilding
+Mathematics
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Build a Classical era or later wonder
+Progression
+Leads to Technologies
+Cartography
+Mass Production
+Historical Context
+Buttresses are architectural elements that reinforce walls, allowing for the construction of higher walls than unsupported construction would permit. The oldest known buttresses were used in the Temple of Eanna in Uruk, dating to around 3200 BC. Gothic architecture saw the proliferation of the flying buttress, where the lateral force of the wall is transmitted via half-arch to a supporting column or pier, allowing the construction of lighter and larger walls. Cathedrals in Europe are particularly illustrative  of this construction technique which allowed the builders to add large stained-glass windows to the cathedrals.
+“An architect should live as little in cities as a painter. Send him to our hills, and let him study there what nature understands by a buttress, and what by a dome.”
+– John Ruskin
+“Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out.”
+– Revelation 3:12
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Shipbuilding
+Mathematics
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Build a Classical era or later wonder
+Progression
+Leads to Technologies
+Cartography
+Mass Production

@@ -1,0 +1,44 @@
+Geneva - City-States - Civilopedia - Civilization VI
+Geneva
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Geneva Suzerain Bonus
+Your cities earn +15%
+Science whenever you are not at war with any civilization.
+Historical Context
+Originally settled on a hill overlooking a nice lake by a bunch of Paleolithic nomads, by around 500 BC Geneva became a Celtic fortified town, before it was taken by the Romans in 121 BC. Ownership of the city continued to slip between the warring neighboring states, until landing in the hands of the Germans in 1033 AD. By this time Geneva had become an important ecclesiastical seat, with the bishop of the city a direct vassal of the Holy Roman Emperor as a territorially vested prince.
+Since separation of church and state wasn’t too precise, power in Geneva was contested between the Savoy dukes and the Catholic popes for the next five centuries. When the last ruling bishop fled the city in 1533, the citizens of Geneva made a risky move in an attempt to rid themselves of both the Catholics and the Savoyards – the city allied itself with the Protestant state of Bern and declared Geneva a Protestant sovereignty in 1536. It remained a stronghold of Protestant faith for years to come, although some of the population had reverted to Catholicism by the early 17th Century.
+Over time, Geneva became a center for scientific learning and research. In 1559 John Calvin founded the Geneva Academy (later University of Geneva) as a “humanist” seminary. In short order, various scientists arrived and discovered interesting things – the likes of pioneering geologist Jean-Andre Deluc, physicist Firmin Abauzit, and naturalist Francois Huber. In 1909, the university there awarded Albert Einstein the first of his honorary doctorates. More recently, Geneva has been home to Werner Arber (Nobel Prize in Medicine 1978) and Felix Bloch, the first director of CERN, which is based in a northwest suburb of the city. There’s even the Musée d’Histoire des Sciences in Geneva to commemorate all this scientific progress oozing from the city.
+City-State Type
+Scientific
+City-State Type
+Scientific
+Unique Ability
+Scientific City-State
+1
+Envoy: +2
+Science in your
+Capital.
+3
+Envoys: +2
+Science in every Library building.
+6
+Envoys: +2
+Science in every University building.
+Geneva Suzerain Bonus
+Your cities earn +15%
+Science whenever you are not at war with any civilization.
+Historical Context
+Originally settled on a hill overlooking a nice lake by a bunch of Paleolithic nomads, by around 500 BC Geneva became a Celtic fortified town, before it was taken by the Romans in 121 BC. Ownership of the city continued to slip between the warring neighboring states, until landing in the hands of the Germans in 1033 AD. By this time Geneva had become an important ecclesiastical seat, with the bishop of the city a direct vassal of the Holy Roman Emperor as a territorially vested prince.
+Since separation of church and state wasn’t too precise, power in Geneva was contested between the Savoy dukes and the Catholic popes for the next five centuries. When the last ruling bishop fled the city in 1533, the citizens of Geneva made a risky move in an attempt to rid themselves of both the Catholics and the Savoyards – the city allied itself with the Protestant state of Bern and declared Geneva a Protestant sovereignty in 1536. It remained a stronghold of Protestant faith for years to come, although some of the population had reverted to Catholicism by the early 17th Century.
+Over time, Geneva became a center for scientific learning and research. In 1559 John Calvin founded the Geneva Academy (later University of Geneva) as a “humanist” seminary. In short order, various scientists arrived and discovered interesting things – the likes of pioneering geologist Jean-Andre Deluc, physicist Firmin Abauzit, and naturalist Francois Huber. In 1909, the university there awarded Albert Einstein the first of his honorary doctorates. More recently, Geneva has been home to Werner Arber (Nobel Prize in Medicine 1978) and Felix Bloch, the first director of CERN, which is based in a northwest suburb of the city. There’s even the Musée d’Histoire des Sciences in Geneva to commemorate all this scientific progress oozing from the city.

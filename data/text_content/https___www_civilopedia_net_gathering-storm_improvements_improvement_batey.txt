@@ -1,0 +1,70 @@
+Batey - Improvements and Routes - Civilopedia - Civilization VI
+Batey
+Description
+Unlocks the Builder ability to construct a Batey.
++1
+Culture. +1
+Culture for every adjacent Bonus Resource and Entertainment Complex (increased to +2
+Culture when Exploration is discovered). Provides
+Tourism after researching Flight. Cannot be built adjacent to another Batey or on Hills.
+Historical Context
+The Mesoamerican ball game, called in Mexico “ulama,” is ancient. While it was likely invented by the Olmec several thousand years ago, it became popular in the first millennium A.D., spreading beyond its Mesoamerican origins and into North America and the Caribbean. In its Mayan versions, it involved getting a rubber ball through a stone ring (perhaps representing the sun in its journeys through the underworld) without using one’s hands. The players were often war captives, and the losers could be sacrificed to the gods. Images of such sacrifices are clearly shown on the walls of the Maya ball courts at Chichén Itzá.
+The bateyes at Caguana in Puerto Rico are no such grand affairs. Here, they are roughly rectangular, flat pitches without the stone rings that characterize Mayan courts. The rules, then, were likely different, involving throwing the ball between teams, but the link between the court and religious life remained – Caguana’s bateyes are decorated with petroglyphs (stone carvings) and are clustered around the base of a mountain that was the center of Taíno religious life in Puerto Rico.
+The Taíno word “batey” has had a bad afterlife in the years since colonization. While the word originally means “ball court,” it is now widely used to refer to temporary housing for workers on sugar plantations, both enslaved peoples on historical plantations and present-day workers, many of whom are still forced into involuntary labor. It is unclear how the Taíno word for ball court has come to refer to something so different; here, “batey” refers to the original meaning of the word.
+Traits
+Unique To
+Caguana
++1
+Culture
+Adjacency Bonus
++1
+Culture from each adjacent Entertainment Complex tile.Becomes obsolete with Exploration.
++2
+Culture from each adjacent Entertainment Complex tile.Requires Exploration.
++1
+Culture from each adjacent Bonus Resource tile.Becomes obsolete with Exploration.
++2
+Culture from each adjacent Bonus Resource tile.Requires Exploration.
+Requirements
+Plains
+Grassland
+Desert
+Tundra
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Batey.
++1
+Culture. +1
+Culture for every adjacent Bonus Resource and Entertainment Complex (increased to +2
+Culture when Exploration is discovered). Provides
+Tourism after researching Flight. Cannot be built adjacent to another Batey or on Hills.
+Historical Context
+The Mesoamerican ball game, called in Mexico “ulama,” is ancient. While it was likely invented by the Olmec several thousand years ago, it became popular in the first millennium A.D., spreading beyond its Mesoamerican origins and into North America and the Caribbean. In its Mayan versions, it involved getting a rubber ball through a stone ring (perhaps representing the sun in its journeys through the underworld) without using one’s hands. The players were often war captives, and the losers could be sacrificed to the gods. Images of such sacrifices are clearly shown on the walls of the Maya ball courts at Chichén Itzá.
+The bateyes at Caguana in Puerto Rico are no such grand affairs. Here, they are roughly rectangular, flat pitches without the stone rings that characterize Mayan courts. The rules, then, were likely different, involving throwing the ball between teams, but the link between the court and religious life remained – Caguana’s bateyes are decorated with petroglyphs (stone carvings) and are clustered around the base of a mountain that was the center of Taíno religious life in Puerto Rico.
+The Taíno word “batey” has had a bad afterlife in the years since colonization. While the word originally means “ball court,” it is now widely used to refer to temporary housing for workers on sugar plantations, both enslaved peoples on historical plantations and present-day workers, many of whom are still forced into involuntary labor. It is unclear how the Taíno word for ball court has come to refer to something so different; here, “batey” refers to the original meaning of the word.
+Traits
+Unique To
+Caguana
++1
+Culture
+Adjacency Bonus
++1
+Culture from each adjacent Entertainment Complex tile.Becomes obsolete with Exploration.
++2
+Culture from each adjacent Entertainment Complex tile.Requires Exploration.
++1
+Culture from each adjacent Bonus Resource tile.Becomes obsolete with Exploration.
++2
+Culture from each adjacent Bonus Resource tile.Requires Exploration.
+Requirements
+Plains
+Grassland
+Desert
+Tundra
+Snow
+Usage
+Built By
+Builder

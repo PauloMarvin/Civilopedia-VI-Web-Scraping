@@ -1,0 +1,78 @@
+Legion - Units - Civilopedia - Civilization VI
+Legion
+Description
+Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.
+Historical Context
+The legion was the most efficient and effective fighting force in history...well, in its time anyway. A fully-equipped, fully-staffed Roman legion could march across any terrain, laying a road as it did, built a fortified camp at the end of it, and then take any foe or take any wall. During the Empire a legion was composed of infantry, recruited exclusively from Roman citizens, along with the cooks, armorers, engineers, artillerists, medics and command staff (as well as the usual camp followers and sutlers) necessary to operate in the field for years at a time. The light infantry, archers, scouts, and cavalry were generally auxiliaries, provincial non-citizens (those who survived to be honorably discharged gained citizenship) assigned to a legion as necessity dictated. Extremely disciplined (usually), the legion’s heavy infantry were armed with pilum (throwing spear) and gladius (short sword) and conquered most of the known world (granted, a bunch of barbarians and decaying empires) at the time.
+Traits
+Unique To
+Rome
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+40
+Melee Strength
+1
+Build Charges
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 110
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Usage
+Can Construct
+Roman Fort
+Description
+Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.
+Historical Context
+The legion was the most efficient and effective fighting force in history...well, in its time anyway. A fully-equipped, fully-staffed Roman legion could march across any terrain, laying a road as it did, built a fortified camp at the end of it, and then take any foe or take any wall. During the Empire a legion was composed of infantry, recruited exclusively from Roman citizens, along with the cooks, armorers, engineers, artillerists, medics and command staff (as well as the usual camp followers and sutlers) necessary to operate in the field for years at a time. The light infantry, archers, scouts, and cavalry were generally auxiliaries, provincial non-citizens (those who survived to be honorably discharged gained citizenship) assigned to a legion as necessity dictated. Extremely disciplined (usually), the legion’s heavy infantry were armed with pilum (throwing spear) and gladius (short sword) and conquered most of the known world (granted, a bunch of barbarians and decaying empires) at the time.
+Traits
+Unique To
+Rome
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+40
+Melee Strength
+1
+Build Charges
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 110
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 440
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Usage
+Can Construct
+Roman Fort

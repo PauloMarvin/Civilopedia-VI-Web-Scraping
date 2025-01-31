@@ -1,0 +1,52 @@
+Square Rigging - Technologies - Civilopedia - Civilization VI
+Square Rigging
+Description
++1
+Movement for embarked units.
+Historical Context
+The first two-mast square-rigged ships appeared in the Mediterranean in the mid-14th Century AD, replacing the triangular-rigged lanteen sailing ships that had been used for the previous thousand years. Perpendicular square sails had been used on sailing ships in Northern Europe before (on cogs and longships), and the design was adopted by the Crusaders for their transports, giving more speed and maneuverability so they could get to the Holy Land quicker. In short order, the Europeans added fore and stern castles, bowsprits, crow’s nests and additional masts.
+The “Age of Exploration” saw the design of the square-rigged caravel (the caravela redonda – so named for its rounded stern) by the Portuguese for their long voyages around and across the oceans. It quickly became the definitive, most common beast of burden for the explorers, the forerunner of the much-larger galleon; Magellan had an all-caravel fleet when he circumnavigated the globe in 1519. For the next three centuries, naval history was dominated by ever larger square-rigged ships, which carried Europeans to claim the Americas and Africa, plunder the wealth of the Far East, and wage war against each other.
+The cannon-armed ships-of-the-line (from the three-deck 1st rates with over 90 guns aboard to the lowly 5th rates with only 18 guns) blasted away at each other into the Napoleonic wars and beyond. Frigates and barques chased enemy merchants. Speedy square-rigged blockade runners slipped past Yankee warships during the American Civil War. Towering clipper ships plied the Pacific and square-rigged American whalers hunted those beasts to near extinction.
+But the romance of the Age of Sail was coming to an end. In 1821 the first iron steamship, the British-built 116-ton Aaron Manby (with no lack of hubris, named after her builder) went to sea. Although sailing ships were cheaper to build and operate, and early iron steam engines were notoriously unreliable (so most carried masts and sails), the end of the square-rigged ship was on the horizon, reduced to being a rich man’s yacht in less than a century.
+“There is little man has made that approaches anything in nature, but a sailing ship does.”
+– Allan Villiers
+“It’s not the towering sails, but the unseen wind that moves a ship.”
+– English Proverb
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Cartography
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Kill a unit with a Musketman.
+Progression
+Leads to Technologies
+Industrialization
+Description
++1
+Movement for embarked units.
+Historical Context
+The first two-mast square-rigged ships appeared in the Mediterranean in the mid-14th Century AD, replacing the triangular-rigged lanteen sailing ships that had been used for the previous thousand years. Perpendicular square sails had been used on sailing ships in Northern Europe before (on cogs and longships), and the design was adopted by the Crusaders for their transports, giving more speed and maneuverability so they could get to the Holy Land quicker. In short order, the Europeans added fore and stern castles, bowsprits, crow’s nests and additional masts.
+The “Age of Exploration” saw the design of the square-rigged caravel (the caravela redonda – so named for its rounded stern) by the Portuguese for their long voyages around and across the oceans. It quickly became the definitive, most common beast of burden for the explorers, the forerunner of the much-larger galleon; Magellan had an all-caravel fleet when he circumnavigated the globe in 1519. For the next three centuries, naval history was dominated by ever larger square-rigged ships, which carried Europeans to claim the Americas and Africa, plunder the wealth of the Far East, and wage war against each other.
+The cannon-armed ships-of-the-line (from the three-deck 1st rates with over 90 guns aboard to the lowly 5th rates with only 18 guns) blasted away at each other into the Napoleonic wars and beyond. Frigates and barques chased enemy merchants. Speedy square-rigged blockade runners slipped past Yankee warships during the American Civil War. Towering clipper ships plied the Pacific and square-rigged American whalers hunted those beasts to near extinction.
+But the romance of the Age of Sail was coming to an end. In 1821 the first iron steamship, the British-built 116-ton Aaron Manby (with no lack of hubris, named after her builder) went to sea. Although sailing ships were cheaper to build and operate, and early iron steam engines were notoriously unreliable (so most carried masts and sails), the end of the square-rigged ship was on the horizon, reduced to being a rich man’s yacht in less than a century.
+“There is little man has made that approaches anything in nature, but a sailing ship does.”
+– Allan Villiers
+“It’s not the towering sails, but the unseen wind that moves a ship.”
+– English Proverb
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Cartography
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Kill a unit with a Musketman.
+Progression
+Leads to Technologies
+Industrialization

@@ -1,0 +1,52 @@
+War-Cart - Units - Civilopedia - Civilization VI
+War-Cart
+Description
+Sumerian unique Ancient era unit. Stronger than all other starting units. No penalties against anti-cavalry units. 4
+Movement if this unit starts in open terrain.
+Historical Context
+The nigh constant wars (more like backwood feuds than armed conflicts) between the Sumerian city-states helped develop a couple of innovations in killing that would spread across the ancient world. The first battle ever recorded for posterity was between Lagash and Umma c. 2525 BC as depicted on the “Stele of Vultures.” Among other things of interest, the stele shows the commander Eannatum riding in a “chariot” – actually, more a four-wheeled cart pulled by asses (the animals, not the humans). The Sumerian war-cart was a four-wheeled device composed of a woven basket mounted on wooden, solid wheels; it was manned by a crew of two carrying battle-axes and lances and pulled by a yoke of four onagers (those Asiatic asses). Although shown on this and other stele, there is considerable debate as to whether the war-carts were actually used in combat, or served more as a “battle taxi,” carting the commander around to strategic locations where he could dismount and lead his troops personally in the melee. Whatever the function, the Sumerian war-cart was the genesis for the later horse-drawn war chariot.
+Traits
+Unique To
+Sumeria
+Upgrades To
+Knight
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+3
+Movement Points
+30
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 55
+Production
+Purchase Cost
+Base Cost: 220
+Gold
+Description
+Sumerian unique Ancient era unit. Stronger than all other starting units. No penalties against anti-cavalry units. 4
+Movement if this unit starts in open terrain.
+Historical Context
+The nigh constant wars (more like backwood feuds than armed conflicts) between the Sumerian city-states helped develop a couple of innovations in killing that would spread across the ancient world. The first battle ever recorded for posterity was between Lagash and Umma c. 2525 BC as depicted on the “Stele of Vultures.” Among other things of interest, the stele shows the commander Eannatum riding in a “chariot” – actually, more a four-wheeled cart pulled by asses (the animals, not the humans). The Sumerian war-cart was a four-wheeled device composed of a woven basket mounted on wooden, solid wheels; it was manned by a crew of two carrying battle-axes and lances and pulled by a yoke of four onagers (those Asiatic asses). Although shown on this and other stele, there is considerable debate as to whether the war-carts were actually used in combat, or served more as a “battle taxi,” carting the commander around to strategic locations where he could dismount and lead his troops personally in the melee. Whatever the function, the Sumerian war-cart was the genesis for the later horse-drawn war chariot.
+Traits
+Unique To
+Sumeria
+Upgrades To
+Knight
+Mamluk
+Mandekalu Cavalry
+Tagma
+Promotion Class: Heavy Cavalry
+3
+Movement Points
+30
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 55
+Production
+Purchase Cost
+Base Cost: 220
+Gold

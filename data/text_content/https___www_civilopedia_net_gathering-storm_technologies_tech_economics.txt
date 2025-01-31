@@ -1,0 +1,50 @@
+Economics - Technologies - Civilopedia - Civilization VI
+Economics
+Description
+Unlocks ability to found Corporations
+Historical Context
+Economics is the understanding of “the production, distribution and consumption of goods and services.” This understanding was a lot easier in olden times when things were distributed via barter (“I have a daughter and you have some goats; let’s trade."), but even in the early stages of coinage and mercantile trade notions of production and profits was pretty straightforward. Ancient writers such as Fan Li of China c. 517 BC, Chanakya of India c. 350 BC, and Aristotle of Greece c. 350 BC laid down the precepts of supply-and-demand, monopolies, loans and debts, and state economic policies. During the Middle Ages, Thomas Aquinas and Duns Scotus debated the philosophy of a “fair price” and, until Adam Smith, the Muslim scholar Ibn Khaldun was considered to offer the most insight into economic theory, including “supply-side” economics, the specialization of labor, and the financial life-cycle of civilizations.
+But no one save a few befuddled historians remembers those writings. Instead Adam Smith’s studies – notably his monumental The Wealth of Nations (1776) – are considered the foundation of modern economics. In his book, Smith contends that a free market is the most efficient means of assigning worth to and for distributing goods and services. Moreover, when a person pursues his own financial self-interests (i.e., unbounded greed) he automatically is promoting the good of society in general through economic growth and investment. In other words, unbridled capitalism is the best economic basis for civilization.
+As might be imagined, Smith’s pronouncements were not without critics. David Ricardo argued in 1817 that there was an inherent conflict between the economic interests of landowners on one hand and labor on the other, and was the first to prove the principle of comparative advantage in international trade. The philosopher John Stuart Mill stated that governments would have to intervene in economic affairs because the market’s two roles – allocation of resources and distribution of income – could not otherwise be balanced. But it was Karl Marx with the publication of 'Das Kapital: Kritik der politischen Ökonomie' who really kicked over the proverbial apple cart when he proposed the labor theory of value. Capitalists and communists have been fighting over who is right ever since.
+“Economics is a subject that does not greatly respect one’s wishes.”
+– Nikita Khrushchev
+"You and I come by road or rail, but economists travel on infrastructure."
+- Margaret Thatcher
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Scientific Theory
+Metal Casting
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Banks.
+Progression
+Leads to Technologies
+Replaceable Parts
+Description
+Unlocks ability to found Corporations
+Historical Context
+Economics is the understanding of “the production, distribution and consumption of goods and services.” This understanding was a lot easier in olden times when things were distributed via barter (“I have a daughter and you have some goats; let’s trade."), but even in the early stages of coinage and mercantile trade notions of production and profits was pretty straightforward. Ancient writers such as Fan Li of China c. 517 BC, Chanakya of India c. 350 BC, and Aristotle of Greece c. 350 BC laid down the precepts of supply-and-demand, monopolies, loans and debts, and state economic policies. During the Middle Ages, Thomas Aquinas and Duns Scotus debated the philosophy of a “fair price” and, until Adam Smith, the Muslim scholar Ibn Khaldun was considered to offer the most insight into economic theory, including “supply-side” economics, the specialization of labor, and the financial life-cycle of civilizations.
+But no one save a few befuddled historians remembers those writings. Instead Adam Smith’s studies – notably his monumental The Wealth of Nations (1776) – are considered the foundation of modern economics. In his book, Smith contends that a free market is the most efficient means of assigning worth to and for distributing goods and services. Moreover, when a person pursues his own financial self-interests (i.e., unbounded greed) he automatically is promoting the good of society in general through economic growth and investment. In other words, unbridled capitalism is the best economic basis for civilization.
+As might be imagined, Smith’s pronouncements were not without critics. David Ricardo argued in 1817 that there was an inherent conflict between the economic interests of landowners on one hand and labor on the other, and was the first to prove the principle of comparative advantage in international trade. The philosopher John Stuart Mill stated that governments would have to intervene in economic affairs because the market’s two roles – allocation of resources and distribution of income – could not otherwise be balanced. But it was Karl Marx with the publication of 'Das Kapital: Kritik der politischen Ökonomie' who really kicked over the proverbial apple cart when he proposed the labor theory of value. Capitalists and communists have been fighting over who is right ever since.
+“Economics is a subject that does not greatly respect one’s wishes.”
+– Nikita Khrushchev
+"You and I come by road or rail, but economists travel on infrastructure."
+- Margaret Thatcher
+Unlocks
+Requirements
+Industrial Era
+Required Technologies
+Scientific Theory
+Metal Casting
+Research Cost
+Base Cost: 1070
+Science
+Boosts
+Build 2 Banks.
+Progression
+Leads to Technologies
+Replaceable Parts

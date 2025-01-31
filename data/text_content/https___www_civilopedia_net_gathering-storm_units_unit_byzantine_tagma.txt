@@ -1,0 +1,70 @@
+Tagma - Units - Civilopedia - Civilization VI
+Tagma
+Description
+Basil II's unique Medieval era unit that replaces the Knight. Land units within 1 tile of the Tagma receive +4
+Combat Strength or
+Religious Strength.
+Historical Context
+The tagma – plural: tagmata – were the Byzantine descendants of the Roman imperial guard. At first, the tagmata were noble young men who sought positions where they could be personally close to the Emperor and perhaps gain his attention. But over time, the imperial guard became more of a social space than a fighting force and, in the 8th century, the Emperor Constantine V sought to reorganize them into a mobile, rapid-response force: the tagma. Tagma units were continually updated and refined, and later emperors brought new inventions in heavy cavalry into the force. The guard grew so successful that, under Basil II, the tagma system expanded to include not just knights in Constantinople, but provincial units and foreigners. These also involved the feared Varangian Guard – Viking mercenaries in the direct employ of the Byzantine Emperor.
+Traits
+Unique To
+Basil II
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+50
+Melee Strength
+Requirements
+Civic
+Divine Right
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Basil II's unique Medieval era unit that replaces the Knight. Land units within 1 tile of the Tagma receive +4
+Combat Strength or
+Religious Strength.
+Historical Context
+The tagma – plural: tagmata – were the Byzantine descendants of the Roman imperial guard. At first, the tagmata were noble young men who sought positions where they could be personally close to the Emperor and perhaps gain his attention. But over time, the imperial guard became more of a social space than a fighting force and, in the 8th century, the Emperor Constantine V sought to reorganize them into a mobile, rapid-response force: the tagma. Tagma units were continually updated and refined, and later emperors brought new inventions in heavy cavalry into the force. The guard grew so successful that, under Basil II, the tagma system expanded to include not just knights in Constantinople, but provincial units and foreigners. These also involved the feared Varangian Guard – Viking mercenaries in the direct employ of the Byzantine Emperor.
+Traits
+Unique To
+Basil II
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+50
+Melee Strength
+Requirements
+Civic
+Divine Right
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

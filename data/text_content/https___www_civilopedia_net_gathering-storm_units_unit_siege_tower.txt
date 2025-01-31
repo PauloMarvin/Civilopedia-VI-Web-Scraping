@@ -1,0 +1,54 @@
+Siege Tower - Units - Civilopedia - Civilization VI
+Siege Tower
+Description
+Medieval era support unit. When adjacent to a city, attacking melee and anti-cavalry units ignore Walls and immediately assault the city. Does not affect cities with Renaissance Walls. Ineffective against Urban Defenses.
+Historical Context
+Climbing walls up ladders - while the defenders above hurled boiling oil, rocks and pointy objects down - wasn’t conducive to high morale among the troops, and so the Neo-Assyrians invented siege towers around the 9th Century BC. At the time, most of the towns in Mesopotamia were surrounded by mud-brick walls, generally sufficient protection against attackers, but the siege towers of the Assyrians allowed them to get over the walls relatively unscathed; thus their empire spread virtually unchecked for three centuries. It was an idea whose time had come, and soon enough all the ancient civilizations had siege towers in their arsenals. In simplest form, a siege tower was a covered wooden tower on wheels; once pushed near the offending wall, a gangplank was dropped to bridge the gap and happy warriors rushed into the town or castle. Made ever more sturdy and efficient by those master engineers the Romans, the siege tower was used throughout the Medieval Era, until gunpowder finally made them obsolete.
+Traits
+Upgrades To
+Medic
+Upgrade From
+Battering Ram
+Made obsolete by
+Civil Engineering
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 100
+Production
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Medieval era support unit. When adjacent to a city, attacking melee and anti-cavalry units ignore Walls and immediately assault the city. Does not affect cities with Renaissance Walls. Ineffective against Urban Defenses.
+Historical Context
+Climbing walls up ladders - while the defenders above hurled boiling oil, rocks and pointy objects down - wasn’t conducive to high morale among the troops, and so the Neo-Assyrians invented siege towers around the 9th Century BC. At the time, most of the towns in Mesopotamia were surrounded by mud-brick walls, generally sufficient protection against attackers, but the siege towers of the Assyrians allowed them to get over the walls relatively unscathed; thus their empire spread virtually unchecked for three centuries. It was an idea whose time had come, and soon enough all the ancient civilizations had siege towers in their arsenals. In simplest form, a siege tower was a covered wooden tower on wheels; once pushed near the offending wall, a gangplank was dropped to bridge the gap and happy warriors rushed into the town or castle. Made ever more sturdy and efficient by those master engineers the Romans, the siege tower was used throughout the Medieval Era, until gunpowder finally made them obsolete.
+Traits
+Upgrades To
+Medic
+Upgrade From
+Battering Ram
+Made obsolete by
+Civil Engineering
+Promotion Class: Support
+2
+Movement Points
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 100
+Production
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

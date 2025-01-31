@@ -1,0 +1,44 @@
+Apostle - Units - Civilopedia - Civilization VI
+Apostle
+Description
+May convert
+Citizens to their Religion and initiate theological combat with units of other Religions. Once per game may Launch Inquisition to allow the purchase of Inquisitors. Once per game may Evangelize Belief to add an additional Belief to their Religion. These uses consume the Apostle.
+Historical Context
+An “apostle” (from Greek, meaning “one who is sent away”) is a messenger and ambassador for the chosen deity of a given religion in an attempt to convert the faithless. In Christianity, where the concept is most prevalent, the Twelve were mere disciples before scattering out as ordered by the resurrected Christ to spread his “Word.” For Islam, an apostle is a prophet, specifically one sent to teach Allah’s truth: Ibrahim (Abraham in the Hebrew bible), Musa (Moses), Dawud (David), Isa (Jesus), and of course Mohammed. These days some churches simply appoint their own apostles; among the Latter-day Saints, for instance, an Apostle is a member of the priesthood with high authority, and in the Bahá’í faith the apostles were designated as such by Shoghi Effendi, the Guardian.
+Traits
+Promotion Class: Religious Apostle
+4
+Movement Points
+110
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Temple
+Stave Church
+Prasat
+Purchase Cost
+Base Cost: 400
+Faith
+Description
+May convert
+Citizens to their Religion and initiate theological combat with units of other Religions. Once per game may Launch Inquisition to allow the purchase of Inquisitors. Once per game may Evangelize Belief to add an additional Belief to their Religion. These uses consume the Apostle.
+Historical Context
+An “apostle” (from Greek, meaning “one who is sent away”) is a messenger and ambassador for the chosen deity of a given religion in an attempt to convert the faithless. In Christianity, where the concept is most prevalent, the Twelve were mere disciples before scattering out as ordered by the resurrected Christ to spread his “Word.” For Islam, an apostle is a prophet, specifically one sent to teach Allah’s truth: Ibrahim (Abraham in the Hebrew bible), Musa (Moses), Dawud (David), Isa (Jesus), and of course Mohammed. These days some churches simply appoint their own apostles; among the Latter-day Saints, for instance, an Apostle is a member of the priesthood with high authority, and in the Bahá’í faith the apostles were designated as such by Shoghi Effendi, the Guardian.
+Traits
+Promotion Class: Religious Apostle
+4
+Movement Points
+110
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Temple
+Stave Church
+Prasat
+Purchase Cost
+Base Cost: 400
+Faith

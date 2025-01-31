@@ -1,0 +1,44 @@
+Biosphère - Wonders and Projects - Civilopedia - Civilization VI
+Biosphère
+Description
++200%
+Power for all Offshore Windfarms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams. This building and these improvements provide
+Tourism equal to their
+Power. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.
+Historical Context
+When the Apollo 11 astronauts took a photograph of the Earth from the Moon in 1969, the image of a small blue dot brought home the idea that the world was small, and shared. The water, atmosphere, and ecology of the Earth was a heritage – and responsibility – that every human shared. Two years before, at the Expo 1967 world’s fair in the Canadian city of Montréal, the US pavilion was constructed in a gigantic sphere, which similarly tried to capture and symbolize this unique and fragile state. The Biosphère, built by architect Buckminster Fuller, dominates the skyline of that city. It is a museum dedicated to the Earth and all of its fragility, its beauty, and the threats to its air, water, biodiversity and climate. The term “biosphere” itself, the inspiration for the structure, was coined by geologist Eduard Suess to refer to this notion of life and its interconnectivity. Today, scientists have built upon his ideas to refer to the “Anthropocene,” this current moment in geologic time where our impact upon this planet is inescapable, when human activity profoundly alters the way that the biosphere works. So maybe you should consider drinking that coffee that’s sitting right there next to your monitor out of a reusable cup.
+"Heaven is under our feet as well as over our heads"
+- Henry David Thoreau
+Traits
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Synthetic Materials
+Adjacency
+Neighborhood
+Must be adjacent to a river
+Production Cost
+Base Cost: 1740
+Production
+Description
++200%
+Power for all Offshore Windfarms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams. This building and these improvements provide
+Tourism equal to their
+Power. +1 Appeal to tiles adjacent to Rainforest and Marsh in your empire. Must be built along a River adjacent to a Neighborhood district.
+Historical Context
+When the Apollo 11 astronauts took a photograph of the Earth from the Moon in 1969, the image of a small blue dot brought home the idea that the world was small, and shared. The water, atmosphere, and ecology of the Earth was a heritage – and responsibility – that every human shared. Two years before, at the Expo 1967 world’s fair in the Canadian city of Montréal, the US pavilion was constructed in a gigantic sphere, which similarly tried to capture and symbolize this unique and fragile state. The Biosphère, built by architect Buckminster Fuller, dominates the skyline of that city. It is a museum dedicated to the Earth and all of its fragility, its beauty, and the threats to its air, water, biodiversity and climate. The term “biosphere” itself, the inspiration for the structure, was coined by geologist Eduard Suess to refer to this notion of life and its interconnectivity. Today, scientists have built upon his ideas to refer to the “Anthropocene,” this current moment in geologic time where our impact upon this planet is inescapable, when human activity profoundly alters the way that the biosphere works. So maybe you should consider drinking that coffee that’s sitting right there next to your monitor out of a reusable cup.
+"Heaven is under our feet as well as over our heads"
+- Henry David Thoreau
+Traits
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Synthetic Materials
+Adjacency
+Neighborhood
+Must be adjacent to a river
+Production Cost
+Base Cost: 1740
+Production

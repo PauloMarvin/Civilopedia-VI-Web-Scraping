@@ -1,0 +1,12 @@
+Create New Cocoa Product - Wonders and Projects - Civilopedia - Civilization VI
+Create New Cocoa Product
+Description
+Create a new product for the world based on the
+Cocoa resource.
++20% Growth, +3
+Housing in host city.
+Description
+Create a new product for the world based on the
+Cocoa resource.
++20% Growth, +3
+Housing in host city.

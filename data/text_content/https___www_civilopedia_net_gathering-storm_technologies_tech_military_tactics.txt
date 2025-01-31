@@ -1,0 +1,48 @@
+Military Tactics - Technologies - Civilopedia - Civilization VI
+Military Tactics
+Historical Context
+Until the Middle Ages, “tactics” was limited to mostly running at the enemy in a frontal assault, leavened by the occasional maneuver to turn the flank of the enemy line or the decision of when to commit the cavalry to take care of the survivors. Which is not to say that some civilizations were not quite adept at all this: the Akkadians, the Assyrians, the Macedonians, the Romans, the Guptas, and the Han Dynasty. Thus evolved the “Seven Classical Maneuvers” of tactics: penetration of the center, attack from a defensive position, single envelopment, double envelopment, attack in oblique order, feigned retreat, and the indirect approach.
+In the late 4th Century AD Publius Flavius Vegetius Renatus wrote De re Militari, described by some historians as "the bible of warfare throughout the Middle Ages." One of the five major sections of this work focused on field tactics, and stressed the role of infantry and archers, because they were cheaper than cavalry and could operate across any terrain. Some 200 versions of the work appeared, translated into every European language. But European tactics were forced to evolve when the Arabs, Mongols and Turks didn’t pay much attention to Vegetius’ pronouncements on cavalry.
+Tactics underwent another paradigm shift when gunpowder appeared on the battlefield. Black-powder warfare reached its apex in the Napoleonic Wars, which laid down the principles of tactics that would dominate war until the invention of machine-guns, barbed wire, poison gas, tanks and airplanes made them all moot come the First World War. Napoleonic tactics focused on formations and the maneuver of lines, columns and squares, as well as upon the melding of infantry, cavalry and artillery into supporting and integrated branches. It was all rather elegant.
+But the First World War and even more the Second changed everything. The Germans developed the blitzkrieg, the British commando operations, the Americans airborne attacks, while the Soviets just bludgeoned their way forward. On the mobile battlefield the old accepted tactics were forced to give way to the feuerkampf (fire fight) between squads and platoons.
+And all this doesn’t even touch on the history of naval tactics, as triremes gave way to ships-of-the-line to dreadnaughts to battleships …
+“Tactics mean doing what you can with what you have.”
+– Saul Alinsky
+“Strategy requires thought; tactics require observation.”
+– Max Euwe
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Mathematics
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Kill a unit with a Spearman.
+Progression
+Leads to Technologies
+Mass Production
+Historical Context
+Until the Middle Ages, “tactics” was limited to mostly running at the enemy in a frontal assault, leavened by the occasional maneuver to turn the flank of the enemy line or the decision of when to commit the cavalry to take care of the survivors. Which is not to say that some civilizations were not quite adept at all this: the Akkadians, the Assyrians, the Macedonians, the Romans, the Guptas, and the Han Dynasty. Thus evolved the “Seven Classical Maneuvers” of tactics: penetration of the center, attack from a defensive position, single envelopment, double envelopment, attack in oblique order, feigned retreat, and the indirect approach.
+In the late 4th Century AD Publius Flavius Vegetius Renatus wrote De re Militari, described by some historians as "the bible of warfare throughout the Middle Ages." One of the five major sections of this work focused on field tactics, and stressed the role of infantry and archers, because they were cheaper than cavalry and could operate across any terrain. Some 200 versions of the work appeared, translated into every European language. But European tactics were forced to evolve when the Arabs, Mongols and Turks didn’t pay much attention to Vegetius’ pronouncements on cavalry.
+Tactics underwent another paradigm shift when gunpowder appeared on the battlefield. Black-powder warfare reached its apex in the Napoleonic Wars, which laid down the principles of tactics that would dominate war until the invention of machine-guns, barbed wire, poison gas, tanks and airplanes made them all moot come the First World War. Napoleonic tactics focused on formations and the maneuver of lines, columns and squares, as well as upon the melding of infantry, cavalry and artillery into supporting and integrated branches. It was all rather elegant.
+But the First World War and even more the Second changed everything. The Germans developed the blitzkrieg, the British commando operations, the Americans airborne attacks, while the Soviets just bludgeoned their way forward. On the mobile battlefield the old accepted tactics were forced to give way to the feuerkampf (fire fight) between squads and platoons.
+And all this doesn’t even touch on the history of naval tactics, as triremes gave way to ships-of-the-line to dreadnaughts to battleships …
+“Tactics mean doing what you can with what you have.”
+– Saul Alinsky
+“Strategy requires thought; tactics require observation.”
+– Max Euwe
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Mathematics
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Kill a unit with a Spearman.
+Progression
+Leads to Technologies
+Mass Production

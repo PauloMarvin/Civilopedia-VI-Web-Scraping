@@ -1,0 +1,54 @@
+Barbarian Horse Archer - Units - Civilopedia - Civilization VI
+Barbarian Horse Archer
+Description
+Ancient era primitive horseback archer.
+Historical Context
+Tools for subsistence could also be weapons of war. Many hunting groups would move between raiding and hunting as a way of life – trading when they could, finding food where they could, and taking from their neighbors when they had the opportunity. While the horse archer’s composite bow (a blend of wood and bone) was unapparelled when it came to putting firepower into a small device, foot-based archers could use a variety of different weapons. East African nomads’ arrows, for instance, were cruelly barbed – all the better to allow poisoned tips more time to deliver their payload. North American groups, too, fought back (at least at first) against European settlers (and each other) using bows as a principal weapon.
+Traits
+Unique To
+Barbarians
+Promotion Class: Ranged
+3
+Movement Points
+10
+Melee Strength
+15
+Ranged Strength
+1
+Range
+Requirements
+Production Cost
+Base Cost: 35
+Production
+Purchase Cost
+Base Cost: 140
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Ancient era primitive horseback archer.
+Historical Context
+Tools for subsistence could also be weapons of war. Many hunting groups would move between raiding and hunting as a way of life – trading when they could, finding food where they could, and taking from their neighbors when they had the opportunity. While the horse archer’s composite bow (a blend of wood and bone) was unapparelled when it came to putting firepower into a small device, foot-based archers could use a variety of different weapons. East African nomads’ arrows, for instance, were cruelly barbed – all the better to allow poisoned tips more time to deliver their payload. North American groups, too, fought back (at least at first) against European settlers (and each other) using bows as a principal weapon.
+Traits
+Unique To
+Barbarians
+Promotion Class: Ranged
+3
+Movement Points
+10
+Melee Strength
+15
+Ranged Strength
+1
+Range
+Requirements
+Production Cost
+Base Cost: 35
+Production
+Purchase Cost
+Base Cost: 140
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

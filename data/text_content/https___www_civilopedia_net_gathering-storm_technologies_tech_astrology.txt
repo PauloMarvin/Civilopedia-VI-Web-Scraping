@@ -1,0 +1,40 @@
+Astrology - Technologies - Civilopedia - Civilization VI
+Astrology
+Historical Context
+Now considered a “pseudoscience,” astrology is based on the premise that there is some sort of relationship between celestial objects and phenomena and events on this small ball of earth. Constellations, the moon, comets, the sun and planets (those that could be seen from Earth) were associated with gods, and it was believed that these thus had an impact on the physical universe. A certain planet or cluster of stars might appear each year around harvest time, and eventually men decided that that planet governed the harvest. Perhaps if one sacrificed a goat on the day that the planet first appeared, it would bless the upcoming harvest.
+Most primitive civilizations attached great significance to this nonsense, and that spurred a number of advances. The Indians, Chinese and Mayans developed elaborate calendars to track celestial events. The standing stones of Stonehenge may have been erected for astrological purposes. The mixing of Hellenic astrology with Babylonian astronomy gave rise to many mathematical principles. Chinese astrology flourished during the Han dynasty, and gave birth to several traditional cultural markers: the yin-yang dichotomy, the five elements, Confucian philosophy, Chinese theories of medicine.
+During the so-called Scientific Revolution astrology shed much of its religious and mystical trappings, morphing into astronomy. In 1543 AD Nicolai Copernicus published 'De Revolutionibus orbium coelestium,' which postulated that the sun was the center of the universe, not the Earth, and that the planets orbited the sun, and the moon orbited the Earth. If all these heavenly bodies didn’t circle our planet, why should they affect our lives? During the Enlightenment, the last vestiges of support for astrology fell away, with leading thinkers declaring it to be puerile and infantile. Leaving only the old ladies casting horoscopes and the occasional New Age resurgence to keep astrology afloat in modern times.
+“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.”
+– Arthur C. Clarke
+“A physician without a knowledge of astrology has no right to call himself a physician.”
+- Hippocrates
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Find a natural wonder.
+Progression
+Leads to Technologies
+Celestial Navigation
+Historical Context
+Now considered a “pseudoscience,” astrology is based on the premise that there is some sort of relationship between celestial objects and phenomena and events on this small ball of earth. Constellations, the moon, comets, the sun and planets (those that could be seen from Earth) were associated with gods, and it was believed that these thus had an impact on the physical universe. A certain planet or cluster of stars might appear each year around harvest time, and eventually men decided that that planet governed the harvest. Perhaps if one sacrificed a goat on the day that the planet first appeared, it would bless the upcoming harvest.
+Most primitive civilizations attached great significance to this nonsense, and that spurred a number of advances. The Indians, Chinese and Mayans developed elaborate calendars to track celestial events. The standing stones of Stonehenge may have been erected for astrological purposes. The mixing of Hellenic astrology with Babylonian astronomy gave rise to many mathematical principles. Chinese astrology flourished during the Han dynasty, and gave birth to several traditional cultural markers: the yin-yang dichotomy, the five elements, Confucian philosophy, Chinese theories of medicine.
+During the so-called Scientific Revolution astrology shed much of its religious and mystical trappings, morphing into astronomy. In 1543 AD Nicolai Copernicus published 'De Revolutionibus orbium coelestium,' which postulated that the sun was the center of the universe, not the Earth, and that the planets orbited the sun, and the moon orbited the Earth. If all these heavenly bodies didn’t circle our planet, why should they affect our lives? During the Enlightenment, the last vestiges of support for astrology fell away, with leading thinkers declaring it to be puerile and infantile. Leaving only the old ladies casting horoscopes and the occasional New Age resurgence to keep astrology afloat in modern times.
+“I don’t believe in astrology; I’m a Sagittarius and we’re skeptical.”
+– Arthur C. Clarke
+“A physician without a knowledge of astrology has no right to call himself a physician.”
+- Hippocrates
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 50
+Science
+Boosts
+Find a natural wonder.
+Progression
+Leads to Technologies
+Celestial Navigation

@@ -1,0 +1,60 @@
+Catapult - Units - Civilopedia - Civilization VI
+Catapult
+Description
+Classical era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+No one is quite sure when or where someone figured out it was a lot easier to use a machine to hurl a big rock, but it is known that the Greeks were using catapults as early as the 3rd Century BC. In point of fact, the term catapult comes from the Greek for “downwards” and “to toss.” Catapults use tension in a twisted rope and/or bent wooden cross-arms to throw missiles a fair distance; since they are relatively inaccurate, catapults worked best against large, slow-moving targets (such as towns and forts). As history progressed, catapults were constructed such as to be able to be transported in pieces and assembled before a battle or siege. The last time they were used in warfare was during the early stage of WW1, when the French used them to launch grenades at the German trenches. Nowadays, they are used just for hurling pumpkins and other edibles in annual competitions among geeks.
+Traits
+Upgrades To
+Trebuchet
+Domrey
+Promotion Class: Siege
+2
+Movement Points
+25
+Melee Strength
+35
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Engineering
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Classical era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+No one is quite sure when or where someone figured out it was a lot easier to use a machine to hurl a big rock, but it is known that the Greeks were using catapults as early as the 3rd Century BC. In point of fact, the term catapult comes from the Greek for “downwards” and “to toss.” Catapults use tension in a twisted rope and/or bent wooden cross-arms to throw missiles a fair distance; since they are relatively inaccurate, catapults worked best against large, slow-moving targets (such as towns and forts). As history progressed, catapults were constructed such as to be able to be transported in pieces and assembled before a battle or siege. The last time they were used in warfare was during the early stage of WW1, when the French used them to launch grenades at the German trenches. Nowadays, they are used just for hurling pumpkins and other edibles in annual competitions among geeks.
+Traits
+Upgrades To
+Trebuchet
+Domrey
+Promotion Class: Siege
+2
+Movement Points
+25
+Melee Strength
+35
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Engineering
+Production Cost
+Base Cost: 120
+Production
+Purchase Cost
+Base Cost: 480
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

@@ -1,0 +1,4 @@
+Introduction - Buildings - Civilopedia - Civilization VI
+Introduction
+After a district has been built, it can be populated with buildings. Buildings can be built through the “Production Menu" where districts are built. Some buildings have prerequisites, such as other buildings or technology; these buildings will not be visible in your Production menu.
+After a district has been built, it can be populated with buildings. Buildings can be built through the “Production Menu" where districts are built. Some buildings have prerequisites, such as other buildings or technology; these buildings will not be visible in your Production menu.

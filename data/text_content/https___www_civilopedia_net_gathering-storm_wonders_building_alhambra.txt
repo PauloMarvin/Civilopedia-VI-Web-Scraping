@@ -1,0 +1,62 @@
+Alhambra - Wonders and Projects - Civilopedia - Civilization VI
+Alhambra
+Description
++1 Military policy slot
+Provides the same defensive bonuses as the Fort improvement. Must be built on Hills adjacent to an Encampment district.
+Historical Context
+The Alhambra began as a small fortress, constructed in 889 AD by the Moors of Granada in Andalusia (Spain); then it was rebuilt and expanded by the emir Mohammed ben Al-Ahmar in the 11th Century and yet again expanded and converted into a royal palace by Sultan Yusuf I in 1333. The al-Hamra (literally, “the red one”), so named for its red clay fortress walls, was lavish – at least by European standards of the time – with all the comforts, including indoor plumbing. It integrated the natural beauty of the spot with structures and gardens designed and outfitted by the finest Muslim, Jewish, and even Christian craftsmen and artisans of the region. Among its most striking aspects, many of the interior walls and columns are inscribed in carved flowing Arabic script with poetry and verses from the Quran. The last sultan of the Nasrid dynasty, Muhammad XII, surrendered Granada to the Spanish in 1492 AD, without the Alhambra being attacked by the crusaders – otherwise it would be just another pile of rubble and memories of elegance.
+“Everything here appears calculated to inspire kind and happy feelings, for everything is delicate and beautiful.”
+– Washington Irving
+Traits
+Removed if game started after
+Industrial Era
++2
+Amenities from entertainment
++2
+Great General points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Castles
+Adjacency
+Encampment
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 710
+Production
+Description
++1 Military policy slot
+Provides the same defensive bonuses as the Fort improvement. Must be built on Hills adjacent to an Encampment district.
+Historical Context
+The Alhambra began as a small fortress, constructed in 889 AD by the Moors of Granada in Andalusia (Spain); then it was rebuilt and expanded by the emir Mohammed ben Al-Ahmar in the 11th Century and yet again expanded and converted into a royal palace by Sultan Yusuf I in 1333. The al-Hamra (literally, “the red one”), so named for its red clay fortress walls, was lavish – at least by European standards of the time – with all the comforts, including indoor plumbing. It integrated the natural beauty of the spot with structures and gardens designed and outfitted by the finest Muslim, Jewish, and even Christian craftsmen and artisans of the region. Among its most striking aspects, many of the interior walls and columns are inscribed in carved flowing Arabic script with poetry and verses from the Quran. The last sultan of the Nasrid dynasty, Muhammad XII, surrendered Granada to the Spanish in 1492 AD, without the Alhambra being attacked by the crusaders – otherwise it would be just another pile of rubble and memories of elegance.
+“Everything here appears calculated to inspire kind and happy feelings, for everything is delicate and beautiful.”
+– Washington Irving
+Traits
+Removed if game started after
+Industrial Era
++2
+Amenities from entertainment
++2
+Great General points per turn.
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Castles
+Adjacency
+Encampment
+Placement
+Grassland (Hills)
+Plains (Hills)
+Tundra (Hills)
+Snow (Hills)
+Desert (Hills)
+Production Cost
+Base Cost: 710
+Production

@@ -1,0 +1,46 @@
+Canal - Districts - Civilopedia - Civilization VI
+Canal
+Description
+A district built on flat land to connect two bodies of water or a body of water to a City Center.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination. Canals may either go straight through the hex or bend by 60 degrees. However three-way Canal junctures are not allowed and Canals must have a full land tile on each side of the waterway they create. Military Engineers can spend a charge to complete 20% of a Canal's production.
+Historical Context
+It is much easier to move heavy, bulky goods like grain, minerals, or animals by water than it is by land. Unfortunately, nature does not always provide waterways where a waterway would be most convenient. Fortunately, human beings invented shovels some time ago. A canal is an artificial waterway created to facilitate the transfer of goods by boat. This differentiates them from aqueducts, which are merely used to move the water itself.
+Some impressive canals were constructed in antiquity. The Persian King Darius ordered a canal cut from the Nile River to the Red Sea (Egypt was a vassal of the Achaemenid Persians at the time). The Roman Empire built canals to support the urban centers throughout their empire. Many canals were cut in China, beginning in the 3rd Century BCE, and culminating with the immense Grand Canal. The Grand Canal is the largest man-made water in the world, at nearly 1,100 miles (1,800 km) first built in the 6th Century CE and developed for the next 500 years.
+Modern canals are monumental feats of engineering but have extracted an immense toll in construction. The Suez Canal, which connects the Mediterranean Sea to the Red Sea, took a decade to build at an immense cost of lives. The construction of the Panama Canal between the Atlantic and Pacific Oceans was even more costly in terms of lives and time and fortune, as workers toiled to level mountains in the face of tropical heat and diseases. These canals have also had unexpected impacts on ecosystems, enabling the unintentional transportation of invasive species from one part of the world to another.
+Traits
+Appeal to Adjacent Tiles: 1
+Requirements
+Technology
+Steam Power
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 81
+Production
+Description
+A district built on flat land to connect two bodies of water or a body of water to a City Center.
+Trade Routes traveling through it can multiply the
+Gold they get from districts at their destination. Canals may either go straight through the hex or bend by 60 degrees. However three-way Canal junctures are not allowed and Canals must have a full land tile on each side of the waterway they create. Military Engineers can spend a charge to complete 20% of a Canal's production.
+Historical Context
+It is much easier to move heavy, bulky goods like grain, minerals, or animals by water than it is by land. Unfortunately, nature does not always provide waterways where a waterway would be most convenient. Fortunately, human beings invented shovels some time ago. A canal is an artificial waterway created to facilitate the transfer of goods by boat. This differentiates them from aqueducts, which are merely used to move the water itself.
+Some impressive canals were constructed in antiquity. The Persian King Darius ordered a canal cut from the Nile River to the Red Sea (Egypt was a vassal of the Achaemenid Persians at the time). The Roman Empire built canals to support the urban centers throughout their empire. Many canals were cut in China, beginning in the 3rd Century BCE, and culminating with the immense Grand Canal. The Grand Canal is the largest man-made water in the world, at nearly 1,100 miles (1,800 km) first built in the 6th Century CE and developed for the next 500 years.
+Modern canals are monumental feats of engineering but have extracted an immense toll in construction. The Suez Canal, which connects the Mediterranean Sea to the Red Sea, took a decade to build at an immense cost of lives. The construction of the Panama Canal between the Atlantic and Pacific Oceans was even more costly in terms of lives and time and fortune, as workers toiled to level mountains in the face of tropical heat and diseases. These canals have also had unexpected impacts on ecosystems, enabling the unintentional transportation of invasive species from one part of the world to another.
+Traits
+Appeal to Adjacent Tiles: 1
+Requirements
+Technology
+Steam Power
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 81
+Production

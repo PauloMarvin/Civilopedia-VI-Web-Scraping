@@ -1,0 +1,32 @@
+Settler - Units - Civilopedia - Civilization VI
+Settler
+Description
+May create new cities. Reduces city's
+Population by 1 when completed.
+Historical Context
+There have always been those willing to leave behind everything familiar in the hopes of finding a better life over that hill. These are the settlers, the ones who scattered mankind over the globe. Whether they travelled by water or by land or by air, the pioneers eventually came to a place they liked, usually one that offered good soil, clean water, and some prospect of safety … but not always. Some ended their journey in desert, marsh, ice field, or mountain valley. And, inevitably, among hostile natives. The reasons they left their old homes behind were as varied as the terrain they traversed: hunger, wealth, ambition, adventure, fear, freedom, and above all the hope for their descendants to have what they did not. Where they stopped became villages, towns, cities, and civilizations. And, the cycle began again...
+Traits
+2
+Movement Points
+Requirements
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold
+Description
+May create new cities. Reduces city's
+Population by 1 when completed.
+Historical Context
+There have always been those willing to leave behind everything familiar in the hopes of finding a better life over that hill. These are the settlers, the ones who scattered mankind over the globe. Whether they travelled by water or by land or by air, the pioneers eventually came to a place they liked, usually one that offered good soil, clean water, and some prospect of safety … but not always. Some ended their journey in desert, marsh, ice field, or mountain valley. And, inevitably, among hostile natives. The reasons they left their old homes behind were as varied as the terrain they traversed: hunger, wealth, ambition, adventure, fear, freedom, and above all the hope for their descendants to have what they did not. Where they stopped became villages, towns, cities, and civilizations. And, the cycle began again...
+Traits
+2
+Movement Points
+Requirements
+Production Cost
+Base Cost: 80
+Production
+Purchase Cost
+Base Cost: 320
+Gold

@@ -1,0 +1,8 @@
+Lijia (Food) - Wonders and Projects - Civilopedia - Civilization VI
+Lijia (Food)
+Description
+Project which provides
+Food every turn equal to 50% of this city's production.
+Description
+Project which provides
+Food every turn equal to 50% of this city's production.

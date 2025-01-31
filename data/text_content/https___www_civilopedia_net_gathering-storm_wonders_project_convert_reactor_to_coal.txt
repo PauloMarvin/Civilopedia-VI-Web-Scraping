@@ -1,0 +1,34 @@
+Convert to Coal Power - Wonders and Projects - Civilopedia - Civilization VI
+Convert to Coal Power
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Coal Power Plant.
+Coal Power Plant:
+Automatically converts any amount of
+Coal into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Coal
+4
+Power
+Heavy CO2 into the atmosphere
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Coal Power Plant.
+Coal Power Plant:
+Automatically converts any amount of
+Coal into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Coal
+4
+Power
+Heavy CO2 into the atmosphere
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization

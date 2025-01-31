@@ -1,0 +1,34 @@
+Vampire - Units - Civilopedia - Civilization VI
+Vampire
+Description
+Combat unit unique to the Sanguine Pact. Has base
+Combat Strength equal to the strongest unit your cities have produced. Gains permanent
+Combat Strength when units die in adjacent tiles.  Strength from Barbarian deaths is capped at +10. When killed, retreats with 1 HP to the
+Capital or nearest Vampire Castle. Heals an additional 50 HP from pillaging enemy tiles, but receives reduced passive healing.
+Historical Context
+The myth of the vampire is one that has a particular resonance in a world where hereditary aristocracy is largely a thing of the past. Cruel masters, obsessed with eternal youth, who prey upon a populace to whom they imagine themselves to be superior, full of decadent but decayed culture, hold a fascination as monarchies worldwide have fallen one by one. They emerge as sometimes tragic, sometimes horrific villains or antiheroes to a population confined to normalcy. Of these, the quintessential real-life vampire would be the Countess Elizabeth Báthory de Ecsed, a Hungarian noblewoman who, according to legend, believed that she could preserve her youth and beauty through the blood of her victims – over 600 of them.
+Traits
+Promotion Class: Vampire
+2
+Movement Points
+20
+Melee Strength
+Usage
+Can Construct
+Vampire Castle
+Description
+Combat unit unique to the Sanguine Pact. Has base
+Combat Strength equal to the strongest unit your cities have produced. Gains permanent
+Combat Strength when units die in adjacent tiles.  Strength from Barbarian deaths is capped at +10. When killed, retreats with 1 HP to the
+Capital or nearest Vampire Castle. Heals an additional 50 HP from pillaging enemy tiles, but receives reduced passive healing.
+Historical Context
+The myth of the vampire is one that has a particular resonance in a world where hereditary aristocracy is largely a thing of the past. Cruel masters, obsessed with eternal youth, who prey upon a populace to whom they imagine themselves to be superior, full of decadent but decayed culture, hold a fascination as monarchies worldwide have fallen one by one. They emerge as sometimes tragic, sometimes horrific villains or antiheroes to a population confined to normalcy. Of these, the quintessential real-life vampire would be the Countess Elizabeth Báthory de Ecsed, a Hungarian noblewoman who, according to legend, believed that she could preserve her youth and beauty through the blood of her victims – over 600 of them.
+Traits
+Promotion Class: Vampire
+2
+Movement Points
+20
+Melee Strength
+Usage
+Can Construct
+Vampire Castle

@@ -1,0 +1,48 @@
+Satellites - Technologies - Civilopedia - Civilization VI
+Satellites
+Historical Context
+“Beep … beep … beep.” So it began. Sputnik, with an onboard radio signal transmitter, was launched in October 1957 AD by Soviet Russia. Orbiting overhead, the artificial satellite (as opposed to natural satellites like the Moon) Sputnik served notice to the humans huddled on the surface that the world had dramatically changed … for better or not remained to be determined. Sputnik 2 was launched in November, with the first living creature in space aboard, a dog named Laika (who died within hours of the launch).
+Following pressure from the American Rocket Society, National Science Foundation and (the only body that really mattered) the White House, the American military announced its own program to put a satellite into orbit. Three months after poor Laika’s orbit, the United States sent Explorer 1 around the Earth. In 1961, the U.S. Air Force used the newly created Space Surveillance Network to catalogue 115 Earth-orbiting satellites. Space was getting crowded. (Currently, it tracks about 8000 man-made objects circling the globe, much of it space “junk.”)
+Around the time the United States was making a list of satellites, the Soviet Union launched a man into space; on April 12, 1961, Yuri Gagarin became the first human to orbit the Earth, aboard the Vostok 1 satellite. Unlike poor Laika, the cosmonaut returned alive. America’s John Glenn aboard Friendship 7 orbited in February 1962. China became the third nation to put a man in space: Yang Liwei in the Shenzhou 5 in October 2003. And scientists from many nations have served aboard the International Space Station – the largest orbiting satellite to date – since its first component was launched in 1998; it orbits the Earth every 92.69 minutes.
+Many countries – even the likes of Qatar (2013), Uruguay (2014) and Turkmenistan (2015) – have placed satellites in orbit. Not to mention dozens of private companies that have paid large sums to put their satellites (mostly telecomm ones) into orbit, spurred on by the passage of the Commercial Space Launch Act of 1984 by the United States Congress. Now there are also a number of firms exploring manned commercial flights into orbit, or beyond.
+“A satellite has no conscience.”
+– Edward R. Murrow
+“Right now there are thirty-one satellites zipping around the world with nothing better to do than help you find your way to the grocery store.”
+– Ed Burnette
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Advanced Flight
+Rocketry
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Build 2 Broadcast Centers.
+Progression
+Leads to Technologies
+Robotics
+Historical Context
+“Beep … beep … beep.” So it began. Sputnik, with an onboard radio signal transmitter, was launched in October 1957 AD by Soviet Russia. Orbiting overhead, the artificial satellite (as opposed to natural satellites like the Moon) Sputnik served notice to the humans huddled on the surface that the world had dramatically changed … for better or not remained to be determined. Sputnik 2 was launched in November, with the first living creature in space aboard, a dog named Laika (who died within hours of the launch).
+Following pressure from the American Rocket Society, National Science Foundation and (the only body that really mattered) the White House, the American military announced its own program to put a satellite into orbit. Three months after poor Laika’s orbit, the United States sent Explorer 1 around the Earth. In 1961, the U.S. Air Force used the newly created Space Surveillance Network to catalogue 115 Earth-orbiting satellites. Space was getting crowded. (Currently, it tracks about 8000 man-made objects circling the globe, much of it space “junk.”)
+Around the time the United States was making a list of satellites, the Soviet Union launched a man into space; on April 12, 1961, Yuri Gagarin became the first human to orbit the Earth, aboard the Vostok 1 satellite. Unlike poor Laika, the cosmonaut returned alive. America’s John Glenn aboard Friendship 7 orbited in February 1962. China became the third nation to put a man in space: Yang Liwei in the Shenzhou 5 in October 2003. And scientists from many nations have served aboard the International Space Station – the largest orbiting satellite to date – since its first component was launched in 1998; it orbits the Earth every 92.69 minutes.
+Many countries – even the likes of Qatar (2013), Uruguay (2014) and Turkmenistan (2015) – have placed satellites in orbit. Not to mention dozens of private companies that have paid large sums to put their satellites (mostly telecomm ones) into orbit, spurred on by the passage of the Commercial Space Launch Act of 1984 by the United States Congress. Now there are also a number of firms exploring manned commercial flights into orbit, or beyond.
+“A satellite has no conscience.”
+– Edward R. Murrow
+“Right now there are thirty-one satellites zipping around the world with nothing better to do than help you find your way to the grocery store.”
+– Ed Burnette
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Advanced Flight
+Rocketry
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Build 2 Broadcast Centers.
+Progression
+Leads to Technologies
+Robotics

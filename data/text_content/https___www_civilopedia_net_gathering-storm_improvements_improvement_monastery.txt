@@ -1,0 +1,68 @@
+Monastery - Improvements and Routes - Civilopedia - Civilization VI
+Monastery
+Description
+Unlocks the Builder ability to construct a Monastery.
++2
+Faith. +15 HP healing for friendly religious unit on this tile that has not attacked this turn. +1
+Faith for every 2 adjacent Districts. Provides +1
+Housing. Receive an additional
+Housing once Colonialism is discovered. Cannot be built next to another Monastery.
+Historical Context
+A monastery, in the Roman Catholic tradition, is a complex of buildings that serves as communal home and workplace for monks (and nuns, in modern usage termed “convents”). These also include someplace reserved for prayer, such as a chapel or church. And many housed hospitals, schools, distilleries, and more. According to legend, Christian monasticism began in Egypt, although the first monastery in Europe was founded c. 344 AD near Chirpan (Bulgaria) by St. Athanasius. A couple centuries later, in 529, Saint Benedict established the monastery at Monte Cassino, laying the pattern for Catholic monasticism. Monasteries soon began appearing all over Europe, and beyond.
+Traits
+Unique To
+Armagh
++2
+Faith
++1.0
+Housing
+Adjacency Bonus
++1
+Faith from every 2 adjacent district tiles.
+Requirements
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Monastery.
++2
+Faith. +15 HP healing for friendly religious unit on this tile that has not attacked this turn. +1
+Faith for every 2 adjacent Districts. Provides +1
+Housing. Receive an additional
+Housing once Colonialism is discovered. Cannot be built next to another Monastery.
+Historical Context
+A monastery, in the Roman Catholic tradition, is a complex of buildings that serves as communal home and workplace for monks (and nuns, in modern usage termed “convents”). These also include someplace reserved for prayer, such as a chapel or church. And many housed hospitals, schools, distilleries, and more. According to legend, Christian monasticism began in Egypt, although the first monastery in Europe was founded c. 344 AD near Chirpan (Bulgaria) by St. Athanasius. A couple centuries later, in 529, Saint Benedict established the monastery at Monte Cassino, laying the pattern for Catholic monasticism. Monasteries soon began appearing all over Europe, and beyond.
+Traits
+Unique To
+Armagh
++2
+Faith
++1.0
+Housing
+Adjacency Bonus
++1
+Faith from every 2 adjacent district tiles.
+Requirements
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

@@ -1,0 +1,42 @@
+Archaeologist - Units - Civilopedia - Civilization VI
+Archaeologist
+Description
+Find and extract
+Artifacts from
+Antiquity Sites to be displayed in their home city's Museum.
+Historical Context
+Archaeologists study human behavior in the past, primarily through the excavation and analysis of human fossils, the ruins of buildings, and the remains of human artifacts. Although controversies rage about the ownership of artifacts, treasures, and human remains recovered, thousands of archaeologists still operate around the world at excavations sites, in museums, and on university campuses. These men and women work to undercover the common beliefs and daily activities of various peoples throughout history, furthering our understanding of our own history.
+Traits
+4
+Movement Points
+Requirements
+Civic
+Natural History
+Building
+Archaeological Museum
+Production Cost
+Base Cost: 400
+Production
+Purchase Cost
+Base Cost: 1600
+Gold
+Description
+Find and extract
+Artifacts from
+Antiquity Sites to be displayed in their home city's Museum.
+Historical Context
+Archaeologists study human behavior in the past, primarily through the excavation and analysis of human fossils, the ruins of buildings, and the remains of human artifacts. Although controversies rage about the ownership of artifacts, treasures, and human remains recovered, thousands of archaeologists still operate around the world at excavations sites, in museums, and on university campuses. These men and women work to undercover the common beliefs and daily activities of various peoples throughout history, furthering our understanding of our own history.
+Traits
+4
+Movement Points
+Requirements
+Civic
+Natural History
+Building
+Archaeological Museum
+Production Cost
+Base Cost: 400
+Production
+Purchase Cost
+Base Cost: 1600
+Gold

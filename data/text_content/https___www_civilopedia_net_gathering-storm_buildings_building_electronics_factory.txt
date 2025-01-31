@@ -1,0 +1,80 @@
+Electronics Factory - Buildings - Civilopedia - Civilization VI
+Electronics Factory
+Description
+A building unique to Japan. Provides +4
+Culture to this city after researching the Electricity technology. Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type.
+Historical Context
+With the advent of consumer electronics, the market for all manner of gizmos and gadgets for entertainment, communication and wasting time exploded in the late 20th Century. The Consumer Electronics Association estimated that sales of electronics for personal use – from computers to MP3 players, calculators to digital cameras, and so forth – exceeded 150 billion dollars in 2007 AD. To feed this postmodern addiction, semi-skilled laborers working in sprawling electronics factories assemble standardized parts into an ever-increasing flood of new products. Leading the way in this tidal wave is Japan, with the largest electronics industry in the world, although both South Korea and China are increasingly competitive. The first “modern” electronics factory was built by Sony, founded in 1946 AD. In the 1950s, Japanese engineers pioneered commercial applications for the transistor and in the 1970s and 1980s for the semi-conductor. Japanese innovations in miniaturization and in standardizing electronics manufacturing have kept their factories the most profitable in the most competitive field in consumerism ever seen.
+Traits
+Unique To
+Japan
+Replaces
+Factory
++3
+Production
++5
+Production additionally when
+Powered
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization
+Building
+Workshop
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Power Cost
+Base Load: 2
+Power
+Description
+A building unique to Japan. Provides +4
+Culture to this city after researching the Electricity technology. Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type.
+Historical Context
+With the advent of consumer electronics, the market for all manner of gizmos and gadgets for entertainment, communication and wasting time exploded in the late 20th Century. The Consumer Electronics Association estimated that sales of electronics for personal use – from computers to MP3 players, calculators to digital cameras, and so forth – exceeded 150 billion dollars in 2007 AD. To feed this postmodern addiction, semi-skilled laborers working in sprawling electronics factories assemble standardized parts into an ever-increasing flood of new products. Leading the way in this tidal wave is Japan, with the largest electronics industry in the world, although both South Korea and China are increasingly competitive. The first “modern” electronics factory was built by Sony, founded in 1946 AD. In the 1950s, Japanese engineers pioneered commercial applications for the transistor and in the 1970s and 1980s for the semi-conductor. Japanese innovations in miniaturization and in standardizing electronics manufacturing have kept their factories the most profitable in the most competitive field in consumerism ever seen.
+Traits
+Unique To
+Japan
+Replaces
+Factory
++3
+Production
++5
+Production additionally when
+Powered
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Requirements
+District
+Industrial Zone
+Technology
+Industrialization
+Building
+Workshop
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Power Cost
+Base Load: 2
+Power

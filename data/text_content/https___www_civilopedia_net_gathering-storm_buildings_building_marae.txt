@@ -1,0 +1,58 @@
+Marae - Buildings - Civilopedia - Civilization VI
+Marae
+Description
+A building unique to the Māori. +1
+Culture and
+Faith to all of this city's tiles with a passable feature or natural wonder. After Flight is researched receive +1
+Tourism to all of this city's tiles with a feature or natural wonder. Costs no maintenance. Has no Great Work slots.
+Historical Context
+A marae is a meeting ground of the Maori, and the physical center of an iwi—a tribe or family. It is central to the identity and sense of self for the tribe and family, and the place where the family comes together to celebrate, mourn, welcome, and recommit themselves. Behavior on the marae is governed through important customs, which serve to reinforce the mana of the marae holder and their guests. A marae is not a permanent dwelling, but a place set aside where the family will go for important occasions.
+A marae will consist of a cleared space and buildings, including the distinctive meeting house (wharenui) with its large front portico (marae atea). The wharenui and marae atae have ornately carved pillars and panels that reflect the heritage of the people—their whakapapa. A guest is welcomed through a ritual called the powhiri, which begins with a challenge, moves onto recognition of the ancestry of both sides, includes formal speeches of welcome and exchange of gifts, and ends with a shared meal.
+Traits
+Unique To
+Māori
+Replaces
+Amphitheater
++1
+Citizen slot
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Theater Square
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Description
+A building unique to the Māori. +1
+Culture and
+Faith to all of this city's tiles with a passable feature or natural wonder. After Flight is researched receive +1
+Tourism to all of this city's tiles with a feature or natural wonder. Costs no maintenance. Has no Great Work slots.
+Historical Context
+A marae is a meeting ground of the Maori, and the physical center of an iwi—a tribe or family. It is central to the identity and sense of self for the tribe and family, and the place where the family comes together to celebrate, mourn, welcome, and recommit themselves. Behavior on the marae is governed through important customs, which serve to reinforce the mana of the marae holder and their guests. A marae is not a permanent dwelling, but a place set aside where the family will go for important occasions.
+A marae will consist of a cleared space and buildings, including the distinctive meeting house (wharenui) with its large front portico (marae atea). The wharenui and marae atae have ornately carved pillars and panels that reflect the heritage of the people—their whakapapa. A guest is welcomed through a ritual called the powhiri, which begins with a challenge, moves onto recognition of the ancestry of both sides, includes formal speeches of welcome and exchange of gifts, and ends with a shared meal.
+Traits
+Unique To
+Māori
+Replaces
+Amphitheater
++1
+Citizen slot
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Theater Square
+Civic
+Drama and Poetry
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold

@@ -1,0 +1,58 @@
+Modern Armor - Units - Civilopedia - Civilization VI
+Modern Armor
+Description
+Information era heavy cavalry unit that is fast and strong.
+Historical Context
+Modern armor is significantly better than those wonderful Panthers, T-34s, Cromwells and Shermans that tore things up during World War II. Today's main battle tanks (MBTs) are bigger, faster, have far better armor and weapons, and, perhaps most importantly, are provided with sophisticated computers and communications equipment which greatly improves their power and survivability on the modern battlefield. What an MBT cannot just blast apart it can run over. A modern tank can scream across the battlefield at 60 kilometers per hour while firing with pinpoint accuracy at a target hundreds of yards away, a targeting computer minutely adjusting the tank's barrel, compensating for each bump or pothole. Infantry rarely carry weapons strong enough to destroy thick-skinned modern armor – except of course, for their radios, which they can use to call in artillery or helicopter gunships. Unfortunately, MBTs don’t work well in the irregular, anti-insurgent warfare now in vogue.
+Traits
+Upgrade From
+Tank
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+95
+Melee Strength
+Requirements
+Technology
+Composites
+Production Cost
+Base Cost: 680
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn
+Description
+Information era heavy cavalry unit that is fast and strong.
+Historical Context
+Modern armor is significantly better than those wonderful Panthers, T-34s, Cromwells and Shermans that tore things up during World War II. Today's main battle tanks (MBTs) are bigger, faster, have far better armor and weapons, and, perhaps most importantly, are provided with sophisticated computers and communications equipment which greatly improves their power and survivability on the modern battlefield. What an MBT cannot just blast apart it can run over. A modern tank can scream across the battlefield at 60 kilometers per hour while firing with pinpoint accuracy at a target hundreds of yards away, a targeting computer minutely adjusting the tank's barrel, compensating for each bump or pothole. Infantry rarely carry weapons strong enough to destroy thick-skinned modern armor – except of course, for their radios, which they can use to call in artillery or helicopter gunships. Unfortunately, MBTs don’t work well in the irregular, anti-insurgent warfare now in vogue.
+Traits
+Upgrade From
+Tank
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+95
+Melee Strength
+Requirements
+Technology
+Composites
+Production Cost
+Base Cost: 680
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2720
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn

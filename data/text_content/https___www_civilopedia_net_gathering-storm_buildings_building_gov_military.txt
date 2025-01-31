@@ -1,0 +1,50 @@
+War Department - Buildings - Civilopedia - Civilization VI
+War Department
+Description
+All units heal up to 20 hit points when they eliminate a unit.
+Awards +1
+Governor Title.
+Historical Context
+The War Department (or its euphemistically-named counterpart the Ministry of Defense) vies with the Foreign Ministry for the title of "most important office of the head of state." It is the result of the confluence of a number of forces: The increasing complexity of governing, the rise of the professional military and the staff officer corps, and the realization that putting an unchecked, charismatic warlord in charge of the military can lead to bad consequences for the government's long-term survivability. To a student of military history, it is remarkable how the once-controversial notion of civilian control of the military is now effectively codified across the major nations of the world.
+Today, the United States' Department of Defense is the largest of these War Departments. Headquartered in the mammoth Pentagon building on the outskirts of Washington D.C., it is the world's largest employer, oversees the largest military in the world, and spends the largest military budget of any nation (exceeding more than the next dozen or so militaries combined).
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+National History Museum
+Royal Society
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+All units heal up to 20 hit points when they eliminate a unit.
+Awards +1
+Governor Title.
+Historical Context
+The War Department (or its euphemistically-named counterpart the Ministry of Defense) vies with the Foreign Ministry for the title of "most important office of the head of state." It is the result of the confluence of a number of forces: The increasing complexity of governing, the rise of the professional military and the staff officer corps, and the realization that putting an unchecked, charismatic warlord in charge of the military can lead to bad consequences for the government's long-term survivability. To a student of military history, it is remarkable how the once-controversial notion of civilian control of the military is now effectively codified across the major nations of the world.
+Today, the United States' Department of Defense is the largest of these War Departments. Headquartered in the mammoth Pentagon building on the outskirts of Washington D.C., it is the world's largest employer, oversees the largest military in the world, and spends the largest military budget of any nation (exceeding more than the next dozen or so militaries combined).
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+National History Museum
+Royal Society
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold

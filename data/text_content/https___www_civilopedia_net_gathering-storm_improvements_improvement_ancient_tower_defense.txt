@@ -1,0 +1,42 @@
+Barricade - Improvements and Routes - Civilopedia - Civilization VI
+Barricade
+Description
+An unworkable early Improvement that deals minor damage to, and exerts zone of control on, hostile units passing through or adjacent to it. Unlocked with Military Engineering and built using a Builder Charge. Does not prevent unit movement through this space.
+Historical Context
+The uncanniness of zombies comes from their ambiguity. Are they simply animate material, or are they living beings of a sort? Defenses against people rely upon a number of things that simply do not apply to walking corpses: pain, intimidation, exhaustion. Barbed wire means nothing to something that cannot feel. Additionally, zombie weaponry is limited: zombies do not build trebuchets; they do not fire arrows. So defenses against the dead treat the un-living not as a thinking enemy, but as moving matter – sharpened sticks to not seek to kill, but to immobilize, towers with retractable ladders provide refuge from enemies without brains to climb a rope, ditches contain enemies who cannot build a bridge. At least, until there’s too many of them.
+Requirements
+Technology
+Military Engineering
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+An unworkable early Improvement that deals minor damage to, and exerts zone of control on, hostile units passing through or adjacent to it. Unlocked with Military Engineering and built using a Builder Charge. Does not prevent unit movement through this space.
+Historical Context
+The uncanniness of zombies comes from their ambiguity. Are they simply animate material, or are they living beings of a sort? Defenses against people rely upon a number of things that simply do not apply to walking corpses: pain, intimidation, exhaustion. Barbed wire means nothing to something that cannot feel. Additionally, zombie weaponry is limited: zombies do not build trebuchets; they do not fire arrows. So defenses against the dead treat the un-living not as a thinking enemy, but as moving matter – sharpened sticks to not seek to kill, but to immobilize, towers with retractable ladders provide refuge from enemies without brains to climb a rope, ditches contain enemies who cannot build a bridge. At least, until there’s too many of them.
+Requirements
+Technology
+Military Engineering
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Desert (Hills)
+Tundra (Hills)
+Plains (Hills)
+Grassland (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

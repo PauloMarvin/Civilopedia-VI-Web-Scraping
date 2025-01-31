@@ -1,0 +1,70 @@
+Shipyard - Buildings - Civilopedia - Civilization VI
+Shipyard
+Description
++25% combat experience for all naval units trained in this city. Bonus
+Production equal to the adjacency bonus of the Harbor district. +1
+Production on all unimproved Coast and Lake tiles for this city.
+Historical Context
+The earliest known dockyards – dating c. 2400 BC - have been found in the ruins of Lothal in the state of Gujarat, India. Naupactus means “shipyard” in Greek; it is not surprising that that ancient city was known for building warships. Every nation with pretentions of being an empire had its shipyards. Ships were one of the first things to be mass produced; centuries before the wondrous Industrial Revolution, the Arsenal in Venice was able to produce a merchant or war ship in a day, using pre-manufactured and standardized parts on an assembly line. With the advent of iron and steel vessels, shipyards became more like factories than ever, with massive drydocks to build the greatest ocean-going vessels ever … but it took more than a day. At the sprawling Harland & Wolff shipyard in Belfast, the RMS Titanic was laid down in March 1909 but not launched until May 1911, with nearly a year still until completion and its fateful maiden voyage.
+Traits
++1
+Food
+Bonus
+Production equal to the adjacency
+Gold bonus of its district.
++1
+Citizen slot
++1
+Great Admiral point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Harbor
+Technology
+Mass Production
+Building
+Lighthouse
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
++25% combat experience for all naval units trained in this city. Bonus
+Production equal to the adjacency bonus of the Harbor district. +1
+Production on all unimproved Coast and Lake tiles for this city.
+Historical Context
+The earliest known dockyards – dating c. 2400 BC - have been found in the ruins of Lothal in the state of Gujarat, India. Naupactus means “shipyard” in Greek; it is not surprising that that ancient city was known for building warships. Every nation with pretentions of being an empire had its shipyards. Ships were one of the first things to be mass produced; centuries before the wondrous Industrial Revolution, the Arsenal in Venice was able to produce a merchant or war ship in a day, using pre-manufactured and standardized parts on an assembly line. With the advent of iron and steel vessels, shipyards became more like factories than ever, with massive drydocks to build the greatest ocean-going vessels ever … but it took more than a day. At the sprawling Harland & Wolff shipyard in Belfast, the RMS Titanic was laid down in March 1909 but not launched until May 1911, with nearly a year still until completion and its fateful maiden voyage.
+Traits
++1
+Food
+Bonus
+Production equal to the adjacency
+Gold bonus of its district.
++1
+Citizen slot
++1
+Great Admiral point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Harbor
+Technology
+Mass Production
+Building
+Lighthouse
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

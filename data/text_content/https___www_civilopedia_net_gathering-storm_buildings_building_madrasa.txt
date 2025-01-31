@@ -1,0 +1,80 @@
+Madrasa - Buildings - Civilopedia - Civilization VI
+Madrasa
+Description
+A building unique to Arabia. Bonus
+Faith equal to the adjacency bonus of the Campus district.
+Historical Context
+A madrasa (madrasah in Arabic or medrese in Turkish) is a secular institution of education, although often with a religious component. Madrasas would specialize in medicine, law, science, philosophy, religion or the education of women. Others also taught logic, world history, foreign languages, mathematics, art, and comparative literature. The first madrasa, the Gama'at al-Qarawiyyn, was established in 859 AD by Fatimah al-Fihri, the daughter of a wealthy merchant. During the rule of the Fatimid, Ayyubid, and Mamluk dynasties, the practice of sponsoring madrasas by the ruling, wealthy elite spread across Egypt and the Middle East. The first Ottoman madrasa was founded in 1331 in Iznik, and followed the traditions of Sunni Islam. The madrasas of the Turks and Arabs would, as Europe stumbled through the Dark Ages, keep the best of Classical knowledge alive, and build on it with their own inventions.
+Traits
+Unique To
+Arabia
+Replaces
+University
++5
+Science
+Bonus
+Faith equal to the adjacency
+Science bonus of its district.
++1
+Housing
++1
+Citizen slot
++1
+Great Scientist point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Campus
+Civic
+Theology
+Building
+Library
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+A building unique to Arabia. Bonus
+Faith equal to the adjacency bonus of the Campus district.
+Historical Context
+A madrasa (madrasah in Arabic or medrese in Turkish) is a secular institution of education, although often with a religious component. Madrasas would specialize in medicine, law, science, philosophy, religion or the education of women. Others also taught logic, world history, foreign languages, mathematics, art, and comparative literature. The first madrasa, the Gama'at al-Qarawiyyn, was established in 859 AD by Fatimah al-Fihri, the daughter of a wealthy merchant. During the rule of the Fatimid, Ayyubid, and Mamluk dynasties, the practice of sponsoring madrasas by the ruling, wealthy elite spread across Egypt and the Middle East. The first Ottoman madrasa was founded in 1331 in Iznik, and followed the traditions of Sunni Islam. The madrasas of the Turks and Arabs would, as Europe stumbled through the Dark Ages, keep the best of Classical knowledge alive, and build on it with their own inventions.
+Traits
+Unique To
+Arabia
+Replaces
+University
++5
+Science
+Bonus
+Faith equal to the adjacency
+Science bonus of its district.
++1
+Housing
++1
+Citizen slot
++1
+Great Scientist point per turn.
++500
+Tourism from Rock Concerts.
+Requirements
+District
+Campus
+Civic
+Theology
+Building
+Library
+Production Cost
+Base Cost: 250
+Production
+Purchase Cost
+Base Cost: 1000
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

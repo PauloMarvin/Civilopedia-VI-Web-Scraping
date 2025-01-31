@@ -1,0 +1,54 @@
+Sydney Opera House - Wonders and Projects - Civilopedia - Civilization VI
+Sydney Opera House
+Description
+Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+The construction of an enormous arts center for Sydney on Bennelong Point had been debated since the 1940s; in 1956 AD the government of New South Wales announced an open-ended competition for the design of something grand to show the world that the city really did have some taste. A Danish architect, Jørn Utzon won with his unique expressionist design, a series of precast concrete “shells,” covered with over a million white- or cream-colored tiles with interior glass curtain walls. So unique was the problematic design (Utzon had paid no heed to structural engineering) that it took sixteen years to build at a cost ten times more than estimated. But, once completed and officially dedicated by Queen Elizabeth II in October 1973, it has since become the iconic symbol of the one-time penal colony. From its 2,679-seat grand Concert Hall to the intimate 210-seat Utzon Room, the Opera House brings performances of all sorts down under.
+“An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I've left the opera house.”
+– Maria Callas
+Traits
++8
+Culture
++5
+Great Musician points per turn.
++3
+Great Works of Music slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Cultural Heritage
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 1850
+Production
+Description
+Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+The construction of an enormous arts center for Sydney on Bennelong Point had been debated since the 1940s; in 1956 AD the government of New South Wales announced an open-ended competition for the design of something grand to show the world that the city really did have some taste. A Danish architect, Jørn Utzon won with his unique expressionist design, a series of precast concrete “shells,” covered with over a million white- or cream-colored tiles with interior glass curtain walls. So unique was the problematic design (Utzon had paid no heed to structural engineering) that it took sixteen years to build at a cost ten times more than estimated. But, once completed and officially dedicated by Queen Elizabeth II in October 1973, it has since become the iconic symbol of the one-time penal colony. From its 2,679-seat grand Concert Hall to the intimate 210-seat Utzon Room, the Opera House brings performances of all sorts down under.
+“An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I've left the opera house.”
+– Maria Callas
+Traits
++8
+Culture
++5
+Great Musician points per turn.
++3
+Great Works of Music slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Cultural Heritage
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 1850
+Production

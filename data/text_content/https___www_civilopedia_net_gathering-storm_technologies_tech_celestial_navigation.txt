@@ -1,0 +1,50 @@
+Celestial Navigation - Technologies - Civilopedia - Civilization VI
+Celestial Navigation
+Description
+Allows Traders to embark, and allows harvesting of
+Fish and
+Crabs.
+Historical Context
+Celestial navigation (or astronavigation, which sounds more scientific than artistic) is the practice of taking angular measurements between a celestial body (sun, moon, planet or star) and a point on the horizon to determine one’s position on the globe. A very useful skill for early sailors venturing out of sight of land. The altitude of the sun above the horizon at noon when compared with the altitude of other bodies gave, for instance, the latitude of the ship. Similarly, an angular measurement to the star Polaris and a similar measurement to a star near the western or eastern horizon could give a fairly accurate longitudinal position.
+Polynesian navigation is probably the best known – not to mention earliest – form of celestial navigation; their “wayfarers” memorized the positions of the heavens at all seasons and could cross thousands of miles of open ocean with little error. In Medieval Europe, celestial navigation was considered one of the seven mechanical arts, and the first mariner’s astrolabe was used in the Mediterranean by Muslim merchants. (Perhaps by design, the astrolabe also allowed Muslim travelers to locate the Qibla and calculate the times for the Salat.) Meanwhile, the use of the magnetic compass spread from China across civilization.
+Since navigation by “dead reckoning” could have unfortunate results (like running aground and drowning or getting lost and starving), crossing the open seas using the astrolabe and the compass together reached its peak during the “Age of Discovery.” The first circumnavigation of the Earth utilized these tools, along with Magellan’s innate sense of direction (every great admiral of the period had one).
+Eventually, of course, the invention of radio, radar and satellite mapping made the entire process much easier and far safer. But even today, sailors rely on the heavens to keep them on course and off the rocks.
+“And all I ask is a tall ship and a star to steer her by.”
+– John Masefield
+“Set your course by the stars, not by the lights of every passing ship.”
+– Omar Bradley
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Sailing
+Astrology
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Improve 2 sea resources.
+Description
+Allows Traders to embark, and allows harvesting of
+Fish and
+Crabs.
+Historical Context
+Celestial navigation (or astronavigation, which sounds more scientific than artistic) is the practice of taking angular measurements between a celestial body (sun, moon, planet or star) and a point on the horizon to determine one’s position on the globe. A very useful skill for early sailors venturing out of sight of land. The altitude of the sun above the horizon at noon when compared with the altitude of other bodies gave, for instance, the latitude of the ship. Similarly, an angular measurement to the star Polaris and a similar measurement to a star near the western or eastern horizon could give a fairly accurate longitudinal position.
+Polynesian navigation is probably the best known – not to mention earliest – form of celestial navigation; their “wayfarers” memorized the positions of the heavens at all seasons and could cross thousands of miles of open ocean with little error. In Medieval Europe, celestial navigation was considered one of the seven mechanical arts, and the first mariner’s astrolabe was used in the Mediterranean by Muslim merchants. (Perhaps by design, the astrolabe also allowed Muslim travelers to locate the Qibla and calculate the times for the Salat.) Meanwhile, the use of the magnetic compass spread from China across civilization.
+Since navigation by “dead reckoning” could have unfortunate results (like running aground and drowning or getting lost and starving), crossing the open seas using the astrolabe and the compass together reached its peak during the “Age of Discovery.” The first circumnavigation of the Earth utilized these tools, along with Magellan’s innate sense of direction (every great admiral of the period had one).
+Eventually, of course, the invention of radio, radar and satellite mapping made the entire process much easier and far safer. But even today, sailors rely on the heavens to keep them on course and off the rocks.
+“And all I ask is a tall ship and a star to steer her by.”
+– John Masefield
+“Set your course by the stars, not by the lights of every passing ship.”
+– Omar Bradley
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Sailing
+Astrology
+Research Cost
+Base Cost: 120
+Science
+Boosts
+Improve 2 sea resources.

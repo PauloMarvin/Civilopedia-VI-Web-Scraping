@@ -1,0 +1,68 @@
+Swordsman - Units - Civilopedia - Civilization VI
+Swordsman
+Description
+Strong Classical era melee unit.
+Historical Context
+The “Art of the Sword” – although those first Bronze Age wielders probably weren’t very artistic – goes back to the time when a sword was little more than a large dagger, short and sharp. The most ancient swords yet excavated date to c. 1600 BC. Swords came in many types: some sharp along both edges, some just along one, some thin with a sharp point, some heavy. As often as not, a civilization’s favored type was its most distinctive aspect. It might also be noted that the evolution of the sword had a significant impact on the evolution of iron-working, mining and smelting … all rather useful technologies. Virtually every culture in history had swords, and used them proficiently against each other. In time, too, the increasing use of the sword in melee led to advances in armor, and soon enough there was an “arms” race between these military technologies. Today, the sword has been relegated primarily to ceremonial and sporting uses … but swordplay remains deep in our blood (so to speak).
+Traits
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Eagle Warrior
+Sabum Kibittum
+Promotion Class: Melee
+2
+Movement Points
+35
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 90
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Strong Classical era melee unit.
+Historical Context
+The “Art of the Sword” – although those first Bronze Age wielders probably weren’t very artistic – goes back to the time when a sword was little more than a large dagger, short and sharp. The most ancient swords yet excavated date to c. 1600 BC. Swords came in many types: some sharp along both edges, some just along one, some thin with a sharp point, some heavy. As often as not, a civilization’s favored type was its most distinctive aspect. It might also be noted that the evolution of the sword had a significant impact on the evolution of iron-working, mining and smelting … all rather useful technologies. Virtually every culture in history had swords, and used them proficiently against each other. In time, too, the increasing use of the sword in melee led to advances in armor, and soon enough there was an “arms” race between these military technologies. Today, the sword has been relegated primarily to ceremonial and sporting uses … but swordplay remains deep in our blood (so to speak).
+Traits
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Eagle Warrior
+Sabum Kibittum
+Promotion Class: Melee
+2
+Movement Points
+35
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 90
+Production
+Base Resource Cost: 20
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 360
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

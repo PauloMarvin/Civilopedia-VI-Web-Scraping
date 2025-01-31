@@ -1,0 +1,44 @@
+Siege Tactics - Technologies - Civilopedia - Civilization VI
+Siege Tactics
+Historical Context
+In essence, siege tactics haven’t changed much since Megiddo (c. 1457 BC), Tyre (332 BC), Carthage (149-146 BC), and Masada (73-74 AD) – not to mention Troy around 1200 BC should one believe Homer. Once the Assyrians and their neighbors began building walls around their cities to keep the riff-raff out, it became necessary for any serious conqueror to have the means to take such places.
+From time immemorial, the attacker’s first act was usually a “surprise” assault, seeking to overwhelm the defenders before they were ready for or even aware of a threat. That usually didn’t work, but it was worth a try. And so most attackers fell back on investing the town, looking to force the defenders inside to surrender (or hoping for an insider to betray the garrison and open the gates). If the place was completely encircled, food, water and other supplies could be kept from reaching the besieged. If starvation loomed … as it often did … the defenders and civilians were reduced to eating anything vaguely edible – horses, family pets, leather, sawdust and even each other. Disease was also quite effective, and so the practice of hurling diseased carcasses (animal and human) over the walls. But either approach could take some time, especially if the city was large and well-stocked.
+To get things over quicker – since the besieging army itself might face illness, starvation or a relieving army – a large variety of siege engines were invented to breach or overtop the walls. Ladders and siege towers put men on the walls, while catapults and trebuchets shattered the walls and battering rams and siege hooks knocked or pulled down gates. Digging tunnels to collapse the walls – mining – sometimes worked. If these tactics were successful and the walls breached, it all ended in a bloody great melee in the city. The Ottomans were particularly adept at siege tactics … as Constantinople, Klis and Rhodes can attest.
+“The lowest is to attack a city. Siege of a city is only done as a last resort.”
+– Sun Tzu
+“All the best romances bloom in the midst of a good siege.”
+– Miles Cameron
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Castles
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Own 2 Trebuchets.
+Progression
+Leads to Technologies
+Military Science
+Historical Context
+In essence, siege tactics haven’t changed much since Megiddo (c. 1457 BC), Tyre (332 BC), Carthage (149-146 BC), and Masada (73-74 AD) – not to mention Troy around 1200 BC should one believe Homer. Once the Assyrians and their neighbors began building walls around their cities to keep the riff-raff out, it became necessary for any serious conqueror to have the means to take such places.
+From time immemorial, the attacker’s first act was usually a “surprise” assault, seeking to overwhelm the defenders before they were ready for or even aware of a threat. That usually didn’t work, but it was worth a try. And so most attackers fell back on investing the town, looking to force the defenders inside to surrender (or hoping for an insider to betray the garrison and open the gates). If the place was completely encircled, food, water and other supplies could be kept from reaching the besieged. If starvation loomed … as it often did … the defenders and civilians were reduced to eating anything vaguely edible – horses, family pets, leather, sawdust and even each other. Disease was also quite effective, and so the practice of hurling diseased carcasses (animal and human) over the walls. But either approach could take some time, especially if the city was large and well-stocked.
+To get things over quicker – since the besieging army itself might face illness, starvation or a relieving army – a large variety of siege engines were invented to breach or overtop the walls. Ladders and siege towers put men on the walls, while catapults and trebuchets shattered the walls and battering rams and siege hooks knocked or pulled down gates. Digging tunnels to collapse the walls – mining – sometimes worked. If these tactics were successful and the walls breached, it all ended in a bloody great melee in the city. The Ottomans were particularly adept at siege tactics … as Constantinople, Klis and Rhodes can attest.
+“The lowest is to attack a city. Siege of a city is only done as a last resort.”
+– Sun Tzu
+“All the best romances bloom in the midst of a good siege.”
+– Miles Cameron
+Unlocks
+Requirements
+Renaissance Era
+Required Technologies
+Castles
+Research Cost
+Base Cost: 730
+Science
+Boosts
+Own 2 Trebuchets.
+Progression
+Leads to Technologies
+Military Science

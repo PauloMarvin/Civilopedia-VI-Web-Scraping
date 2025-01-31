@@ -1,0 +1,50 @@
+Mausoleum at Halicarnassus  - Wonders and Projects - Civilopedia - Civilization VI
+Mausoleum at Halicarnassus
+Description
++1
+Science, +1
+Faith, and +1
+Culture on all Coast tiles for this city.
+Great Engineers have an additional charge. Must be built adjacent to a Harbor district.
+Historical Context
+The Persian satrap Mausolus had a tomb built for himself that was so lavish and beautiful that the term “mausoleum” would subsequently be used for any stately tomb. Planned before his death in the city of Halicarnassus, a coastal town on the shores of what is now western Turkey, it was completed after his death in 353 BCE. Many writings from antiquity mention the Mausoleum’s beauty, and it was declared one of the seven wonders of the ancient world.
+Artemisia, widow to Mausolus, hired famous sculptors to work the stone and marble, and its sides were emblazoned with bas-reliefs of mythical creatures. Atop a pyramidal roof, supported by columns and solid stone, was a bronze chariot bearing depictions of Mausolus and Artemisia, together in death for eternity—or the early 15th Century, when the whole thing was toppled by earthquakes.
+“A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast.”
+– Lucian of Samosata
+Traits
+Removed if game started after
+Renaissance Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Defensive Tactics
+Adjacency
+Harbor
+Production Cost
+Base Cost: 400
+Production
+Description
++1
+Science, +1
+Faith, and +1
+Culture on all Coast tiles for this city.
+Great Engineers have an additional charge. Must be built adjacent to a Harbor district.
+Historical Context
+The Persian satrap Mausolus had a tomb built for himself that was so lavish and beautiful that the term “mausoleum” would subsequently be used for any stately tomb. Planned before his death in the city of Halicarnassus, a coastal town on the shores of what is now western Turkey, it was completed after his death in 353 BCE. Many writings from antiquity mention the Mausoleum’s beauty, and it was declared one of the seven wonders of the ancient world.
+Artemisia, widow to Mausolus, hired famous sculptors to work the stone and marble, and its sides were emblazoned with bas-reliefs of mythical creatures. Atop a pyramidal roof, supported by columns and solid stone, was a bronze chariot bearing depictions of Mausolus and Artemisia, together in death for eternity—or the early 15th Century, when the whole thing was toppled by earthquakes.
+“A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast.”
+– Lucian of Samosata
+Traits
+Removed if game started after
+Renaissance Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Defensive Tactics
+Adjacency
+Harbor
+Production Cost
+Base Cost: 400
+Production

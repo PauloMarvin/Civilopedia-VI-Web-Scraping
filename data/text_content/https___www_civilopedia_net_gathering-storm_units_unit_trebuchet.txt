@@ -1,0 +1,64 @@
+Trebuchet - Units - Civilopedia - Civilization VI
+Trebuchet
+Description
+Medieval era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+Artillery can be understood as a process of tossing bigger and bigger rocks at people. And for that, the trebuchet was the ultimate rock-tosser, at least until the widespread use of gunpowder. A catapult uses tension within a series of ropes and arms, but a trebuchet uses a lever and the force of gravity. The concept is pretty simple: a weight on one end and a sling on the other carrying its payload of stones (or even rotting carcasses to spread disease, or incendiaries to start fires). When the weight is allowed to drop, it swings the other end of the arm up and over, whipping the missile towards the target. A simple design, but one that required knowledge of levers and basic physics to perfect.
+The trebuchet was used in siege warfare in Europe in the 1100s until the advent of gunpowder, and in Asia were used occasionally in addition to smaller, more mobile “crouching tiger” siege weapons. Trebuchets, being large and unwieldy, were usually built close to the site of siege, making armies lighter but making the process of besieging a castle a lot more work.
+Traits
+Upgrades To
+Bombard
+Upgrade From
+Catapult
+Promotion Class: Siege
+2
+Movement Points
+35
+Melee Strength
+45
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Military Engineering
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Medieval era siege unit, ideal for attacking cities. Cannot move and attack on the same turn unless they've earned the Expert Crew promotion.
+Historical Context
+Artillery can be understood as a process of tossing bigger and bigger rocks at people. And for that, the trebuchet was the ultimate rock-tosser, at least until the widespread use of gunpowder. A catapult uses tension within a series of ropes and arms, but a trebuchet uses a lever and the force of gravity. The concept is pretty simple: a weight on one end and a sling on the other carrying its payload of stones (or even rotting carcasses to spread disease, or incendiaries to start fires). When the weight is allowed to drop, it swings the other end of the arm up and over, whipping the missile towards the target. A simple design, but one that required knowledge of levers and basic physics to perfect.
+The trebuchet was used in siege warfare in Europe in the 1100s until the advent of gunpowder, and in Asia were used occasionally in addition to smaller, more mobile “crouching tiger” siege weapons. Trebuchets, being large and unwieldy, were usually built close to the site of siege, making armies lighter but making the process of besieging a castle a lot more work.
+Traits
+Upgrades To
+Bombard
+Upgrade From
+Catapult
+Promotion Class: Siege
+2
+Movement Points
+35
+Melee Strength
+45
+Bombard Strength
+2
+Range
+Requirements
+Technology
+Military Engineering
+Production Cost
+Base Cost: 200
+Production
+Purchase Cost
+Base Cost: 800
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

@@ -1,0 +1,52 @@
+Wind Farm - Improvements and Routes - Civilopedia - Civilization VI
+Wind Farm
+Description
+Unlocks the Builder ability to construct a Wind Farm.
++2
+Gold. +1
+Production. Provides 2
+Power per turn. Must be built on Hills terrain.
+Historical Context
+People have been harnessing the power of the wind for thousands of years to sail ships and mechanically power small machines. The middle ages saw the rise in popularity of windmills to pump water, grind flour, and frighten quixotic knights. But it wasn't until December of 1980 that the very first wind farm, a group of turbines used to produce electricity, was installed in New Hampshire, United States. That farm was made up of only 20 turbines. In 2010, the first phase of construction of the Gansu Wind Farm in China was completed with 3,500 turbines.
+To be most successful, these farms need to be located in an area with a consistent wind speed, and are often found along hills and in mountainous regions. As the wind blows, the blades of the turbines turn a shaft to a generator, creating electricity. Despite the specific conditions these farms need, the renewable and clean energy produced has continued to increase their popularity in recent years.
+Traits
++2
+Gold
++1
+Production
+Requirements
+Technology
+Composites
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Wind Farm.
++2
+Gold. +1
+Production. Provides 2
+Power per turn. Must be built on Hills terrain.
+Historical Context
+People have been harnessing the power of the wind for thousands of years to sail ships and mechanically power small machines. The middle ages saw the rise in popularity of windmills to pump water, grind flour, and frighten quixotic knights. But it wasn't until December of 1980 that the very first wind farm, a group of turbines used to produce electricity, was installed in New Hampshire, United States. That farm was made up of only 20 turbines. In 2010, the first phase of construction of the Gansu Wind Farm in China was completed with 3,500 turbines.
+To be most successful, these farms need to be located in an area with a consistent wind speed, and are often found along hills and in mountainous regions. As the wind blows, the blades of the turbines turn a shaft to a generator, creating electricity. Despite the specific conditions these farms need, the renewable and clean energy produced has continued to increase their popularity in recent years.
+Traits
++2
+Gold
++1
+Production
+Requirements
+Technology
+Composites
+Plains (Hills)
+Grassland (Hills)
+Desert (Hills)
+Tundra (Hills)
+Snow (Hills)
+Usage
+Built By
+Builder

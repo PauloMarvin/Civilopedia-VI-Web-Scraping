@@ -1,0 +1,46 @@
+Apadana - Wonders and Projects - Civilopedia - Civilization VI
+Apadana
+Description
++2
+Envoys when you build a wonder, including Apadana, in this city.
+Must be built adjacent to your
+Capital.
+Historical Context
+Though an apadana was a specific style of ancient construction, the Apadana at Persepolis most typified the style. Dozens of columns supported a wooden roof, all built atop an elevated stone surface accessible by large staircases. The structure was open to the elements, though temporary “rooms” could be created by hanging cloth between columns.
+Darius the Great began construction of the Apadana at Persepolis, and Xerxes I completed it. The dynasty’s accomplishments were literally carved into the wall, whether text declarations or reliefs depicting the splendor and majesty of the Persian kings. Unfortunately for the Achaemenids, the Apadana was mostly destroyed by Alexander the Great’s forces during his Persian conquests. Some of its columns remain standing in the modern day.
+“My ancestor Darius made this Apadana, but it was burnt down. By the grace of Ahuramazda, Anahita, and Mithra, I reconstructed this Apadana.”
+– Artaxerxes II
+Traits
+Removed if game started after
+Renaissance Era
++2 Great Work slots (holds any type)
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Political Philosophy
+Production Cost
+Base Cost: 400
+Production
+Description
++2
+Envoys when you build a wonder, including Apadana, in this city.
+Must be built adjacent to your
+Capital.
+Historical Context
+Though an apadana was a specific style of ancient construction, the Apadana at Persepolis most typified the style. Dozens of columns supported a wooden roof, all built atop an elevated stone surface accessible by large staircases. The structure was open to the elements, though temporary “rooms” could be created by hanging cloth between columns.
+Darius the Great began construction of the Apadana at Persepolis, and Xerxes I completed it. The dynasty’s accomplishments were literally carved into the wall, whether text declarations or reliefs depicting the splendor and majesty of the Persian kings. Unfortunately for the Achaemenids, the Apadana was mostly destroyed by Alexander the Great’s forces during his Persian conquests. Some of its columns remain standing in the modern day.
+“My ancestor Darius made this Apadana, but it was burnt down. By the grace of Ahuramazda, Anahita, and Mithra, I reconstructed this Apadana.”
+– Artaxerxes II
+Traits
+Removed if game started after
+Renaissance Era
++2 Great Work slots (holds any type)
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Political Philosophy
+Production Cost
+Base Cost: 400
+Production

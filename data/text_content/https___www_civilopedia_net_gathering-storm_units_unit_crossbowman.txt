@@ -1,0 +1,72 @@
+Crossbowman - Units - Civilopedia - Civilization VI
+Crossbowman
+Description
+Medieval era ranged unit.
+Historical Context
+The crossbow – easier to master than the bow and hence perfect for peasants, who really didn’t have much time to practice archery – is in essence a small, heavy bow set crossways on a mechanism for drawing and releasing a short arrow (termed a bolt or quarrel). Invented in eastern China, it is first recorded in use during the aptly-named Warring States Period, c. 4th Century BC. The famed Sun Tzu devoted no less than two chapters in his influential 'Art of War' to the use of the crossbow. Around the same time, a sort of crossbow ancestor made its appearance in Greece, and the Romans may have used a few. But it is during the Middle Ages that the crossbow dominated the European battlefield. Combined with pikemen, another weapon that didn’t require a lot of skill to use, massed crossbowmen could turn aside almost any threat. The only downside to the crossbow was the skill necessary to construct one. But, until the advent of muskets, it was the best thing available to those unruly peasants.
+Traits
+Upgrades To
+Field Cannon
+Hwacha
+Upgrade From
+Archer
+Maryannu Chariot Archer
+Saka Horse Archer
+Pítati Archer
+Hul'che
+Promotion Class: Ranged
+2
+Movement Points
+30
+Melee Strength
+40
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 180
+Production
+Purchase Cost
+Base Cost: 720
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Medieval era ranged unit.
+Historical Context
+The crossbow – easier to master than the bow and hence perfect for peasants, who really didn’t have much time to practice archery – is in essence a small, heavy bow set crossways on a mechanism for drawing and releasing a short arrow (termed a bolt or quarrel). Invented in eastern China, it is first recorded in use during the aptly-named Warring States Period, c. 4th Century BC. The famed Sun Tzu devoted no less than two chapters in his influential 'Art of War' to the use of the crossbow. Around the same time, a sort of crossbow ancestor made its appearance in Greece, and the Romans may have used a few. But it is during the Middle Ages that the crossbow dominated the European battlefield. Combined with pikemen, another weapon that didn’t require a lot of skill to use, massed crossbowmen could turn aside almost any threat. The only downside to the crossbow was the skill necessary to construct one. But, until the advent of muskets, it was the best thing available to those unruly peasants.
+Traits
+Upgrades To
+Field Cannon
+Hwacha
+Upgrade From
+Archer
+Maryannu Chariot Archer
+Saka Horse Archer
+Pítati Archer
+Hul'che
+Promotion Class: Ranged
+2
+Movement Points
+30
+Melee Strength
+40
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Machinery
+Production Cost
+Base Cost: 180
+Production
+Purchase Cost
+Base Cost: 720
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

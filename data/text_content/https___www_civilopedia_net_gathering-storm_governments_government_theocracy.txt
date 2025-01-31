@@ -1,0 +1,52 @@
+Theocracy - Governments and Policies - Civilopedia - Civilization VI
+Theocracy
+Description
+Inherent effect
++5
+Religious Strength in Theological Combat.
++0.5
+Faith per
+Citizen in cities with
+Governors.
+Inherent effect
+15% Discount on Purchases with
+Faith.
+Historical Context
+“As God Wills” is the mantra for a theocracy, whatever the religion. A theocracy is, simply, a form of government in which some deity is the immediate authority, usually personified by human representative(s) who interprets the “Word” for the common folk. In a pure theocracy, the civil leader has a direct connection to God – Moses for the Israelites, Muhammad for the Arabs, Joseph Smith for Deseret, the Pope for Vatican City, the Ayatollah for the Islamic Republic of Iran, etc. However, most of civilization’s examples of “rule by God” are in fact quasi-theocracies, in which the ruler is a demi-god or can claim a divine commission to rule. In such, the notion of separation of church and state is a heresy. And everyone knows what happens to heretics.
+In ancient Egypt, the pharaoh was believed a demi-god, as was the emperor of the Aztecs. In other cases, the ruler’s connection to the divine was somewhat more tenuous … but effective in insuring secular obedience nonetheless. Due to their nature, theocracies tend to have a high level of patriotism (hence, answering the call for war is a matter of faith as well as civic duty), to be well organized as a temple, and enjoy higher productivity (again, as a matter of faith). The downside is that they tend to be rigid and slow to react, and hence prone to collapse in the face of crises.
+Traits
+2
+Diplomatic Favor per
+turn.
+2 Military  Slots
+2 Economic  Slots
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Reformed Church
+Description
+Inherent effect
++5
+Religious Strength in Theological Combat.
++0.5
+Faith per
+Citizen in cities with
+Governors.
+Inherent effect
+15% Discount on Purchases with
+Faith.
+Historical Context
+“As God Wills” is the mantra for a theocracy, whatever the religion. A theocracy is, simply, a form of government in which some deity is the immediate authority, usually personified by human representative(s) who interprets the “Word” for the common folk. In a pure theocracy, the civil leader has a direct connection to God – Moses for the Israelites, Muhammad for the Arabs, Joseph Smith for Deseret, the Pope for Vatican City, the Ayatollah for the Islamic Republic of Iran, etc. However, most of civilization’s examples of “rule by God” are in fact quasi-theocracies, in which the ruler is a demi-god or can claim a divine commission to rule. In such, the notion of separation of church and state is a heresy. And everyone knows what happens to heretics.
+In ancient Egypt, the pharaoh was believed a demi-god, as was the emperor of the Aztecs. In other cases, the ruler’s connection to the divine was somewhat more tenuous … but effective in insuring secular obedience nonetheless. Due to their nature, theocracies tend to have a high level of patriotism (hence, answering the call for war is a matter of faith as well as civic duty), to be well organized as a temple, and enjoy higher productivity (again, as a matter of faith). The downside is that they tend to be rigid and slow to react, and hence prone to collapse in the face of crises.
+Traits
+2
+Diplomatic Favor per
+turn.
+2 Military  Slots
+2 Economic  Slots
+1 Diplomatic  Slot
+1 Wildcard  Slot
+Requirements
+Civic
+Reformed Church

@@ -1,0 +1,42 @@
+Scout - Units - Civilopedia - Civilization VI
+Scout
+Description
+Fast-moving Ancient era recon unit.
+Historical Context
+Over the centuries many people have been termed “scouts” (including teenagers in neat uniforms camping out and earning “merit badges”). But fleet-footed warriors adept at wandering the wilderness and spying on the enemy have existed since the days of hunter-gathers. These “specialists” were the eyes and ears of early civilizations, spreading out from settlements, exploring new lands, and seeking the enemy. In time, they became ever more specialized, and are an inherent and vital part – even today – of any military formation. Knowing where the opponent is and what he is up to is still vital to avoid getting slaughtered.
+Traits
+Upgrades To
+Skirmisher
+Warak’aq
+Promotion Class: Recon
+3
+Movement Points
+10
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 30
+Production
+Purchase Cost
+Base Cost: 120
+Gold
+Description
+Fast-moving Ancient era recon unit.
+Historical Context
+Over the centuries many people have been termed “scouts” (including teenagers in neat uniforms camping out and earning “merit badges”). But fleet-footed warriors adept at wandering the wilderness and spying on the enemy have existed since the days of hunter-gathers. These “specialists” were the eyes and ears of early civilizations, spreading out from settlements, exploring new lands, and seeking the enemy. In time, they became ever more specialized, and are an inherent and vital part – even today – of any military formation. Knowing where the opponent is and what he is up to is still vital to avoid getting slaughtered.
+Traits
+Upgrades To
+Skirmisher
+Warak’aq
+Promotion Class: Recon
+3
+Movement Points
+10
+Melee Strength
+Requirements
+Production Cost
+Base Cost: 30
+Production
+Purchase Cost
+Base Cost: 120
+Gold

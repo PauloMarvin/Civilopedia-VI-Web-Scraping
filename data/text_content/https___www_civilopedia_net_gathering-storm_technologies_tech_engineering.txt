@@ -1,0 +1,46 @@
+Engineering - Technologies - Civilopedia - Civilization VI
+Engineering
+Historical Context
+Engineering is the science (or perhaps “art,” if engineers themselves are involved in the discussion) of using science to design things: buildings, roads and bridges, machines, and other materially useful things. The term is somewhat vague – consider for example, software “engineering.” Originally the term referred only to creating “engines” of war; the Romans applied it to all sorts of public works, since their legions were building roads, bridges and walls all over the empire.
+Soon the term was being attached to the design and construction of all sorts of monumental monuments and wondrous works. And designing machines, such as water screws, pumps, differential gearing, and such. By the time of the Industrial Revolution, engineers were everywhere underfoot, creating steam engines (James Watt) and electrical gadgets (Thomas Edison), and building canals, railroads, bridges, tunnels, dams and skyscrapers.
+Around this time colleges and universities began offering degrees in engineering, such as that awarded by the Rensselaer Institute in the United States in 1835 AD; soon enough there was “higher” education in mechanical, civil, electrical, architectural, military, agricultural, structural, and all sorts of other practical engineering. The first doctorate in engineering was awarded by Yale University to one Josiah Gibbs in 1863 (it was only the second PhD awarded in the young United States at this time.)
+So respected did the term “engineering” become among the masses that other pursuits started appropriating it, so that now there’s chemical engineering, software engineering, bioengineering, materials engineering, environmental engineering, aerospace engineering and the like. But it is the harnessing of mathematics and physics to design buildings and machines that remains the true essence of engineering. As some have noted, engineering is applied problem solving (as opposed to pure science), and has brought or dragged) civilization – for good or bad – into the 21st Century.
+“One man’s ‘magic’ is another man’s engineering.”
+– Robert Heinlein
+“Normal people … believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.”
+– Scott Adams
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Wheel
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build Ancient Walls.
+Progression
+Leads to Technologies
+Machinery
+Historical Context
+Engineering is the science (or perhaps “art,” if engineers themselves are involved in the discussion) of using science to design things: buildings, roads and bridges, machines, and other materially useful things. The term is somewhat vague – consider for example, software “engineering.” Originally the term referred only to creating “engines” of war; the Romans applied it to all sorts of public works, since their legions were building roads, bridges and walls all over the empire.
+Soon the term was being attached to the design and construction of all sorts of monumental monuments and wondrous works. And designing machines, such as water screws, pumps, differential gearing, and such. By the time of the Industrial Revolution, engineers were everywhere underfoot, creating steam engines (James Watt) and electrical gadgets (Thomas Edison), and building canals, railroads, bridges, tunnels, dams and skyscrapers.
+Around this time colleges and universities began offering degrees in engineering, such as that awarded by the Rensselaer Institute in the United States in 1835 AD; soon enough there was “higher” education in mechanical, civil, electrical, architectural, military, agricultural, structural, and all sorts of other practical engineering. The first doctorate in engineering was awarded by Yale University to one Josiah Gibbs in 1863 (it was only the second PhD awarded in the young United States at this time.)
+So respected did the term “engineering” become among the masses that other pursuits started appropriating it, so that now there’s chemical engineering, software engineering, bioengineering, materials engineering, environmental engineering, aerospace engineering and the like. But it is the harnessing of mathematics and physics to design buildings and machines that remains the true essence of engineering. As some have noted, engineering is applied problem solving (as opposed to pure science), and has brought or dragged) civilization – for good or bad – into the 21st Century.
+“One man’s ‘magic’ is another man’s engineering.”
+– Robert Heinlein
+“Normal people … believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.”
+– Scott Adams
+Unlocks
+Requirements
+Classical Era
+Required Technologies
+Wheel
+Research Cost
+Base Cost: 200
+Science
+Boosts
+Build Ancient Walls.
+Progression
+Leads to Technologies
+Machinery

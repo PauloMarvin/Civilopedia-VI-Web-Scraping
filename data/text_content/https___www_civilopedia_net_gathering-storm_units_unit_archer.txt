@@ -1,0 +1,66 @@
+Archer - Units - Civilopedia - Civilization VI
+Archer
+Description
+First Ancient era ranged unit with a
+Range of 2.
+Historical Context
+Another hunting tool that proved very effective for killing other people, the bow as a weapon was perhaps first used in the Paleolithic Era. Archery was likely developed in several places more-or-less simultaneously, and except for Australia, it was used on every continent by all sorts of people. Until the advent of gunpowder, and even after in some cases, it was the primary light projectile weapon. Not much good for melee though; therefore archers were usually integrated or protected by heavier infantry, the first combined-arms formations in the history of warfare. Over centuries, archers became more specialized, eventually requiring years to become experts at their craft. But most civilizations had elite archery units that could dominate a battlefield under the proper conditions – such as against mired heavy knights at Agincourt, or bare-chested berserkers at Stamford Bridge, or the misguided troopers of the Seventh Cavalry at the Little Big Horn.
+Traits
+Upgrades To
+Crossbowman
+Voi Chiến
+Upgrade From
+Slinger
+Promotion Class: Ranged
+2
+Movement Points
+15
+Melee Strength
+25
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Archery
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+First Ancient era ranged unit with a
+Range of 2.
+Historical Context
+Another hunting tool that proved very effective for killing other people, the bow as a weapon was perhaps first used in the Paleolithic Era. Archery was likely developed in several places more-or-less simultaneously, and except for Australia, it was used on every continent by all sorts of people. Until the advent of gunpowder, and even after in some cases, it was the primary light projectile weapon. Not much good for melee though; therefore archers were usually integrated or protected by heavier infantry, the first combined-arms formations in the history of warfare. Over centuries, archers became more specialized, eventually requiring years to become experts at their craft. But most civilizations had elite archery units that could dominate a battlefield under the proper conditions – such as against mired heavy knights at Agincourt, or bare-chested berserkers at Stamford Bridge, or the misguided troopers of the Seventh Cavalry at the Little Big Horn.
+Traits
+Upgrades To
+Crossbowman
+Voi Chiến
+Upgrade From
+Slinger
+Promotion Class: Ranged
+2
+Movement Points
+15
+Melee Strength
+25
+Ranged Strength
+2
+Range
+Requirements
+Technology
+Archery
+Production Cost
+Base Cost: 60
+Production
+Purchase Cost
+Base Cost: 240
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

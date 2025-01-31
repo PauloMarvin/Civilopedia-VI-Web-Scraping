@@ -1,0 +1,44 @@
+Hangar - Buildings - Civilopedia - Civilization VI
+Hangar
+Description
++25% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district.
+Historical Context
+Ships need docks; airplanes need hangars. It was quickly discovered that the early heavier-than-air craft tended to need protection from the weather, repair, and constant maintenance, and all of this was best done inside cavernous structures made of wood and fabric (now, virtually all hangars are made of metal and/or concrete). The bigger the aircraft, the bigger the hangar necessary; XXL hangars (more than 120 meters across) are used to house the world’s largest aircraft: the Airbus A380, Antonov 225, and Boeing 747. But the largest hangars in civilization were those built for the zeppelins and dirigibles, such as the U.S. Navy’s Hangar 1 located at Lakehurst (the site of the Hindenburg disaster). From the S to the XXL, hangars are vital to the operations of military airfields and civilian airports in this fast-paced era (thus, hangars are prime targets in any modern war).
+Traits
++2
+Production
+Requirements
+District
+Aerodrome
+Technology
+Flight
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
++25% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district.
+Historical Context
+Ships need docks; airplanes need hangars. It was quickly discovered that the early heavier-than-air craft tended to need protection from the weather, repair, and constant maintenance, and all of this was best done inside cavernous structures made of wood and fabric (now, virtually all hangars are made of metal and/or concrete). The bigger the aircraft, the bigger the hangar necessary; XXL hangars (more than 120 meters across) are used to house the world’s largest aircraft: the Airbus A380, Antonov 225, and Boeing 747. But the largest hangars in civilization were those built for the zeppelins and dirigibles, such as the U.S. Navy’s Hangar 1 located at Lakehurst (the site of the Hindenburg disaster). From the S to the XXL, hangars are vital to the operations of military airfields and civilian airports in this fast-paced era (thus, hangars are prime targets in any modern war).
+Traits
++2
+Production
+Requirements
+District
+Aerodrome
+Technology
+Flight
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

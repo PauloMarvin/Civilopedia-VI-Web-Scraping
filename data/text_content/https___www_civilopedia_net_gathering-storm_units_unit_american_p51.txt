@@ -1,0 +1,80 @@
+P-51 Mustang - Units - Civilopedia - Civilization VI
+P-51 Mustang
+Description
+American unique Atomic era air unit that replaces the Fighter.  Gains +5
+Combat Strength against fighter aircraft, has +2 flight range, and gains +50% experience.
+Historical Context
+With the coming of WW2, it was quickly apparent that America’s fighter aircraft were obsolete and not-up-to-snuff against the German and Japanese fighters, so the United States sold the old planes to the British and Russians and developed the P-51 “Mustang.” Designed to specifications supplied by the British Purchasing Commission as a long-range, high-altitude, single-seat fighter and fighter-bomber and bomber escort – able to outperform the best Luftwaffe fighters above 15000 feet and outlast the Japanese fighters – the prototype was unveiled in September 1940. By 1943, Mustangs were in service on every American front, knocking the enemy out of the skies with abandon. Even with the advent of jet fighters, the old warbird served during the Korean War as a fighter-bomber. Afterward, those that weren’t scrapped were sold as surplus, most of which were converted for the obscure sport of air racing or restored for the obscure spectacle of air shows.
+Traits
+Unique To
+America
+Upgrades To
+Jet Fighter
+Upgrade From
+Biplane
+Promotion Class: Air Fighter
+10
+Movement Points
+105
+Melee Strength
+105
+Ranged Strength
+5
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 520
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+American unique Atomic era air unit that replaces the Fighter.  Gains +5
+Combat Strength against fighter aircraft, has +2 flight range, and gains +50% experience.
+Historical Context
+With the coming of WW2, it was quickly apparent that America’s fighter aircraft were obsolete and not-up-to-snuff against the German and Japanese fighters, so the United States sold the old planes to the British and Russians and developed the P-51 “Mustang.” Designed to specifications supplied by the British Purchasing Commission as a long-range, high-altitude, single-seat fighter and fighter-bomber and bomber escort – able to outperform the best Luftwaffe fighters above 15000 feet and outlast the Japanese fighters – the prototype was unveiled in September 1940. By 1943, Mustangs were in service on every American front, knocking the enemy out of the skies with abandon. Even with the advent of jet fighters, the old warbird served during the Korean War as a fighter-bomber. Afterward, those that weren’t scrapped were sold as surplus, most of which were converted for the obscure sport of air racing or restored for the obscure spectacle of air shows.
+Traits
+Unique To
+America
+Upgrades To
+Jet Fighter
+Upgrade From
+Biplane
+Promotion Class: Air Fighter
+10
+Movement Points
+105
+Melee Strength
+105
+Ranged Strength
+5
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 520
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2080
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn

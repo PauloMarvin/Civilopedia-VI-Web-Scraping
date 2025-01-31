@@ -1,0 +1,38 @@
+Convert to Oil Power - Wonders and Projects - Civilopedia - Civilization VI
+Convert to Oil Power
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Oil Power Plant.
+Oil Power Plant:
+Automatically converts any amount of
+Oil into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Oil
+4
+Power
+Moderate CO2 into the atmosphere
+Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Requirements
+District
+Industrial Zone
+Technology
+Electricity
+Description
+Decommissions the current Power Plant in this city, and replaces it with the Oil Power Plant.
+Oil Power Plant:
+Automatically converts any amount of
+Oil into
+Power for cities within 6 tiles that need it each turn, at the rate of:
+1
+Oil
+4
+Power
+Moderate CO2 into the atmosphere
+Its
+Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.
+Requirements
+District
+Industrial Zone
+Technology
+Electricity

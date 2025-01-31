@@ -1,0 +1,60 @@
+Neighborhood - Districts - Civilopedia - Civilization VI
+Neighborhood
+Description
+A district in your city that provides housing based on the Appeal of the tile:
+Breathtaking: +6
+Housing.
+Charming: +5
+Housing.
+Average: +4
+Housing.
+Uninviting: +3
+Housing.
+Disgusting: +2
+Housing.
+Historical Context
+Mr. Rogers lived in an idealized one, as do Big Bird and Cookie Monster. In truth, neighborhoods are rarely such functional social networks with friendly values, aspirations, and culture. With the advent of the Industrial Revolution, for the first time more people lived in cities than the countryside; given that transport was limited and slow, overcrowded and unsanitary tenements grew in places like London, New York, and Berlin so the factory workers and office clerks could be near their place of employment. Then came the telephone and automobile; suddenly those middle-class wage slaves could escape the teeming slums and ghettos and move to the suburbs. By the 1880s, London was surrounded by planned “estates” such as Wembley Park and Kingsbury Garden Village … and soon so were most other industrial cities.
+Traits
+Replaced By
+Mbanza
++4
+Housing
+Requirements
+Civic
+Urbanization
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Food Market
+Shopping Mall
+Description
+A district in your city that provides housing based on the Appeal of the tile:
+Breathtaking: +6
+Housing.
+Charming: +5
+Housing.
+Average: +4
+Housing.
+Uninviting: +3
+Housing.
+Disgusting: +2
+Housing.
+Historical Context
+Mr. Rogers lived in an idealized one, as do Big Bird and Cookie Monster. In truth, neighborhoods are rarely such functional social networks with friendly values, aspirations, and culture. With the advent of the Industrial Revolution, for the first time more people lived in cities than the countryside; given that transport was limited and slow, overcrowded and unsanitary tenements grew in places like London, New York, and Berlin so the factory workers and office clerks could be near their place of employment. Then came the telephone and automobile; suddenly those middle-class wage slaves could escape the teeming slums and ghettos and move to the suburbs. By the 1880s, London was surrounded by planned “estates” such as Wembley Park and Kingsbury Garden Village … and soon so were most other industrial cities.
+Traits
+Replaced By
+Mbanza
++4
+Housing
+Requirements
+Civic
+Urbanization
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Food Market
+Shopping Mall

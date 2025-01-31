@@ -1,0 +1,60 @@
+Armory - Buildings - Civilopedia - Civilization VI
+Armory
+Description
++25% combat experience for all land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+Historical Context
+An armory (or arsenal, the terms tend to get mixed although there are some significant differences) is the place where arms and armor are manufactured, repaired and/or stored when not being used to kill other people – i.e., during peacetime. Unless planning on facing the enemy, soldiers usually do not carry their weapons and armor about with them (especially if their weapons were lances and their armor plate). The first armories date back to the first professional armies, those of Sumer and Akkad. Every standing army since has had armories, perhaps as simple as a well-guarded (wouldn’t do to let the commoners get hold of any weapons) warehouse or as elaborate as a production facility making muskets. Given that it didn’t make sense to have the weapons on the other side of the city from the troops, the armory was usually near the barracks. Armories have even shaped the course of civilization, for a variety of reasons: the Tower of London, Harper’s Ferry, the Kremlin Armory, Springfield Armory, the Zeughaus in Berlin, and so forth.
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Military Engineering
+Buildings (any)
+Barracks
+Stable
+Production Cost
+Base Cost: 195
+Production
+Purchase Cost
+Base Cost: 780
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++25% combat experience for all land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+Historical Context
+An armory (or arsenal, the terms tend to get mixed although there are some significant differences) is the place where arms and armor are manufactured, repaired and/or stored when not being used to kill other people – i.e., during peacetime. Unless planning on facing the enemy, soldiers usually do not carry their weapons and armor about with them (especially if their weapons were lances and their armor plate). The first armories date back to the first professional armies, those of Sumer and Akkad. Every standing army since has had armories, perhaps as simple as a well-guarded (wouldn’t do to let the commoners get hold of any weapons) warehouse or as elaborate as a production facility making muskets. Given that it didn’t make sense to have the weapons on the other side of the city from the troops, the armory was usually near the barracks. Armories have even shaped the course of civilization, for a variety of reasons: the Tower of London, Harper’s Ferry, the Kremlin Armory, Springfield Armory, the Zeughaus in Berlin, and so forth.
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great General point per turn.
+Requirements
+District
+Encampment
+Technology
+Military Engineering
+Buildings (any)
+Barracks
+Stable
+Production Cost
+Base Cost: 195
+Production
+Purchase Cost
+Base Cost: 780
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

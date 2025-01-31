@@ -1,0 +1,40 @@
+Missile Silo - Improvements and Routes - Civilopedia - Civilization VI
+Missile Silo
+Description
+Unlocks the Military Engineer ability to construct a Missile Silo.
+Acts as a launch site for Nuclear and Thermonuclear Devices.
+Historical Context
+Like everything else rocketry, the Germans pioneered the underground missile silo – building the first such complex near Saint-Omer in 1944. It was intended to store and launch V2s on England, but never entered service due to heavy Allied bombing. The British toyed with the idea of underground launch facilities in the 1950s for their missiles, and even built one, before opting for using submarines to launch their ICBMs. It was the Americans and Russians, however, who really took to the idea of planting nuclear missiles underground – as though that would help in the event of World War III. The primary purpose of the silos was to insure the rapid launch of Soviet UR-100 or American Titan II missiles to insure mutual destruction. Since the Cold War, the Russians have moved most of their ICBMs to submarines, the Americans have about 450 silos still in operation, and China has built a few silos but still favors mobile ICBM launchers.
+Traits
+Weapon Capacity: 1
+Requirements
+Technology
+Rocketry
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Military Engineer
+Description
+Unlocks the Military Engineer ability to construct a Missile Silo.
+Acts as a launch site for Nuclear and Thermonuclear Devices.
+Historical Context
+Like everything else rocketry, the Germans pioneered the underground missile silo – building the first such complex near Saint-Omer in 1944. It was intended to store and launch V2s on England, but never entered service due to heavy Allied bombing. The British toyed with the idea of underground launch facilities in the 1950s for their missiles, and even built one, before opting for using submarines to launch their ICBMs. It was the Americans and Russians, however, who really took to the idea of planting nuclear missiles underground – as though that would help in the event of World War III. The primary purpose of the silos was to insure the rapid launch of Soviet UR-100 or American Titan II missiles to insure mutual destruction. Since the Cold War, the Russians have moved most of their ICBMs to submarines, the Americans have about 450 silos still in operation, and China has built a few silos but still favors mobile ICBM launchers.
+Traits
+Weapon Capacity: 1
+Requirements
+Technology
+Rocketry
+Volcanic Soil
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Military Engineer

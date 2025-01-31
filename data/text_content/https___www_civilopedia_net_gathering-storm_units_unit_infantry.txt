@@ -1,0 +1,66 @@
+Infantry - Units - Civilopedia - Civilization VI
+Infantry
+Description
+Modern era melee unit.
+Historical Context
+As the first half of the 20th Century moved forward, two of the most destructive wars in civilization, marked by remarkable advancements in the technology of killing each other, occurred. Through it all, the infantryman marched into battle, grimly facing every horror – machine guns, mines, gas, strafing and bombing from the air, and all the rest out of Pandora’s Box – that the greatest scientists of the age could invent. The task of the foot soldiers hadn’t changed much since the spearmen and swordsmen of antiquity: take and/or hold whatever ground the generals decided was important. But the infantryman’s own bag of tricks became ever more lethal, with magazine-fed rifles, automatic pistols, submachine guns, flamethrowers, grenades and all sorts of other clever devices. Since armor didn’t stop such, it was discarded for mobility and camouflage. By the end of WW2, infantry could hold their own against most any threat … provided enough of them survived.
+Traits
+Upgrades To
+Mechanized Infantry
+Upgrade From
+Line Infantry
+Redcoat
+Garde Impériale
+Promotion Class: Melee
+2
+Movement Points
+75
+Melee Strength
+Requirements
+Technology
+Replaceable Parts
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn
+Description
+Modern era melee unit.
+Historical Context
+As the first half of the 20th Century moved forward, two of the most destructive wars in civilization, marked by remarkable advancements in the technology of killing each other, occurred. Through it all, the infantryman marched into battle, grimly facing every horror – machine guns, mines, gas, strafing and bombing from the air, and all the rest out of Pandora’s Box – that the greatest scientists of the age could invent. The task of the foot soldiers hadn’t changed much since the spearmen and swordsmen of antiquity: take and/or hold whatever ground the generals decided was important. But the infantryman’s own bag of tricks became ever more lethal, with magazine-fed rifles, automatic pistols, submachine guns, flamethrowers, grenades and all sorts of other clever devices. Since armor didn’t stop such, it was discarded for mobility and camouflage. By the end of WW2, infantry could hold their own against most any threat … provided enough of them survived.
+Traits
+Upgrades To
+Mechanized Infantry
+Upgrade From
+Line Infantry
+Redcoat
+Garde Impériale
+Promotion Class: Melee
+2
+Movement Points
+75
+Melee Strength
+Requirements
+Technology
+Replaceable Parts
+Production Cost
+Base Cost: 430
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 1720
+Gold
+Maintenance Cost
+Base Cost: 6
+Gold
+Consumes: 1
+Oil per turn

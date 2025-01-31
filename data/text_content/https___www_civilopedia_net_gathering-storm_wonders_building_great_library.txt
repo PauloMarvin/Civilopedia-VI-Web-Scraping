@@ -1,0 +1,74 @@
+Great Library - Wonders and Projects - Civilopedia - Civilization VI
+Great Library
+Description
+Receive boosts to all Ancient and Classical era technologies. Receive a random tech boost after another player recruits a
+Great Scientist. Must be built on flat land adjacent to a Campus district with a Library.
+Historical Context
+It is generally assumed that the Royal Library of Alexandria was founded at the beginning of the 3rd Century BC during the reign of Ptolemy II after his father had built the Temple of the Muses on the site. The original collection is attributed to Demetrius Phalereus, a student of Aristotle’s (supposedly the famed philosopher’s own scrolls served as the seed); with the patronage of Ptolemy’s successors, the holdings eventually reached between 400 and 700 thousand papyrus scrolls and various vellum codices. Expansion of the collection became an obsession for some of the rulers; by decree of Ptolemy III, all visitors to the city had to surrender any writings in their possession, which were copied for the Library. Sources differ widely on responsibility for the fiery destruction of the Great Library’s collection of texts; usual suspects listed include Julius Caesar’s troops in 48 BC, Roman Emperor Aurelian c. 270 AD, and others. But it does appear that the last vestiges were burned in 391 at the orders of the Patriarch Theophilus to eradicate pagan influences in Egypt – not the last time Christians would burn books.
+“We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost.”
+– Alberto Manguel
+Traits
+Removed if game started after
+Renaissance Era
++2
+Science
++1
+Great Scientist point per turn.
++1
+Great Writer point per turn.
++2
+Great Works of Writing slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Recorded History
+Building
+Library
+Adjacency
+Campus
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production
+Description
+Receive boosts to all Ancient and Classical era technologies. Receive a random tech boost after another player recruits a
+Great Scientist. Must be built on flat land adjacent to a Campus district with a Library.
+Historical Context
+It is generally assumed that the Royal Library of Alexandria was founded at the beginning of the 3rd Century BC during the reign of Ptolemy II after his father had built the Temple of the Muses on the site. The original collection is attributed to Demetrius Phalereus, a student of Aristotle’s (supposedly the famed philosopher’s own scrolls served as the seed); with the patronage of Ptolemy’s successors, the holdings eventually reached between 400 and 700 thousand papyrus scrolls and various vellum codices. Expansion of the collection became an obsession for some of the rulers; by decree of Ptolemy III, all visitors to the city had to surrender any writings in their possession, which were copied for the Library. Sources differ widely on responsibility for the fiery destruction of the Great Library’s collection of texts; usual suspects listed include Julius Caesar’s troops in 48 BC, Roman Emperor Aurelian c. 270 AD, and others. But it does appear that the last vestiges were burned in 391 at the orders of the Patriarch Theophilus to eradicate pagan influences in Egypt – not the last time Christians would burn books.
+“We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost.”
+– Alberto Manguel
+Traits
+Removed if game started after
+Renaissance Era
++2
+Science
++1
+Great Scientist point per turn.
++1
+Great Writer point per turn.
++2
+Great Works of Writing slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Recorded History
+Building
+Library
+Adjacency
+Campus
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 400
+Production

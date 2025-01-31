@@ -1,0 +1,54 @@
+Pagoda - Buildings - Civilopedia - Civilization VI
+Pagoda
+Description
++1
+Diplomatic Favor per turn.
+Historical Context
+Technically, a “pagoda” is a building style – a tiered tower with overhanging eaves – rather than a building, but for the unenlightened it has come to be the generic term for religious structures in the Far East, mostly Buddhist but also Taoist, Shinto and Confucian. The origin of the pagoda structure can be traced to the stupas of 3rd Century BC Nepal. From there, the architectural style spread across China and East Asia, where the Buddhists adopted it for their buildings housing sacred relics and texts. For Buddhist missionaries, pilgrims and priests, these pagodas became the centers of their faith on Earth with images of Gautama Buddha prominent and plentiful. The building materials and decoration, from unadorned to ornate, varied widely from region to region and faith to faith. But pagodas traditionally have an odd number of levels, the notable exception being the 163-foot “pagoda folly” erected by Sir William Chambers at Kew Gardens in London in 1762 and thought clever by the English.
+Traits
+Unique To
+Pagoda
++3
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Description
++1
+Diplomatic Favor per turn.
+Historical Context
+Technically, a “pagoda” is a building style – a tiered tower with overhanging eaves – rather than a building, but for the unenlightened it has come to be the generic term for religious structures in the Far East, mostly Buddhist but also Taoist, Shinto and Confucian. The origin of the pagoda structure can be traced to the stupas of 3rd Century BC Nepal. From there, the architectural style spread across China and East Asia, where the Buddhists adopted it for their buildings housing sacred relics and texts. For Buddhist missionaries, pilgrims and priests, these pagodas became the centers of their faith on Earth with images of Gautama Buddha prominent and plentiful. The building materials and decoration, from unadorned to ornate, varied widely from region to region and faith to faith. But pagodas traditionally have an odd number of levels, the notable exception being the 163-foot “pagoda folly” erected by Sir William Chambers at Kew Gardens in London in 1762 and thought clever by the English.
+Traits
+Unique To
+Pagoda
++3
+Faith
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

@@ -1,0 +1,64 @@
+Ranger - Units - Civilopedia - Civilization VI
+Ranger
+Description
+Fast-moving Industrial era recon unit.
+Historical Context
+“Ranger” has a lot of meanings: a person who roves or ranges; one of a body of armed guards who patrol a region; a soldier trained in commando tactics to make surprise attacks. These days, the common perception of a ranger encompasses all of this. The military use of rangers traces back to the frontier wars between North American colonists and the indigenous natives, who were adept at “irregular” warfare in the trackless forests and swamps. Colonel Benjamin Church, commissioned by the Governor of Plymouth Colony to harry the savages during King Phillip’s War in 1676, raised a body that was to use the enemy’s own tactics. By the time of the American Revolution, there were several Ranger companies in action against the British, who complained mightily about the methods these colonials used – ambushes, raids, demolitions, sniping, and the like. According to the 'U.S. Army Ranger Handbook,' not much has changed since.
+Traits
+Upgrades To
+Spec Ops
+Upgrade From
+Skirmisher
+Warak’aq
+Promotion Class: Recon
+3
+Movement Points
+45
+Melee Strength
+60
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Rifling
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold
+Description
+Fast-moving Industrial era recon unit.
+Historical Context
+“Ranger” has a lot of meanings: a person who roves or ranges; one of a body of armed guards who patrol a region; a soldier trained in commando tactics to make surprise attacks. These days, the common perception of a ranger encompasses all of this. The military use of rangers traces back to the frontier wars between North American colonists and the indigenous natives, who were adept at “irregular” warfare in the trackless forests and swamps. Colonel Benjamin Church, commissioned by the Governor of Plymouth Colony to harry the savages during King Phillip’s War in 1676, raised a body that was to use the enemy’s own tactics. By the time of the American Revolution, there were several Ranger companies in action against the British, who complained mightily about the methods these colonials used – ambushes, raids, demolitions, sniping, and the like. According to the 'U.S. Army Ranger Handbook,' not much has changed since.
+Traits
+Upgrades To
+Spec Ops
+Upgrade From
+Skirmisher
+Warak’aq
+Promotion Class: Recon
+3
+Movement Points
+45
+Melee Strength
+60
+Ranged Strength
+1
+Range
+Requirements
+Technology
+Rifling
+Production Cost
+Base Cost: 380
+Production
+Purchase Cost
+Base Cost: 1520
+Gold
+Maintenance Cost
+Base Cost: 5
+Gold

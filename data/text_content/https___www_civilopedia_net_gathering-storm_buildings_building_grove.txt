@@ -1,0 +1,42 @@
+Grove - Buildings - Civilopedia - Civilization VI
+Grove
+Description
+Grants +1
+Food and +1
+Faith to adjacent unimproved Charming tiles.  Increased to +2
+Food, +2
+Faith, +2
+Culture for adjacent unimproved Breathtaking tiles.
+Historical Context
+Semi-wild groves figure deeply into the religious and imaginative worlds of many peoples. The 11th-century German chronicler Adam of Bremen describes the grove in Uppsala, present-day Sweden, where human sacrifices to Odin, Thor, and Frey were hanged. Baltic and Celtic peoples likewise held stands of old trees – especially, for the latter, oak – to be holy. In the city of Kyoto, the bamboo grove at Arashiyama remains one of the most peaceful and sacred sites in a city known for its shrines. But perhaps the most famous of groves is Lumbini, the forest garden where the Buddha was born. A grove of ancient trees, preserved and tended, lends a living sacred and cultural heart to a preserve.
+Requirements
+District
+Preserve
+Civic
+Mysticism
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold
+Description
+Grants +1
+Food and +1
+Faith to adjacent unimproved Charming tiles.  Increased to +2
+Food, +2
+Faith, +2
+Culture for adjacent unimproved Breathtaking tiles.
+Historical Context
+Semi-wild groves figure deeply into the religious and imaginative worlds of many peoples. The 11th-century German chronicler Adam of Bremen describes the grove in Uppsala, present-day Sweden, where human sacrifices to Odin, Thor, and Frey were hanged. Baltic and Celtic peoples likewise held stands of old trees – especially, for the latter, oak – to be holy. In the city of Kyoto, the bamboo grove at Arashiyama remains one of the most peaceful and sacred sites in a city known for its shrines. But perhaps the most famous of groves is Lumbini, the forest garden where the Buddha was born. A grove of ancient trees, preserved and tended, lends a living sacred and cultural heart to a preserve.
+Requirements
+District
+Preserve
+Civic
+Mysticism
+Production Cost
+Base Cost: 150
+Production
+Purchase Cost
+Base Cost: 600
+Gold

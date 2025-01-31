@@ -1,0 +1,120 @@
+Hansa - Districts - Civilopedia - Civilization VI
+Hansa
+Description
+A district unique to Germany for industrial activity. Replaces the Industrial Zone district and cheaper to build.
++ 2
+Production bonus for each adjacent Commercial Hub, Aqueduct, Canal, and Dam districts. +1
+Production bonus for each adjacent resource. +1
+Production bonus for every two adjacent district tiles.
+Historical Context
+From the Old French meaning “company of merchants,” the Hanse was a voluntary confederation of merchants and traders organized in a town for the protection and facility of commerce and transport. In the mercantile ports of the Baltic and North Sea these manufacturing and trading guilds became quite powerful and influential in the 13th Century, with their headquarters in complexes also known as the hansa. The largest hansa districts not only housed the administrative offices of competing guilds, but also storerooms, workshops, markets, banks and anything else that could turn a profit. The first such appears to have been built in Lubeck c. 1159 AD to facilitate trade between Western Europe and the resource-rich areas of northern Russia.
+Traits
+Unique To
+Germany
+Replaces
+Industrial Zone
++1
+Great Engineer point per turn.
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++1
+Production from every 2 adjacent district tiles.
++2
+Production from each adjacent Commercial Hub tile.
++1
+Production from each adjacent resource tile.
++1
+Production from each adjacent Government Plaza tile.
++2
+Production from each adjacent Aqueduct tile.
++2
+Production from each adjacent Canal tile.
++2
+Production from each adjacent Dam tile.
++2
+Production from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Coal Power Plant
+Factory
+Oil Power Plant
+Nuclear Power Plant
+Workshop
+Description
+A district unique to Germany for industrial activity. Replaces the Industrial Zone district and cheaper to build.
++ 2
+Production bonus for each adjacent Commercial Hub, Aqueduct, Canal, and Dam districts. +1
+Production bonus for each adjacent resource. +1
+Production bonus for every two adjacent district tiles.
+Historical Context
+From the Old French meaning “company of merchants,” the Hanse was a voluntary confederation of merchants and traders organized in a town for the protection and facility of commerce and transport. In the mercantile ports of the Baltic and North Sea these manufacturing and trading guilds became quite powerful and influential in the 13th Century, with their headquarters in complexes also known as the hansa. The largest hansa districts not only housed the administrative offices of competing guilds, but also storerooms, workshops, markets, banks and anything else that could turn a profit. The first such appears to have been built in Lubeck c. 1159 AD to facilitate trade between Western Europe and the resource-rich areas of northern Russia.
+Traits
+Unique To
+Germany
+Replaces
+Industrial Zone
++1
+Great Engineer point per turn.
+Appeal to Adjacent Tiles: -1
+Adjacency Bonus
++1
+Production from every 2 adjacent district tiles.
++2
+Production from each adjacent Commercial Hub tile.
++1
+Production from each adjacent resource tile.
++1
+Production from each adjacent Government Plaza tile.
++2
+Production from each adjacent Aqueduct tile.
++2
+Production from each adjacent Canal tile.
++2
+Production from each adjacent Dam tile.
++2
+Production from each adjacent Ley Line Resource tile.
+Citizen Yields (per citizen)
++2
+Production
+Trade Yields
+Domestic Destination
++1
+Production
+International Destination
++1
+Production
+Requirements
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 27
+Production
+Maintenance Cost
+Base Cost: 1
+Gold
+Usage
+Unlocks Buildings
+Coal Power Plant
+Factory
+Oil Power Plant
+Nuclear Power Plant
+Workshop

@@ -1,0 +1,70 @@
+Archaeological Museum - Buildings - Civilopedia - Civilization VI
+Archaeological Museum
+Description
+Holds
+Artifacts. May not be built in a Theater Square district that already has an Art Museum.
+Historical Context
+Humans generate lots of junk. They are also fascinated with old junk, and so created museums. A museum is a building designed to hold civilization’s most treasured possessions for public viewing. There are museums that contain collections of art, and there are the museums which display fossils, items of historical interest, or pop culture curiosities. There are also museums that house costumes, jewels, weapons, gadgets, or virtually anything else which might be of interest to the humans filing through their halls. The oldest known collection of curiosities put on display was that of Ennigaldi-Nanna’s Museum, c. 530 BC, with enough traffic to warrant labels for the items (a clue to archaeologists that the ruin was a museum). But the whole idea of such collections for public edification really took off during the Enlightenment, with the Royal Armories in the Tower of London, the Musée des Beaux-Arts et d’Archeologie in Besancon, and the Kunstkamera in St. Petersburg being founded. These and other museums are now almost as historic as the junk they display.
+Traits
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Artist points per turn.
++3
+Artifact slots
+Requirements
+District
+Theater Square
+Civic
+Humanism
+Building
+Amphitheater
+Mutually Exclusive With
+Art Museum
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Holds
+Artifacts. May not be built in a Theater Square district that already has an Art Museum.
+Historical Context
+Humans generate lots of junk. They are also fascinated with old junk, and so created museums. A museum is a building designed to hold civilization’s most treasured possessions for public viewing. There are museums that contain collections of art, and there are the museums which display fossils, items of historical interest, or pop culture curiosities. There are also museums that house costumes, jewels, weapons, gadgets, or virtually anything else which might be of interest to the humans filing through their halls. The oldest known collection of curiosities put on display was that of Ennigaldi-Nanna’s Museum, c. 530 BC, with enough traffic to warrant labels for the items (a clue to archaeologists that the ruin was a museum). But the whole idea of such collections for public edification really took off during the Enlightenment, with the Royal Armories in the Tower of London, the Musée des Beaux-Arts et d’Archeologie in Besancon, and the Kunstkamera in St. Petersburg being founded. These and other museums are now almost as historic as the junk they display.
+Traits
++2
+Culture
++1
+Citizen slot
++1
+Great Writer point per turn.
++2
+Great Artist points per turn.
++3
+Artifact slots
+Requirements
+District
+Theater Square
+Civic
+Humanism
+Building
+Amphitheater
+Mutually Exclusive With
+Art Museum
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

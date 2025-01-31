@@ -1,0 +1,50 @@
+Modern AT - Units - Civilopedia - Civilization VI
+Modern AT
+Description
+Information era counter to cavalry class units.
+Historical Context
+World War I carried the warning that tanks (once the kinks were worked out) would come to dominate the 20th Century battlefield. The German blitzkrieg operations in the early months of World War II proved that. While anti-tank guns were all well-and-good for stopping enemy armor, on the fluid battlefields of that war the poor grunts needed something more immediate than waiting for the AT guns to arrive, set up, and start firing. Thus the evolution of MPATS (man-portable anti-tank systems). By the end of the first “war to end war” anti-tank rifles were in use. But it became a race between better armor and better MPATS. The second war brought better AT rifles, rocket-propelled grenades (RPGs), bazookas, and panzerschreck, recoilless rifles, and eventually (after the war) man-portable anti-tank missiles such as the American Javelin and Russian Kornet. The battlefield suddenly became a dangerous place for those armored behemoths.
+Traits
+Upgrade From
+AT Crew
+Promotion Class: Anti Cavalry
+3
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Composites
+Production Cost
+Base Cost: 580
+Production
+Purchase Cost
+Base Cost: 2320
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Description
+Information era counter to cavalry class units.
+Historical Context
+World War I carried the warning that tanks (once the kinks were worked out) would come to dominate the 20th Century battlefield. The German blitzkrieg operations in the early months of World War II proved that. While anti-tank guns were all well-and-good for stopping enemy armor, on the fluid battlefields of that war the poor grunts needed something more immediate than waiting for the AT guns to arrive, set up, and start firing. Thus the evolution of MPATS (man-portable anti-tank systems). By the end of the first “war to end war” anti-tank rifles were in use. But it became a race between better armor and better MPATS. The second war brought better AT rifles, rocket-propelled grenades (RPGs), bazookas, and panzerschreck, recoilless rifles, and eventually (after the war) man-portable anti-tank missiles such as the American Javelin and Russian Kornet. The battlefield suddenly became a dangerous place for those armored behemoths.
+Traits
+Upgrade From
+AT Crew
+Promotion Class: Anti Cavalry
+3
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Composites
+Production Cost
+Base Cost: 580
+Production
+Purchase Cost
+Base Cost: 2320
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold

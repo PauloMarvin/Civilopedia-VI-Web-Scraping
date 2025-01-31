@@ -1,0 +1,4 @@
+Introduction - Terrains and Features - Civilopedia - Civilization VI
+Introduction
+Features are elements of terrain or vegetation that may appear atop the hex's terrain. (For example, a Grassland hex might have Woods or Marsh on it.) Features modify a hex's productivity and might also alter the amount of "movement points" (MP) a unit expends when entering the hex. Features may also provide defensive combat bonuses or penalties to a unit occupying the hex.
+Features are elements of terrain or vegetation that may appear atop the hex's terrain. (For example, a Grassland hex might have Woods or Marsh on it.) Features modify a hex's productivity and might also alter the amount of "movement points" (MP) a unit expends when entering the hex. Features may also provide defensive combat bonuses or penalties to a unit occupying the hex.

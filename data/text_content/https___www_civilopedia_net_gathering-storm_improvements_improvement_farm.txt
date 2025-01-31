@@ -1,0 +1,74 @@
+Farm - Improvements and Routes - Civilopedia - Civilization VI
+Farm
+Description
+Unlocks the Builder ability to construct Farms.
++1
+Food. Can only be built on Grassland or Plains.
+Constructing farms adjacent to other Farms provides bonuses to Housing.
+Historical Context
+Once people figured out that it was a lot easier to stay in one place and grow crops, rather than wander about gathering whatever happened to be growing, “civilization” broke out. Around 12,000 years ago, this was the “Neolithic Revolution.” Farming meant that permanent settlements could be self-sustaining, and that the more food that could be harvested, the bigger settlements could grow. Ever since, advances in technology have been making agriculture more efficient: irrigation, machinery, fertilizers, pesticides, GMOs and so forth. Yields skyrocketed.
+Traits
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent Farm tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Farm tile.Requires Replaceable Parts.
++1
+Food from each adjacent Seowon tile.
++1
+Production from each adjacent Observatory tile.
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Volcanic Soil
+Rice
+Wheat
+Maize
+Plains
+Grassland
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct Farms.
++1
+Food. Can only be built on Grassland or Plains.
+Constructing farms adjacent to other Farms provides bonuses to Housing.
+Historical Context
+Once people figured out that it was a lot easier to stay in one place and grow crops, rather than wander about gathering whatever happened to be growing, “civilization” broke out. Around 12,000 years ago, this was the “Neolithic Revolution.” Farming meant that permanent settlements could be self-sustaining, and that the more food that could be harvested, the bigger settlements could grow. Ever since, advances in technology have been making agriculture more efficient: irrigation, machinery, fertilizers, pesticides, GMOs and so forth. Yields skyrocketed.
+Traits
++1
+Food
++0.5
+Housing
+Adjacency Bonus
++1
+Food from every 2 adjacent Farm tiles.Requires Feudalism.Becomes obsolete with Replaceable Parts.
++1
+Food from each adjacent Farm tile.Requires Replaceable Parts.
++1
+Food from each adjacent Seowon tile.
++1
+Production from each adjacent Observatory tile.
+Requirements
+Desert Floodplains
+Grassland Floodplains
+Plains Floodplains
+Volcanic Soil
+Rice
+Wheat
+Maize
+Plains
+Grassland
+Plains (Hills)
+Grassland (Hills)
+Usage
+Built By
+Builder

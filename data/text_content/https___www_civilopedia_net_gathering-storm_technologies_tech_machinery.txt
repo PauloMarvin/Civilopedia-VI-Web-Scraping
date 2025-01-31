@@ -1,0 +1,48 @@
+Machinery - Technologies - Civilopedia - Civilization VI
+Machinery
+Historical Context
+When humans began to develop tasks that they or their animals could not (or would not) do, they invented machines. From those first simple machines – the lever, pulley and screw – that Archimedes went on about, a machine civilization has evolved on Earth. Later Greek thinkers added the wedge and the wheel/axle to the list of the five simple machines (these form the basis for every other machine that aids physical work). Heron of Alexandria in his work Mechanica (c. 50 AD) described their fabrication and uses. But the Greeks, while they understood statics and friction, had no understanding of dynamics.
+Thus, during the supposedly “Dark” Ages, men in various parts of the world began to devise machinery in which a tradeoff between distance and force was the principle behind producing mechanical energy. The complete dynamic theory of simple machines (the above plus some later ones) was worked out by Galileo Galilei and published in his Le Meccaniche in 1600; his was the first – or the first to publish anyway – insight that machines did not create useful energy but merely transformed it from one type to another.
+The Renaissance witnessed tinkers on the order of da Vinci, di Giorgio Martini and Gutenberg invent everything from pile drivers to centrifugal pumps, from cranes to the printing press. It was an explosion of machines, to be followed a couple hundred years later by another explosion of machines during the Industrial Age. Machines invaded the mills and factories, but it was one revolutionary device – the steam engine – that profoundly altered civilization’s notion of what a machine was and what it could do.
+From that new type of machine sprang a thousand more, including the internal combustion engine, the electric generator, and the diesel motor. Now the world even has “machines” without moving parts … witness, the computer.
+“I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.”
+– Hugo Cabret
+“Remember that people break down, too, not just machinery.”
+– Gregory Benford
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Iron Working
+Engineering
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Own 3 Archers.
+Progression
+Leads to Technologies
+Printing
+Historical Context
+When humans began to develop tasks that they or their animals could not (or would not) do, they invented machines. From those first simple machines – the lever, pulley and screw – that Archimedes went on about, a machine civilization has evolved on Earth. Later Greek thinkers added the wedge and the wheel/axle to the list of the five simple machines (these form the basis for every other machine that aids physical work). Heron of Alexandria in his work Mechanica (c. 50 AD) described their fabrication and uses. But the Greeks, while they understood statics and friction, had no understanding of dynamics.
+Thus, during the supposedly “Dark” Ages, men in various parts of the world began to devise machinery in which a tradeoff between distance and force was the principle behind producing mechanical energy. The complete dynamic theory of simple machines (the above plus some later ones) was worked out by Galileo Galilei and published in his Le Meccaniche in 1600; his was the first – or the first to publish anyway – insight that machines did not create useful energy but merely transformed it from one type to another.
+The Renaissance witnessed tinkers on the order of da Vinci, di Giorgio Martini and Gutenberg invent everything from pile drivers to centrifugal pumps, from cranes to the printing press. It was an explosion of machines, to be followed a couple hundred years later by another explosion of machines during the Industrial Age. Machines invaded the mills and factories, but it was one revolutionary device – the steam engine – that profoundly altered civilization’s notion of what a machine was and what it could do.
+From that new type of machine sprang a thousand more, including the internal combustion engine, the electric generator, and the diesel motor. Now the world even has “machines” without moving parts … witness, the computer.
+“I’d imagine the whole world as one big machine. Machines never come with any spare parts, you know. They always come with the exact amount they need.”
+– Hugo Cabret
+“Remember that people break down, too, not just machinery.”
+– Gregory Benford
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Iron Working
+Engineering
+Research Cost
+Base Cost: 300
+Science
+Boosts
+Own 3 Archers.
+Progression
+Leads to Technologies
+Printing

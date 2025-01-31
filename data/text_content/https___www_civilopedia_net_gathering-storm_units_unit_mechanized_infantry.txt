@@ -1,0 +1,60 @@
+Mechanized Infantry - Units - Civilopedia - Civilization VI
+Mechanized Infantry
+Description
+Information era melee unit.
+Historical Context
+With the coming of the gasoline engine to the battlefield, and all those tanks and trucks zipping about, the foot-slogging infantry had trouble keeping pace. Between the world wars, various nations studied how this could be improved. But it was Nazi Germany, with its emphasis on blitzkrieg, that devoted the most attention to “mechanizing” the infantry to keep up with their panzers before they tore across Poland, France, North Africa and Russia. Since trucks couldn’t quickly traverse the sort of ground encountered in these places, the German engineers had designed the first half-track (the Sd.Kfz 251) to carry infantry and their supplies while keeping up with the tanks. Add in some tracked artillery and AA guns, and one had an independent battlegroup, capable of holding its own against anything the enemy had. So successful were the Germans that every other combatant emulated them, to the point where most infantry today are “mechanized.”
+Traits
+Upgrade From
+Infantry
+Digger
+Promotion Class: Melee
+3
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Satellites
+Production Cost
+Base Cost: 650
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2600
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn
+Description
+Information era melee unit.
+Historical Context
+With the coming of the gasoline engine to the battlefield, and all those tanks and trucks zipping about, the foot-slogging infantry had trouble keeping pace. Between the world wars, various nations studied how this could be improved. But it was Nazi Germany, with its emphasis on blitzkrieg, that devoted the most attention to “mechanizing” the infantry to keep up with their panzers before they tore across Poland, France, North Africa and Russia. Since trucks couldn’t quickly traverse the sort of ground encountered in these places, the German engineers had designed the first half-track (the Sd.Kfz 251) to carry infantry and their supplies while keeping up with the tanks. Add in some tracked artillery and AA guns, and one had an independent battlegroup, capable of holding its own against anything the enemy had. So successful were the Germans that every other combatant emulated them, to the point where most infantry today are “mechanized.”
+Traits
+Upgrade From
+Infantry
+Digger
+Promotion Class: Melee
+3
+Movement Points
+85
+Melee Strength
+Requirements
+Technology
+Satellites
+Production Cost
+Base Cost: 650
+Production
+Base Resource Cost: 1
+Oil (on Standard Speed)
+Purchase Cost
+Base Cost: 2600
+Gold
+Maintenance Cost
+Base Cost: 8
+Gold
+Consumes: 1
+Oil per turn

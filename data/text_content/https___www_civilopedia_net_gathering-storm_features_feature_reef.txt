@@ -1,0 +1,24 @@
+Reef - Terrains and Features - Civilopedia - Civilization VI
+Reef
+Historical Context
+Reefs form beneath the surface of open water and serve as speedbumps for ships. Though some are composed of inorganic material such as sand, rock, or accumulated shipwrecks on reefs made of sand and rock, the most vibrant are coral reefs found in tropical waters.
+Traits
+Defense Modifier: 3
++1
+Food
++1
+Production
+Valid Resources
+Fish
+Turtles
+Historical Context
+Reefs form beneath the surface of open water and serve as speedbumps for ships. Though some are composed of inorganic material such as sand, rock, or accumulated shipwrecks on reefs made of sand and rock, the most vibrant are coral reefs found in tropical waters.
+Traits
+Defense Modifier: 3
++1
+Food
++1
+Production
+Valid Resources
+Fish
+Turtles

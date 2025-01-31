@@ -1,0 +1,68 @@
+Bolshoi Theatre - Wonders and Projects - Civilopedia - Civilization VI
+Bolshoi Theatre
+Description
+Awards 2 randomly-chosen free civics when completed. Must be built on flat land adjacent to a Theater Square district.
+Historical Context
+The Imperial Bolshoi Theatre of Moscow – bolshoi being the Russian for “grand” – is home for the Bolshoi Ballet and Bolshoi Opera companies, among the oldest and largest in the world (the ballet has some 200 dancers). The ballet company was founded in March 1776 by Prince Urusov and Michael Maddox, a British theater manager; after performing in private homes for some years, the company was profitable enough to acquire the Petrovka Theater and opened there for the first time in December 1780. Sadly, the Petrovka burned down in 1805, to be replaced by the New Arbat Theater, which burned down in 1812 during Napoleon’s occupation of the city. The current Bolshoi Theater was built between 1821 and 1824, and it managed not to burn down – although it was renovated in 1843, 1856, 1921, 2002 and 2011. The last renovation included restoring the theater’s acoustics to the original high quality (which had been mucked up by the Soviets) and restoring the original imperial décor (which had been ripped out by those same Soviets). Despite prices ranging up to 5000 rubles, ballet and opera performances continue to be sold out – mostly to tourists.
+“Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.”
+– Trudy Garfunkel
+Traits
+Removed if game started after
+Atomic Era
++2
+Great Writer points per turn.
++2
+Great Musician points per turn.
++1
+Great Work of Writing slot
++1
+Great Work of Music slot
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Opera and Ballet
+Adjacency
+Theater Square
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1240
+Production
+Description
+Awards 2 randomly-chosen free civics when completed. Must be built on flat land adjacent to a Theater Square district.
+Historical Context
+The Imperial Bolshoi Theatre of Moscow – bolshoi being the Russian for “grand” – is home for the Bolshoi Ballet and Bolshoi Opera companies, among the oldest and largest in the world (the ballet has some 200 dancers). The ballet company was founded in March 1776 by Prince Urusov and Michael Maddox, a British theater manager; after performing in private homes for some years, the company was profitable enough to acquire the Petrovka Theater and opened there for the first time in December 1780. Sadly, the Petrovka burned down in 1805, to be replaced by the New Arbat Theater, which burned down in 1812 during Napoleon’s occupation of the city. The current Bolshoi Theater was built between 1821 and 1824, and it managed not to burn down – although it was renovated in 1843, 1856, 1921, 2002 and 2011. The last renovation included restoring the theater’s acoustics to the original high quality (which had been mucked up by the Soviets) and restoring the original imperial décor (which had been ripped out by those same Soviets). Despite prices ranging up to 5000 rubles, ballet and opera performances continue to be sold out – mostly to tourists.
+“Bolshoi Ballet is a universe of the imagination, a place of magic and enchantment, beauty and romance. Its many worlds vibrate with graceful dancers, glorious music, and sumptuous costumes.”
+– Trudy Garfunkel
+Traits
+Removed if game started after
+Atomic Era
++2
+Great Writer points per turn.
++2
+Great Musician points per turn.
++1
+Great Work of Writing slot
++1
+Great Work of Music slot
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Opera and Ballet
+Adjacency
+Theater Square
+Placement
+Grassland
+Plains
+Tundra
+Snow
+Desert
+Production Cost
+Base Cost: 1240
+Production

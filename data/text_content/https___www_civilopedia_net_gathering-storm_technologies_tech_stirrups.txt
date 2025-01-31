@@ -1,0 +1,54 @@
+Stirrups - Technologies - Civilopedia - Civilization VI
+Stirrups
+Description
+Pasture improvements receive +1
+Food.
+Historical Context
+Along with writing, gunpowder and pre-sliced bread, the stirrup is considered one of the basic inventions needed to spread civilization … at least by some historians. Like all great innovations, it seems such a simple idea. Humans had domesticated the horse around 4500 BC, but where to put one’s feet and how to stay on when the horse began running? The saddle, invented around 800 BC, took care of the latter problem. But adding two pieces of leather with a loop (later made of metal) on the end hanging down didn’t come about until around a half-millennia later – no one is quite sure when or where, although it was somewhere in east Asia as the Chinese Jin dynasty was using it by 322 BC.
+The idea of stirrups spread quickly, thanks to those barbarian horsemen of Central Asia who saw the advantages. Images from ancient India c. 200 BC show bare-footed riders using big-toed stirrups. A Kushan engraving made a century later shows a mounted rider with platform stirrups. Digging up Korean tumuli from the 5th Century AD yield stirrups, such as those found at Pokchong-dong and Pan-gyeje; and by the Nara period similar ones were in use in Japan. Meanwhile, European riders had to make do without stirrups until the 8th Century, when the Avars came storming out of Eurasia.
+The Arabs soon picked up on the benefits, but more importantly so too did the Franks. Slamming into something with a ten-foot pole while astride a big horse was only feasible with stirrups. Especially if encased in heavy armor; indeed, medieval knights would have been hard pressed even to get mounted without stirrups. And thus was born – according to some – feudalism, notions of chivalry and other “advances” that would dominate Europe for the next several centuries.
+“Few inventions have been so simple as the stirrup, but few have had so catalytic an influence on history.”
+– Lynn White Jr.
+“Betwixt the stirrup and the ground, Mercy I asked, mercy I found.”
+– William Camden
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Horseback Riding
+Apprenticeship
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Have the Feudalism civic.
+Progression
+Leads to Technologies
+Banking
+Gunpowder
+Description
+Pasture improvements receive +1
+Food.
+Historical Context
+Along with writing, gunpowder and pre-sliced bread, the stirrup is considered one of the basic inventions needed to spread civilization … at least by some historians. Like all great innovations, it seems such a simple idea. Humans had domesticated the horse around 4500 BC, but where to put one’s feet and how to stay on when the horse began running? The saddle, invented around 800 BC, took care of the latter problem. But adding two pieces of leather with a loop (later made of metal) on the end hanging down didn’t come about until around a half-millennia later – no one is quite sure when or where, although it was somewhere in east Asia as the Chinese Jin dynasty was using it by 322 BC.
+The idea of stirrups spread quickly, thanks to those barbarian horsemen of Central Asia who saw the advantages. Images from ancient India c. 200 BC show bare-footed riders using big-toed stirrups. A Kushan engraving made a century later shows a mounted rider with platform stirrups. Digging up Korean tumuli from the 5th Century AD yield stirrups, such as those found at Pokchong-dong and Pan-gyeje; and by the Nara period similar ones were in use in Japan. Meanwhile, European riders had to make do without stirrups until the 8th Century, when the Avars came storming out of Eurasia.
+The Arabs soon picked up on the benefits, but more importantly so too did the Franks. Slamming into something with a ten-foot pole while astride a big horse was only feasible with stirrups. Especially if encased in heavy armor; indeed, medieval knights would have been hard pressed even to get mounted without stirrups. And thus was born – according to some – feudalism, notions of chivalry and other “advances” that would dominate Europe for the next several centuries.
+“Few inventions have been so simple as the stirrup, but few have had so catalytic an influence on history.”
+– Lynn White Jr.
+“Betwixt the stirrup and the ground, Mercy I asked, mercy I found.”
+– William Camden
+Unlocks
+Requirements
+Medieval Era
+Required Technologies
+Horseback Riding
+Apprenticeship
+Research Cost
+Base Cost: 390
+Science
+Boosts
+Have the Feudalism civic.
+Progression
+Leads to Technologies
+Banking
+Gunpowder

@@ -1,0 +1,50 @@
+Statue of Liberty - Wonders and Projects - Civilopedia - Civilization VI
+Statue of Liberty
+Description
++4 Diplomatic Victory Points when built. All your cities within 6 tiles are always 100% Loyal.
+Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+Perhaps nothing is more iconic to America than the giant green woman standing in New York Harbor. Professor Edouard de Laboulaye and sculptor Frederic-Auguste Bartholdi didn’t hold back when creating the towering copper statue. It took twenty-one years for Laboulaye’s vision of Lady Liberty to come to life. Though ten years too late for America’s centennial, the people didn’t mind the delay—any present that arrives in 214 boxes must be a fantastic gift.
+Even before its final assembly in 1886, it earned the nickname “the New Colossus” thanks to poet Emma Lazarus. The statue quickly became a symbol of freedom and hope; her beacon acting as a lighthouse for the tired and poor, beckoning people to the shores of the United States with the promise of shelter and a new beginning.
+“Here at our sea-washed, sunset gates shall stand a mighty woman with a torch, whose flame is the imprisoned lightning.”
+– Emma Lazarus
+Traits
+Removed if game started after
+Information Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Civil Engineering
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 1240
+Production
+Description
++4 Diplomatic Victory Points when built. All your cities within 6 tiles are always 100% Loyal.
+Must be built on the Coast, adjacent to land and a Harbor district.
+Historical Context
+Perhaps nothing is more iconic to America than the giant green woman standing in New York Harbor. Professor Edouard de Laboulaye and sculptor Frederic-Auguste Bartholdi didn’t hold back when creating the towering copper statue. It took twenty-one years for Laboulaye’s vision of Lady Liberty to come to life. Though ten years too late for America’s centennial, the people didn’t mind the delay—any present that arrives in 214 boxes must be a fantastic gift.
+Even before its final assembly in 1886, it earned the nickname “the New Colossus” thanks to poet Emma Lazarus. The statue quickly became a symbol of freedom and hope; her beacon acting as a lighthouse for the tired and poor, beckoning people to the shores of the United States with the promise of shelter and a new beginning.
+“Here at our sea-washed, sunset gates shall stand a mighty woman with a torch, whose flame is the imprisoned lightning.”
+– Emma Lazarus
+Traits
+Removed if game started after
+Information Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Civil Engineering
+Adjacency
+Harbor
+Placement
+Cannot be built on a lake
+Must be built on coast
+Production Cost
+Base Cost: 1240
+Production

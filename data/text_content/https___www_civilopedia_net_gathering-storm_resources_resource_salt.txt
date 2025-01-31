@@ -1,0 +1,42 @@
+Salt - Resources - Civilopedia - Civilization VI
+Salt
+Historical Context
+Used for preserving food and to season it when cooking, salt also just happens to be essential to animal life. The earliest evidence of the processing of salt dates back six millennia, to the ruins of salt works found in Romania and China. Salt can be mined, or extracted by evaporation of sea water, both processes simple enough even for illiterate barbarians to manage.
+Traits
+Luxury
++1
+Food
++1
+Gold
++4
+Amenities (1 per city)
+Requirements
+Placement
+Desert
+Plains
+Tundra
+Usage
+Improved By
+Mine
+Industry
+Corporation
+Historical Context
+Used for preserving food and to season it when cooking, salt also just happens to be essential to animal life. The earliest evidence of the processing of salt dates back six millennia, to the ruins of salt works found in Romania and China. Salt can be mined, or extracted by evaporation of sea water, both processes simple enough even for illiterate barbarians to manage.
+Traits
+Luxury
++1
+Food
++1
+Gold
++4
+Amenities (1 per city)
+Requirements
+Placement
+Desert
+Plains
+Tundra
+Usage
+Improved By
+Mine
+Industry
+Corporation

@@ -1,0 +1,30 @@
+Apocalypse - Concepts - Civilopedia - Civilization VI
+Apocalypse
+Welcome
+In game setup, players can turn on the Apocalypse game mode, changing the severity of disasters, introducing a new Scored Competition and unit, and eventually seeing the end of the world as the planet and its civilizations are pummeled by comets.
+Soothsayer
+The Apocalypse game mode introduces a new unit, the Soothsayer.  This unit has the unique ability to cause natural disasters: bring them to a suitable location and use the Cause Disaster action to start a flood, storm, fire, or volcanic eruption in nearby tiles.  This generates a small amount of CO2 that accelerates climate change.
+Soothsayers can only be bought with
+Faith, and can be escorted.  With each promotion, they gain more charges for causing disasters.  Soothsayers do not earn experience: instead, they unlock new promotions through a new Scored Competition.
+Appeasing the Gods
+To earn promotions for your Soothsayers, you will need to participate in the Appease the Gods Scored Competition.  This will appear throughout the game, providing you the ability to use your Soothsayers to sacrifice your combat units near volcanoes for score.  Players with high scores earn promotions for all of their present and future Soothsayers.  Sacrificing units generates a small amount of CO2 that accelerates climate change.
+New Disasters
+Two new disasters are exclusive to the Apocalypse game mode:
+Solar Flares: Across the world, solar radiation bombards the planet, damaging power-related buildings and improvements, pillaging certain districts, and damaging late-game units
+Comet Strikes: A comet crashes into the planet, destroying everything in its path, even cities
+End of the World
+Terrible, high-damage disasters, especially comet strikes, become more prevalent after climate change reaches its maximum level.  At that point, players will have to win quickly, or the end of world will decide the victor for them.
+Welcome
+In game setup, players can turn on the Apocalypse game mode, changing the severity of disasters, introducing a new Scored Competition and unit, and eventually seeing the end of the world as the planet and its civilizations are pummeled by comets.
+Soothsayer
+The Apocalypse game mode introduces a new unit, the Soothsayer.  This unit has the unique ability to cause natural disasters: bring them to a suitable location and use the Cause Disaster action to start a flood, storm, fire, or volcanic eruption in nearby tiles.  This generates a small amount of CO2 that accelerates climate change.
+Soothsayers can only be bought with
+Faith, and can be escorted.  With each promotion, they gain more charges for causing disasters.  Soothsayers do not earn experience: instead, they unlock new promotions through a new Scored Competition.
+Appeasing the Gods
+To earn promotions for your Soothsayers, you will need to participate in the Appease the Gods Scored Competition.  This will appear throughout the game, providing you the ability to use your Soothsayers to sacrifice your combat units near volcanoes for score.  Players with high scores earn promotions for all of their present and future Soothsayers.  Sacrificing units generates a small amount of CO2 that accelerates climate change.
+New Disasters
+Two new disasters are exclusive to the Apocalypse game mode:
+Solar Flares: Across the world, solar radiation bombards the planet, damaging power-related buildings and improvements, pillaging certain districts, and damaging late-game units
+Comet Strikes: A comet crashes into the planet, destroying everything in its path, even cities
+End of the World
+Terrible, high-damage disasters, especially comet strikes, become more prevalent after climate change reaches its maximum level.  At that point, players will have to win quickly, or the end of world will decide the victor for them.

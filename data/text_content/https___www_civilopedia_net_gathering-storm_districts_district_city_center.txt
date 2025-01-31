@@ -1,0 +1,66 @@
+City Center - Districts - Civilopedia - Civilization VI
+City Center
+Description
+This is the City Center.
+Historical Context
+The political, cultural, historical, commercial, and geographic heart of a city … at least, that’s the theory. In different areas of the world, as villages grew into towns and towns into cities, different aspects of these symbiotic qualities of civilization became emphasized, usually without forethought. A lot is revealed about a people by wandering around the city center. Rarely do folk actually live in the city center (until the advent of skyscrapers and condos); instead it is the “downtown” where the personality of the city is on display, with its spectacular monuments, grand parks, towering offices, pretentious government buildings, and the like. Often it encompasses the first settled part (the simple homes now leveled by urban renewal) and so is the most historic district of the now sprawling city.
+Traits
+Aircraft Capacity: 1
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++3
+Gold
+Requirements
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Medieval Walls
+Flood Barrier
+Granary
+Monument
+Old God Obelisk
+Palace
+Palgum
+Sewer
+Renaissance Walls
+Tsikhe
+Ancient Walls
+Water Mill
+Description
+This is the City Center.
+Historical Context
+The political, cultural, historical, commercial, and geographic heart of a city … at least, that’s the theory. In different areas of the world, as villages grew into towns and towns into cities, different aspects of these symbiotic qualities of civilization became emphasized, usually without forethought. A lot is revealed about a people by wandering around the city center. Rarely do folk actually live in the city center (until the advent of skyscrapers and condos); instead it is the “downtown” where the personality of the city is on display, with its spectacular monuments, grand parks, towering offices, pretentious government buildings, and the like. Often it encompasses the first settled part (the simple homes now leveled by urban renewal) and so is the most historic district of the now sprawling city.
+Traits
+Aircraft Capacity: 1
+Trade Yields
+Domestic Destination
++1
+Food, +1
+Production
+International Destination
++3
+Gold
+Requirements
+Production Cost
+Base Cost: 54
+Production
+Usage
+Unlocks Buildings
+Medieval Walls
+Flood Barrier
+Granary
+Monument
+Old God Obelisk
+Palace
+Palgum
+Sewer
+Renaissance Walls
+Tsikhe
+Ancient Walls
+Water Mill

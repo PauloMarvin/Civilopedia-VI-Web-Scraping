@@ -1,0 +1,78 @@
+Tlachtli - Buildings - Civilopedia - Civilization VI
+Tlachtli
+Description
+A building unique to the Aztecs. Provides 2
+Amenities, +2
+Culture, +2
+Faith, and a
+Great General Point. Provides +1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.
+Traits
+Unique To
+Aztec
+Replaces
+Arena
++2
+Faith
++2
+Culture
++2
+Amenities from entertainment
++1
+Great General point per turn.
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Entertainment Complex
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 135
+Production
+Purchase Cost
+Base Cost: 540
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+A building unique to the Aztecs. Provides 2
+Amenities, +2
+Culture, +2
+Faith, and a
+Great General Point. Provides +1
+Tourism after advancing to the Conservation Civic.
+Historical Context
+For over 2700 years the Mesoamericans played their traditional “ballgame” – Ollamaliztli in Nahuatl – in (not surprisingly) “ball courts.” Somewhat similar in play to team racquetball, these “sporting events” had significant ritual overtones, given that the losers (and sometimes the winners) were often sacrificed after the game, usually by decapitation. Explicit depictions of human sacrifice after a game can be found in many Mayan ball courts such as those at El Tajin and at Chichen Itza. Although the sport had somewhat different rules in different places and different times, it spread throughout Mesoamerica, as far south as Nicaragua and north as Arizona. Built in a pattern that changed little over two-and-a-half millennia, the ball courts were stone constructs of a long, narrow playing field between high sloped walls with open-ended (later enclosed) wider goal areas. Painted and decorated, these stadiums were the epitome of the Mesoamerican civilization … until the Spanish showed up and introduced the natives to other games.
+Traits
+Unique To
+Aztec
+Replaces
+Arena
++2
+Faith
++2
+Culture
++2
+Amenities from entertainment
++1
+Great General point per turn.
++250
+Tourism from Rock Concerts.
+Requirements
+District
+Entertainment Complex
+Civic
+Games and Recreation
+Production Cost
+Base Cost: 135
+Production
+Purchase Cost
+Base Cost: 540
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

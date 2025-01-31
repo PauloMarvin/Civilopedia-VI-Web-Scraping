@@ -1,0 +1,60 @@
+Machu Picchu - Wonders and Projects - Civilopedia - Civilization VI
+Machu Picchu
+Description
+Mountain tiles provide a standard adjacency bonus to Commercial Hub, Theater Square, and Industrial Zone districts in all cities.
+Must be built on a Mountain tile that does not contain a Volcano.
+Historical Context
+At 2,430 meters above sea level in the Andes Mountains of Peru is the historic site of Machu Picchu. Once a royal estate, or perhaps a religious site, for the Incan empire, it was abandoned in the 16th century when the civilization was destroyed by a Spanish invasion. Lost to history for hundreds of years, Machu Picchu was rediscovered in 1911 by American archeologist Hiram Bingham, exciting tourists immediately and for years to come. Today, hundreds of thousands of tourists visit the site annually.
+Most remarkable about the site is how seamlessly it blends into the natural world. This lost city is made up of stone terraces, a farming sector, homes, temples, and more – approximately 200 buildings in total. The finely fit stonework and intricate irrigation systems nod to the sophistication of the lost Incan civilization.
+“...Eagles fly, The turrets round, and seem to flout the sky;
+They eye those walls now crumbling in decay,
+And scare from quiet rest their destined prey.”
+- Samuel Prout Hill
+Traits
+Removed if game started after
+Renaissance Era
++4
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Engineering
+Placement
+Grassland (Mountain)
+Plains (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Desert (Mountain)
+Production Cost
+Base Cost: 400
+Production
+Description
+Mountain tiles provide a standard adjacency bonus to Commercial Hub, Theater Square, and Industrial Zone districts in all cities.
+Must be built on a Mountain tile that does not contain a Volcano.
+Historical Context
+At 2,430 meters above sea level in the Andes Mountains of Peru is the historic site of Machu Picchu. Once a royal estate, or perhaps a religious site, for the Incan empire, it was abandoned in the 16th century when the civilization was destroyed by a Spanish invasion. Lost to history for hundreds of years, Machu Picchu was rediscovered in 1911 by American archeologist Hiram Bingham, exciting tourists immediately and for years to come. Today, hundreds of thousands of tourists visit the site annually.
+Most remarkable about the site is how seamlessly it blends into the natural world. This lost city is made up of stone terraces, a farming sector, homes, temples, and more – approximately 200 buildings in total. The finely fit stonework and intricate irrigation systems nod to the sophistication of the lost Incan civilization.
+“...Eagles fly, The turrets round, and seem to flout the sky;
+They eye those walls now crumbling in decay,
+And scare from quiet rest their destined prey.”
+- Samuel Prout Hill
+Traits
+Removed if game started after
+Renaissance Era
++4
+Gold
++1000
+Tourism from Rock Concerts.
+Requirements
+Technology
+Engineering
+Placement
+Grassland (Mountain)
+Plains (Mountain)
+Tundra (Mountain)
+Snow (Mountain)
+Desert (Mountain)
+Production Cost
+Base Cost: 400
+Production

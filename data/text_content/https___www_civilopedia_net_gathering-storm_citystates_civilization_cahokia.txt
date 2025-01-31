@@ -1,0 +1,62 @@
+Cahokia - City-States - Civilopedia - Civilization VI
+Cahokia
+Unique Ability
+Trade City-State
+1
+Envoy: +4
+Gold in the
+Capital.
+3
+Envoys: +2
+Gold in every Market and Lighthouse building.
+6
+Envoys: +2
+Gold in every Bank and Shipyard building.
+Cahokia Suzerain Bonus
+Your Builders can now make Cahokia Mounds improvements.
+Cahokia Mounds provide +3
+Gold. Cities receive +1
+Amenity from their first Cahokia Mound improvement. Upon discovering Natural History, cities receive +1
+Amenity from their second Cahokia Mound improvement. +1
+Food for every 2 adjacent Districts once Feudalism is discovered or for every adjacent District once Replaceable Parts is researched. Provides +1
+Housing. Receive an additional
+Housing once Cultural Heritage is discovered. Cannot be built adjacent to other Cahokia Mounds.
+Historical Context
+Immense mounds of packed earth rise from the plains of the Mississippi River to mark the site of Cahokia, a Native American city and ceremonial site whose importance has only recently come to appreciation after archaeological study.
+Archaeological evidence dates settlement to about the 8th Century by Late Woodland people. A distinctive Mississipian culture diverged around this time, marked by extensive maize cultivation. The population grew and social organization became more complex. It was during this time that the Cahokia mound construction began, and the city had religious and ritual centers. The major structures at Cahokia were laid out along astronomical axes and the cardinal directions, and evidence has been found for large wooden buildings on the site. There were observatories consisting of cedar posts set to astronomical marks and colloquially called “Woodhenges”, as well as a division between higher- and lower-class housing. There were ball courts for the game of chunkey and chunkey players feature prominently as subjects for artwork from Cahokia. Residents of St. Louis can take comfort that their sports fandom has truly ancient roots.
+Cahokia's population in 1250 exceeded that of London. The floodplains of the Mississippi formed rich agricultural land to feed the population, and artifacts suggest trade with as far away as Mexico. But there is evidence of growing strife as well. An immense, miles-long palisade was constructed in the middle of that century, and reinforced later.
+Declines in Cahokia's population and wealth seem to have occurred coinciding with the end of the Medieval Warm Period. As the weather cooled, the systems of agriculture practiced by the Mississipians could not sustain the population of Cahokia. Although Cahokia declined as an urban center, it continued to be used as a ritual and religious site. It was finally abandoned in the 14th Century, and resettled by the Cahokia band of the Illiniwek in the 17th Century, who give it its present name. The name used by the original inhabitants is lost to us.
+French missionaries and traders had posts in the area of Cahokia during the colonial era. A community of Trappist monks established a monastery on one of the largest of the mounds in 1809, and the mound was afterwards known as “Monks Mound.” At that time, the exact nature of the mounds was unknown. It wasn't until an enterprising farmer dug a well on a mound in the middle of the 19th century that the nature of these mounds was hinted at.
+Cahokia Mounds State Historic Site was established in 1979, and the site was designated a UNESCO Heritage site in 1982. Research at Cahokia has helped create a fuller picture of American Indian life before colonization by the West, particularly in regards to their urban development and trade networks. This in turn has helped overturn stereotypes of American Indian civilizations, and it is hoped that time will continue to provide a window into the life of the people who built this first, great American city along the Mississippi.
+City-State Type
+Trade
+City-State Type
+Trade
+Unique Ability
+Trade City-State
+1
+Envoy: +4
+Gold in the
+Capital.
+3
+Envoys: +2
+Gold in every Market and Lighthouse building.
+6
+Envoys: +2
+Gold in every Bank and Shipyard building.
+Cahokia Suzerain Bonus
+Your Builders can now make Cahokia Mounds improvements.
+Cahokia Mounds provide +3
+Gold. Cities receive +1
+Amenity from their first Cahokia Mound improvement. Upon discovering Natural History, cities receive +1
+Amenity from their second Cahokia Mound improvement. +1
+Food for every 2 adjacent Districts once Feudalism is discovered or for every adjacent District once Replaceable Parts is researched. Provides +1
+Housing. Receive an additional
+Housing once Cultural Heritage is discovered. Cannot be built adjacent to other Cahokia Mounds.
+Historical Context
+Immense mounds of packed earth rise from the plains of the Mississippi River to mark the site of Cahokia, a Native American city and ceremonial site whose importance has only recently come to appreciation after archaeological study.
+Archaeological evidence dates settlement to about the 8th Century by Late Woodland people. A distinctive Mississipian culture diverged around this time, marked by extensive maize cultivation. The population grew and social organization became more complex. It was during this time that the Cahokia mound construction began, and the city had religious and ritual centers. The major structures at Cahokia were laid out along astronomical axes and the cardinal directions, and evidence has been found for large wooden buildings on the site. There were observatories consisting of cedar posts set to astronomical marks and colloquially called “Woodhenges”, as well as a division between higher- and lower-class housing. There were ball courts for the game of chunkey and chunkey players feature prominently as subjects for artwork from Cahokia. Residents of St. Louis can take comfort that their sports fandom has truly ancient roots.
+Cahokia's population in 1250 exceeded that of London. The floodplains of the Mississippi formed rich agricultural land to feed the population, and artifacts suggest trade with as far away as Mexico. But there is evidence of growing strife as well. An immense, miles-long palisade was constructed in the middle of that century, and reinforced later.
+Declines in Cahokia's population and wealth seem to have occurred coinciding with the end of the Medieval Warm Period. As the weather cooled, the systems of agriculture practiced by the Mississipians could not sustain the population of Cahokia. Although Cahokia declined as an urban center, it continued to be used as a ritual and religious site. It was finally abandoned in the 14th Century, and resettled by the Cahokia band of the Illiniwek in the 17th Century, who give it its present name. The name used by the original inhabitants is lost to us.
+French missionaries and traders had posts in the area of Cahokia during the colonial era. A community of Trappist monks established a monastery on one of the largest of the mounds in 1809, and the mound was afterwards known as “Monks Mound.” At that time, the exact nature of the mounds was unknown. It wasn't until an enterprising farmer dug a well on a mound in the middle of the 19th century that the nature of these mounds was hinted at.
+Cahokia Mounds State Historic Site was established in 1979, and the site was designated a UNESCO Heritage site in 1982. Research at Cahokia has helped create a fuller picture of American Indian life before colonization by the West, particularly in regards to their urban development and trade networks. This in turn has helped overturn stereotypes of American Indian civilizations, and it is hoped that time will continue to provide a window into the life of the people who built this first, great American city along the Mississippi.

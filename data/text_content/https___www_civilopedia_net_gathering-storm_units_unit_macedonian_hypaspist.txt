@@ -1,0 +1,72 @@
+Hypaspist - Units - Civilopedia - Civilization VI
+Hypaspist
+Description
+Macedonian unique melee unit that replaces the Swordsman. +5
+Combat Strength when besieging districts. 50% Additional Support Bonus.
+Historical Context
+Among the Greeks, a hypaspist (or “shield bearer”) was a lightly-armored soldier who possessed great flexibility on the battlefield. Philip II of Macedon turned them into legends. The Macedonian phalanx, while very nearly impregnable, was most vulnerable at its flanks and in its rear. Though the hetairoi (or “Companions”) could help protect against such attacks, their essential role as shock cavalry meant they were best used in a more offensive role.
+Thus, the hypaspistai. With a solid round shield, linen armor, and a short spear, the hypaspistai could rapidly maneuver to protect against attacks from infantry or cavalry. In turn, the hetairoi would protect the hypaspistai, providing progressively flexible flanks around an exceptionally spiky and slow-turning center. Philip’s elevation of the hypaspistai stressed the importance of maintaining the phalanx, and in turn provided an elite unit for young soldiers of Macedon to aspire. His son Alexander the Great would continue Philip’s tradition.
+Traits
+Unique To
+Macedon
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 100
+Production
+Base Resource Cost: 5
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
+Macedonian unique melee unit that replaces the Swordsman. +5
+Combat Strength when besieging districts. 50% Additional Support Bonus.
+Historical Context
+Among the Greeks, a hypaspist (or “shield bearer”) was a lightly-armored soldier who possessed great flexibility on the battlefield. Philip II of Macedon turned them into legends. The Macedonian phalanx, while very nearly impregnable, was most vulnerable at its flanks and in its rear. Though the hetairoi (or “Companions”) could help protect against such attacks, their essential role as shock cavalry meant they were best used in a more offensive role.
+Thus, the hypaspistai. With a solid round shield, linen armor, and a short spear, the hypaspistai could rapidly maneuver to protect against attacks from infantry or cavalry. In turn, the hetairoi would protect the hypaspistai, providing progressively flexible flanks around an exceptionally spiky and slow-turning center. Philip’s elevation of the hypaspistai stressed the importance of maintaining the phalanx, and in turn provided an elite unit for young soldiers of Macedon to aspire. His son Alexander the Great would continue Philip’s tradition.
+Traits
+Unique To
+Macedon
+Upgrades To
+Man-At-Arms
+Samurai
+Berserker
+Khevsur
+Upgrade From
+Warrior
+Promotion Class: Melee
+2
+Movement Points
+38
+Melee Strength
+Requirements
+Technology
+Iron Working
+Production Cost
+Base Cost: 100
+Production
+Base Resource Cost: 5
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 400
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

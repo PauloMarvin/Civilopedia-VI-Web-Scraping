@@ -1,0 +1,40 @@
+Telecommunications - Technologies - Civilopedia - Civilization VI
+Telecommunications
+Historical Context
+The Internet and cable television, cell phones and satellite radio … it’s all telecommunications. Civilization is wrapped in a web of electromagnetic waves (and even a few land-based physical cables as well). The history of telecommunications begins in May 1844 AD when Samuel Morse sent his famous message by telegraph from Baltimore to Washington. It picked up speed in March 1876 when Alexander Graham Bell told his assistant, “Watson, come here,” over a telephone line. Telecommunication engineers have been racing ahead ever since.
+Telegraph and telephone communications were carried by wire, much too slow for the modern day. And even though they made the world smaller and changed the landscape of business, war, and politics, scientists and inventors were soon searching for “wireless” telecommunications, the process of sending electronic signals through the atmosphere to special receivers. In 1894 Guglielmo Marconi built the first commercially viable wireless telegraph, soon termed “radio.” In October 1925 Scottish inventor John Logie Baird publically demonstrated the transmission of moving halftone images, soon termed “television.”
+Satellite telecommunications – or at least the idea for them – can be traced to a piece written by science fiction author Arthur C. Clarke published in the magazine Wireless World in October 1945. Sputnik, with an onboard radio transmitter, was launched by the Soviet Union in 1957; NASA soon followed with the balloon named Echo 1 which was capable of relaying signals between distant stations on the surface. Thus the Information Age floated into history. Now low Earth orbiting (LEO) and geostationary orbiting satellites bounce radio, television and telephone signals all around the globe.
+In cultural terms, the advent of satellite telecommunications has increased the public’s access to cultural markers and memes from distant peoples; the world may be on the verge of a single, homogeneous human culture. In financial terms, the international telecommunication industry generated $149 billion in 2007; the world may be on its way to an information economy. Whatever may come, the telecommunications genie is well out of the regulatory bottle.
+“Mr. Watson… Come here… I want to see you."
+- Alexander Graham Bell
+“The single biggest problem in communication is the illusion that it has taken place.”
+– George Bernard Shaw
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Computers
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Boost through Great Scientist or Spy.
+Historical Context
+The Internet and cable television, cell phones and satellite radio … it’s all telecommunications. Civilization is wrapped in a web of electromagnetic waves (and even a few land-based physical cables as well). The history of telecommunications begins in May 1844 AD when Samuel Morse sent his famous message by telegraph from Baltimore to Washington. It picked up speed in March 1876 when Alexander Graham Bell told his assistant, “Watson, come here,” over a telephone line. Telecommunication engineers have been racing ahead ever since.
+Telegraph and telephone communications were carried by wire, much too slow for the modern day. And even though they made the world smaller and changed the landscape of business, war, and politics, scientists and inventors were soon searching for “wireless” telecommunications, the process of sending electronic signals through the atmosphere to special receivers. In 1894 Guglielmo Marconi built the first commercially viable wireless telegraph, soon termed “radio.” In October 1925 Scottish inventor John Logie Baird publically demonstrated the transmission of moving halftone images, soon termed “television.”
+Satellite telecommunications – or at least the idea for them – can be traced to a piece written by science fiction author Arthur C. Clarke published in the magazine Wireless World in October 1945. Sputnik, with an onboard radio transmitter, was launched by the Soviet Union in 1957; NASA soon followed with the balloon named Echo 1 which was capable of relaying signals between distant stations on the surface. Thus the Information Age floated into history. Now low Earth orbiting (LEO) and geostationary orbiting satellites bounce radio, television and telephone signals all around the globe.
+In cultural terms, the advent of satellite telecommunications has increased the public’s access to cultural markers and memes from distant peoples; the world may be on the verge of a single, homogeneous human culture. In financial terms, the international telecommunication industry generated $149 billion in 2007; the world may be on its way to an information economy. Whatever may come, the telecommunications genie is well out of the regulatory bottle.
+“Mr. Watson… Come here… I want to see you."
+- Alexander Graham Bell
+“The single biggest problem in communication is the illusion that it has taken place.”
+– George Bernard Shaw
+Unlocks
+Requirements
+Information Era
+Required Technologies
+Computers
+Research Cost
+Base Cost: 1850
+Science
+Boosts
+Boost through Great Scientist or Spy.

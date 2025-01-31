@@ -1,0 +1,70 @@
+Military Academy - Buildings - Civilopedia - Civilization VI
+Military Academy
+Description
++25% combat experience for all land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+Allows Corps and Armies to be trained directly. Corps and Army training costs reduced 25%.
+Historical Context
+If a civilization is to have a professional army, then it needs professionals to run it. (It helps, but certainly doesn’t guarantee, that that expensive army won’t get wasted anyway.) A military academy is an institution of “higher” learning in the “art” of war, dedicated to training officers. The first military academies were established in the early 1700s in Europe (the oldest, the Royal Military Academy at Woolwich in 1720 AD) to train officers in the “technical” branches of the army, such as the engineers and the artillery. In France, the École Royale Militaire was founded in 1751, the first to offer a general military education. Within a generation, Prussia, Russia, Austria, Sweden and most of the lesser European states had military academies turning out army officers. And why not start teaching boys the ways of war as well, so private boarding schools for pre-collegiate cadets were established in the United Kingdom (such as Welbeck College), France (Saint-Cyr for instance), the United States (Valley Forge Military Academy and others), Russia (the Suvorov Military Schools) and elsewhere.
+Traits
++4
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Encampment
+Technology
+Military Science
+Building
+Armory
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++25% combat experience for all land units trained in this city.
+Strategic Resource Stockpiles increased +10 (on Standard Speed).
+Allows Corps and Armies to be trained directly. Corps and Army training costs reduced 25%.
+Historical Context
+If a civilization is to have a professional army, then it needs professionals to run it. (It helps, but certainly doesn’t guarantee, that that expensive army won’t get wasted anyway.) A military academy is an institution of “higher” learning in the “art” of war, dedicated to training officers. The first military academies were established in the early 1700s in Europe (the oldest, the Royal Military Academy at Woolwich in 1720 AD) to train officers in the “technical” branches of the army, such as the engineers and the artillery. In France, the École Royale Militaire was founded in 1751, the first to offer a general military education. Within a generation, Prussia, Russia, Austria, Sweden and most of the lesser European states had military academies turning out army officers. And why not start teaching boys the ways of war as well, so private boarding schools for pre-collegiate cadets were established in the United Kingdom (such as Welbeck College), France (Saint-Cyr for instance), the United States (Valley Forge Military Academy and others), Russia (the Suvorov Military Schools) and elsewhere.
+Traits
++4
+Production
++1
+Housing
++1
+Citizen slot
++1
+Great General point per turn.
+Citizen Yields (per citizen)
++1
+Production
+Requirements
+District
+Encampment
+Technology
+Military Science
+Building
+Armory
+Production Cost
+Base Cost: 330
+Production
+Purchase Cost
+Base Cost: 1320
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

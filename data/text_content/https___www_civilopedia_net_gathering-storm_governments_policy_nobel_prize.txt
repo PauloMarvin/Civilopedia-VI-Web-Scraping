@@ -1,0 +1,24 @@
+Science Foundations - Governments and Policies - Civilopedia - Civilization VI
+Science Foundations
+Description
++2
+Great Scientist points per turn for every University and +4
+Great Scientist points per turn for every Research Lab. +2
+Great Engineer points per turn for every Factory and +4
+Great Engineer points per turn for every Power Plant
+Historical Context
+State sponsorship of scientists has many advantages. In addition to advancing human knowledge, the state gains prestige by assembling a collection of leading minds. And, in times of crisis, the benefits of abstract theory can be turned into weaponized applications.
+Requirements
+Civic
+Nuclear Program
+Description
++2
+Great Scientist points per turn for every University and +4
+Great Scientist points per turn for every Research Lab. +2
+Great Engineer points per turn for every Factory and +4
+Great Engineer points per turn for every Power Plant
+Historical Context
+State sponsorship of scientists has many advantages. In addition to advancing human knowledge, the state gains prestige by assembling a collection of leading minds. And, in times of crisis, the benefits of abstract theory can be turned into weaponized applications.
+Requirements
+Civic
+Nuclear Program

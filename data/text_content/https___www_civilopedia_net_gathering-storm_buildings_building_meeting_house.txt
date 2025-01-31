@@ -1,0 +1,52 @@
+Meeting House - Buildings - Civilopedia - Civilization VI
+Meeting House
+Historical Context
+In opposition to the magnificent cathedrals and churches of the Catholic Church, the Protestants thought worship should be serious and undistracted by art. Hence some Congregationalists worshipped in meeting houses - plain, unadorned buildings built from local resources (usually wood and stone). In the New World, the social and cultural center for most of the Protestant colonies was the meeting house, which served as both a place of worship and of public discourse for the settlers. For many early Quaker, Mennonite, Unitarian, Puritan, Baptist and other pious types, the meeting house also served as the de facto town hall, where political debates, votes and decisions were conducted. All along the Atlantic coast colonies, the first public building to go up was typically the meeting house. Once the separation of church and state became a widespread principal in the new United States, those meeting houses were all converted into town halls.
+Traits
+Unique To
+Meeting House
++3
+Faith
++2
+Production
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith
+Historical Context
+In opposition to the magnificent cathedrals and churches of the Catholic Church, the Protestants thought worship should be serious and undistracted by art. Hence some Congregationalists worshipped in meeting houses - plain, unadorned buildings built from local resources (usually wood and stone). In the New World, the social and cultural center for most of the Protestant colonies was the meeting house, which served as both a place of worship and of public discourse for the settlers. For many early Quaker, Mennonite, Unitarian, Puritan, Baptist and other pious types, the meeting house also served as the de facto town hall, where political debates, votes and decisions were conducted. All along the Atlantic coast colonies, the first public building to go up was typically the meeting house. Once the separation of church and state became a widespread principal in the new United States, those meeting houses were all converted into town halls.
+Traits
+Unique To
+Meeting House
++3
+Faith
++2
+Production
++1
+Citizen slot
+Citizen Yields (per citizen)
++1
+Faith
+Requirements
+District
+Holy Site
+Building
+Temple
+Production Cost
+Base Cost: 190
+Production
+Purchase Cost
+Base Cost: 380
+Faith

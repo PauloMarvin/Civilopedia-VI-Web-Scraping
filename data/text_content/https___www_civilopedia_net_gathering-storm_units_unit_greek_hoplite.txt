@@ -1,0 +1,58 @@
+Hoplite - Units - Civilopedia - Civilization VI
+Hoplite
+Description
+Greek unique Ancient era anti-cavalry unit that replaces the Spearman. +10
+Combat Strength if there is at least one adjacent Hoplite unit.
+Historical Context
+Give a bunch of citizen-soldiers ten-foot iron-headed spears (called doru), put them in a tight formation shoulder-to-shoulder, and the hoplite phalanx appears. In the 8th or 7th century BC, the Greek city-states first began to raise hoplite units – composed of those “free” citizens who could afford the bronze armor and the doru – for fighting among themselves. As the Persians found out, hoplite phalanxes were pretty effective against others as well. Although enemy archers might pick off a few (most of the arrows of the time were too light to penetrate the bronzewear of the Greeks), a phalanx of hoplites could generally sweep everything from the field in front of them; the greatest threat came from exposing their flanks, or losing formation moving over rough ground. The hoplite-phalanx survived for almost 400 years, through the age of Alexander the Great still dominant, until it came up against the Roman legion, faster afoot, more flexible in formation, and more adept with their short swords once they slipped past those unwieldy spears.
+Traits
+Unique To
+Greece
+Upgrades To
+Pikeman
+Impi
+Promotion Class: Anti Cavalry
+2
+Movement Points
+28
+Melee Strength
+Requirements
+Technology
+Bronze Working
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Description
+Greek unique Ancient era anti-cavalry unit that replaces the Spearman. +10
+Combat Strength if there is at least one adjacent Hoplite unit.
+Historical Context
+Give a bunch of citizen-soldiers ten-foot iron-headed spears (called doru), put them in a tight formation shoulder-to-shoulder, and the hoplite phalanx appears. In the 8th or 7th century BC, the Greek city-states first began to raise hoplite units – composed of those “free” citizens who could afford the bronze armor and the doru – for fighting among themselves. As the Persians found out, hoplite phalanxes were pretty effective against others as well. Although enemy archers might pick off a few (most of the arrows of the time were too light to penetrate the bronzewear of the Greeks), a phalanx of hoplites could generally sweep everything from the field in front of them; the greatest threat came from exposing their flanks, or losing formation moving over rough ground. The hoplite-phalanx survived for almost 400 years, through the age of Alexander the Great still dominant, until it came up against the Roman legion, faster afoot, more flexible in formation, and more adept with their short swords once they slipped past those unwieldy spears.
+Traits
+Unique To
+Greece
+Upgrades To
+Pikeman
+Impi
+Promotion Class: Anti Cavalry
+2
+Movement Points
+28
+Melee Strength
+Requirements
+Technology
+Bronze Working
+Production Cost
+Base Cost: 65
+Production
+Purchase Cost
+Base Cost: 260
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

@@ -1,0 +1,72 @@
+Mandekalu Cavalry - Units - Civilopedia - Civilization VI
+Mandekalu Cavalry
+Description
+Mali unique Medieval Era unit that replaces the Knight. Trader units are immune to being plundered if they are within 4 tiles of a Mandekalu Cavalry and on a land tile. Combat victories provide
+Gold equal to 100% of that unit's base
+Combat Strength (on Standard Speed).
+Historical Context
+Mandekalu cavalrymen were the elite of Malinese society, as horses were a rare and expensive commodity south of the Sahara. The Mandekalu cavalryman was armed with lance and sword, and was equipped with mail and an iron helmet. This need for armor and weapons created a cultural alliance between skilled Malian blacksmiths (working iron was a rare art, kept secret) and the nobility who used the weapons and armor in battle.
+Mansa Sundiata is generally credited with organizing the cavalry into their own branch of the army. In the Sahel—the arid grasslands south of the Sahara—the mobility and shock power of the cavalry made them a fearful enemy, and they were key to the Malian military expansion. As the weather got warmer and wetter during the 15th and 16th century, the tsetse fly ranged farther, spreading diseases among horses and riders, and generally reducing the effectiveness of the Mandekalu. At the same time, declining woodlands reduced the supplies of wood for charcoal, making the traditional iron weapons more expensive to manufacture.
+Traits
+Unique To
+Mali
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold
+Description
+Mali unique Medieval Era unit that replaces the Knight. Trader units are immune to being plundered if they are within 4 tiles of a Mandekalu Cavalry and on a land tile. Combat victories provide
+Gold equal to 100% of that unit's base
+Combat Strength (on Standard Speed).
+Historical Context
+Mandekalu cavalrymen were the elite of Malinese society, as horses were a rare and expensive commodity south of the Sahara. The Mandekalu cavalryman was armed with lance and sword, and was equipped with mail and an iron helmet. This need for armor and weapons created a cultural alliance between skilled Malian blacksmiths (working iron was a rare art, kept secret) and the nobility who used the weapons and armor in battle.
+Mansa Sundiata is generally credited with organizing the cavalry into their own branch of the army. In the Sahel—the arid grasslands south of the Sahara—the mobility and shock power of the cavalry made them a fearful enemy, and they were key to the Malian military expansion. As the weather got warmer and wetter during the 15th and 16th century, the tsetse fly ranged farther, spreading diseases among horses and riders, and generally reducing the effectiveness of the Mandekalu. At the same time, declining woodlands reduced the supplies of wood for charcoal, making the traditional iron weapons more expensive to manufacture.
+Traits
+Unique To
+Mali
+Upgrades To
+Cuirassier
+Winged Hussar
+Rough Rider
+Upgrade From
+Heavy Chariot
+Promotion Class: Heavy Cavalry
+4
+Movement Points
+55
+Melee Strength
+Requirements
+Technology
+Stirrups
+Production Cost
+Base Cost: 220
+Production
+Base Resource Cost: 10
+Iron (on Standard Speed)
+Purchase Cost
+Base Cost: 880
+Gold
+Maintenance Cost
+Base Cost: 4
+Gold

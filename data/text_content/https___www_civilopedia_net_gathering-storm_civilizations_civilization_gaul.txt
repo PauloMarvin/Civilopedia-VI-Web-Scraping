@@ -1,0 +1,60 @@
+Gaul - Civilizations/Leaders - Civilopedia - Civilization VI
+Gaul
+Unique Ability
+Hallstatt Culture
+Mines provide a minor adjacency bonus for all districts, a Culture Bomb of unowned territory, and receive +1
+Culture. Specialty districts do not receive a minor adjacency for being adjacent to another district and these districts cannot be built adjacent to the City Center.
+Historical Context
+There was never a single king who ruled all of Gaul. Instead, the Gauls were a people unified by their language, religion, and social structure. The Gauls tried the patience of Caesar and the Romans, eventually provoking full-scale Roman domination. This was not to be the end of the Gauls, however, as the Gauls came to blend their culture with the Romans to create a unique identity during and after Roman occupation, and laying the foundation for France.
+The Gauls (according to the completely accurate accounts of Caesar) allegedly didn’t initially call themselves “Gauls,” but rather “Celtae." The eventual name of the region, "Gaul," is derived from a Celtic word meaning "foreigner". Gaul, then, was "the kingdom ruled by foreigners [i.e. the Romans]". Confusingly, the Roman "Galatia" or "Gallia Celtae" is based upon another Gaulish work, meaning "powerful". So, in other words, while the conquered Gauls told the Romans that they were the "powerful Celts," they told themselves "we're a nation ruled by foreigners." I'm sure their distant ancestors elsewhere in Celtic lands can relate.
+Before meeting Caesar—a thousand or so years before—the tribes that would come to form Gaul resided in Central France around the Rhine River valley. They migrated south towards the Mediterranean coast around the 5th century BC and established themselves in northern Italy. The Gauls didn’t stop there. They pushed down further into the Italian Peninsula and sacked Rome in 390 BC under the command of a man named Brennus (not to be confused with another leader named Brennos, who helped invade Greece around 278 BC). The Gauls were a fearsome and respected force. They allied with Hannibal Barca during the Second Punic War, between Rome and Carthage. Between this alliance and the sacking and subsequent plundering of Rome, the Romans were understandably upset. They pushed back against the invading Gauls and were able to eventually gain some ground against them, ultimately conquering them during the Gallic Wars. By 51 BC, Julius Caesar and his allies controlled Gaul. The conquest of Gaul was exactly what Caesar needed to establish himself: gold to pay off his debts (the Gauls had plenty) and a successful military campaign against a thorn in Rome’s side. Some tribes rebelled against the Roman occupation, notable among those being Vercingetorix’s tribe, the Arverni, and Ambiorix’s tribe, the Eburones. Both rebellions were ended not because of a lack of skill or determination, but a lack of resources and unity.
+Gaul was divided into three territories under the Roman Empire around 27 to 12 BC. Surprisingly, Emperor Augustus attempted to maintain the boundaries that were already in place using accounts from Julius Caesar. Peace was (relatively) preserved in the region until the appearance of invading Germanic tribes in the 3rd century AD.
+Before Roman occupation, Gaul was a rich, distinct society despite its multitude of separate tribes. They maintained numerous gold mines (which certainly drew Caesar’s attention), and the wealth was such that, following Caesar’s intervention, the price of gold dropped because so much was looted from Gaul. The craftsmen of Gaul used the gold to create elegant and practical works. Helmets were plated in gold. Necklaces known as “torcs,” which were horseshoe-shaped, were worn by women with matching bracelets.
+Gallic political and social organization was complex. The druids were among the highest standing citizens, and they acted as both spiritual and political leaders. They were not, contrary to popular belief and propaganda by the Romans, known for their human sacrifices. Instead, they were the lore keepers and healers for their tribes. They gave religious and political advice and, where needed, judged their people in trials. The Romans (particularly Emperor Claudius I) worked to suppress their practices and knowledge because of the influence they had over their followers. This, along with the introduction of the monotheistic religion of Christianity, utterly crushed the Druidic “Celtic” religion, leaving only a patchwork for historians to try to decipher later.
+Other than the druids, the Gauls were also led by a council of elders and their king, leading to co-ruled tribes in some instances. The tribes were largely autonomous, and this very division facilitated Caesar’s invasion. Under Roman rule, class divisions were exacerbated and solidified, as richer Gauls took on Roman cultural attributes—they dressed in the Roman style and spoke a mixture of their native Gaulish combined with Latin (something that was – eventually – to become French). They started building their homes and villages to mimic the Romans.
+The descendants of the Gauls – the Celts – live today in Great Britain, Germany, the Balkans, Turkey, Spain, and, of course, France. Their legacy has been mixed with that of others: in addition to the Gauls, France was created out of the Franks (a Germanic tribe), invading Goths who settled during the later Roman Empire, and groups of invading Norsemen, as well as the Romans themselves!
+Traits
+Leaders
+Ambiorix
+Special Units
+Gaesatae
+Special Infrastructure
+Oppidum
+Geography & Social Data
+Location
+Western Europe (around modern-day France)
+Size
+Approximately 200,000 square miles (500,000 square km)
+Population
+No clear figures; estimated around 6-8 million in Ambiorix’s time.
+Capital
+No centralized capital; Ambiorix’s tribe had a fort at Atuatuca
+Traits
+Leaders
+Ambiorix
+Special Units
+Gaesatae
+Special Infrastructure
+Oppidum
+Geography & Social Data
+Location
+Western Europe (around modern-day France)
+Size
+Approximately 200,000 square miles (500,000 square km)
+Population
+No clear figures; estimated around 6-8 million in Ambiorix’s time.
+Capital
+No centralized capital; Ambiorix’s tribe had a fort at Atuatuca
+Unique Ability
+Hallstatt Culture
+Mines provide a minor adjacency bonus for all districts, a Culture Bomb of unowned territory, and receive +1
+Culture. Specialty districts do not receive a minor adjacency for being adjacent to another district and these districts cannot be built adjacent to the City Center.
+Historical Context
+There was never a single king who ruled all of Gaul. Instead, the Gauls were a people unified by their language, religion, and social structure. The Gauls tried the patience of Caesar and the Romans, eventually provoking full-scale Roman domination. This was not to be the end of the Gauls, however, as the Gauls came to blend their culture with the Romans to create a unique identity during and after Roman occupation, and laying the foundation for France.
+The Gauls (according to the completely accurate accounts of Caesar) allegedly didn’t initially call themselves “Gauls,” but rather “Celtae." The eventual name of the region, "Gaul," is derived from a Celtic word meaning "foreigner". Gaul, then, was "the kingdom ruled by foreigners [i.e. the Romans]". Confusingly, the Roman "Galatia" or "Gallia Celtae" is based upon another Gaulish work, meaning "powerful". So, in other words, while the conquered Gauls told the Romans that they were the "powerful Celts," they told themselves "we're a nation ruled by foreigners." I'm sure their distant ancestors elsewhere in Celtic lands can relate.
+Before meeting Caesar—a thousand or so years before—the tribes that would come to form Gaul resided in Central France around the Rhine River valley. They migrated south towards the Mediterranean coast around the 5th century BC and established themselves in northern Italy. The Gauls didn’t stop there. They pushed down further into the Italian Peninsula and sacked Rome in 390 BC under the command of a man named Brennus (not to be confused with another leader named Brennos, who helped invade Greece around 278 BC). The Gauls were a fearsome and respected force. They allied with Hannibal Barca during the Second Punic War, between Rome and Carthage. Between this alliance and the sacking and subsequent plundering of Rome, the Romans were understandably upset. They pushed back against the invading Gauls and were able to eventually gain some ground against them, ultimately conquering them during the Gallic Wars. By 51 BC, Julius Caesar and his allies controlled Gaul. The conquest of Gaul was exactly what Caesar needed to establish himself: gold to pay off his debts (the Gauls had plenty) and a successful military campaign against a thorn in Rome’s side. Some tribes rebelled against the Roman occupation, notable among those being Vercingetorix’s tribe, the Arverni, and Ambiorix’s tribe, the Eburones. Both rebellions were ended not because of a lack of skill or determination, but a lack of resources and unity.
+Gaul was divided into three territories under the Roman Empire around 27 to 12 BC. Surprisingly, Emperor Augustus attempted to maintain the boundaries that were already in place using accounts from Julius Caesar. Peace was (relatively) preserved in the region until the appearance of invading Germanic tribes in the 3rd century AD.
+Before Roman occupation, Gaul was a rich, distinct society despite its multitude of separate tribes. They maintained numerous gold mines (which certainly drew Caesar’s attention), and the wealth was such that, following Caesar’s intervention, the price of gold dropped because so much was looted from Gaul. The craftsmen of Gaul used the gold to create elegant and practical works. Helmets were plated in gold. Necklaces known as “torcs,” which were horseshoe-shaped, were worn by women with matching bracelets.
+Gallic political and social organization was complex. The druids were among the highest standing citizens, and they acted as both spiritual and political leaders. They were not, contrary to popular belief and propaganda by the Romans, known for their human sacrifices. Instead, they were the lore keepers and healers for their tribes. They gave religious and political advice and, where needed, judged their people in trials. The Romans (particularly Emperor Claudius I) worked to suppress their practices and knowledge because of the influence they had over their followers. This, along with the introduction of the monotheistic religion of Christianity, utterly crushed the Druidic “Celtic” religion, leaving only a patchwork for historians to try to decipher later.
+Other than the druids, the Gauls were also led by a council of elders and their king, leading to co-ruled tribes in some instances. The tribes were largely autonomous, and this very division facilitated Caesar’s invasion. Under Roman rule, class divisions were exacerbated and solidified, as richer Gauls took on Roman cultural attributes—they dressed in the Roman style and spoke a mixture of their native Gaulish combined with Latin (something that was – eventually – to become French). They started building their homes and villages to mimic the Romans.
+The descendants of the Gauls – the Celts – live today in Great Britain, Germany, the Balkans, Turkey, Spain, and, of course, France. Their legacy has been mixed with that of others: in addition to the Gauls, France was created out of the Franks (a Germanic tribe), invading Goths who settled during the later Roman Empire, and groups of invading Norsemen, as well as the Romans themselves!

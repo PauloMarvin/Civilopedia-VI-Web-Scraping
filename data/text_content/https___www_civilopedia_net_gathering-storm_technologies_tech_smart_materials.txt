@@ -1,0 +1,36 @@
+Smart Materials - Technologies - Civilopedia - Civilization VI
+Smart Materials
+Description
+Unlocks Giant Death Robot upgrade: Reinforced Armor Plating
++10
+Combat Strength when defending against land and naval units.
+Historical Context
+Materials are usually selected for use on the basis of a single quality. A brick, for instance, should not be flexible if it is to be a good basis for construction. Smart materials are materials which can assume different properties on command, in response to different situations. An analogy would be a brick that is solid when used as a building material, but which could be flat and flexible for easy storage and portability otherwise. These are becoming more and more common as material science advances. Ferrofluids, and dielectric and self-healing elastomers are representative examples of current smart materials.
+The term “programmable matter” is used to describe a hypothetical substance which could be given any property on command, and represents something of the Holy Grail of the smart material research program.
+“It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.”
+– Hermes Trismegistus
+Unlocks
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.
+Description
+Unlocks Giant Death Robot upgrade: Reinforced Armor Plating
++10
+Combat Strength when defending against land and naval units.
+Historical Context
+Materials are usually selected for use on the basis of a single quality. A brick, for instance, should not be flexible if it is to be a good basis for construction. Smart materials are materials which can assume different properties on command, in response to different situations. An analogy would be a brick that is solid when used as a building material, but which could be flat and flexible for easy storage and portability otherwise. These are becoming more and more common as material science advances. Ferrofluids, and dielectric and self-healing elastomers are representative examples of current smart materials.
+The term “programmable matter” is used to describe a hypothetical substance which could be given any property on command, and represents something of the Holy Grail of the smart material research program.
+“It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.”
+– Hermes Trismegistus
+Unlocks
+Requirements
+Future Era
+Research Cost
+Base Cost: 2200
+Science
+Boosts
+Boost through Spy.

@@ -1,0 +1,48 @@
+Workshop - Buildings - Civilopedia - Civilization VI
+Workshop
+Historical Context
+A workshop is for work … that is, for working wood, metal, glass, ceramic, and anything else needed to make something worthwhile. Stocked with tools and simple machinery, for hundreds of years workshops have been the abode of master craftsmen making everything from doors to doorknobs, from glassware to horseshoes (a blacksmith’s forge is a type of workshop). Ancient workshops date back to the earliest settlements of civilization, stamping Mankind as “homo faber.” By the Middle Ages, the workshop “economy” was well in hand, with practices gradually becoming ever more rigid – as in the case of the apprenticeship system, whereby young boys were bound to master craftsmen who taught them the intricacies of their skilled work. Apprenticeships generally lasted seven years, whereupon the apprentice became a master and could acquire his own workshop (those that didn’t were journeymen). However, the Industrial Revolution put paid to the entire system, as factories could mass produce the items cheaper (albeit of poorer quality).
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Requirements
+District
+Industrial Zone
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 195
+Production
+Purchase Cost
+Base Cost: 780
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold
+Historical Context
+A workshop is for work … that is, for working wood, metal, glass, ceramic, and anything else needed to make something worthwhile. Stocked with tools and simple machinery, for hundreds of years workshops have been the abode of master craftsmen making everything from doors to doorknobs, from glassware to horseshoes (a blacksmith’s forge is a type of workshop). Ancient workshops date back to the earliest settlements of civilization, stamping Mankind as “homo faber.” By the Middle Ages, the workshop “economy” was well in hand, with practices gradually becoming ever more rigid – as in the case of the apprenticeship system, whereby young boys were bound to master craftsmen who taught them the intricacies of their skilled work. Apprenticeships generally lasted seven years, whereupon the apprentice became a master and could acquire his own workshop (those that didn’t were journeymen). However, the Industrial Revolution put paid to the entire system, as factories could mass produce the items cheaper (albeit of poorer quality).
+Traits
++3
+Production
++1
+Citizen slot
++1
+Great Engineer point per turn.
+Requirements
+District
+Industrial Zone
+Technology
+Apprenticeship
+Production Cost
+Base Cost: 195
+Production
+Purchase Cost
+Base Cost: 780
+Gold
+Maintenance Cost
+Base Cost: 1
+Gold

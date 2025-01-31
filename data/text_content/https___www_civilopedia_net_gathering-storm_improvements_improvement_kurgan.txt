@@ -1,0 +1,68 @@
+Kurgan - Improvements and Routes - Civilopedia - Civilization VI
+Kurgan
+Description
+Unlocks the Builder ability to construct a Kurgan, unique to Scythia.
++1
+Faith and +3
+Gold. +1
+Faith for each adjacent Pasture (becomes +2 after researching Stirrups). Provides
+Tourism from
+Faith after researching Flight. Cannot be built on Hills.
+Historical Context
+For some reason, some of civilization’s greatest feats of engineering and construction are mausoleums and tombs, and, for some reason, these great piles are usually reserved for military and political leaders. For the Scythians these piles were great mounds of dirt, now called kurgans, from the Turkish word for “mound.” It appears that a number of the barbarian nomads of the steppes of Central Asia began interring their leaders in these mounds sometime around the 4th Century BC. By the Early Iron Age, the kurgans of the Scythians and other tribes were truly impressive mounds, some as much as 500 meters (1600 feet) across at the base, and might stand as high as 27 meters (89 feet). So, these tended to stand out on the rolling open terrain of the steppes. And then the Scythians decorated the tumuli with the bodies of slaves and horses, just to insure it got everyone’s attention that here lie a great man (or perhaps woman).
+Traits
+Unique To
+Scythia
++3
+Gold
++1
+Faith
+Adjacency Bonus
++1
+Faith from each adjacent Pasture tile.Becomes obsolete with Stirrups.
++2
+Faith from each adjacent Pasture tile.Requires Stirrups.
+Requirements
+Technology
+Animal Husbandry
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder
+Description
+Unlocks the Builder ability to construct a Kurgan, unique to Scythia.
++1
+Faith and +3
+Gold. +1
+Faith for each adjacent Pasture (becomes +2 after researching Stirrups). Provides
+Tourism from
+Faith after researching Flight. Cannot be built on Hills.
+Historical Context
+For some reason, some of civilization’s greatest feats of engineering and construction are mausoleums and tombs, and, for some reason, these great piles are usually reserved for military and political leaders. For the Scythians these piles were great mounds of dirt, now called kurgans, from the Turkish word for “mound.” It appears that a number of the barbarian nomads of the steppes of Central Asia began interring their leaders in these mounds sometime around the 4th Century BC. By the Early Iron Age, the kurgans of the Scythians and other tribes were truly impressive mounds, some as much as 500 meters (1600 feet) across at the base, and might stand as high as 27 meters (89 feet). So, these tended to stand out on the rolling open terrain of the steppes. And then the Scythians decorated the tumuli with the bodies of slaves and horses, just to insure it got everyone’s attention that here lie a great man (or perhaps woman).
+Traits
+Unique To
+Scythia
++3
+Gold
++1
+Faith
+Adjacency Bonus
++1
+Faith from each adjacent Pasture tile.Becomes obsolete with Stirrups.
++2
+Faith from each adjacent Pasture tile.Requires Stirrups.
+Requirements
+Technology
+Animal Husbandry
+Desert
+Tundra
+Plains
+Grassland
+Snow
+Usage
+Built By
+Builder

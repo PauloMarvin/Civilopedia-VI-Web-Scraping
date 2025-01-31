@@ -1,0 +1,44 @@
+Chancery - Buildings - Civilopedia - Civilization VI
+Chancery
+Description
++3 Influence Points per turn.  When this civilization captures or kills an enemy Spy, receive 50
+Science for every level of the enemy Spy.
+Historical Context
+A collection of consulates and embassies is termed a chancery. Here, diplomats gather to work out treaties and arrange deals… and (more likely than not) rub shoulders with spies. A chancery provides a centralized place to observe and monitor foreign agents within the country, to improve relations (and to try and figure out what other countries might be up to). It is larger and more exhaustive than a consulate.
+Requirements
+District
+Diplomatic Quarter
+Civic
+Diplomatic Service
+Building
+Consulate
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold
+Description
++3 Influence Points per turn.  When this civilization captures or kills an enemy Spy, receive 50
+Science for every level of the enemy Spy.
+Historical Context
+A collection of consulates and embassies is termed a chancery. Here, diplomats gather to work out treaties and arrange deals… and (more likely than not) rub shoulders with spies. A chancery provides a centralized place to observe and monitor foreign agents within the country, to improve relations (and to try and figure out what other countries might be up to). It is larger and more exhaustive than a consulate.
+Requirements
+District
+Diplomatic Quarter
+Civic
+Diplomatic Service
+Building
+Consulate
+Production Cost
+Base Cost: 290
+Production
+Purchase Cost
+Base Cost: 1160
+Gold
+Maintenance Cost
+Base Cost: 2
+Gold

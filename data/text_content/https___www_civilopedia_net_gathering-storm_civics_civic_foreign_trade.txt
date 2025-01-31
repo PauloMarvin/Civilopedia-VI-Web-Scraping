@@ -1,0 +1,52 @@
+Foreign Trade - Civics - Civilopedia - Civilization VI
+Foreign Trade
+Description
+Allows the creation of
+Trade Routes.
+Historical Context
+According to archaeological findings, sometime around the 19th Century BC there was an Assyrian merchant colony in Kanesh in Cappadocia – the first known instance of foreign trade. As the world got divvied up into city-states, republics, kingdoms and empires, folks learned that there were some things they wanted … just over the border. Since war was fraught with uncertainty and risk, clever sorts found a more peaceful way to obtain those things, by trading what they had in abundance (be it goods, services or enslaved persons) for what the neighbors had. In time, trade routes were established, some spanning continents: the Silk Road, the Amber Road, the Via Maris. Exports and imports drove the rise of civilization.
+In time, inevitably, governments came to understand that all this foreign trade could be a boon, in that taxes (tariffs, duties or other innocuous terms) on imports and exports could fill the state’s coffers. And since scarcity of a good could increase its value … and hence, the taxes … governments began regulating production, extraction, shipping and all aspects of foreign trade as well. Regulations on foreign trade existed in ancient societies centered in the Mesopotamian and Mediterranean regions. These in turn led to standardized weights and measures so merchants wouldn’t cheat, and to the use of scarce metals as a crude form of international currency. In China, paper currency (a peculiar concept) was invented so foreign trade could be conducted in a civilized manner.
+All sorts of models and theories have been devised by economists to understand and explain foreign trade: Adam Smith’s model, the Richardian model, the Hechscher-Ohlin model, the Gravity model, the New Trade theory, the Ricardo-Sraffa trade theory, and so forth. Most, however, simply do not account for the driving impetus … greed. On that basic principle civilization was built.
+“Every nation lives by exchanging.”
+– Adam Smith
+“That’s the positive aspect of trade I suppose. The world gets stirred up together.”
+– Isabel Hoving
+Unlocks
+Requirements
+Ancient Era
+Required Civics
+Code of Laws
+Culture Cost
+Base Cost: 40
+Culture
+Boosts
+Discover a second continent.
+Progression
+Leads to Civics
+Early Empire
+Mysticism
+Description
+Allows the creation of
+Trade Routes.
+Historical Context
+According to archaeological findings, sometime around the 19th Century BC there was an Assyrian merchant colony in Kanesh in Cappadocia – the first known instance of foreign trade. As the world got divvied up into city-states, republics, kingdoms and empires, folks learned that there were some things they wanted … just over the border. Since war was fraught with uncertainty and risk, clever sorts found a more peaceful way to obtain those things, by trading what they had in abundance (be it goods, services or enslaved persons) for what the neighbors had. In time, trade routes were established, some spanning continents: the Silk Road, the Amber Road, the Via Maris. Exports and imports drove the rise of civilization.
+In time, inevitably, governments came to understand that all this foreign trade could be a boon, in that taxes (tariffs, duties or other innocuous terms) on imports and exports could fill the state’s coffers. And since scarcity of a good could increase its value … and hence, the taxes … governments began regulating production, extraction, shipping and all aspects of foreign trade as well. Regulations on foreign trade existed in ancient societies centered in the Mesopotamian and Mediterranean regions. These in turn led to standardized weights and measures so merchants wouldn’t cheat, and to the use of scarce metals as a crude form of international currency. In China, paper currency (a peculiar concept) was invented so foreign trade could be conducted in a civilized manner.
+All sorts of models and theories have been devised by economists to understand and explain foreign trade: Adam Smith’s model, the Richardian model, the Hechscher-Ohlin model, the Gravity model, the New Trade theory, the Ricardo-Sraffa trade theory, and so forth. Most, however, simply do not account for the driving impetus … greed. On that basic principle civilization was built.
+“Every nation lives by exchanging.”
+– Adam Smith
+“That’s the positive aspect of trade I suppose. The world gets stirred up together.”
+– Isabel Hoving
+Unlocks
+Requirements
+Ancient Era
+Required Civics
+Code of Laws
+Culture Cost
+Base Cost: 40
+Culture
+Boosts
+Discover a second continent.
+Progression
+Leads to Civics
+Early Empire
+Mysticism

@@ -1,0 +1,54 @@
+Combustion - Technologies - Civilopedia - Civilization VI
+Combustion
+Description
++1
+Movement for embarked units.
+Historical Context
+Although there were internal combustion engines described by engineers before the 19th Century – for instance, a piston-and-cylinder gas-fired engine by Jean Joseph Étienne Lenoir in 1860 AD – until industrial-level drilling for petroleum and methods for refining it into gasoline, they really weren’t much more than a curiosity. And a smelly and noisy one to boot. Even when Siegfried Marcus put a mobile gas-driven engine on a handcart in 1870 Vienna, the potential went unrecognized.
+But things picked up as designers in various countries began experimenting and developing modifications to the basic internal combustion engine. In 1879 Karl Benz was granted a patent for a two-stroke gas engine; a few years later, he devised a four-stroke engine which he put in his “automobiles,” which he then put into production in 1886. By 1884, English tinkerer Edward Butler had invented the spark plug, ignition magneto, coil ignition and jet carburetor (and coined the term “petrol” to confuse motorists for generations). In 1885, Gottlieb Daimler devised the supercharger so his autos would be faster than Benz’s. A few years later, Rudolf Diesel developed his Carnot heat engine type, better known as the “diesel engine.”
+Meanwhile, some daredevil types were fitting small gas-powered engines onto bicycle frames and tearing about the countryside in Europe. In 1894, the firm Hildebrand & Wolfmüller became the first to begin production of a motorrad (i.e., motorcycle). For true aficionados, Harley-Davidson began production of its bikes in 1903. That same year the Wright brothers put one on a glider and flew. Then Henry Ford figured out how to mass produce internal combustion engines and stick them in cheaply-made, assembly-line Model-Ts, founding the Ford Motor Company in 1908 … and launching a love-affair with excessive speed civilization has yet to outgrow.
+“The cars haven’t advanced that much since we were kids. When you boil it down, it’s still a gas combustion engine.”
+– Dana Brunetti
+“I have always considered that the substitution of the internal combustion engine for the horse marked a very gloomy milestone in the progress of mankind.”
+– Winston Churchill
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Steel
+Refining
+Research Cost
+Base Cost: 1370
+Science
+Boosts
+Extract an Artifact.
+Progression
+Leads to Technologies
+Combined Arms
+Plastics
+Description
++1
+Movement for embarked units.
+Historical Context
+Although there were internal combustion engines described by engineers before the 19th Century – for instance, a piston-and-cylinder gas-fired engine by Jean Joseph Étienne Lenoir in 1860 AD – until industrial-level drilling for petroleum and methods for refining it into gasoline, they really weren’t much more than a curiosity. And a smelly and noisy one to boot. Even when Siegfried Marcus put a mobile gas-driven engine on a handcart in 1870 Vienna, the potential went unrecognized.
+But things picked up as designers in various countries began experimenting and developing modifications to the basic internal combustion engine. In 1879 Karl Benz was granted a patent for a two-stroke gas engine; a few years later, he devised a four-stroke engine which he put in his “automobiles,” which he then put into production in 1886. By 1884, English tinkerer Edward Butler had invented the spark plug, ignition magneto, coil ignition and jet carburetor (and coined the term “petrol” to confuse motorists for generations). In 1885, Gottlieb Daimler devised the supercharger so his autos would be faster than Benz’s. A few years later, Rudolf Diesel developed his Carnot heat engine type, better known as the “diesel engine.”
+Meanwhile, some daredevil types were fitting small gas-powered engines onto bicycle frames and tearing about the countryside in Europe. In 1894, the firm Hildebrand & Wolfmüller became the first to begin production of a motorrad (i.e., motorcycle). For true aficionados, Harley-Davidson began production of its bikes in 1903. That same year the Wright brothers put one on a glider and flew. Then Henry Ford figured out how to mass produce internal combustion engines and stick them in cheaply-made, assembly-line Model-Ts, founding the Ford Motor Company in 1908 … and launching a love-affair with excessive speed civilization has yet to outgrow.
+“The cars haven’t advanced that much since we were kids. When you boil it down, it’s still a gas combustion engine.”
+– Dana Brunetti
+“I have always considered that the substitution of the internal combustion engine for the horse marked a very gloomy milestone in the progress of mankind.”
+– Winston Churchill
+Unlocks
+Requirements
+Modern Era
+Required Technologies
+Steel
+Refining
+Research Cost
+Base Cost: 1370
+Science
+Boosts
+Extract an Artifact.
+Progression
+Leads to Technologies
+Combined Arms
+Plastics

@@ -1,0 +1,46 @@
+Animal Husbandry - Technologies - Civilopedia - Civilization VI
+Animal Husbandry
+Description
+Allows harvesting of
+Cattle,
+Sheep, and
+Deer.
+Historical Context
+The domestication of animals and the selective breeding of some to accentuate certain traits (husbandry) appears to have occurred around the same time as the development of agriculture. The dog is thought to be the earliest domesticated animal, probably to assist in hunting game and protect the camp. (They also improved sanitation by eating all the scraps being tossed around the fire pit.) Evidence suggests that dogs were first tamed and bred in China – in fact, geneticists believe that about 95% of the breeds today are descended from just a few common Chinese ancestors.
+Meanwhile, goats and sheep were domesticated in the Middle East by about 10,000 BC. Next, men domesticated cattle, probably in the Middle East also according to geneticists. Then, around 4000 BC, horses on the Eurasian steppes. And then followed many of the rest of earth's creatures. In time, most of the domesticated animals became so tame that they could not survive on their own in the wild. Those that couldn’t be domesticated got hunted, by men on horseback … with dogs.
+To be successfully domesticated, according to Charles Darwin, a type of animal must fit certain criteria. It should be able to consume food that is less attractive to humans (grass or vermin or leftovers). It should mature rapidly, so that it becomes useful quickly and so that it can be husbanded through repeated generations of breeding. The animal should have a pleasant disposition (doesn’t bite the hand that feeds it). It shouldn’t panic easily … or if it does, it should tend to stay together with others of its kind, making it possible for humans or dogs to protect the herd. Finally, it is useful if the animal can be trained or tricked to think of a human as its pack or herd leader.
+"If there are no dogs in Heaven, then when I die I want to go where they went."
+- Will Rogers
+“I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.”
+- Winston S. Churchill
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Archery
+Description
+Allows harvesting of
+Cattle,
+Sheep, and
+Deer.
+Historical Context
+The domestication of animals and the selective breeding of some to accentuate certain traits (husbandry) appears to have occurred around the same time as the development of agriculture. The dog is thought to be the earliest domesticated animal, probably to assist in hunting game and protect the camp. (They also improved sanitation by eating all the scraps being tossed around the fire pit.) Evidence suggests that dogs were first tamed and bred in China – in fact, geneticists believe that about 95% of the breeds today are descended from just a few common Chinese ancestors.
+Meanwhile, goats and sheep were domesticated in the Middle East by about 10,000 BC. Next, men domesticated cattle, probably in the Middle East also according to geneticists. Then, around 4000 BC, horses on the Eurasian steppes. And then followed many of the rest of earth's creatures. In time, most of the domesticated animals became so tame that they could not survive on their own in the wild. Those that couldn’t be domesticated got hunted, by men on horseback … with dogs.
+To be successfully domesticated, according to Charles Darwin, a type of animal must fit certain criteria. It should be able to consume food that is less attractive to humans (grass or vermin or leftovers). It should mature rapidly, so that it becomes useful quickly and so that it can be husbanded through repeated generations of breeding. The animal should have a pleasant disposition (doesn’t bite the hand that feeds it). It shouldn’t panic easily … or if it does, it should tend to stay together with others of its kind, making it possible for humans or dogs to protect the herd. Finally, it is useful if the animal can be trained or tricked to think of a human as its pack or herd leader.
+"If there are no dogs in Heaven, then when I die I want to go where they went."
+- Will Rogers
+“I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.”
+- Winston S. Churchill
+Unlocks
+Requirements
+Ancient Era
+Research Cost
+Base Cost: 25
+Science
+Progression
+Leads to Technologies
+Archery

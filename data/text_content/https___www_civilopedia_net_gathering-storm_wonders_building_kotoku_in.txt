@@ -1,0 +1,50 @@
+Kotoku-in - Wonders and Projects - Civilopedia - Civilization VI
+Kotoku-in
+Description
++20%
+Faith in this city. Grants 4 Warrior Monks.
+Must be built adjacent to a Holy Site district with a Temple. Warrior Monks can only be received if player has founded a religion or if there is a majority religion for this player or city.
+Historical Context
+Serene, enduring, and somewhat mysterious, the Buddha statue known as the Daibutsu sits outside of Kamakura’s Kōtoku-in. Towering over the Buddhist temple’s visitors, the Daibutsu patiently greets both faithful and tourist alike. An unknown artist cast the Great Buddha of Kamakura out of bronze, which has since oxidized into a muted green color through natural weathering.
+However, the Kōtoku-in’s artist clearly built it to last. It survived an earthquake and two typhoons, one of which destroyed the building that used to surround it. The statue remains unfazed by nature’s attempts to unseat its 750-year meditation.
+“O ye who tread the Narrow Way, by Tophet-flare to Judgment Day, be gentle when ‘the heathen’ pray, to Buddha at Kamakura!”
+– Rudyard Kipling
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Divine Right
+Building
+Temple
+Adjacency
+Holy Site
+Production Cost
+Base Cost: 710
+Production
+Description
++20%
+Faith in this city. Grants 4 Warrior Monks.
+Must be built adjacent to a Holy Site district with a Temple. Warrior Monks can only be received if player has founded a religion or if there is a majority religion for this player or city.
+Historical Context
+Serene, enduring, and somewhat mysterious, the Buddha statue known as the Daibutsu sits outside of Kamakura’s Kōtoku-in. Towering over the Buddhist temple’s visitors, the Daibutsu patiently greets both faithful and tourist alike. An unknown artist cast the Great Buddha of Kamakura out of bronze, which has since oxidized into a muted green color through natural weathering.
+However, the Kōtoku-in’s artist clearly built it to last. It survived an earthquake and two typhoons, one of which destroyed the building that used to surround it. The statue remains unfazed by nature’s attempts to unseat its 750-year meditation.
+“O ye who tread the Narrow Way, by Tophet-flare to Judgment Day, be gentle when ‘the heathen’ pray, to Buddha at Kamakura!”
+– Rudyard Kipling
+Traits
+Removed if game started after
+Industrial Era
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Divine Right
+Building
+Temple
+Adjacency
+Holy Site
+Production Cost
+Base Cost: 710
+Production

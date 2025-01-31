@@ -1,0 +1,54 @@
+National History Museum - Buildings - Civilopedia - Civilization VI
+National History Museum
+Description
+Provides 4 slots for any Great Work.
+Awards +1
+Governor Title.
+Historical Context
+As a nation begins to develop its identity, it looks for ways to celebrate that identity and preserve historical elements that contribute to this, and thus the National History Museum is born. Its purpose is to tell the story of the nation and its people through collection and preservation of significant artifacts and records, and then interpret and display them to citizens and visitors alike.
+The National History Museum, in its best form, celebrates the historic and cultural accomplishments of the nation and all its constituent groups. In the modern age, as recognition of minority ethnic and cultural groups has become more important, the stories of these groups are being told more frequently, and in better detail. While this has had the result of challenging comfortable national myths, the dedication to truth and the rediscovery of forgotten contributors gives a more accurate picture of the nation's past, and, we hope, the clarity of vision for how to proceed to a better future.
+Traits
++4 Great Work slots (holds any type)
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+War Department
+Royal Society
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Provides 4 slots for any Great Work.
+Awards +1
+Governor Title.
+Historical Context
+As a nation begins to develop its identity, it looks for ways to celebrate that identity and preserve historical elements that contribute to this, and thus the National History Museum is born. Its purpose is to tell the story of the nation and its people through collection and preservation of significant artifacts and records, and then interpret and display them to citizens and visitors alike.
+The National History Museum, in its best form, celebrates the historic and cultural accomplishments of the nation and all its constituent groups. In the modern age, as recognition of minority ethnic and cultural groups has become more important, the stories of these groups are being told more frequently, and in better detail. While this has had the result of challenging comfortable national myths, the dedication to truth and the rediscovery of forgotten contributors gives a more accurate picture of the nation's past, and, we hope, the clarity of vision for how to proceed to a better future.
+Traits
++4 Great Work slots (holds any type)
+Requirements
+District
+Government Plaza
+Buildings (any)
+Foreign Ministry
+Intelligence Agency
+Grand Master's Chapel
+Queen's Bibliotheque
+Mutually Exclusive With
+War Department
+Royal Society
+Production Cost
+Base Cost: 440
+Production
+Maintenance Cost
+Base Cost: 3
+Gold

@@ -1,0 +1,44 @@
+Hermitage - Wonders and Projects - Civilopedia - Civilization VI
+Hermitage
+Description
+Must be built along a River.
+Historical Context
+The core of what is today the famed Hermitage in St. Petersburg encompasses the monumental Winter Palace, residence of the Tsars since 1764 AD when Catherine the Great completed the palace on a scale to reflect the might and power of Imperial Russia. Catherine declared it her “treasure,” and proceeded to fill it with treasures – Renaissance paintings, jeweled and gilded crafts (the likes of Fabergé eggs, for instance), the crown jewels, and other trinkets. After adding several extensions to the palace and some reorganizing, in 1852 Nicholas I opened it to the public. And the Tsars kept adding to the collection. With the February Revolution of 1917, the building briefly housed the Provisional Government, until the Bolsheviks seized power in October and declared it a gift to the proletariat. Now spread across five buildings, the Hermitage is one of the largest museums in the world, with over three million art and historical items in its collection, including the largest gathering of paintings in the world.
+“Museums are on the front lines of the fight for culture, of good with evil – in any case, of the fight against platitudes and primitiveness.”
+– Mikhail Piotrovsky, Director of the State Hermitage
+Traits
+Removed if game started after
+Atomic Era
++3
+Great Artist points per turn.
++4
+Great Works of Art slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Natural History
+Production Cost
+Base Cost: 1450
+Production
+Description
+Must be built along a River.
+Historical Context
+The core of what is today the famed Hermitage in St. Petersburg encompasses the monumental Winter Palace, residence of the Tsars since 1764 AD when Catherine the Great completed the palace on a scale to reflect the might and power of Imperial Russia. Catherine declared it her “treasure,” and proceeded to fill it with treasures – Renaissance paintings, jeweled and gilded crafts (the likes of Fabergé eggs, for instance), the crown jewels, and other trinkets. After adding several extensions to the palace and some reorganizing, in 1852 Nicholas I opened it to the public. And the Tsars kept adding to the collection. With the February Revolution of 1917, the building briefly housed the Provisional Government, until the Bolsheviks seized power in October and declared it a gift to the proletariat. Now spread across five buildings, the Hermitage is one of the largest museums in the world, with over three million art and historical items in its collection, including the largest gathering of paintings in the world.
+“Museums are on the front lines of the fight for culture, of good with evil – in any case, of the fight against platitudes and primitiveness.”
+– Mikhail Piotrovsky, Director of the State Hermitage
+Traits
+Removed if game started after
+Atomic Era
++3
+Great Artist points per turn.
++4
+Great Works of Art slots
++1000
+Tourism from Rock Concerts.
+Requirements
+Civic
+Natural History
+Production Cost
+Base Cost: 1450
+Production

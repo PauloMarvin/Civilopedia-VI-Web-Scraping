@@ -1,0 +1,10 @@
+Declaring War - Concepts - Civilopedia - Civilization VI
+Declaring War
+Declaring War
+There are a few ways to declare war. The first requires you move a military unit you control into another civilization's unit. This will prompt a pop-up message to appear asking if you want to start a war. Alternately, war can be declared in the Diplomacy Window. Within that window, you will always have the option to make a surprise declaration of war, except against your declared allies. Your civilization will suffer a costly
+Grievances penalty if you make a surprise declaration of war. To avoid some of this penalty (but not all), denounce the offending civilization and soon the option to formally declare war will appear in the Diplomacy Window.
+You will also declare war against the target of a Military Emergency, City-State Emergency, Nuclear Emergency, and Betrayal Emergency, if you join that Emergency.
+Declaring War
+There are a few ways to declare war. The first requires you move a military unit you control into another civilization's unit. This will prompt a pop-up message to appear asking if you want to start a war. Alternately, war can be declared in the Diplomacy Window. Within that window, you will always have the option to make a surprise declaration of war, except against your declared allies. Your civilization will suffer a costly
+Grievances penalty if you make a surprise declaration of war. To avoid some of this penalty (but not all), denounce the offending civilization and soon the option to formally declare war will appear in the Diplomacy Window.
+You will also declare war against the target of a Military Emergency, City-State Emergency, Nuclear Emergency, and Betrayal Emergency, if you join that Emergency.

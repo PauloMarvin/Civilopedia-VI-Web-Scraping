@@ -1,0 +1,70 @@
+Bomber - Units - Civilopedia - Civilization VI
+Bomber
+Description
+First bomber unit, available in the Atomic era.
+Historical Context
+Raining destruction down from a great height is enjoyable, especially if punishment is unlikely … just ask any misbehaving urchin over an ant hill. Although some tried using dirigibles and zeppelins as long-range bombers during WW1, these had some definite disadvantages – notably that they tended to blow up when struck by a bullet. So, even before that war, several aircraft designers had turned their attention to creating heavier-than-air craft that could carry loads of bombs over enemy lines to strike at their heart; the first two airplanes built solely for bombing were the Italian Caproni and the British Bristol, both debuting in 1913 AD. By the end of WW1, bombers for both tactical (battlefield) and strategic (urban) use had seen action on every front. These lumbering biplanes were gradually replaced during the inter-war years by faster, heavily armed, sturdy, and long-ranging monoplanes capable of crossing oceans. Now both sides could engage in “terror bombing,” putting civilians in the heart of the action, such as the German “blitz” on London or the American firebombing of Japanese cities. And it all culminated with a pair of bomber crews dropping atomic bombs.
+Traits
+Upgrades To
+Jet Bomber
+Promotion Class: Air Bomber
+10
+Movement Points
+85
+Melee Strength
+110
+Bombard Strength
+10
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 560
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2240
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn
+Description
+First bomber unit, available in the Atomic era.
+Historical Context
+Raining destruction down from a great height is enjoyable, especially if punishment is unlikely … just ask any misbehaving urchin over an ant hill. Although some tried using dirigibles and zeppelins as long-range bombers during WW1, these had some definite disadvantages – notably that they tended to blow up when struck by a bullet. So, even before that war, several aircraft designers had turned their attention to creating heavier-than-air craft that could carry loads of bombs over enemy lines to strike at their heart; the first two airplanes built solely for bombing were the Italian Caproni and the British Bristol, both debuting in 1913 AD. By the end of WW1, bombers for both tactical (battlefield) and strategic (urban) use had seen action on every front. These lumbering biplanes were gradually replaced during the inter-war years by faster, heavily armed, sturdy, and long-ranging monoplanes capable of crossing oceans. Now both sides could engage in “terror bombing,” putting civilians in the heart of the action, such as the German “blitz” on London or the American firebombing of Japanese cities. And it all culminated with a pair of bomber crews dropping atomic bombs.
+Traits
+Upgrades To
+Jet Bomber
+Promotion Class: Air Bomber
+10
+Movement Points
+85
+Melee Strength
+110
+Bombard Strength
+10
+Range
+Requirements
+District
+Aerodrome
+Technology
+Advanced Flight
+Production Cost
+Base Cost: 560
+Production
+Base Resource Cost: 1
+Aluminum (on Standard Speed)
+Purchase Cost
+Base Cost: 2240
+Gold
+Maintenance Cost
+Base Cost: 7
+Gold
+Consumes: 1
+Aluminum per turn

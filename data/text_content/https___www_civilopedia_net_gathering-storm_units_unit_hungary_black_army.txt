@@ -1,0 +1,76 @@
+Black Army - Units - Civilopedia - Civilization VI
+Black Army
+Description
+Hungarian unique Medieval Era unit that replaces the Courser. +3
+Combat Strength for each adjacent Levied unit.
+Historical Context
+The Black Army of Matthias Corvinus was one of the first professional state military forces of Europe, and is important not only because of their impressive battlefield record, but because they presaged many of the reforms associated with state control of armed forces centuries before this would become the norm. They were one of the first European armies to make extensive use of the new gunpowder weapons, including bombards and the arquebus, with a higher proportion of gunners than any army until late into the Renaissance. The Black Army also possessed excellent heavy and light cavalry, and the Black Army marks the first use of the term “hussar” to refer to these light cavalry forces. Their name is said to come from the color of their armor.
+Medieval armies can be loosely classified between feudal and mercenary armies. Feudal forces were raised and commanded by nobles on behalf of their sovereign. Generally only the nobility had any significant experience in warfare, and long-standing laws prevented the feudal armies from being fielded for very long. Mercenary forces were generally seen as better-trained, but were more expensive to maintain. A ruler failed to pay his mercenaries to his considerable peril—mercenaries frequently switched sides or revolting against their employers over delayed or missing payment. The Black Army was a mercenary army, because it employed professional soldiers from within and beyond Hungary.
+Matthias Corvinus had studied the legions of the Roman Empire, and had conceived of the Black Army in similar terms—professional soldiers who acted at the direction of the sovereign, and who were paid through state taxes. In this case, the nobility and population were extensively taxed. An army as large and well-equipped as the Black Army was expensive to field. At its height, the Black Army was larger than the armies of France, and compiled an excellent record in battle and siege.
+The Black Army did not last long after Matthias' death. His successors were unable to sustain the taxation system that paid the army, and it gradually declined in quality and size. By the time of the disastrous Battle of Mohacs, Hungary's armies had returned to the old feudal model, and were utterly crushed by the Ottoman Empire, which was using weapons and tactics that would have been recognizable to the captains of the Black Army.
+Traits
+Unique To
+Matthias Corvinus
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Upgrade From
+Horseman
+Promotion Class: Light Cavalry
+5
+Movement Points
+49
+Melee Strength
+Requirements
+Technology
+Castles
+Production Cost
+Base Cost: 205
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 820
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold
+Description
+Hungarian unique Medieval Era unit that replaces the Courser. +3
+Combat Strength for each adjacent Levied unit.
+Historical Context
+The Black Army of Matthias Corvinus was one of the first professional state military forces of Europe, and is important not only because of their impressive battlefield record, but because they presaged many of the reforms associated with state control of armed forces centuries before this would become the norm. They were one of the first European armies to make extensive use of the new gunpowder weapons, including bombards and the arquebus, with a higher proportion of gunners than any army until late into the Renaissance. The Black Army also possessed excellent heavy and light cavalry, and the Black Army marks the first use of the term “hussar” to refer to these light cavalry forces. Their name is said to come from the color of their armor.
+Medieval armies can be loosely classified between feudal and mercenary armies. Feudal forces were raised and commanded by nobles on behalf of their sovereign. Generally only the nobility had any significant experience in warfare, and long-standing laws prevented the feudal armies from being fielded for very long. Mercenary forces were generally seen as better-trained, but were more expensive to maintain. A ruler failed to pay his mercenaries to his considerable peril—mercenaries frequently switched sides or revolting against their employers over delayed or missing payment. The Black Army was a mercenary army, because it employed professional soldiers from within and beyond Hungary.
+Matthias Corvinus had studied the legions of the Roman Empire, and had conceived of the Black Army in similar terms—professional soldiers who acted at the direction of the sovereign, and who were paid through state taxes. In this case, the nobility and population were extensively taxed. An army as large and well-equipped as the Black Army was expensive to field. At its height, the Black Army was larger than the armies of France, and compiled an excellent record in battle and siege.
+The Black Army did not last long after Matthias' death. His successors were unable to sustain the taxation system that paid the army, and it gradually declined in quality and size. By the time of the disastrous Battle of Mohacs, Hungary's armies had returned to the old feudal model, and were utterly crushed by the Ottoman Empire, which was using weapons and tactics that would have been recognizable to the captains of the Black Army.
+Traits
+Unique To
+Matthias Corvinus
+Upgrades To
+Cavalry
+Cossack
+Huszár
+Llanero
+Upgrade From
+Horseman
+Promotion Class: Light Cavalry
+5
+Movement Points
+49
+Melee Strength
+Requirements
+Technology
+Castles
+Production Cost
+Base Cost: 205
+Production
+Base Resource Cost: 10
+Horses (on Standard Speed)
+Purchase Cost
+Base Cost: 820
+Gold
+Maintenance Cost
+Base Cost: 3
+Gold

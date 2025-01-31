@@ -1,0 +1,92 @@
+Corporation - Improvements and Routes - Civilopedia - Civilization VI
+Corporation
+Description
+A corporation dedicated to a specific Luxury Resource. Allows cities to create Products, a new type of Great Work which grants powerful bonuses to your cities that house them. Can only be pillaged (never destroyed) by natural disasters.
+Historical Context
+Edward, Lord Thurlow, is popularly quoted as saying, “Corporations have neither bodies to be punished, nor souls to be condemned, they therefore do as they like.” The modern-day corporation traces its lineage back to the great trading companies of the 16th-19th century. Facing the uncertainty of transcontinental oceanic trade, something greater needed to be made to outlast the possible death of both ship and owner. The trading companies reshaped the world – goods flowed around the world, but in the end, these companies were also victims of their own riches; global instability rose (in part owing to the action of the trading companies) making trade routes riskier, costs rose along with corruption and mismanagement, and eventually their home empires took over and colonialism moved to a more direct and invasive form. But the model of the corporation, and its utility in creating an artificial, imaginary, legal body that separates individuals from potential risk - and liability - remains with us.
+Traits
++4
+Food
++10
+Production
++3
+Gold
+Requirements
+Technology
+Economics
+Honey
+Citrus
+Cocoa
+Coffee
+Cotton
+Dyes
+Incense
+Silk
+Spices
+Sugar
+Tea
+Tobacco
+Wine
+Diamonds
+Jade
+Mercury
+Salt
+Silver
+Gypsum
+Marble
+Furs
+Ivory
+Truffles
+Pearls
+Whales
+Amber
+Olives
+Turtles
+Usage
+Built By
+Great Merchant
+Description
+A corporation dedicated to a specific Luxury Resource. Allows cities to create Products, a new type of Great Work which grants powerful bonuses to your cities that house them. Can only be pillaged (never destroyed) by natural disasters.
+Historical Context
+Edward, Lord Thurlow, is popularly quoted as saying, “Corporations have neither bodies to be punished, nor souls to be condemned, they therefore do as they like.” The modern-day corporation traces its lineage back to the great trading companies of the 16th-19th century. Facing the uncertainty of transcontinental oceanic trade, something greater needed to be made to outlast the possible death of both ship and owner. The trading companies reshaped the world – goods flowed around the world, but in the end, these companies were also victims of their own riches; global instability rose (in part owing to the action of the trading companies) making trade routes riskier, costs rose along with corruption and mismanagement, and eventually their home empires took over and colonialism moved to a more direct and invasive form. But the model of the corporation, and its utility in creating an artificial, imaginary, legal body that separates individuals from potential risk - and liability - remains with us.
+Traits
++4
+Food
++10
+Production
++3
+Gold
+Requirements
+Technology
+Economics
+Honey
+Citrus
+Cocoa
+Coffee
+Cotton
+Dyes
+Incense
+Silk
+Spices
+Sugar
+Tea
+Tobacco
+Wine
+Diamonds
+Jade
+Mercury
+Salt
+Silver
+Gypsum
+Marble
+Furs
+Ivory
+Truffles
+Pearls
+Whales
+Amber
+Olives
+Turtles
+Usage
+Built By
+Great Merchant

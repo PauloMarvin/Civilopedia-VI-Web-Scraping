@@ -1,0 +1,38 @@
+Missionary - Units - Civilopedia - Civilization VI
+Missionary
+Description
+May convert
+Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).
+Historical Context
+Inevitably, in every religion, there are those who “hear the word” and then go out to spread it. Throughout history, the preachers and proselytizers have gone abroad, often at great risk – hence, all those martyrs and saints - to convert the non-believers into their faith, whichever faith it may be. That is not to say that missionaries don’t also do good works of a more practical sort: schools to teach, clinics to heal, social welfare programs to support, thrift shops to cover, and all the other benefits of civilization. Whether with a sword or a smile, the primary goal of the missionary is to share their faith and so gain new faithful. Whereas they once actually had to go out on missions to do so, now they can tele-evangelize, which is so much more safe and comfortable.
+Traits
+4
+Movement Points
+100
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Shrine
+Purchase Cost
+Base Cost: 150
+Faith
+Description
+May convert
+Citizens to their Religion. May not initiate theological combat with units of other Religions (but can defend).
+Historical Context
+Inevitably, in every religion, there are those who “hear the word” and then go out to spread it. Throughout history, the preachers and proselytizers have gone abroad, often at great risk – hence, all those martyrs and saints - to convert the non-believers into their faith, whichever faith it may be. That is not to say that missionaries don’t also do good works of a more practical sort: schools to teach, clinics to heal, social welfare programs to support, thrift shops to cover, and all the other benefits of civilization. Whether with a sword or a smile, the primary goal of the missionary is to share their faith and so gain new faithful. Whereas they once actually had to go out on missions to do so, now they can tele-evangelize, which is so much more safe and comfortable.
+Traits
+4
+Movement Points
+100
+Religious Strength
+3
+Spread Charges
+Requirements
+Building
+Shrine
+Purchase Cost
+Base Cost: 150
+Faith
