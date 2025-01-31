@@ -31,9 +31,10 @@ def execute_crawler_process():
         max_concurrent_workers=8,
         http_user_agent="AcademicResearchBot/1.0 (+https://university.edu)",
         max_filename_characters=200,
+        classes_to_remove=["side-bar_container__QgPE0","App_pageGroupList___8Qnj"],
     )
 
-    web_crawler = WebsiteCrawler(crawler_settings)
+    web_crawler = WebsiteCrawler(configuration=crawler_settings)
     initial_target_url = "https://www.civilopedia.net"
 
     try:
@@ -41,7 +42,7 @@ def execute_crawler_process():
             f"Initializing crawling process at: {initial_target_url}"
         )
         discovered_urls = web_crawler.crawl_using_breadth_first_search(
-            initial_target_url
+            initial_target_url,
         )
 
         web_crawler.log_handler.info(
@@ -50,10 +51,6 @@ def execute_crawler_process():
         html_content_map, failed_urls = web_crawler.fetch_and_persist_html_content(
             discovered_urls
         )
-
-        if html_content_map:
-            metadata_path = web_crawler.save_url_content_map(html_content_map)
-            web_crawler.log_handler.info(f"Metadata stored at: {metadata_path}")
 
         if failed_urls:
             web_crawler.log_handler.warning(

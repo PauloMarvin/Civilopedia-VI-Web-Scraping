@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from collections import deque
 from urllib.parse import urljoin, urlparse, urlunparse
 from concurrent.futures import ThreadPoolExecutor
-from typing import Set, Tuple, Dict, Optional
+from typing import Set, Tuple, Dict, Optional, List
 from pydantic import BaseModel, Field, PositiveInt, constr
 
 
@@ -18,6 +18,7 @@ class CrawlerConfiguration(BaseModel):
     max_concurrent_workers: PositiveInt = Field(default=5)
     http_user_agent: constr(strip_whitespace=True) = Field(default="WebCrawler/1.0")
     max_filename_characters: PositiveInt = Field(default=150)
+    classes_to_remove: List[str] = Field(default_factory=list)
 
     class Config:
         validate_default = True
@@ -32,6 +33,12 @@ class WebsiteCrawler:
         self.log_handler = logging.getLogger(self.__class__.__name__)
         self.log_handler.addHandler(logging.StreamHandler())
         self.log_handler.setLevel(logging.INFO)
+
+    def _remove_unwanted_classes(self, soup: BeautifulSoup) -> BeautifulSoup:
+        for class_name in self.settings.classes_to_remove:
+            for element in soup.find_all(class_=class_name):
+                element.decompose()
+        return soup
 
     def _validate_url_domain(self, target_url: str, allowed_domain: str) -> bool:
         parsed_url = urlparse(target_url)
@@ -88,9 +95,8 @@ class WebsiteCrawler:
             file_object.write(file_content)
         return complete_file_path
 
-    def save_formatted_html(self, source_url: str, html_data: str) -> str:
+    def save_formatted_html(self, source_url: str, parsed_html: BeautifulSoup) -> str:
         try:
-            parsed_html = BeautifulSoup(html_data, "html.parser")
             formatted_html = parsed_html.prettify()
             output_filename = self._generate_safe_filename(source_url)
             return self._write_content_to_file(
@@ -102,9 +108,10 @@ class WebsiteCrawler:
             )
             raise
 
-    def extract_and_save_text_content(self, source_url: str, html_data: str) -> str:
+    def extract_and_save_text_content(
+        self, source_url: str, parsed_html: BeautifulSoup
+    ) -> str:
         try:
-            parsed_html = BeautifulSoup(html_data, "html.parser")
             text_content = parsed_html.get_text(separator="\n", strip=True)
             output_filename = self._generate_safe_filename(source_url).replace(
                 ".html", ".txt"
@@ -120,15 +127,18 @@ class WebsiteCrawler:
 
     def process_single_url(self, target_url: str) -> Tuple[str, Optional[str]]:
         html_content = self.retrieve_webpage_content(target_url)
+
         if not html_content:
-            return (target_url, None)
+            return target_url, None
 
         try:
-            self.save_formatted_html(target_url, html_content)
-            self.extract_and_save_text_content(target_url, html_content)
-            return (target_url, html_content)
+            parsed_html = BeautifulSoup(html_content, "html.parser")
+            parsed_html = self._remove_unwanted_classes(parsed_html)
+            self.save_formatted_html(target_url, parsed_html)
+            self.extract_and_save_text_content(target_url, parsed_html)
+            return target_url, html_content
         except Exception:
-            return (target_url, None)
+            return target_url, None
 
     def fetch_and_persist_html_content(
         self, url_collection: Set[str]
@@ -136,22 +146,17 @@ class WebsiteCrawler:
         successful_crawls = {}
         failed_urls = set()
 
-        with ThreadPoolExecutor(
-            max_workers=self.settings.max_concurrent_workers
-        ) as executor:
-            processing_tasks = [
-                executor.submit(self.process_single_url, url) for url in url_collection
-            ]
-
-            for task in processing_tasks:
-                url, html_result = task.result()
-                if html_result:
-                    successful_crawls[url] = html_result
-                    self.log_handler.info(f"Successfully processed: {url}")
-                else:
-                    failed_urls.add(url)
+        for url in url_collection:
+            self.log_handler.info(f"Processing: {url}")
+            url, html_result = self.process_single_url(url)
+            if html_result:
+                successful_crawls[url] = html_result
+                self.log_handler.info(f"Successfully processed: {url}")
+            else:
+                failed_urls.add(url)
 
         return successful_crawls, failed_urls
+
 
     def discover_links_in_content(
         self, html_content: str, base_page_url: str
