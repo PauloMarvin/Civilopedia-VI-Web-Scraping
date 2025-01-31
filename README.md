@@ -59,19 +59,6 @@ The web crawler offers the following main features:
 
 4. **Results**:
    - Discovered links will be displayed in the console.
-   - Collected HTMLs will be saved in the file `data/civilopedia_test_html.json`.
-
-## Output File
-
-- **`data/civilopedia_test_html.json`**:
-  - A JSON file containing the HTML content of all collected pages.
-  - Format:
-    ```json
-    {
-        "https://www.civilopedia.net/page1": "<html>...</html>",
-        "https://www.civilopedia.net/page2": "<html>...</html>",
-        ...
-    }
-    ```
-
+   - Collected HTMLs and txt will be saved in the file `data/`.
+   - 
 - Links that fail during collection will be logged in the console.
